@@ -3,7 +3,8 @@ title: Vision, Mission, Values
 permalink: /our-school/vision-mission-values/
 description: ""
 ---
-![School Award Logos](/images/School_awards_Logos-300x46.png)
+<img src="/images/School_awards_Logos-300x46.png"  
+style="width:75%">
 
 ### **School Vision**
 
