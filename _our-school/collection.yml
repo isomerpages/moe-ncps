@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - School Information/School Rules.md
-      - School Information/School Hours.md
-      - School Information/School Uniform.md
       - School Information/.keep
+      - School Information/School Uniform.md
+      - School Information/School Hours.md
+      - School Information/School Rules.md
       - School Song.md
       - School Crest.md
       - Vision, Mission, Values.md
