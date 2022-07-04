@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
-      - Character and Citizenship Education.md
-      - PE, Aesthetics and Music.md
-      - Mother Tongue.md
-      - Science.md
-      - Mathematics.md
-      - English.md
       - NCPS Curriculum.md
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - PE, Aesthetics and Music.md
+      - Character and Citizenship Education.md
+      - Programme for Active Learning (PAL).md
