@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - School Service Providers/Nan Chiau Student Care Centre.md
-      - School Service Providers/School Vendors.md
-      - School Service Providers/School Dental Services.md
       - School Service Providers/.keep
+      - School Service Providers/School Dental Services.md
+      - School Service Providers/School Vendors.md
+      - School Service Providers/Nan Chiau Student Care Centre.md
       - School Information/.keep
       - School Information/School Uniform.md
       - School Information/School Hours.md
