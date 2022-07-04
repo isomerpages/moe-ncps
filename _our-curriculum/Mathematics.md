@@ -7,7 +7,7 @@ description: ""
 
 ![MOE Mathematics Framework](/images/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png)
 
-#### For MOE Mathematics syllabus:  
+### For MOE Mathematics syllabus:  
 [https://www.moe.gov.sg/education/syllabuses/sciences/](https://www.moe.gov.sg/education/syllabuses/sciences/)
 
 ### DEPARTMENT VISION
@@ -61,3 +61,22 @@ Traditional teacher-centric lessons are no longer effective to meet the learning
 
 ![RC3 (Reasoning, Communication, Collaboration and Connection)](/images/Math-Model-1.png)
 
+**3. Play@Recess** 
+
+Our students learn the best through play. Through these Mathematics games, students are able to better grasp their concepts, have a deeper understanding and apply the concepts learnt in class.
+
+![Play@Recess](/images/play%20@%20recess.png)
+
+**4**. **BEST Mathematical Problem Solving Approach**
+
+Problem Solving is at the heart of the Singapore Mathematics Curriculum. Our school adopts the BEST Mathematical Problem Solving Approach to develop our students’ metacognition. B for Be focused. E for explore and plan. S for solve the problem and T for think about the answer. This comprises of a list of questions to help students monitor and direct their cognitive resources to better understand and make sense of a given problem. Through the monitoring of their own thinking, students also increase ownership and take charge of their own learning.
+
+![BEST Mathematical Problem Solving Approach](/images/Math-Model-2-212x300.png)
+
+**5.** **CONCRETE – pictorial – abstract**
+
+We strongly believes that students have a deeper understanding of the concepts learnt through hands-on activities. Through these activities using Math manipulative, students are able to better grasp their concepts and apply the concepts in the assigned tasks.
+
+![CONCRETE – pictorial – abstract](/images/concrete%201.png)
+
+![CONCRETE – pictorial – abstract](/images/concrete%202.png)
