@@ -1,5 +1,4 @@
 collections:
   our-school:
     output: true
-    order:
-      - History/.keep
+    order: []
