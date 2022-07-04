@@ -2,7 +2,7 @@ collections:
   our-team:
     output: true
     order:
-      - School Administration Team.md
-      - School Educators.md
-      - School Management Team.md
       - School Management Committee.md
+      - School Management Team.md
+      - School Educators.md
+      - School Administration Team.md
