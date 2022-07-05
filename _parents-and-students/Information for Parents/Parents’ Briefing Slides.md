@@ -6,26 +6,26 @@ third_nav_title: Information for Parents
 ---
 | **14 Jan 2022** | 
 | -------- | 
-| [Middle Primary Principal’s Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/Middle-Primary-Principals-briefing-2022_PDF.pdf)    | 
-| [Upper Primary Principal’s Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2022/01/UP-Principals-briefing-2022_final.pdf)   |
+| Middle Primary Principal’s Briefing **(file too big!)**   | 
+| Upper Primary Principal’s Briefing **(file too big!)**   |
 
 | **7 Jan 2022** | 
 | -------- | 
-| [P2 Principal’s Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2022/01/P2-Principals-briefing-2022.pdf)   | 
+| P2 Principal’s Briefing **(file too big!)**   | 
 
 | **4 Jan 2022** | 
 | -------- | 
-| [P1 Principal’s Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2022/01/P1-Principals-briefing-2022-.pdf)    | 
+| P1 Principal’s Briefing **(file too big!)**    | 
 
 | **19 Nov 2021** | 
 | -------- | 
-| [P1 Orientation Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P1-Orientation-2022.pdf)   | 
+| P1 Orientation Briefing **(file too big!)**   | 
 
 
 | **21 May 2021** | 
 | -------- | 
-| [New PSLE Scoring System](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/05/Primary-6-Parents-Briefing-Slides-on-the-New-PSLE-Scoring-System.pdf)    | 
-| [FAQs for New PSLE Scoring System](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/05/FAQs-for-Primary-6-Parents-Briefing.docx.pdf)   |
+| [New PSLE Scoring System](/files/Primary-6-Parents-Briefing-Slides-on-the-New-PSLE-Scoring-System.pdf)    | 
+| [FAQs for New PSLE Scoring System](/files/FAQs-for-Primary-6-Parents-Briefing.pdf)   |
 
 | **5 February 2021** | 
 | -------- | 
@@ -66,4 +66,4 @@ third_nav_title: Information for Parents
 
 | **4 January 2021** | 
 | -------- | 
-| [P1 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P1-Principals-briefing-2021_schoolwebsite.pdf)    | 
+| [P1 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P1-Principals-briefing-2021_schoolwebsite.pdf)    |
