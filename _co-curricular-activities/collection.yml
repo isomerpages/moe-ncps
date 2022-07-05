@@ -2,6 +2,23 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - 2022 CCA Schedule.md
+      - Sports & Games/.keep
+      - Sports & Games/Basketball.md
+      - Sports & Games/Soccer.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Track and Field.md
+      - Sports & Games/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/Brownies.md
+      - Performing Arts/.keep
+      - Performing Arts/Guzheng.md
+      - Performing Arts/Choir.md
+      - Performing Arts/International Dance.md
+      - Performing Arts/Samba Drumming.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Robotics Club.md
@@ -11,20 +28,3 @@ collections:
       - Clubs & Societies/Chinese Literary, Drama and Debate Society (CLDDS).md
       - Clubs & Societies/Environmental Club.md
       - Clubs & Societies/Board Games Club.md
-      - Performing Arts/.keep
-      - Performing Arts/Guzheng.md
-      - Performing Arts/Choir.md
-      - Performing Arts/International Dance.md
-      - Performing Arts/Samba Drumming.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Brownies.md
-      - Sports & Games/.keep
-      - Sports & Games/Basketball.md
-      - Sports & Games/Soccer.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Track and Field.md
-      - Sports & Games/Wushu.md
-      - 2022 CCA Schedule.md
