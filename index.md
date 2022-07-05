@@ -15,7 +15,7 @@ sections:
         - title: Termly Bulletins
           description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
             Monthly Bulletin.
-          url: ""
+          url: /lp-press/ncps-monthly-bulletin-january-2020/
         - title: Parents’ Briefing Slides
           description: Dear Parent/ Guardian, Please refer to the attachment for Parent's
             Briefing Slides.
