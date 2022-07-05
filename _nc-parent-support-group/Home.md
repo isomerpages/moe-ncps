@@ -6,5 +6,3 @@ description: ""
 # Welcome to Nan Chiau Primary School Parent Support Group
 
 ![NCPS PSG](/images/NCPS%20PSG.png)
-
-
