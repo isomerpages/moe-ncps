@@ -4,7 +4,7 @@ permalink: /our-school/vision-mission-values/
 description: ""
 ---
 <img src="/images/School_awards_Logos-300x46.png"  
-style="width:75%">
+style="width:50%">
 
 ### **School Vision**
 
