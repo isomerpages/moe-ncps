@@ -9,7 +9,7 @@ Please inform the staff at General Office who will advise you on the form(s) and
 
 **How do I contact the school?**
 
-Please refer to the following link: [School Contact Information](https://www.ncps.moe.edu.sg/our-school/school-contact-information/)
+Please refer to the following link: [School Contact Information](/our-school/school-contact-information/)
 
 **What are the school’s arrival and dismissal time for students?**
 
