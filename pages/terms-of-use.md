@@ -16,7 +16,7 @@ The materials located on this Web Site including the information and software pr
 
 **PRIVACY POLICY**
 
-[Click here](https://www.ncps.moe.edu.sg/our-school/privacy-statement/) to review this Web Site Privacy Statement.
+[Click here](/privacy/) to review this Web Site Privacy Statement.
 
 **RESTRICTIONS ON USE OF MATERIALS**
 
@@ -60,4 +60,3 @@ Nan Chiau Primary School reserves the right to disable any unauthorised links or
 **GOVERNING LAW**
 
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
-
