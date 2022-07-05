@@ -2,5 +2,6 @@ collections:
   nc-parent-support-group:
     output: true
     order:
+      - Committees.md
       - Our Mission.md
       - Home.md
