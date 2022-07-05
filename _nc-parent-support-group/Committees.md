@@ -4,7 +4,7 @@ permalink: /nc-parent-support-group/committees
 description: ""
 ---
 <img src="/images/safety_orig.jpg"  
-style="width:40%">
+style="width:25%">
 
 ### **School Safety**  
 • Enhance the safety of the pupils by providing assistance in promoting good safety habits  
