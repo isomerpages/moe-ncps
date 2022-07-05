@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports & Games/Wushu.md
-      - Sports & Games/Track and Field.md
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Soccer.md
-      - Sports & Games/Basketball.md
       - Sports & Games/.keep
+      - Sports & Games/Basketball.md
+      - Sports & Games/Soccer.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Track and Field.md
+      - Sports & Games/Wushu.md
       - 2022 CCA Schedule.md
