@@ -19,7 +19,7 @@ sections:
         - title: Parents’ Briefing Slides
           description: Dear Parent/ Guardian, Please refer to the attachment for Parent's
             Briefing Slides.
-          url: ""
+          url: /lp-press/parents-briefing-slides/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
