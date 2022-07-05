@@ -56,8 +56,12 @@ In making Science concepts relevant, the students are brought outdoors to variou
 
 As part of the P3 Seamless Learning programme, all the Primary 3 students visited the Singapore Zoo to learn more about the Animal Kingdom.  They were tasked to complete a few online activities which were accessed via the smart devices. Through this experiential learning, they were exposed to the different groups of animals and their characteristics and experienced authentic learning in a real zoo environment.
 
-![P3@THE SINGAPORE ZOO](/images/p3%20@%20singapore%20zoo.jpg)
 
-![P3@THE SINGAPORE ZOO](/images/p3%20@%20singapore%20zoo2.jpg)
+<img src="/images/p3%20@%20singapore%20zoo.jpg"  
+style="width:70%">
 
-![P3@THE SINGAPORE ZOO](/images/p3%20@%20singapore%20zoo3.jpg)
+<img src="/images/p3%20@%20singapore%20zoo2.jpg"  
+style="width:70%">
+
+<img src="/images/p3%20@%20singapore%20zoo3.jpg"  
+style="width:70%">
