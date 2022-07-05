@@ -26,11 +26,11 @@ Monday – Friday
 
 **When will the various school gates be opened?**
 
-Please refer to for following link: [School Hours](https://www.ncps.moe.edu.sg/school-hours/)
+Please refer to for following link: [School Hours](/our-school/school-hours/)
 
 **Are there Student Care Services available in Nan Chiau Primary School?**
 
-Please refer to the following link : [Nan Chiau Student Care Centre](https://www.ncps.moe.edu.sg/our-school/nan-chiau-student-care-centre/)
+Please refer to the following link : [Nan Chiau Student Care Centre](/our-school/nan-chiau-student-care-centre/)
 
 **What is the opening hours of the school library?**
 
@@ -45,6 +45,3 @@ You can check out our PSG website for more information.
 **What are the available CCAs?**
 
 Please refer the the following link: [Co-Curricular Activities](https://www.ncps.moe.edu.sg/co-curricular-activities/)
-
-[  
-](https://www.ncps.moe.edu.sg/our-school/frequently-asked-questions-faq/#top)
