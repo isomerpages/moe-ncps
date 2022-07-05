@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Nan Chiau Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/cropped-ncps-logo-1.png
 permalink: /
 notification: ""
 sections:
@@ -21,3 +21,4 @@ sections:
             Briefing Slides.
           url: /lp-press/parents-briefing-slides/
 ---
+
