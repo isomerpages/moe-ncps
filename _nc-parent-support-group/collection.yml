@@ -2,10 +2,10 @@ collections:
   nc-parent-support-group:
     output: true
     order:
-      - More/Contact.md
-      - More/JOIN US NOW!.md
-      - More/Upcoming Events.md
       - More/.keep
+      - More/Upcoming Events.md
+      - More/JOIN US NOW!.md
+      - More/Contact.md
       - Past Events.md
       - Committees.md
       - Our Mission.md
