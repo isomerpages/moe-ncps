@@ -40,22 +40,22 @@ third_nav_title: Information for Parents
 | [P5 Principal Briefing](/files/P5-briefing-2021_Mrs-Ong.pdf)    | 
 | P5 YH’s Briefing (Slides) **(FILE TOO BIG!)**   |
 | P5 YH’s Briefing (Video) Part 1 **(VIDEO TO BE EMBEDDED)**    | 
-| P5 YH’s Briefing (Video) Part 2 **(VIDEO TO BE EMBEDDED)**)   |
+| P5 YH’s Briefing (Video) Part 2 **(VIDEO TO BE EMBEDDED)**   |
 | [FAQs for Primary 5 Principal Briefing](/files/FAQs-for-Primary-5-Principal-Briefing-2021.pdf)    | 
 
 | **4 February 2021** | 
 | -------- | 
-| [P4 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P4-Principal-Briefing.pdf)    | 
-| [P4 YH’s Briefing (Slides)](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P4-YH%E2%80%99s-Briefing-Slides.pdf)   |
-| [P4 YH’s Briefing (Video)](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P4-YH%E2%80%99s-Briefing-Slides.mp4)    | 
-| [FAQs for Primary 4 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/FAQs-for-Primary-4-Principal-Briefing-2021.pdf)   |
+| [P4 Principal Briefing](/files/P4-Principal-Briefing.pdf))    | 
+| P4 YH’s Briefing (Slides) **(BROKEN LINK!)**)   |
+| P4 YH’s Briefing (Video) **(VIDEO TO BE EMBEDDED)**    | 
+| [FAQs for Primary 4 Principal Briefing](/files/FAQs-for-Primary-4-Principal-Briefing-2021.pdf)   |
 
 | **15 January 2021** | 
 | -------- | 
-| [P3 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/2021-P3-Principal-Briefing-Slides-.pdf)    | 
-| [P3 YH’s Briefing (Slides)](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/2021-P3-Briefing-Slides-by-Year-Heads.pdf)   |
-| [P3 YH’s Briefing (Video)](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/2021-P3-Briefing-Slides-by-Year-Head.mp4)    | 
-| [FAQs for Primary 3 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/FAQs-for-Primary-3-Principal-Briefing-2021.pdf)   |
+| [P3 Principal Briefing](/files/2021-P3-Principal-Briefing-Slides-.pdf)    | 
+| [P3 YH’s Briefing (Slides)](/files/2021-P3-Briefing-Slides-by-Year-Heads.pdf))   |
+| P3 YH’s Briefing (Video) **(VIDEO TO BE EMBEDDED)**    | 
+| [FAQs for Primary 3 Principal Briefing](/files/FAQs-for-Primary-3-Principal-Briefing-2021.pdf)   |
 
 | **15 January 2021** | 
 | -------- | 
