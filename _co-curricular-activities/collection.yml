@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Soccer.md
       - Sports & Games/Basketball.md
       - Sports & Games/.keep
       - 2022 CCA Schedule.md
