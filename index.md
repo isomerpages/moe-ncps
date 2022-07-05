@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Nan Chiau 75th Anniversary Celebrations
           description: '"Nan Chiau, Our Story Our Pride"'
-          url: ""
+          url: /lp-press/75th-anniversary-celebration/
         - title: Termly Bulletins
           description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
             Monthly Bulletin.
