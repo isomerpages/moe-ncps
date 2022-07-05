@@ -19,4 +19,6 @@ Nan Chiau Primary School started her journey with PAL in 2015 as one of the Phas
 
 <table border="1" width="628" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 75px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Term1</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Term 2</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Term 3</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Term 4</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Visual Arts</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Sports &amp; Games</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Outdoor Education</td><td style="box-sizing: inherit; padding: 5px 10px; height: 24px; width: 150px;">Performing Arts</td></tr></tbody></table>
 
-![Programme for Active Learning (PAL)](/images/PAL.png)
+
+<img src="/images/PAL.png"  
+style="width:70%">
