@@ -9,8 +9,6 @@ At NCPS, values education forms an integral part of our students’ learning jou
 
 **NCPS CCE Framework**
 
-![NCPS CCE Framework](/images/cce-1.png)
-
 <img src="/images/cce-1.png"  
 style="width:65%">
 
