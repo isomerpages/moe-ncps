@@ -59,11 +59,11 @@ third_nav_title: Information for Parents
 
 | **15 January 2021** | 
 | -------- | 
-| [P2 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P2-Principals-briefing-2021-address-by-P.pdf)    | 
-| [P2 YH’s Briefing (Slides)](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P2-Principals-briefing-2021-address-by-AYH.pdf)   |
-| [P2 YH’s Briefing (Video)](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/01/P2-Principals-briefing-2021-address-by-AYH.mp4)    | 
-| [FAQs for Primary 2 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/FAQs-for-Primary-2-Principal-Briefing-2021.pdf)   |
+| [P2 Principal Briefing](/files/P2-Principals-briefing-2021-address-by-P.pdf)    | 
+| P2 YH’s Briefing (Slides) **(FILE TOO BIG!)**   |
+| P2 YH’s Briefing (Video) **(VIDEO TO BE EMBEDDED)**    | 
+| [FAQs for Primary 2 Principal Briefing](/files/FAQs-for-Primary-2-Principal-Briefing-2021.pdf)   |
 
 | **4 January 2021** | 
 | -------- | 
-| [P1 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2020/01/P1-Principals-briefing-2021_schoolwebsite.pdf)    |
+| P1 Principal Briefing **(FILE TOO BIG!)**    |
