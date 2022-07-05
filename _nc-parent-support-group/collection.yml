@@ -1,4 +1,5 @@
 collections:
   nc-parent-support-group:
     output: true
-    order: []
+    order:
+      - Home.md
