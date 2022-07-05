@@ -2,5 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our School
     collection: our-school
-  - title: Contact Us
-    url: /contact-us/
+  - title: Our Team
+    collection: our-team
