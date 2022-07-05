@@ -39,7 +39,8 @@ style="width:40%">
 
 Our garden provides green pockets of garden landscape in the school which serves both aesthetic and educational purposes. There are habitats for butterflies, plots of flowering plants, fruit trees, herbs, cacti and climbers, and a rotting log and leaf litter.  It is common that students get to spot some ‘visitors’ to our gardens like caterpillars, butterflies and birds. The garden also features an eco-pond complete with a huge clear glass tank and submerged water plants and a wooden viewing platform.
 
-![ECO-GARDEN](/images/eco-garden.png)
+<img src="/images/eco-garden.png"  
+style="width:40%">
 
 Our garden acts as the ‘outdoor’ classroom, for students to be engaged in exploring different species of plants and animals in their natural environment. This provides them an outdoor experiential learning opportunity to learn and know more about the different plants and animals around them.
 
