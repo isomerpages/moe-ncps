@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Chinese Literary, Drama and Debate Society (CLDDS).md
       - Clubs & Societies/English Language Literary, Drama and Debate Society
         (ELDDS).md
       - Clubs & Societies/Info Comm Club.md
