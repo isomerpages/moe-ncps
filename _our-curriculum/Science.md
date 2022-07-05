@@ -29,9 +29,11 @@ With the mobile technologies at hand, students can learn seamlessly—both in cl
 
 Our NCPS Science teachers are always coming up with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage the pupils in simple hands-on activities. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play.
 
-![SCIENCE@RECESS](/images/science%20@%20recess.png)
+<img src="/images/science%20@%20recess.png"  
+style="width:40%">
 
-![SCIENCE@RECESS](/images/science%20@%20recess2.png)
+<img src="/images/science%20@%20recess2.png"  
+style="width:40%">
 
 ### ECO-GARDEN
 
