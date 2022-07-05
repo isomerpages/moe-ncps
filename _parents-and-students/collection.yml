@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Consent for Photography and Videos.md
       - Useful Links for Students.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
