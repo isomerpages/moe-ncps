@@ -13,7 +13,7 @@ Please refer to the following link: [School Contact Information](/our-school/sc
 
 **What are the school’s arrival and dismissal time for students?**
 
-Please refer to for following link: [School Hours](https://www.ncps.moe.edu.sg/school-hours/)
+Please refer to for following link: [School Hours](/our-school/school-hours/)
 
 **Who should I contact to provide feedback/enquiries to the school?**
 
