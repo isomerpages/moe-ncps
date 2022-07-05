@@ -31,9 +31,9 @@ third_nav_title: Information for Parents
 | -------- | 
 | [P6 Principal Briefing](/files/P6-Principals-Briefing.pdf)    | 
 | P6 YH’s Briefing (Slides) **(BROKEN LINK!)**   |
-| [P6 YH’s Briefing (Video) Part 1](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-YH%E2%80%99s-Briefing-Part-1-Video.mp4)    | 
-| [P6 YH’s Briefing (Video) Part 2](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-YH%E2%80%99s-Briefing-Part-2-Video.mp4)   |
-| [FAQs for Primary 6 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/FAQs-for-Primary-6-Principals-Briefing.pdf)    | 
+| P6 YH’s Briefing (Video) Part 1 **(VIDEO TO BE EMBEDDED)**   | 
+| P6 YH’s Briefing (Video) Part 2 **(VIDEO TO BE EMBEDDED)**   |
+| [FAQs for Primary 6 Principal Briefing](/files/FAQs-for-Primary-6-Principals-Briefing.pdf)    | 
 
 | **5 February 2021** | 
 | -------- | 
