@@ -10,3 +10,10 @@ links:
     collection: co-curricular-activities
   - title: Parents & Students
     collection: parents-and-students
+  - title: Partners & Stakeholders
+    url: /partners-and-stakeholders/nc-alumni-association
+    sublinks:
+      - title: NC Alumni Association
+        url: /partners-and-stakeholders/nc-alumni-association
+      - title: NC Parent Support Group
+        url: /nc-parent-support-group/home
