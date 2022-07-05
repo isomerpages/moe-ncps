@@ -6,12 +6,12 @@ third_nav_title: Information for Parents
 ---
 | **14 Jan 2022** | 
 | -------- | 
-| Middle Primary Principal’s Briefing **(file too big!)**   | 
-| Upper Primary Principal’s Briefing **(file too big!)**   |
+| Middle Primary Principal’s Briefing **(FILE TOO BIG!)**   | 
+| Upper Primary Principal’s Briefing **(FILE TOO BIG!)**   |
 
 | **7 Jan 2022** | 
 | -------- | 
-| P2 Principal’s Briefing **(file too big!)**   | 
+| P2 Principal’s Briefing **(FILE TOO BIG!)**   | 
 
 | **4 Jan 2022** | 
 | -------- | 
@@ -37,11 +37,11 @@ third_nav_title: Information for Parents
 
 | **5 February 2021** | 
 | -------- | 
-| [P5 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P5-briefing-2021_Mrs-Ong.pdf)    | 
-| [P5 YH’s Briefing (Slides)](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P5-briefing-2021_YH.pdf)   |
-| [P5 YH’s Briefing (Video) Part 1](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P5-briefing-2021_YH-Address_Part1.mp4)    | 
-| [P5 YH’s Briefing (Video) Part 2](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P5-briefing-2021_YH-Address_Part2.mp4)   |
-| [FAQs for Primary 5 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/FAQs-for-Primary-5-Principal-Briefing-2021.pdf)    | 
+| [P5 Principal Briefing](/files/P5-briefing-2021_Mrs-Ong.pdf)    | 
+| P5 YH’s Briefing (Slides) **(FILE TOO BIG!)**   |
+| P5 YH’s Briefing (Video) Part 1 **(VIDEO TO BE EMBEDDED)**    | 
+| P5 YH’s Briefing (Video) Part 2 **(VIDEO TO BE EMBEDDED)**)   |
+| [FAQs for Primary 5 Principal Briefing](/files/FAQs-for-Primary-5-Principal-Briefing-2021.pdf)    | 
 
 | **4 February 2021** | 
 | -------- | 
