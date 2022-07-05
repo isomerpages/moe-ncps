@@ -4,7 +4,8 @@ permalink: /our-school/nan-chiau-student-care-centre/
 description: ""
 third_nav_title: School Service Providers
 ---
-![nascans logo](/images/nascans_logo.jpg)
+<img src="/images/nascans_logo.jpg"  
+style="width:60%">
 
 **NAN CHIAU STUDENT CARE CENTRE (NCSCC)**
 
