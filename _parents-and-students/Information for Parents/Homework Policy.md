@@ -26,7 +26,7 @@ Homework is the out-of class tasks that a student is assigned as an extension of
 *   research tasks e.g. using a computer to find material on the Internet
 *   reflection task e.g. reflection and discussion on blogs and forums
 
-#### **Purpose of Homework**
+#### **Purpose of Homework**
 
 *   Allows for practising, extending and consolidating work done in class
 *   Provide feedback on students’ learning
