@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Information for Parents/Forms for Parents.md
       - Information for Parents/Parents’ Briefing Slides.md
       - Information for Parents/Termly Bulletins.md
       - Information for Parents/Information for Parents.md
