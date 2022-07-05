@@ -11,6 +11,9 @@ At NCPS, values education forms an integral part of our students’ learning jou
 
 ![NCPS CCE Framework](/images/cce-1.png)
 
+<img src="/images/cce-1.png"  
+style="width:65%">
+
 The school’s CCE framework is based on the school’s 3 key beliefs, Every child can learn, Every child is good and Every child is unique as well as the 4 core school values of Respect, Responsibility, Sincerity and Perseverance. This provides the key direction towards the development of CCE in our students. In school, we teach knowledge through CCE lessons, cyber wellness, FTGP, SEL and Sexuality Education. Through these platforms, students acquire the necessary knowledge (Head) on making morally upright and responsible decisions.
 
 Next to make values learning authentic and relevant, the school leverages on ECG, VIA, CCA, PAL and school events for example the 4 major NE events, charity food donations and distribution of oranges to the neighboring residents. This enables the students to apply the knowledge that they have acquired in class and provides relevance, realism and real life experiences which are difficult to replicate in the classrooms.
