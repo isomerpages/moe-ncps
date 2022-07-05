@@ -15,11 +15,11 @@ third_nav_title: Information for Parents
 
 | **4 Jan 2022** | 
 | -------- | 
-| P1 Principal’s Briefing **(file too big!)**    | 
+| P1 Principal’s Briefing **(FILE TOO BIG!)**    | 
 
 | **19 Nov 2021** | 
 | -------- | 
-| P1 Orientation Briefing **(file too big!)**   | 
+| P1 Orientation Briefing **(FILE TOO BIG!)**   | 
 
 
 | **21 May 2021** | 
@@ -29,8 +29,8 @@ third_nav_title: Information for Parents
 
 | **5 February 2021** | 
 | -------- | 
-| [P6 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-Principals-Briefing.pdf)    | 
-| [P6 YH’s Briefing (Slides)](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-YH%E2%80%99s-Briefing-Slides.pdf)   |
+| [P6 Principal Briefing](/files/P6-Principals-Briefing.pdf)    | 
+| P6 YH’s Briefing (Slides) **(BROKEN LINK!)**   |
 | [P6 YH’s Briefing (Video) Part 1](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-YH%E2%80%99s-Briefing-Part-1-Video.mp4)    | 
 | [P6 YH’s Briefing (Video) Part 2](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/P6-YH%E2%80%99s-Briefing-Part-2-Video.mp4)   |
 | [FAQs for Primary 6 Principal Briefing](https://www.ncps.moe.edu.sg/wp-content/uploads/2021/02/FAQs-for-Primary-6-Principals-Briefing.pdf)    | 
