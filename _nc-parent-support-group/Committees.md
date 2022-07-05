@@ -11,7 +11,7 @@ style="width:40%">
 • To cultivate good behaviour and responsibility in the canteen. Maintaining order during recess and school dismissal  
 • Ensure safety of the students during school dismissal at the various gates  
   
-**Timing**  
+## **Timing**  
 **\- Recess**  
 • Mon – Fri: 9.00am – 10.30am, 10.30am - 12.00pm  
   
