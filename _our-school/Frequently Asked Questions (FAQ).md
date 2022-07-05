@@ -39,9 +39,9 @@ Monday – Friday
 
 **My child is currently studying in the school and I wish to contribute my service as a Parents Support Group (PSG) member. How can I join?**
 
-You can check out our PSG website for more information.  
-[https://ncps-psg.weebly.com/](https://ncps-psg.weebly.com/)
+You can check out our [PSG website](/nc-parent-support-group/home) for more information.  
+
 
 **What are the available CCAs?**
 
-Please refer the the following link: [Co-Curricular Activities](https://www.ncps.moe.edu.sg/co-curricular-activities/)
+Please refer the the following link: [Co-Curricular Activities](/co-curricular-activities/)
