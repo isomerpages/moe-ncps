@@ -2,15 +2,15 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs & Societies/Board Games Club.md
-      - Clubs & Societies/Environmental Club.md
-      - Clubs & Societies/Chinese Literary, Drama and Debate Society (CLDDS).md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/Info Comm Club.md
       - Clubs & Societies/English Language Literary, Drama and Debate Society
         (ELDDS).md
-      - Clubs & Societies/Info Comm Club.md
-      - Clubs & Societies/Robotics Club.md
-      - Clubs & Societies/Art Club.md
-      - Clubs & Societies/.keep
+      - Clubs & Societies/Chinese Literary, Drama and Debate Society (CLDDS).md
+      - Clubs & Societies/Environmental Club.md
+      - Clubs & Societies/Board Games Club.md
       - Performing Arts/.keep
       - Performing Arts/Guzheng.md
       - Performing Arts/Choir.md
