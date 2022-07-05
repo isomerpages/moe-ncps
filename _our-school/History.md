@@ -7,9 +7,11 @@ Nan Chiau Primary School is one of six schools run by the Singapore Hokkien Huay
 
 南侨小学前身为南侨中学附小，是新加坡福建会馆属下六所学校之一。创立于一九四七年三月，它虽然经历了不少变迁，但总是紧跟时代的步伐，配合国家的需要，不断自行自我调整，为国家的教育事业做出积极的贡献。
 
-![Old NCPS](/images/Old_NCPS.jpg)
+<img src="/images/Old_NCPS.jpg"  
+style="width:50%">
 
-![Tan KK and Lee KC](/images/Tan_KK_Lee_KC.jpg)
+<img src="/images/Tan_KK_Lee_KC.jpg"  
+style="width:50%">
 
 **1941**  
 Initiated by Mr Tan Kah Kee, Mr Lee Kong Chian donated a plot of land at Kim Yan Road as the school site for the building of Nan Chiau Teachers’ Training School.
