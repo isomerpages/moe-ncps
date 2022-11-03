@@ -1,14 +1,14 @@
 title: Nan Chiau Primary School
-url: ""
+url: https://www.ncps.moe.edu.sg
 favicon: /images/school_crest.jpg
 colors:
-  primary-color: "#ffbf18"
-  secondary-color: "#1d2158"
+  primary-color: "#f8e71c"
+  secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#64a51c"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
