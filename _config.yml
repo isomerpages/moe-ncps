@@ -3,7 +3,7 @@ url: https://www.ncps.moe.edu.sg
 favicon: /images/school_crest.jpg
 colors:
   primary-color: "#f5a623"
-  secondary-color: "#d0021b"
+  secondary-color: "#8b572a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
