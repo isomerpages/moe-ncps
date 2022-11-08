@@ -10,7 +10,7 @@ third_nav_title: School Information
 *   Students must stand at attention throughout the flag raising ceremony.
 *   Students must sing the National Anthem and school song with pride.
 
-**Being Respectful**
+### **Being Respectful**
 --------------------
 
 **We Respect Ourselves**
@@ -30,7 +30,7 @@ third_nav_title: School Information
 *   Students are to return the used utensils to the respective collection point after meals.
 *   Students are to care for the school environment and school property.
 
-**Being Responsible**
+### **Being Responsible**
 ---------------------
 
 *   All students must assemble at the respective venues for the Flag Raising Ceremony at 7.30 a.m. Students arriving after 7.30 a.m. will be deemed as late.
