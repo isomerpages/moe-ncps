@@ -12,7 +12,6 @@ third_nav_title: School Information
 
 ### **Being Respectful**
 --------------------
-
 **We Respect Ourselves**
 
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. Students are to wear school uniform on days without CCA or PE/PAL lessons.
