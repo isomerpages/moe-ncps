@@ -21,6 +21,12 @@ NASCANS believes in the development of each child through 4 values:
 3\. Character Development  
 4\. Being Responsible and Caring
 
+**VISION** <br>
+The “third place” between  school and home where quests for knowledge unfold and learning begins. 
+
+**MISSION** <br>
+To help each child develop critical and creative thinking skills, nurture leadership qualities and build strength of character through structured and fun learning activities.
+
 **WHAT WE DO**
 
 Established in 2006, NASCANS is a leading after-school student care provider in Singapore with over 10 years of experience. The first Student Care Centre (SCC) started in January 2010 and it has now grown to 18 centres island-wide, reaching out to a student population of over 2,400.
@@ -65,12 +71,6 @@ There are also exciting holiday programmes organized for the students during the
 Furthermore, the Centre strives to provide a home-like environment with different activity areas for students to engage in during their free time with peers. The conducive setting allows for better concentration and comfort for the students as they engage in their academic revision and other activities.
 
 NASCANS aim to be an extension of the school, complementing and expanding on the range of services that the school provides. It works with the school to develop every child’s creative mind with a series of integrated programmes and activities.
-
-**VISION** <br>
-The “third place” between  school and home where quests for knowledge unfold and learning begins. 
-
-**MISSION** <br>
-To help each child develop critical and creative thinking skills, nurture leadership qualities and build strength of character through structured and fun learning activities.
 
 **MANAGEMENT & CURRICULUM TEAM**
 
