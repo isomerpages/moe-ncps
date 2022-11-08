@@ -24,8 +24,6 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 
 ### **Staggered Dismissal Timings**
 
-
-
 | Time | Level |  |
 | -------- | -------- | -------- |
 | 1.20 pm | Primary 1 & 2 | 
