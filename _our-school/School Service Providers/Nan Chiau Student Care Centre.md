@@ -22,9 +22,11 @@ NASCANS believes in the development of each child through 4 values:
 4\. Being Responsible and Caring
 
 **VISION** <br>
+
 The “third place” between  school and home where quests for knowledge unfold and learning begins. 
 
 **MISSION** <br>
+
 To help each child develop critical and creative thinking skills, nurture leadership qualities and build strength of character through structured and fun learning activities.
 
 **WHAT WE DO**
