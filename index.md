@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NCPS.gif
+      background: /images/Homepage/NCPS.gif
       key_highlights:
         - title: Nan Chiau 75th Anniversary Celebrations
           description: '"Nan Chiau, Our Story Our Pride"'
@@ -21,4 +21,3 @@ sections:
             Briefing Slides.
           url: /lp-press/parents-briefing-slides/
 ---
-
