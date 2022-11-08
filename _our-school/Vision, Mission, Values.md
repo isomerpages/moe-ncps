@@ -4,7 +4,6 @@ permalink: /our-school/vision-mission-values/
 description: ""
 ---
 ### **School Vision**
-
 An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 
 **愿景**
@@ -14,7 +13,6 @@ An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 正直诚毅，勤奋进取
 
 ### **School Mission**
-
 To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students.
 
 **使命 <br>**
@@ -22,7 +20,6 @@ To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round s
 培育德智体群美各方面均衡发展的领袖。
 
 ### **School Values**
-
 Respect, Responsibility, Sincerity, Perseverance
 
 **学校价值观**  
