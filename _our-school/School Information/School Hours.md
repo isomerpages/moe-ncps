@@ -43,7 +43,7 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 
 **\*** Only on CCA & Coaching days
 
-### General Office Opening Hours
+### **General Office Opening Hours**
 
 |  |  |  |
 | -------- | -------- | -------- |
