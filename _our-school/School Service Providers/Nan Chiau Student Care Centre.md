@@ -28,7 +28,6 @@ Established in 2006, NASCANS is a leading after-school student care provider in 
 NASCANS provides a wide variety of programmes, professionally developed and delivered to the students. Such programmes include quality academic guidance, character building and leadership development programmes targeted at supporting and developing the students holistically.
 
 The **key focus** of the programmes are:
-
 – Completion of the school homework  
 – Revision of spelling  
 – Revision of core subjects (English, 2nd Language, Maths & Science)
