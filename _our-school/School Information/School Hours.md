@@ -38,8 +38,8 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 | Gate | Monday to Friday |  |
 | -------- | -------- | -------- |
 | Gate A | 6.30 am - 6.30 pm |      |
-| Gate B | 1.20 pm - 2.00 pm |      |
-| Gate C | 1.20 pm - 2.00 pm |      |
+| Gate B | 6.50 am - 7.25 am |      |
+| Gate C | 6.50 am - 7.25 am |      |
 
 
 <table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px; height: 168px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 298.125px; text-align: center; height: 24px;"><strong style="box-sizing: inherit; font-weight: 700;">Gate</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;"><strong style="box-sizing: inherit; font-weight: 700;">Monday to Friday</strong></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 298.125px; text-align: center; height: 24px;">Gate A</td><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">6.30am – 6.30pm</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td rowspan="2" style="box-sizing: inherit; padding: 5px 10px; width: 298.125px; text-align: center; height: 48px;">Gate B</td><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">6.50am – 7.25am</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">1.20pm – 2pm</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td rowspan="3" style="box-sizing: inherit; padding: 5px 10px; width: 298.125px; text-align: center; height: 72px;">Gate C</td><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">6.50am – 7.25am</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">1.20pm – 2pm</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 493.1px; text-align: center; height: 24px;">4pm – 4.30pm *</td></tr></tbody></table>
@@ -51,4 +51,3 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 |  |  |  |
 | -------- | -------- | -------- |
 | Monday - Friday | 7.30 am - 5.00 pm |    |
-
