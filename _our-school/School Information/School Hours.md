@@ -14,12 +14,12 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 
 | Time | Level | Snack Break |
 | ----| ------ | ------------ |
-| 9.00 am to 9.30 am| Primary 1 | 12.00 pm |
-| 9.30 am to 10.00 am| Primary 2 | 12.00 pm |
-| 10.00 am to 10.30 am| Primary 5 | 12.00 pm |
-| 10.30 am to 11.00 am| Primary 6 | 12.00 pm |
-| 11.00 am to 11.30 am| Primary 3 | 9.00 am |
-| 11.30 am to 12.00 pm| Primary 4 | 9.00 am |
+| 9.00 am - 9.30 am| Primary 1 | 12.00 pm |
+| 9.30 am - 10.00 am| Primary 2 | 12.00 pm |
+| 10.00 am - 10.30 am| Primary 5 | 12.00 pm |
+| 10.30 am - 11.00 am| Primary 6 | 12.00 pm |
+| 11.00 am - 11.30 am| Primary 3 | 9.00 am |
+| 11.30 am - 12.00 pm| Primary 4 | 9.00 am |
 
 
 ### **Staggered Dismissal Timings**
@@ -48,4 +48,7 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 
 ### General Office Opening Hours
 
-<table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.938px; text-align: center;">Monday – Friday</td><td style="box-sizing: inherit; padding: 5px 10px; width: 484.288px; text-align: center;">7.30am – 5pm</td></tr></tbody></table>
+|  |  |  |
+| -------- | -------- | -------- |
+| Monday - Friday | 7.30 am - 5.00 pm |    |
+
