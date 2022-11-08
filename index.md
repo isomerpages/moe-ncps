@@ -2,7 +2,7 @@
 layout: homepage
 title: Nan Chiau Primary School
 description: Brief site description here
-image: /images/cropped-ncps-logo-1.png
+image: /images/Homepage/cropped-ncps-logo-1.png
 permalink: /
 notification: ""
 sections:
@@ -21,3 +21,4 @@ sections:
             Briefing Slides.
           url: /lp-press/parents-briefing-slides/
 ---
+
