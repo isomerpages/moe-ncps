@@ -3,7 +3,7 @@ title: School Crest
 permalink: /our-school/school-crest/
 description: ""
 ---
-<img src="/images/school_crest-300x269.jpg"  
+<img src="/images/Homepage/school_crest-300x269.jpg"  
 style="width:45%">
 
 The crest is represented by three interlocking rings which symbolise the moral, physical and intellectual development of the pupils. These are intrinsic to the quest for excellence in education.
