@@ -30,19 +30,18 @@ Tel: 6764 3102 Fax: 6764 1032
 Email: [sales@asencio.com.sg](mailto:sales@asencio.com.sg)  
 Website: [http://www.asencio.com.sg](http://www.asencio.com.sg/)
 
-Operating Hours  
-_School Term:_  
-Monday to Friday  
-9.00 am – 12.30 pm  
-2.00 pm – 3pm
+| School Term |  |  |
+| -------- | -------- | -------- |
+| Monday to Friday | 9.00 am - 12.30 pm, 2.00 pm - 3.00 pm |    |
 
-_School Holidays:_  
-Closed unless specified by School
+| School Holidays |  |  |
+| -------- | -------- | -------- |
+| Closed unless specified by School |  |    |
+
 
 ### **School Bus Operator – Poh Lee Bus Transport Pte. Ltd**
 
 Liaison Officer:    Ms Susan 9069 3357  
-
 Tel: 68629691  
 Email Address [smile@pohleetransport.com.sg](mailto:smile@pohleetransport.com.sg)
 
