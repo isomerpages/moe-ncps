@@ -13,13 +13,15 @@ Email: [looeefah@pacificbookstores.com](mailto:looeefah@pacificbookstores.com)
 Website: [http://www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
 Operating Hours  
-_School Term:_  
-Monday to Friday  
-9.00 am – 12.30 pm  
-2.00 pm – 3pm
 
-_School Holidays:_  
-Closed unless specified by School
+| School Term |  |  |
+| -------- | -------- | -------- |
+| Monday to Friday | 9.00 am - 12.30 pm, 2.00 pm - 3.00 pm |    |
+
+| School Holidays |  |  |
+| -------- | -------- | -------- |
+| Closed unless specified by School |  |    |
+
 
 ### **Uniform / Shoe Supplier – Asencio Pte Ltd**
 
