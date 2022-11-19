@@ -5,7 +5,7 @@ description: ""
 ---
 <b>Year and Assistant Year Heads for Primary 1 and Primary 2</b>
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 657px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 396.475px;">Ms Nur Fadzilah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 259.525px;">Primary 1 Year Head</td></tr></tbody></table>
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 657px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 396.475px;">Ms Nur Fadzilah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;">Primary 1 Year Head</td></tr></tbody></table>
 
 <b>Form Teachers for Primary 1</b>
 
@@ -17,7 +17,7 @@ description: ""
 
 <b>Year and Assistant Year Heads for Primary 3 and Primary 4</b>
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 658.463px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 395.3px;">Mr Tan Swee Meng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 262.163px;">Primary 3 &amp; 4 Year Head</td></tr></tbody></table>
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 658.463px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 395.3px;">Mr Tan Swee Meng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;">Primary 3 &amp; 4 Year Head</td></tr></tbody></table>
 
 <b>Form Teachers for Primary 3</b>
 
@@ -29,7 +29,7 @@ description: ""
 
 <b>Year and Assistant Year Heads for Primary 5 and Primary 6</b>
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 661.138px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 403.85px;">Mr Su Weilun</td><td style="box-sizing: inherit; padding: 5px 10px; width: 256.288px;">Primary 5 Year Head</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 403.85px;">Madam Siti Hajar</td><td style="box-sizing: inherit; padding: 5px 10px; width: 256.288px;">Primary 6 Year Head</td></tr></tbody></table>
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 661.138px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 403.85px;">Mr Su Weilun</td><td style="box-sizing: inherit; padding: 5px 10px; width: 256.288px;">Primary 5 Year Head</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 403.85px;">Madam Siti Hajar</td><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;">Primary 6 Year Head</td></tr></tbody></table>
 
 <b>Form Teachers for Primary 5</b>
 
