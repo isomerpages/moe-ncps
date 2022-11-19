@@ -3,7 +3,7 @@ title: School Educators
 permalink: /our-team/educators/
 description: ""
 ---
-\*\*Year and Assistant Year Heads for Primary 1 and Primary 2\*\*
+<b>Year and Assistant Year Heads for Primary 1 and Primary 2</b>
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 657px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 396.475px;">Ms Nur Fadzilah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 259.525px;">Primary 1 Year Head</td></tr></tbody></table>
 
