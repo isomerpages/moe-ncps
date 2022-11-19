@@ -3,8 +3,6 @@ title: School Educators
 permalink: /our-team/educators/
 description: ""
 ---
-<b>Educator</b>
-
 
 \*\*Year and Assistant Year Heads for Primary 1 and Primary 2\*\*
 
