@@ -3,7 +3,7 @@ title: English
 permalink: /our-curriculum/english/
 description: ""
 ---
-### English Language Department
+### **English Language Department**
 
 The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
 
