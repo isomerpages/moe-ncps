@@ -3,11 +3,11 @@ title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 ---
-### DEPARTMENT FOCUS
+### **DEPARTMENT FOCUS**
 
 At NCPS, values education forms an integral part of our students’ learning journey. The attached framework guides and provides key directions for the department in the planning, implementation and review of the various activities.
 
-**NCPS CCE Framework**
+### **NCPS CCE Framework**
 
 <img src="/images/cce-1.png"  
 style="width:65%">
@@ -22,7 +22,7 @@ At the same time, values are taught through the academic subjects and the co-cur
 
 Through this process, the school hopes that the students will acquire the necessary knowledge (head), skills (hand) and attitudes (heart) which will enable them to progress towards the 21st CC student learning outcomes. These multiple avenues encourage the students to do good and once they are committed to doing good (it becomes a habit to do good), internalization of values has taken place. This will enable them to acquire an internal moral compass which will help them to make morally upright and responsible decisions in the future.
 
-### KEY PROGRAMMES
+### **KEY PROGRAMMES**
 
 During the planning of VIA activities the students’ needs at the three learning phases are considered and ensures that the age appropriateness of the activities are adhered to. The school also hopes that the knowledge, skills and values learnt can be transferred back home so that doing the right thing becomes a habit for the students. This will contribute to them becoming active contributors and concerned citizens in the future.
 
