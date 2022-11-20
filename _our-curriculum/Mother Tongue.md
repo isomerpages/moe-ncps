@@ -3,15 +3,15 @@ title: Mother Tongue
 permalink: /our-curriculum/mother-tongue/
 description: ""
 ---
-### DEPARTMENT VISION
+### **DEPARTMENT VISION**
 
 Holistic education with emphasis on Culture and Values.
 
-### DEPARTMENT MISSION
+### **DEPARTMENT MISSION**
 
 NCPS Chinese Language Department aims to engage our students through different strategies and programmes to improve the students’ 21CC skills, academic results and increase their awareness and interest in their Mother Tongue culture with the inculcation of values.
 
-### KEY PROGRAMMES
+### **KEY PROGRAMMES**
 
 **1\. Chinese Cultural Programmes**
 
