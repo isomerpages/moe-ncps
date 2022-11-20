@@ -22,7 +22,7 @@ Through Strategies for English Language Learning And Reading (STELLAR), we hope 
 **Lower Primary STELLAR**
 
 <img src="/images/el-1.png"  
-style="width:100%">
+style="width: 80%">
 
 At lower primary, the programmes are customised to focus more on values and one of the 21st Century Competencies: communication, collaboration and information skills. Lessons are designed such that students will display these attributes. They communicate information and ideas clearly and collaborate effectively. Where values are concerned, students will demonstrate that they are able to manage, create and share information thoughtfully, ethically and responsibly.
 
