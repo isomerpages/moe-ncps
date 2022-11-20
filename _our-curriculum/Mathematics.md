@@ -8,14 +8,14 @@ description: ""
 <img src="/images/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
 style="width:75%">
 
-### For MOE Mathematics syllabus:  
+**MOE Mathematics syllabus**
 [https://www.moe.gov.sg/education/syllabuses/sciences/](https://www.moe.gov.sg/education/syllabuses/sciences/)
 
-### DEPARTMENT VISION
+### **DEPARTMENT VISION**
 
 Every child is a _creative problem solver_ (innovative, think of different ways), with a _positive attitude_ (beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
 
-### DEPARTMENT FOCUS
+### **DEPARTMENT FOCUS**
 
 *   To equip students with _mathematical knowledge, skills and dispositions_ for lifelong learning
 *   To empower teachers to provide a more _engaging, student-centred, and technology-enabled_ learning environment in Content, Pedagogy and Assessment
@@ -24,7 +24,8 @@ Every child is a _creative problem solver_ (innovative, think of different way
 
 ![DEPARTMENT APPROACH](/images/Math-Counts-768x193.png)
 
-### **DIFFERENTIATED INSTRUCTION** to stretch, enhance, and support
+### **DIFFERENTIATED INSTRUCTION** 
+**To stretch, enhance, and support**
 
 ![DIFFERENTIATED INSTRUCTION to stretch, enhance, and support](/images/Math-Model.png)
 
@@ -44,7 +45,7 @@ The competitions which we participate in:
 *   National Mathematical Olympiad of Singapore by NUS High (NMOS) – P4 and P5
 *   Singapore Mathematical Oylmpiad for Primary School by Hwa Chong (SMOPS) – P6 & selected P5 students
 
-### KEY PROGRAMMES
+### **KEY PROGRAMMES**
 
 **1. ‘I am a young Mathematics star’**
 
