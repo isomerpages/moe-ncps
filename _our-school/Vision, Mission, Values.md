@@ -17,7 +17,7 @@ An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 
 To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students.
 
-**使命 <br>**
+**使命**  
 
 培育德智体群美各方面均衡发展的领袖。
 
