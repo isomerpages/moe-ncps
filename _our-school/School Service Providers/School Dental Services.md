@@ -18,5 +18,3 @@ Operating hours *
 
 \* Subject to changes when Dental Therapist is on leave.
 
-[  
-](https://www.ncps.moe.edu.sg/school-dental-services/#top)
