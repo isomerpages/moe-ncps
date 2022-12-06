@@ -33,4 +33,10 @@ sections:
         Monthly Bulletin.
       button: Read More
       url: /lp-press/ncps-monthly-bulletin-january-2020/
+  - infobar:
+      title: Parents' Briefing Slides
+      description: Dear Parent/ Guardian, Please refer to the attachment for Parent's
+        Briefing Slides.
+      button: Read More
+      url: /lp-press/parents-briefing-slides/
 ---
