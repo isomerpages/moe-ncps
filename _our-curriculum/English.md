@@ -13,20 +13,43 @@ Our students are active listeners, effective readers, inspiring speakers talente
 ### **Mission**  
 To instil the love of English Language Learning and Reading through different strategies and foster life-long learning by Integrating 21 CC and values into the curriculum.
 
-### **Approach to English Teaching**  
-At NCPS, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing & representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development. The learning experience of the students are segmented into three phases: the exposure phase (P1&2), the experiential phase (P3&4) and the enhancement phase (P5&6) to match the progressive development of students Anchored on the English Language Syllabus 2010 (MOE, Singapore), we employ the following strategies in our EL classrooms:
+### **Our Approach**  
+At NCPS, we aim to equip students with a strong foundation in reading,
+writing, speaking, listening, viewing & representing skills for effective
+communication and provide an enjoyable language learning experience
+through explicit instruction and communicative approach to language
+development anchored on the English Language Syllabus 2020 (MOE,
+Singapore).
 
-### **STELLAR**  
-Through Strategies for English Language Learning And Reading (STELLAR), we hope to instil in our students the love for reading because we believe that reading copiously will benefit all language skills.
+### **Core Curriculum**  
+STELLAR (Strategies for English Language Learning and Reading) is the core
+curriculum which the school adopts for English Language. STELLAR aims to
+strengthen children’s language and reading skills as well as promote a
+positive attitude towards learning in the foundation years. The programme
+uses research-based teaching strategies and age-appropriate materials to
+engage children in the learning of English.
 
-**Lower Primary STELLAR**
+![](/images/Our%20Curriculum_English/what_is_stellar-feature-1024x348.jpg)
 
-<img src="/images/el-1.png"  
-style="width: 60%">
+### **Key Programmes**  
+#### **Readers for Life**
 
-At lower primary, the programmes are customised to focus more on values and one of the 21st Century Competencies: communication, collaboration and information skills. Lessons are designed such that students will display these attributes. They communicate information and ideas clearly and collaborate effectively. Where values are concerned, students will demonstrate that they are able to manage, create and share information thoughtfully, ethically and responsibly.
+* T-Rex (Time for Reading EXposure)(P1-P6)
+* Library Programmes (P1-P6)
+* Little Red Dot (P4)
+* What’s Up (P6)
 
-![Lower Primary STELLAR](/images/el_2.png)
+##### **TREX- Time for Reading EXposure**
+
+TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and
+reading skills through TREX - Time for Reading EXposure. We adopt a
+school-wide approach where students are exposed to books of different
+genres in their foundational years. Through this programme, we wish to foster
+good reading habits in our students and inject a little fun before lessons
+begin.
+
+
+](/images/el_2.png)
 
 ![Lower Primary STELLAR](/images/el_3.png)
 
