@@ -47,30 +47,48 @@ school-wide approach where students are exposed to books of different
 genres in their foundational years. Through this programme, we wish to foster
 good reading habits in our students and inject a little fun before lessons
 begin.
+![](/images/Our%20Curriculum_English/Trex%20final%20v2.jpg)
+
+##### **School-based Reading Programme**
+
+The objective of our Reading Programme is to develop students’ interest and positive attitude to
+learning beyond their comfort zones, indirectly improving their achievement in the language, and
+fostering in them a life-long habit of self-directed learning for information and enjoyment. By
+providing students with a repertoire of resources that are current and of interest, we believe that
+their motivation in learning beyond the classroom will grow. Students will be intrinsically motivated
+to find out more, share their knowledge, and build on one another’s knowledge.
+
+
+##### **LRD & What’s Up Newspapers** 
+
+* newspaper for school children
+*  curated contemporary issues and
+presented at the appropriate level for young readers to inform and challenge them.
+* keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
+![](/images/Our%20Curriculum_English/What's%20up.png)
 
 
 
-](/images/el_2.png)
+##### **iCT in the curriculum**
 
-![Lower Primary STELLAR](/images/el_3.png)
+In Nan Chiau Primary School our self-directed learners:
 
-At middle primary, lessons are focused on experiential learning and one of the 21st Century Competencies: Critical and Inventive thinking skills. The programmes at this phase are customised to provide students with experiential learning that leverage on the use of 1:1 computing device.
+* are intrinsically motivated to learn.
+* take ownership of their own learning.
+* manage and monitor their learning independently.
+* explore and sustain their interests beyond the curriculum.
 
-### **Primary 3 i.m.Learning** <br>
+NCPS students are also connected learners who continually learn by:
+* collaborating with their peers, the community and the world.
+* connecting a range of online and offline information sources.
 
-At P3, the inquiry-based mobilised learning (i.m.learning) is a technology-aided, philosophy driven approach to enacting MOE’s STELLAR (STrategies for English Language Learning and Reading). Lessons are infused with an adapted version of Philosophy for Children (P4C) as well as an abridged version of Marzano’s 6-steps to Better Vocabulary Instruction to address the various language skills competency in our students.
+In addition , NCPS students are digital learners who leverage
+technology for learning and can:
+* find, think, apply and digitally create.
+* navigate the digital space in a safe and responsible way.
 
 
-<img src="/images/el-6.png"  
-style="width:60%">
 
-### **Upper Primary STELLAR**
-
-
-<img src="/images/el-7.png"  
-style="width:60%">
-
-At P 5 and 6, students’ learning is further enhanced. Flipped lessons are carried out termly to provide opportunity for students to practise higher-order reasoning and self-directed learning. Through customised programmes, students are engaged to actively contribute to the community and nation.
 
 ### **School-based Reading Programme** <br>
 
