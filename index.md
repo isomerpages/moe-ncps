@@ -20,5 +20,19 @@ sections:
           description: Dear Parent/ Guardian, Please refer to the attachment for Parent's
             Briefing Slides.
           url: /lp-press/parents-briefing-slides/
+  - infopic:
+      title: Nan Chiau 75th Anniversary Celebrations
+      description: '"Nan Chiau, Our Story Our Pride"'
+      button: Read More
+      url: /lp-press/75th-anniversary-celebration/
+      image: /images/Homepage/NC75-COVER PAGE.jpg
+      alt: Image alt text
+  - infopic:
+      title: Termly Bulletin
+      description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
+        Monthly Bulletin.
+      button: Read More
+      url: /lp-press/ncps-monthly-bulletin-january-2020/
+      image: /images/Homepage/e-Bulletin.png
+      alt: Image alt text
 ---
-
