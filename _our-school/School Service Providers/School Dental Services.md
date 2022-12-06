@@ -16,5 +16,4 @@ Operating hours *
 |  | (1.00 pm - 2.00 pm) | (1.00 pm - 2.00 pm) |
                                        
 
-\* Subject to changes when Dental Therapist is on leave.
-
+\* Subject to changes when Dental Therapist is on leave
