@@ -27,12 +27,10 @@ sections:
       url: /lp-press/75th-anniversary-celebration/
       image: /images/Homepage/NC75-COVER PAGE.jpg
       alt: Image alt text
-  - infopic:
+  - infobar:
       title: Termly Bulletin
       description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
         Monthly Bulletin.
       button: Read More
       url: /lp-press/ncps-monthly-bulletin-january-2020/
-      image: /images/Homepage/e-Bulletin.png
-      alt: Image alt text
 ---
