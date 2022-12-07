@@ -34,11 +34,8 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 | Gate | Monday to Friday |  |
 | -------- | -------- | -------- |
 | Gate A | 6.30 am - 6.30 pm |     |
-| Gate B | 6.50 am - 7.25 am |      |    
-|             | 1.20 pm - 2.00 pm |      |
-| Gate C | 6.50 am - 7.25 am |     |
-|             | 1.20 pm - 2.00 pm |      |
-|             | 4.00 pm - 4.30 pm* |      |
+| Gate B | 6.50 am - 7.25 am <br/>1.20 pm - 2.00 pm |      |
+| Gate C | 6.50 am - 7.25 am <br/>1.20 pm - 2.00 pm <br/>4.00 pm - 4.30 pm* |      |
 
 
 **\*** Only on CCA & Coaching days
