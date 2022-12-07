@@ -16,7 +16,7 @@ Operating Hours
 
 | School Term |  |  |
 | -------- | -------- | -------- |
-| Monday to Friday | 9.00 am - 12.30 pm, 2.00 pm - 3.00 pm |    |
+| Monday to Friday | 9.00 am - 12.30 pm<br/> 2.00 pm - 3.00 pm |    |
 
 | School Holidays |  |  |
 | -------- | -------- | -------- |
@@ -32,7 +32,7 @@ Website: [http://www.asencio.com.sg](http://www.asencio.com.sg/)
 
 | School Term |  |  |
 | -------- | -------- | -------- |
-| Monday to Friday | 9.00 am - 12.30 pm, 2.00 pm - 3.00 pm |    |
+| Monday to Friday | 9.00 am - 12.30 pm <br/>2.00 pm - 3.00 pm |    |
 
 | School Holidays |  |  |
 | -------- | -------- | -------- |
