@@ -14,8 +14,9 @@ third_nav_title: Information for Parents
 
 *   [Application Form for NEU PC Plus](/files/Forms%20for%20Parents/NPP-Application-Form-for-NON-MOE-SPED-FAS-1.pdf)
 
-*   [Application Form for NEU PC Plus – MOE – SPED FAS Recipients](/files/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
-*   [NEU PC Plus IMDA Fibre Broadband Svc](/files/NEU-PC-Plus-IMDA-Fibre-Broadband-Svc.pdf)
+*   [Application Form for NEU PC Plus - MOE-SPED FAS Recipients](/files/Forms%20for%20Parents/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
+
+*   [NEU PC Plus IMDA Fibre Broadband Svc](/files/Forms%20for%20Parents/NEU-PC-Plus-IMDA-Fibre-Broadband-Svc.pdf)
 
 **Application for Waiting List**
 
