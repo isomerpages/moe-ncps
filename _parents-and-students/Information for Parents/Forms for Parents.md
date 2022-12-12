@@ -20,8 +20,8 @@ third_nav_title: Information for Parents
 
 **Application for Waiting List**
 
-*    [Application form for Waiting List to NCPS](/files/Forms%20for%20Parents/Application-Form-for-Transfer-2022.pdf)
+*    [Application Form for Waiting List to NCPS](/files/Forms%20for%20Parents/Application-Form-for-Transfer-2022.pdf)
 
 **Application for Leave of Absence (LOA)**
 
-*   Application for Leave of Absence – [FORM](https://form.gov.sg/60b9973c3c599c0011f052a6)
+*   [Application Form for Leave of Absence](https://form.gov.sg/60b9973c3c599c0011f052a6)
