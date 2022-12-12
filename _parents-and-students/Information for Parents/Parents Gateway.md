@@ -13,11 +13,10 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 For assistance to download the Parents Gateway Mobile Application, you may
 
 1.  Refer to the [Step-by-Step Guide](/files/Step-by_Step-Guide.pdf)
-2.  [FAQ](/files/Parents-Gateway-FAQs-for-Parents-.pdf)
+2.  [FAQ](https://pg.moe.edu.sg/faq)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To safeguard our students’ data, only parents who are registered in the official student records in the MOE database will be able to use the mobile app. 
 
 \*Please note that the information shown on Parents Gateway is taken from the student records in the MOE database. If there are any discrepancies in the data shown on Parents Gateway, please contact the school at  [ncps@moe.edu.sg](mailto:ncps@moe.edu.sg) to update the data.
-
