@@ -8,4 +8,4 @@ Dear Partners-in-Education,
 
 NCPS has created this platform for you to pen words of encouragementfor out staff (teaching or non-teaching). Your appreciation of their contributios will go a long way in motivationg them to continue to do their best for your students.
 
-https://form.gov.sg/#!/5d6d14c4d6754c0012d7cf1a
+Click [here](https://form.gov.sg/5d6d14c4d6754c0012d7cf1a) to enter your Words of Encouragement.
