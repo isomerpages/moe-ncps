@@ -12,7 +12,7 @@ We would like to invite you to download the Parents Gateway mobile app on your 
 
 For assistance to download the Parents Gateway Mobile Application, you may
 
-1.  [Refer to the Step-by-Step Guide ](/files/Parents%20Gateway/Step-by_Step-Guide.pdf)
+1.  Refer to the [Step-by-Step Guide ](/files/Parents%20Gateway/Step-by_Step-Guide.pdf)
 3.  [FAQ](https://pg.moe.edu.sg/faq)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
