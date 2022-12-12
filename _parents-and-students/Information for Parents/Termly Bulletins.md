@@ -18,4 +18,3 @@ Please refer to the following tables for NCPS Bulletin.
 [Term 3 e-Bulletin](/files/Termly%20Bulletin/2022-Term-3-e-Bulletin.pdf)
 
 [Term 4 e-Bulletin](/files/Termly%20Bulletin/2022-Term-4-e-Bulletin.pdf)
-
