@@ -31,7 +31,8 @@ style="width:90%">
 
 From the zoom sessions, interviews with own family members and researchers, our students worked in groups to come out with creative prototypes to solve the above problem statements. The students learn as they work on their prototype creations with feedback given by their teachers and SKGH personnel.
 
-"/images/Our%20Curriculum_WMS/problem%20statement%201.jpg"  
+<img src= "/images/Our%20Curriculum_WMS/problem%20statement%201.jpg"  
 style="width:45%"> 
+
 <img src="/images/Our%20Curriculum_WMS/problem%20statement%202.jpg"  
 style="width:45%">
