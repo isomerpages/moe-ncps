@@ -9,9 +9,9 @@ Active Inquirers, Lifelong and Confident Learners
 
 ### **Department Mission**
 
-•	Building a strong foundation in Science to allow students to possess scientific mindsets 
-•	Providing a holistic education with a strong focus on demonstrating ways of thinking and doing in Science 
-•	Instilling curiosity and providing students with experiences to inquire like scientists
+* Building a strong foundation in Science to allow students to possess scientific mindsets 
+* Providing a holistic education with a strong focus on demonstrating ways of thinking and doing in Science 
+* Instilling curiosity and providing students with experiences to inquire like scientists
 
 
 ### **Science Experiences And Programmes**
