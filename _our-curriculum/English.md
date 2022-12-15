@@ -89,7 +89,6 @@ technology for learning and can:
 
 
 
-
 ### **School-based Reading Programme** <br>
 
 The objective of our Reading Programme is to develop students’ interest and positive attitude to learning beyond their comfort zones, indirectly improving their achievement in the language, and fostering in them a life-long habit of self-directed learning for information and enjoyment. By providing students with a repertoire of resources that are current and of interest, we believe that their motivation in learning beyond the classroom will grow. Students will be intrinsically motivated to find out more, share their knowledge, and build on one another’s knowledge.  
