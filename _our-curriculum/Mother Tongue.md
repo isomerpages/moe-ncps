@@ -3,11 +3,11 @@ title: Mother Tongue
 permalink: /our-curriculum/mother-tongue/
 description: ""
 ---
-### **DEPARTMENT VISION**
+### **Department Vision**
 
 Nurturing confident and competent users of their Mother Tongue Languages through different learning strategies and programmes.
 
-### **DEPARTMENT MISSION**
+### **Department Mission**
 
 * To nurture students in the four domains of language learning – Listening, Speaking, Reading and Writing.
 * To provide an environment for students to experience different ethnic cultures 
@@ -38,21 +38,10 @@ Students taking Chinese Language as their Mother Tongue go through Chinese theat
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%202.jpg)
 
-*   **Mother Tongue Fortnightly and Cultural Camps**
+### **Bi-cultural Chinese Elective Programme (BiCEP)**
 
-Activities with different festival themes will be organied annually to encourage students to learn more about their traditional culture.
+### **双文化华文优选课程**
 
-Different Chinese Language Camps will be organized for the P1, P2, P3 and P4 students during the March and June School Holidays to promote the learning of Chinese Language, culture, traditions and values.
-
-![Mother Tongue Fortnightly and Cultural Camps](/images/CL-2.jpg)
-
-*   **Play@Recess**
-
-Chinese Language activities were  organized for the students during  their recess  time, allowing the students to learn as they play.  Activities such as  Chinese Opera painted faces, making of dumplings, paper cutting  were made available during the  students’ recess time for them to engage in.
-
-![Play@Recess](/images/CL-3%20(1).jpg)
-
-**2\. BiCEP Programme**
 
 The BiCEP programme is a SHHK signature programme to promote Chinese Language Culture and develop effective bilingual students in the 5 SHHK Primary Schools. The programme is for Primary 4, 5 and 6 students.
 
