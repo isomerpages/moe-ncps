@@ -29,7 +29,29 @@ engage children in the learning of English.
 
 ![](/images/Our%20Curriculum_English/what_is_stellar-feature-1024x348.jpg)
 
-### **Key Programmes**  
+### **English Department Programmes**  
+   
+
+**Readers for Life**
+
+* T-Rex  (Time for Reading EXposure) (P1-P6)
+* Library Programmes  (P1-P6)
+* Little Red Dot (P4)
+* What’s Up (P6)
+
+**Learning Support Programme (LSP)**
+
+* Reading Remediation Programme (RRP)
+* School-based Dyslexia Remediation Programme (SDR)
+
+**iCT in the curriculum**
+
+* iCT in the classroom
+* MOO-’O’
+
+**Experiential Learning**
+* Activities in and outside classroom
+
 #### **Readers for Life**
 
 * T-Rex (Time for Reading EXposure)(P1-P6)
@@ -55,7 +77,7 @@ fostering in them a life-long habit of self-directed learning for information an
 providing students with a repertoire of resources that are current and of interest, we believe that
 their motivation in learning beyond the classroom will grow. Students will be intrinsically motivated
 to find out more, share their knowledge, and build on one another’s knowledge.
-
+![school based reading programme](/images/Our%20Curriculum_English/lib%20prgm%201.png)
 
 ##### **LRD & What’s Up Newspapers** 
 
@@ -65,7 +87,11 @@ presented at the appropriate level for young readers to inform and challenge the
 * keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 ![](/images/Our%20Curriculum_English/What's%20up.png)
 
+##### **What is learning support?**
+   
+Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.
 
+The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
 ##### **iCT in the curriculum**
 
