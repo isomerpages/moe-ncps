@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Global Awareness Programme.md
       - NCPS Curriculum.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - BiCEP.md
+      - Global Awareness Programme.md
       - PE, Aesthetics and Music.md
       - Character and Citizenship Education.md
       - Programme for Active Learning (PAL).md
