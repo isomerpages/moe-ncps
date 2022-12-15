@@ -183,9 +183,11 @@ technology for learning and can:
   </body>
 </html>
 
-### **School-based Reading Programme** <br>
+##### **Learning English Through Fun & Games** 
 
-The objective of our Reading Programme is to develop students’ interest and positive attitude to learning beyond their comfort zones, indirectly improving their achievement in the language, and fostering in them a life-long habit of self-directed learning for information and enjoyment. By providing students with a repertoire of resources that are current and of interest, we believe that their motivation in learning beyond the classroom will grow. Students will be intrinsically motivated to find out more, share their knowledge, and build on one another’s knowledge.  
+* Games are a fun way to practise English – it can be a really motivating way to learn a language.
+* Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way.
+* Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time.
 
 **Stage 1: Exposure**  
 **\[1\] National Geographic Kids**  
