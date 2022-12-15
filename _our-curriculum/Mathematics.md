@@ -5,7 +5,7 @@ description: ""
 ---
 ### **MOE Mathematics Framework**
 
-<img src="/images/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
+<img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
 style="width:75%">
 
 **MOE Mathematics syllabus**
