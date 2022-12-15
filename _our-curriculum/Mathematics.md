@@ -57,24 +57,25 @@ style="width:60%">
 
 Traditional teacher-centric lessons are no longer effective to meet the learning needs of our 21st century students. To prepare our students for future challenges, RC3 is a project which the department customized for our P3 and P4 students. Comprehensive lesson packages using the inquiry-based approach are carefully-designed for selected topics, to develop confident communicators with good reasoning skills. With the use of technology, student-centric activities with authentic learning experiences are implemented to make learning relevant, engaging and meaningful to their lives. This is to create opportunities for the students to discover, reason and communicate mathematics, through stimulating discussions and activities where they can explore possibilities and make connections, through collaborations with their peers.
 
-<img src="/images/Math-Pic1.png"  
+<img src="/images/Our%20Curriculum%20Math/Math-Pic1.png"  
 style="width:60%">
 
-<img src="/images/Math-Model-1.png"  
-style="width:60%">
+
+
 
 **3. Play@Recess** 
-
+<img src="/images/Our%20Curriculum%20Math/Math-Model-1.png"  
+style="width:60%">
 Our students learn the best through play. Through these Mathematics games, students are able to better grasp their concepts, have a deeper understanding and apply the concepts learnt in class.
 
-![Play@Recess](/images/play%20@%20recess.png)
+![](/images/Our%20Curriculum%20Math/play%20@%20recess.png)
 
 **4**. **BEST Mathematical Problem Solving Approach**
 
 Problem Solving is at the heart of the Singapore Mathematics Curriculum. Our school adopts the BEST Mathematical Problem Solving Approach to develop our students’ metacognition. B for Be focused. E for explore and plan. S for solve the problem and T for think about the answer. This comprises of a list of questions to help students monitor and direct their cognitive resources to better understand and make sense of a given problem. Through the monitoring of their own thinking, students also increase ownership and take charge of their own learning.
 
-<img src="/images/Math-Model-2-212x300.png"  
-style="width:40%">
+<img src="/images/Our%20Curriculum%20Math/Math-Model-2.png"  
+style="width:60%">
 
 **5.** **CONCRETE – pictorial – abstract**
 
