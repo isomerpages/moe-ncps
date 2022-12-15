@@ -14,4 +14,4 @@ Operating hours *
 | Lunch Hours | Monday to Friday <br/>(1.00 pm - 2.00 pm) | Monday to Friday <br/>(1.00 pm - 2.00 pm) |
                                        
 
-\* Subject to changes when Dental Therapist is on leave
+\* <font size="3"> Subject to changes when Dental Therapist is on leave<font size>
