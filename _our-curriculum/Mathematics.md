@@ -55,7 +55,7 @@ To build our students’ interests and confidence in Mathematics, the department
 **2\. RC3 (Reasoning, Communication, Collaboration and Connection)**
 
 <img src="/images/Our%20Curriculum%20Math/Math-RC.png"  
-style="width:60%">
+style="width:30%">
 
 Traditional teacher-centric lessons are no longer effective to meet the learning needs of our 21st century students. To prepare our students for future challenges, RC3 is a project which the department customized for our P3 and P4 students. Comprehensive lesson packages using the inquiry-based approach are carefully-designed for selected topics, to develop confident communicators with good reasoning skills. With the use of technology, student-centric activities with authentic learning experiences are implemented to make learning relevant, engaging and meaningful to their lives. This is to create opportunities for the students to discover, reason and communicate mathematics, through stimulating discussions and activities where they can explore possibilities and make connections, through collaborations with their peers.
 
