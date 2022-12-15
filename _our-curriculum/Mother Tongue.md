@@ -5,25 +5,38 @@ description: ""
 ---
 ### **DEPARTMENT VISION**
 
-Holistic education with emphasis on Culture and Values.
+Nurturing confident and competent users of their Mother Tongue Languages through different learning strategies and programmes.
 
 ### **DEPARTMENT MISSION**
 
-NCPS Chinese Language Department aims to engage our students through different strategies and programmes to improve the students’ 21CC skills, academic results and increase their awareness and interest in their Mother Tongue culture with the inculcation of values.
+* To nurture students in the four domains of language learning – Listening, Speaking, Reading and Writing.
+* To provide an environment for students to experience different ethnic cultures 
 
-### **KEY PROGRAMMES**
+### **The E3 Approach**
+A 3-tiered approach (Excite, Engage and Explore) is established for NCPS students in the learning of their Mother Tongue Language (MTL) and Culture.
 
-**1\. Chinese Cultural Programmes**
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/E3.png)
 
-*   **A. Chinese Classic Recitation Programme**
+### **Signature Mother Tongue Language (MTL) Programmes**
 
-Weekly Chinese Classic Recitation Programme for P1, P2 and P3 students are conducted to inculcate values and instil interest in learning Chinese Language.
+##### **Chinese Classics Exposure**
+Nan Chiau has a tradition of promoting Chinese Classics Reading since we moved to Sengkang. Students learn “Guidelines to be a Good Person” or “Di Zi Gui”《弟子规》, The Three Character Classics《三字经》and The Analects《论语》．
 
-*   **Cultural Awareness Programme (CAP)**
+In conjunction with NC75, Nan Chiau published a school-based Character and Citizenship Education (CCE) teaching package, incorporating the Chinese Classics. This initiative is for all students and aims to compliment the refreshed Character and Citizenship Education curriculum.
 
-Cultural immersion trip to X’ian and Suzhou are organized for P5 students annually. The students learned more about the Chinese Culture, improved their knowledge and the Chinese Language. The students were also able to establishe friendship with their overseas counterparts.
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/chinese%20classics%201.jpg)
 
-![Cultural Awareness Programme (CAP)](/images/CAP-2019-Suzhou-1-1024x705.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%20fortnight%202.jpg)
+
+##### **Mother Tongue Fortnight Activities**
+In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortnight Activities. Students get to explore their ethnic language and cultural activities in during curriculum time, via online platforms and virtual zoom interaction sessions.
+
+##### **Cultural Performance Exposure Scheme (CPES)**
+Students taking Chinese Language as their Mother Tongue go through Chinese theatrical experiences through CPES. Through the theatrical experiences, students have a deeper understanding of Chinese cultures and traditional values.
+
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%201.jpg)
+
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%202.jpg)
 
 *   **Mother Tongue Fortnightly and Cultural Camps**
 
