@@ -25,6 +25,7 @@ Our Science programmes are designed to provide opportunities for our students to
 ##### **Inquiry-based Learning**
 Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using the BSCS (Biological Sciences Curriculum Study) 5E Instructional model. Students are provided with opportunities to engage in meaningful learning of key scientific ideas as they are taken through the 5 key stages of learning in the 5E Instructional Model – Engage, Explore, Explain, Elaborate and Evaluate. Students carry out hands-on investigations and apply scientific knowledge using various process skills. Through active learning, students acquire the skills to synthesize knowledge, transfer their learning in varied contexts and make connections with their surroundings
 ![](/images/Our%20Curriculum%20Science/Inquiry%201.jpg)
+
 ![](/images/Our%20Curriculum%20Science/Inquiry%202.jpg)
 ##### **Use of Dataloggers and IT Resources**
 
@@ -47,9 +48,12 @@ The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetla
 ##### **Science@Recess**
 
 Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
-![](/images/Our%20Curriculum%20Science/science%20@%20recess.png)
+![](/images/Our%20Curriculum%20Science/play%20recess%201.png)
+![](/images/Our%20Curriculum%20Science/play%20recess%202.png)
 
-![](/images/Our%20Curriculum%20Science/science%20@%20recess2.png)
+
+
+
 
 ##### **Science Enrichment Programme (E2K)**
 
