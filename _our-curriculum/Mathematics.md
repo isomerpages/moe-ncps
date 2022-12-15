@@ -11,20 +11,20 @@ style="width:75%">
 **MOE Mathematics syllabus**
 [https://www.moe.gov.sg/education/syllabuses/sciences/](https://www.moe.gov.sg/education/syllabuses/sciences/)
 
-### **DEPARTMENT VISION**
+### **Department Vision**
 
 Every child is a _creative problem solver_ (innovative, think of different ways), with a _positive attitude_ (beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
 
-### **DEPARTMENT FOCUS**
+### **Department Focus**
 
 *   To equip students with _mathematical knowledge, skills and dispositions_ for lifelong learning
 *   To empower teachers to provide a more _engaging, student-centred, and technology-enabled_ learning environment in Content, Pedagogy and Assessment
 
-### **DEPARTMENT APPROACH**
+### **Department Approach**
 
 ![DEPARTMENT APPROACH](/images/Math-Counts-768x193.png)
 
-### **DIFFERENTIATED INSTRUCTION** 
+### **Differentiated Instruction** 
 **To stretch, enhance, and support**
 
 ![DIFFERENTIATED INSTRUCTION to stretch, enhance, and support](/images/Math-Model.png)
@@ -45,7 +45,7 @@ The competitions which we participate in:
 *   National Mathematical Olympiad of Singapore by NUS High (NMOS) – P4 and P5
 *   Singapore Mathematical Oylmpiad for Primary School by Hwa Chong (SMOPS) – P6 & selected P5 students
 
-### **KEY PROGRAMMES**
+### **Key Programmes**
 
 **1. ‘I am a young Mathematics star’**
 
