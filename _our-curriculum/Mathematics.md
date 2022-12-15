@@ -22,7 +22,7 @@ Every child is a _creative problem solver_ (innovative, think of different way
 
 ### **Department Approach**
 
-![DEPARTMENT APPROACH](/images/Math-Counts-768x193.png)
+![our approach](/images/Our%20Curriculum%20Math/Math-Counts-768x193.png)
 
 ### **Differentiated Instruction** 
 **To stretch, enhance, and support**
