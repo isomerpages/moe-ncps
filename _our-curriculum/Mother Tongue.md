@@ -38,23 +38,3 @@ Students taking Chinese Language as their Mother Tongue go through Chinese theat
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%202.jpg)
 
-### **Bi-cultural Chinese Elective Programme (BiCEP)**
-
-### **双文化华文优选课程**
-
-
-The BiCEP programme is a SHHK signature programme to promote Chinese Language Culture and develop effective bilingual students in the 5 SHHK Primary Schools. The programme is for Primary 4, 5 and 6 students.
-
-The P4 BiCEP students participates in the SHHK BICEP (P4) Language Camp which is conducted by Singapore Hokkien Huay Kuan Arts & Cultural Troupe. Participants of the camp enjoy the fun of learning Chinese language through drama activities, colloquial language usage, storytelling, games, sound recording sessions and other interesting activities.
-
-The P4 BiCEP students also participate in the SHHK BICEP (P4) General Knowledge competition. The P5 BiCEP pupils participate in the SHHK 5 School BiCEP overseas immersion program to Xi‘an, Fujian and Taipei.  During the Immersion period, students visit the local places of historic interest, places with scenic beauty, and taste many unique local foods. The learning journey has deepen the understanding of the Chinese culture, and students also learn the various traditional values. During the programme, students also have the chance to made friends with local students when they visit the local schools.  The immersion programme not only helps the students to broaden horizons and increase knowledge, it also helps to students learn to be self-independent, self-discipline and also help them to cultivate team spirit.  This is a once in a lifetime journey of learning for the students.
-
-P6 BiCEP students of SHHK 5 School have to showcase what they have learned in their 3 years BiCEP course during their Graduation Ceremony.
-
-![BiCEP Programme](/images/CL-4.jpg)
-
-**3\. Reading Programme**
-
-P2 classes are involved in a Reading@My Bookshop programme where students have structured time to read various storybooks and at the end of a term, they login to a portal whereby they shared with their fellow schoolmates which books they have read and their review. It encourages independent learning.
-
-A structured e-book reading programme for P3-P4 students. The school worked with the National Library Board to allow the students  to access the e- books in the National Library. A team of teachers designed appropriate lesson plan for the ebook reading activities. Students were able to  independently acquire new knowledge.
