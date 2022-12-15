@@ -110,113 +110,27 @@ In addition , NCPS students are digital learners who leverage
 technology for learning and can:
 * find, think, apply and digitally create.
 * navigate the digital space in a safe and responsible way.
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Slideshow Images</title>
-    <style>
-      .slider {
-        width: 500px;
-        height: 300px;
-        background-color: yellow;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 0px;
-        text-align: center;
-        overflow: hidden;
-      }
-      .image-container {
-        width: 1500px;
-        background-color: pink;
-        height: 300px;
-        clear: both;
-        position: relative;
-        -webkit-transition: left 2s;
-        -moz-transition: left 2s;
-        -o-transition: left 2s;
-        transition: left 2s;
-      }
-      .slide {
-        float: left;
-        margin: 0px;
-        padding: 0px;
-        position: relative;
-      }
-      #slide-1:target ~ .image-container {
-        left: 0px;
-      }
-      #slide-2:target ~ .image-container {
-        left: -500px;
-      }
-      #slide-3:target ~ .image-container {
-        left: -1000px;
-      }
-      .buttons {
-        position: relative;
-        top: -20px;
-      }
-      .buttons a {
-        display: inline-block;
-        height: 15px;
-        width: 15px;
-        border-radius: 50px;
-        background-color: lightgreen;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="slider">
-      <span id="slide-1"></span>
-      <span id="slide-2"></span>
-      <span id="slide-3"></span>
-      <div class="image-container">
-        <img src="https://raw.githubusercontent.com/isomerpages/moe-ncps/staging/images/Our%20Curriculum_English/moo%20o%20resized.png" class="slide" width="500" height="300" />
-        <img src="https://raw.githubusercontent.com/isomerpages/moe-ncps/staging/images/Our%20Curriculum_English/ict%20curriclum%20resized.png" class="slide" width="500" height="300" />
-        <img src="https://raw.githubusercontent.com/isomerpages/moe-ncps/staging/images/Our%20Curriculum_English/ict%20curriclum%202%20resized.png" class="slide" width="500" height="300" />
-      </div>
-      <div class="buttons">
-        <a href="#slide-1"></a>
-        <a href="#slide-2"></a>
-        <a href="#slide-3"></a>
-      </div>
-    </div>
-  </body>
-</html>
-
+![](/images/Our%20Curriculum_English/ict%20collated.png)
+![](/images/Our%20Curriculum_English/moo%20o%20resized.png)
+###### **iCT** **in the curriculum:** Moo- ‘O’
+![](/images/Our%20Curriculum_English/moo%20o%202%20final.png)
 ##### **Learning English Through Fun & Games** 
 
 * Games are a fun way to practise English – it can be a really motivating way to learn a language.
 * Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way.
 * Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time.
+![](/images/Our%20Curriculum_English/learning%20fun%20games.png)
+![](/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png)
 
-**Stage 1: Exposure**  
-**\[1\] National Geographic Kids**  
-It provides an additional reading resource as we extend students’ learning and expose them to the world around them.
-<img src="/images/el_8.png"  
-style="width:75%">
+##### **Experiential Learning**  
+   
+* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts.
+* Students learn in a variety of ways, so it is important to teach using multiple methods. By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning.
+![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
 
-**Stage 2 : Experiential**
-**\[2\] Little Red Dot** <br>It is an English Language reading supplement to sharpen students’ critical thinking and improve their reading skills as they gain a deeper understanding of the issues that impact the world we live in. Students are encouraged to send their entries to LRD.
+![](/images/Our%20Curriculum_English/capturing%20learning%20moments.png)
+![](/images/Our%20Curriculum_English/capturing%20learning%20moments%202.png)
 
-<img src="/images/el-10.png"  
-style="width:75%">
-
-**Stage 3 : Enhancement** <br>
-**\[3\] ACE Magazine** <br>
-It is a reading resource designed and written in an engaging manner that brings together news, current affairs, history, culture, technology, Science and media into a comprehensive reading supplement for our students. Its wide coverage opens the students’ horizons and also facilitates the continuous discussion that our teachers conduct with our students in and beyond the classrooms.
-
-![ACE Magazine](/images/el_11.png)
-
-<img src="/images/el_11.png"  
-style="width:75%">
-
-### **Holistic Assessment**  
-Guided by the principles of Assessment OF Learning (AoL) and Assessment FOR Learning (AfL), we monitor students’ learning through a wide range of assessment modes, which are used to provide feedback to facilitate future learning (formative) and to ascertain students’ level of language competency at that point in time (summative). The various modes of assessment include:
-
-1.  Performance-based Assessment such as show-and-tell and reading aloud and Mastery Tests for Lower Primary
-2.  Mid-Year & Year-End Semestral Assessment (SA) – for middle primary
-3.  CAs and SAs – for upper primary
-4.  Primary 3 to 6 students go through a reflection process after Term 2 and Term 3 assessments.
 
 <img src="/images/el-13.png"  
 style="width:75%">
