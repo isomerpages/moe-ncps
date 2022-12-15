@@ -130,7 +130,3 @@ technology for learning and can:
 
 ![](/images/Our%20Curriculum_English/capturing%20learning%20moments.png)
 ![](/images/Our%20Curriculum_English/capturing%20learning%20moments%202.png)
-
-
-<img src="/images/el-13.png"  
-style="width:75%">
