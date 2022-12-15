@@ -24,12 +24,12 @@ Our Science programmes are designed to provide opportunities for our students to
 
 ##### **Inquiry-based Learning**
 Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using the BSCS (Biological Sciences Curriculum Study) 5E Instructional model. Students are provided with opportunities to engage in meaningful learning of key scientific ideas as they are taken through the 5 key stages of learning in the 5E Instructional Model – Engage, Explore, Explain, Elaborate and Evaluate. Students carry out hands-on investigations and apply scientific knowledge using various process skills. Through active learning, students acquire the skills to synthesize knowledge, transfer their learning in varied contexts and make connections with their surroundings
-
-
+![](/images/Our%20Curriculum%20Science/Inquiry%201.jpg)
+![](/images/Our%20Curriculum%20Science/Inquiry%202.jpg)
 ##### **Use of Dataloggers and IT Resources**
 
 At various levels, students are actively engaged in learning with the use dataloggers to conduct simple investigations. Harnessing the affordances in technology, lessons are designed to provide platforms for students to learn seamlessly - both in classroom and out-of-classroom, both within and after curriculum time. Students will embark on online learning using Singapore Student Learning Space (SLS) as well as mobile learning using iPads. Through the use of devices and various online platforms, the learning of Science can be conducted both in-school and out-of-school.
-
+![](/images/Our%20Curriculum%20Science/data%20loggers%20IT%20resources.jpg)
 ##### **Young Scientist Badge Scheme**
 Apart from learning about scientific conceptual knowledge, our students are also equipped with procedural skills akin to what real-life scientists have through carrying out hands-on investigations, collecting data and making sense of them. 
 
@@ -47,14 +47,10 @@ The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetla
 ##### **Science@Recess**
 
 Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
+![](/images/Our%20Curriculum%20Science/science%20@%20recess.png)
 
 
-
-Our garden acts as the ‘outdoor’ classroom, for students to be engaged in exploring different species of plants and animals in their natural environment. This provides them an outdoor experiential learning opportunity to learn and know more about the different plants and animals around them.
 
 ##### **Science Enrichment Programme (E2K)**
 
 Selected Primary 4 and 5 students are given opportunities to engage in scientific investigations involving advanced Science concepts. This programme aims to stimulate curiosity and to further develop and strengthen our students’ abilities to study phenomena and their possible causes in scientific investigations and discourse. Through this programme, students learn to work harmoniously in groups and work towards a common goal in solving problems.
-
-
-
