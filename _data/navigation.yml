@@ -5,7 +5,7 @@ links:
   - title: Our Team
     collection: our-team
   - title: Our Curriculum
-    collection: our-curriculum
+    collection: bicep
   - title: Co-Curricular Activities
     collection: co-curricular-activities
   - title: Parents & Students
@@ -17,7 +17,3 @@ links:
         url: /partners-and-stakeholders/nc-alumni-association
       - title: NC Parent Support Group
         url: /nc-parent-support-group/home
-  - title: BiCEP
-    collection: bicep
-  - title: GAP
-    collection: bicep
