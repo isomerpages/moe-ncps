@@ -39,5 +39,3 @@ Students expressing gratitude to our community partners and the school’s clean
 
 ![](/images/Our%20Curriculum_CCE/CCE%208.png)
 Students interacting with the seniors in the Intergenerational Learning Programme
-
-
