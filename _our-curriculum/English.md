@@ -110,7 +110,7 @@ In addition , NCPS students are digital learners who leverage
 technology for learning and can:
 * find, think, apply and digitally create.
 * navigate the digital space in a safe and responsible way.
-
+![](/images/Our%20Curriculum_English/ict%20collated.png)
 
 ### **School-based Reading Programme** <br>
 
