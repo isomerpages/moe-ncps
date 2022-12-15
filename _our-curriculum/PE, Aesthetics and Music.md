@@ -5,7 +5,7 @@ description: ""
 ---
 Physical Education, Art and Music curriculum plays an important role in the holistic development of students in Nan Chiau Primary School.
 
-![Physical Education, Art and Music curriculum plays an important role in the holistic development of students in Nan Chiau Primary School.](/images/PE,%20Aesthetics%20and%20Music_1.png)
+![](/images/Our%20Curriculum_PAM/pam%201.png)
 
 The overall aim of the PE, Music and Art education is to promote Physical Education, Music & Art in 3 aspects: KNOWLEDGE, SKILLS and VALUES
 
@@ -29,8 +29,11 @@ Students are also encouraged to keep fit by engaging in sports and games during 
 
 These activities are often in line with the NE related theme and festivities.
 
-<img src="/images/play@recess.png"  
-style="width:50%">
+![](/images/Our%20Curriculum_PAM/pam%202.jpg)
+
+![](/images/Our%20Curriculum_PAM/pam%203.jpg)
+
+![](/images/Our%20Curriculum_PAM/pam%204.jpg)
 
 #### **Harnessing of Technology**
 
