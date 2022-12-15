@@ -7,19 +7,17 @@ description: ""
 
 The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
 
-### **Vision**  
+### **Vision** 
+
 Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
 ### **Mission**  
+
 To instil the love of English Language Learning and Reading through different strategies and foster life-long learning by Integrating 21 CC and values into the curriculum.
 
 ### **Our Approach**  
-At NCPS, we aim to equip students with a strong foundation in reading,
-writing, speaking, listening, viewing & representing skills for effective
-communication and provide an enjoyable language learning experience
-through explicit instruction and communicative approach to language
-development anchored on the English Language Syllabus 2020 (MOE,
-Singapore).
+   
+At NCPS, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing & representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development anchored on the English Language Syllabus 2020 (MOE, Singapore).
 
 ### **Core Curriculum**  
 STELLAR (Strategies for English Language Learning and Reading) is the core
