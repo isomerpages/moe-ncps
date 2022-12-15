@@ -46,9 +46,8 @@ The competitions which we participate in:
 
 ### **Key Programmes**
 
-**1. ‘I am a young Mathematics star’**<img src="/images/Our%20Curriculum%20Math/Math-Star-300x157.png" 
-width="40 px" 
- height="30 px">
+**1. ‘I am a young Mathematics star’**
+![](/images/Our%20Curriculum%20Math/star%20resized.png)
 
 
 To build our students’ interests and confidence in Mathematics, the department designed simple and fun activities to engage them to connect Mathematics with their daily life experiences, and experience successes in Mathematics.
