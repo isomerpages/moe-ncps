@@ -26,8 +26,7 @@ Every child is a _creative problem solver_ (innovative, think of different way
 
 ### **Differentiated Instruction** 
 **To stretch, enhance, and support**
-
-![DIFFERENTIATED INSTRUCTION to stretch, enhance, and support](/images/Math-Model.png)
+![Differentiated instruction](/images/Our%20Curriculum%20Math/Math-Model.png)
 
 To better support students who need more reinforcement in their learning of Mathematics, the department has Learning Support for Mathematics (LSM) programmes for selected Primary One and Primary Two students. Students are put into smaller groups so that the teacher can customize activities based on their learning progress.
 
@@ -48,6 +47,7 @@ The competitions which we participate in:
 ### **Key Programmes**
 
 **1. ‘I am a young Mathematics star’**
+![](/images/Our%20Curriculum%20Math/Math-Star-300x157.png)
 
 <img src="/images/Math-Star-300x157.png"  
 style="width:60%">
