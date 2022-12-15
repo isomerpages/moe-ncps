@@ -20,6 +20,7 @@ To instil the love of English Language Learning and Reading through different st
 At NCPS, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing & representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development anchored on the English Language Syllabus 2020 (MOE, Singapore).
 
 ### **Core Curriculum**  
+
 STELLAR (Strategies for English Language Learning and Reading) is the core
 curriculum which the school adopts for English Language. STELLAR aims to
 strengthen children’s language and reading skills as well as promote a
@@ -31,7 +32,6 @@ engage children in the learning of English.
 
 ### **English Department Programmes**  
    
-
 **Readers for Life**
 
 * T-Rex  (Time for Reading EXposure) (P1-P6)
@@ -111,15 +111,18 @@ technology for learning and can:
 * find, think, apply and digitally create.
 * navigate the digital space in a safe and responsible way.
 ![](/images/Our%20Curriculum_English/ict%20collated.png)
+
 ![](/images/Our%20Curriculum_English/moo%20o%20resized.png)
 ###### **iCT** **in the curriculum:** Moo- ‘O’
 ![](/images/Our%20Curriculum_English/moo%20o%202%20final.png)
+
 ##### **Learning English Through Fun & Games** 
 
 * Games are a fun way to practise English – it can be a really motivating way to learn a language.
 * Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way.
 * Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time.
 ![](/images/Our%20Curriculum_English/learning%20fun%20games.png)
+
 ![](/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png)
 
 ##### **Experiential Learning**  
