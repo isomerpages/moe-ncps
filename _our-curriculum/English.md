@@ -8,7 +8,7 @@ description: ""
 The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
 
 ### **Vision**  
-Our students are active listeners, effective readers, inspiring speakers talented writers, and passionate learners of integrity.
+Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
 ### **Mission**  
 To instil the love of English Language Learning and Reading through different strategies and foster life-long learning by Integrating 21 CC and values into the curriculum.
