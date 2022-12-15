@@ -37,4 +37,3 @@ Students taking Chinese Language as their Mother Tongue go through Chinese theat
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%201.jpg)
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%202.jpg)
-
