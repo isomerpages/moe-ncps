@@ -31,45 +31,30 @@ Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using t
 At various levels, students are actively engaged in learning with the use dataloggers to conduct simple investigations. Harnessing the affordances in technology, lessons are designed to provide platforms for students to learn seamlessly - both in classroom and out-of-classroom, both within and after curriculum time. Students will embark on online learning using Singapore Student Learning Space (SLS) as well as mobile learning using iPads. Through the use of devices and various online platforms, the learning of Science can be conducted both in-school and out-of-school.
 
 ##### **Young Scientist Badge Scheme**
+Apart from learning about scientific conceptual knowledge, our students are also equipped with procedural skills akin to what real-life scientists have through carrying out hands-on investigations, collecting data and making sense of them. 
+
+With the aim of inspiring students to love Science and encourage self-directed learning, the Primary 3 and 4 students embark on the Young Scientist Badge Scheme. The Young Scientist Badge Scheme stimulates interest in Science activities among students and enables students to carry out self-directed activities in various disciplines of Science. 
 
 
-##### **Young Scientist Badge Scheme**
+##### **Learning Journey**
 
-Our NCPS Science teachers are always coming up with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage the pupils in simple hands-on activities. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play.
+Learning Journeys form an integral part of the Science curriculum in NCPS. In making Science concepts relevant, our students are brought outdoors to various places in Singapore to allow them the opportunities to see, feel, touch and hear the natural environment. Such meaningful learning journeys will help students understand the scientific concepts behind what they have observe in their surroundings. 
 
-<img src="/images/science%20@%20recess.png"  
-style="width:40%">
+For instance, the Primary 3 students visited the Singapore Zoological Garden to learn more about the Animal Kingdom.  They are tasked to complete a few online activities which were accessed via the smart devices. Through this experiential learning, students are given the opportunity to observe the characteristics of different animal groups such as mammals, birds and fish closely. Students also learnt to work collaboratively in groups and communicate their findings.
+The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetland Reserve. This learning journey emphasizes taking the learning process and experience beyond the classroom, but keeping it rooted to the curriculum. Through such authentic learning experience, students make observations to the mangrove swamp habitat and community and share findings with their peers.
 
-<img src="/images/science%20@%20recess2.png"  
-style="width:40%">
 
-### **Eco-garden**
+##### **Science@Recess**
 
-Our garden provides green pockets of garden landscape in the school which serves both aesthetic and educational purposes. There are habitats for butterflies, plots of flowering plants, fruit trees, herbs, cacti and climbers, and a rotting log and leaf litter.  It is common that students get to spot some ‘visitors’ to our gardens like caterpillars, butterflies and birds. The garden also features an eco-pond complete with a huge clear glass tank and submerged water plants and a wooden viewing platform.
+Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
 
-<img src="/images/eco-garden.png"  
-style="width:40%">
+
 
 Our garden acts as the ‘outdoor’ classroom, for students to be engaged in exploring different species of plants and animals in their natural environment. This provides them an outdoor experiential learning opportunity to learn and know more about the different plants and animals around them.
 
-### **Science Laboratories**
+##### **Science Enrichment Programme (E2K)**
 
-Our school currently has 2 Science laboratories – Einstein Room and Newton Room for students to experiment and participate in hands-on activities.
-
-### **Learning Journeys**
-
-In making Science concepts relevant, the students are brought outdoors to various places in Singapore to allow them the opportunity to see, feel, touch and hear the natural environment and understand the concepts behind what they observe in their surroundings.
-
-### **P3@The Singapore Zoo**
-
-As part of the P3 Seamless Learning programme, all the Primary 3 students visited the Singapore Zoo to learn more about the Animal Kingdom.  They were tasked to complete a few online activities which were accessed via the smart devices. Through this experiential learning, they were exposed to the different groups of animals and their characteristics and experienced authentic learning in a real zoo environment.
+Selected Primary 4 and 5 students are given opportunities to engage in scientific investigations involving advanced Science concepts. This programme aims to stimulate curiosity and to further develop and strengthen our students’ abilities to study phenomena and their possible causes in scientific investigations and discourse. Through this programme, students learn to work harmoniously in groups and work towards a common goal in solving problems.
 
 
-<img src="/images/p3%20@%20singapore%20zoo.jpg"  
-style="width:70%">
 
-<img src="/images/p3%20@%20singapore%20zoo2.jpg"  
-style="width:70%">
-
-<img src="/images/p3%20@%20singapore%20zoo3.jpg"  
-style="width:70%">
