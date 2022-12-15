@@ -39,11 +39,10 @@ Website: [http://www.asencio.com.sg](http://www.asencio.com.sg/)
 | Closed unless specified by School |  |    |
 
 
-### **School Bus Operator – Poh Lee Bus Transport Pte. Ltd**
+### **School Bus Operator – Polly Transport Services**
 
-Liaison Officer:    Ms Susan 9069 3357  
-Tel: 68629691  
-Email Address [smile@pohleetransport.com.sg](mailto:smile@pohleetransport.com.sg)
+Liaison Officer:    Ms Susan 9069 3357 / Mr Darrell 9226 7131  
+Email: pollytransport@hotmail.com
 
 [  
 ](https://www.ncps.moe.edu.sg/our-school/school-vendors/#top)
