@@ -37,6 +37,3 @@ The experiential journey provides a real-life connection with the BiCEP curricul
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg)
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP6.jpg)
-
-
-
