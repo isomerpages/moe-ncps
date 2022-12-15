@@ -81,7 +81,7 @@ style="width:60%">
 
 We strongly believes that students have a deeper understanding of the concepts learnt through hands-on activities. Through these activities using Math manipulative, students are able to better grasp their concepts and apply the concepts in the assigned tasks.
 
-![CONCRETE – pictorial – abstract](/images/concrete%201.png)
+![](/images/Our%20Curriculum%20Math/concrete%201.png) 
+![](/images/Our%20Curriculum%20Math/concrete%202.png)
 
-![](/images/Our%20Curriculum%20Math/concrete%201.png)
 ![CONCRETE – pictorial – abstract](/images/concrete%202.png)
