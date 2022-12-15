@@ -86,4 +86,5 @@ We strongly believes that students have a deeper understanding of the concepts l
 
 ![CONCRETE – pictorial – abstract](/images/concrete%201.png)
 
+![](/images/Our%20Curriculum%20Math/concrete%201.png)
 ![CONCRETE – pictorial – abstract](/images/concrete%202.png)
