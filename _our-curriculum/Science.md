@@ -5,27 +5,35 @@ description: ""
 ---
 ### **Department Vision**
 
-To instill curiosity and an inquiring mind for Science and the world around them.
+Active Inquirers, Lifelong and Confident Learners
 
 ### **Department Mission**
 
-Provide a holistic Science education through innovative yet fun programmes to increase their knowledge and instil a love in the world around them.
+•	Building a strong foundation in Science to allow students to possess scientific mindsets 
+•	Providing a holistic education with a strong focus on demonstrating ways of thinking and doing in Science 
+•	Instilling curiosity and providing students with experiences to inquire like scientists
 
-### **Key Programmes**
 
-At Nan Chiau Primary School, we believe that every child is curious about the world they live in and that Science is a part of our daily life around us. The learning of Science takes place beyond classrooms to make Science relevant to the real world around them.
+### **Science Experiences And Programmes**
 
-Central to the curriculum framework for Primary Science is the inculcation of the spirit of scientific inquiry. Our Science teachers equipped them with relevant skills and attitudes as well as provide them with experiences which stimulate their curiosity about themselves and the world around them.
+Guided by the Ministry of Education’s (MOE) Science Curriculum Framework, our Science curriculum aims to equip our students with the scientific literacy and disposition to inquire and understand themselves and the world around them. 
+At Nan Chiau Primary School, we provide students with experiences which build on their interest in and stimulate their curiosity about the world around them. These learning experiences provide students with opportunities to develop skills, positive habits of mind and attitudes necessary for scientific inquiry. Learning of Science also takes place beyond the classrooms to enrich students’ experiences and make Science relevant to the real world around them.
+Our Science programmes are designed to provide opportunities for our students to explore, investigate and discover scientific knowledge. We want our students to be curious and concerned about their surroundings. We seek to fuel this spirit of inquiry and hope that our students can appreciate how Science influences people and the environment.
 
-### **Seamless Learning Programme**
 
-Our students live in a digital world, and the use of technologies such as instant messaging, video sharing, photo sharing, social network tools, podcasting and blogging are integrated into their lifestyles. The use of these technologies facilitates communication, collaboration, sharing and learning in informal settings with their peers, friends and family unbounded by time and location.
 
-One of the fundamental challenges for the 21st century learners is not only what they learn, but also how and when they learn. Seamless learning is designed to help students develop Science process skills, positive habits of mind and ethics/attitudes necessary for scientific inquiry.
+##### **Inquiry-based Learning**
+Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using the BSCS (Biological Sciences Curriculum Study) 5E Instructional model. Students are provided with opportunities to engage in meaningful learning of key scientific ideas as they are taken through the 5 key stages of learning in the 5E Instructional Model – Engage, Explore, Explain, Elaborate and Evaluate. Students carry out hands-on investigations and apply scientific knowledge using various process skills. Through active learning, students acquire the skills to synthesize knowledge, transfer their learning in varied contexts and make connections with their surroundings
 
-With the mobile technologies at hand, students can learn seamlessly—both in classroom and out of classroom, both within and after school curriculum time. The learning space is no longer defined by the ‘class’ but by ‘learning’ unconstrained by scheduled class hours or specific locations.
 
-### **Science@Recess**
+##### **Use of Dataloggers and IT Resources**
+
+At various levels, students are actively engaged in learning with the use dataloggers to conduct simple investigations. Harnessing the affordances in technology, lessons are designed to provide platforms for students to learn seamlessly - both in classroom and out-of-classroom, both within and after curriculum time. Students will embark on online learning using Singapore Student Learning Space (SLS) as well as mobile learning using iPads. Through the use of devices and various online platforms, the learning of Science can be conducted both in-school and out-of-school.
+
+##### **Young Scientist Badge Scheme**
+
+
+##### **Young Scientist Badge Scheme**
 
 Our NCPS Science teachers are always coming up with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage the pupils in simple hands-on activities. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play.
 
