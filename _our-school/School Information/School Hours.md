@@ -37,7 +37,7 @@ Flag raising and pledge taking will commence at 7.30am.  Students are strongly 
 | Gate B | 6.50 am - 7.25 am <br/>1.20 pm - 2.00 pm |      |
 | Gate C | 6.50 am - 7.25 am <br/>1.20 pm - 2.00 pm <br/>4.00 pm - 4.30 pm* |      |
 
-**\*** <font size="3">Only on CCA & Coaching days</font>
+\* <font size="3">Only on CCA & Coaching days</font>
 
 ### **General Office Opening Hours**
 
