@@ -4,12 +4,10 @@ permalink: /co-curricular-activities/sports-games/netball-2/
 description: ""
 third_nav_title: Sports & Games
 ---
-
-
 |Name of CCA | Netball|  |
 | -------- | ------- | --------------- |
 |Day | Thursday & Friday | 
-| Time |Thursday </br>2.30 - 3.30 pm (P3) </br>3.30 - 4.30 pm (P4)  |Friday </br>2.30 - 3.30 pm (P3)</br>3.30 - 4.30 pm (P4)  | 
+| Time |Thursday</br>2.30 - 3.30 pm (P3) </br>3.30 - 4.30 pm (P4)  |Friday</br>2.30 - 3.30 pm (P3)</br>3.30 - 4.30 pm (P4)  | 
 |Teachers-in-charge |Ms Tan Soi Moy (IC)</br>Madam Norzila Wagimin (IC)</br>Miss Putri Azyan</br>Madam Haryani| 
 |Events participated    |National School  Games<br/>Basketball Tournament
 
