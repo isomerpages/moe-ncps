@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/sports-games/basketball/
 description: ""
 third_nav_title: Sports & Games
 ---
-| Name of CCA | Basketball |  |
+|Name of CCA|Basketball|  |
 | -------- | ----------- | --------------- |
 |Day | Thursday | 
 | Time |2.30 - 3.30 pm (Recreational team) |3.30 - 4.30 pm (School team)| 
