@@ -7,8 +7,8 @@ third_nav_title: Sports & Games
 |Name of CCA | Netball|  |
 | -------- | ------- | --------------- |
 |Day | Thursday & Friday | 
-| Time |Thursday</br>2.30 - 3.30 pm (P3) </br>3.30 - 4.30 pm (P4)  |Friday</br>2.30 - 3.30 pm (P3)</br>3.30 - 4.30 pm (P4)  | 
-|Teachers-in-charge |Ms Tan Soi Moy (IC)</br>Madam Norzila Wagimin (IC)</br>Miss Putri Azyan</br>Madam Haryani| 
+| Time |Thursday  2.30 - 3.30 pm (P3) 3.30 - 4.30 pm (P4)  |Friday 2.30 - 3.30 pm (P3)</br>3.30 - 4.30 pm (P4)  | 
+|Teachers-in-charge |Ms Tan Soi Moy (IC)</br>Madam Norzila Wagimin (IC) Miss Putri Azyan Madam Haryani| 
 |Events participated    |National School  Games<br/>Basketball Tournament
 
 During each training, the girls are taught dynamic stretches which will help them to warm up the targeted major muscle groups. The girls will then perform some ball handling drills to increase their familiarisation with the ball. Refinement tasks are also carried out on the girls to hone their attacking skills such as shooting, using off-the-ball movements to move away from defender, receiving the ball effectively from the thrower etc. Rules of the game are introduced as the girls play the netball game. These real life experiences will definitely help them to remember the rules better.
