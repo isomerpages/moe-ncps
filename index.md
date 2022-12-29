@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage/NCPS.gif
       key_highlights:
         - title: School Vision
-          description: An Innovative School where Inspiring Educators Nurture Future-ready
+          description: An Innovative School where Inspiring Educators nurture Future-ready
             Leaders
           url: ""
         - title: School Mission
