@@ -30,7 +30,7 @@ engage children in the learning of English.
 
 ![](/images/Our%20Curriculum_English/what_is_stellar-feature-1024x348.jpg)
 
-### **English Department Programmes**  
+### **Key Programmes**  
    
 **Readers for Life**
 
@@ -132,4 +132,3 @@ technology for learning and can:
 
 
 ![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
-
