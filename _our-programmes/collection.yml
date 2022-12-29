@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  our-programmes:
     output: true
     order:
       - NCPS Curriculum.md
