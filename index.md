@@ -39,4 +39,12 @@ sections:
         Briefing Slides.
       button: Read More
       url: /lp-press/parents-briefing-slides/
+  - infopic:
+      title: Termly Bulletin
+      description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
+        Monthly Bulletin.
+      button: Read More
+      url: /lp-press/ncps-monthly-bulletin-january-2020/
+      image: /images/Homepage/Website-Bulletin-Thumbnail-1.jpg
+      alt: Image alt text
 ---
