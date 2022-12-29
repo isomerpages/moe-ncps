@@ -116,6 +116,11 @@ technology for learning and can:
 ###### **iCT** **in the curriculum:** Moo- ‘O’
 ![](/images/Our%20Curriculum_English/moo%20o%202%20final.png)
 
+##### **Experiential Learning**  
+   
+* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts.
+* Students learn in a variety of ways, so it is important to teach using multiple methods. By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning.
+
 ##### **Learning English Through Fun & Games** 
 
 * Games are a fun way to practise English – it can be a really motivating way to learn a language.
@@ -125,11 +130,6 @@ technology for learning and can:
 
 ![](/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png)
 
-##### **Experiential Learning**  
-   
-* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts.
-* Students learn in a variety of ways, so it is important to teach using multiple methods. By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning.
+
 ![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
 
-![](/images/Our%20Curriculum_English/capturing%20learning%20moments.png)
-![](/images/Our%20Curriculum_English/capturing%20learning%20moments%202.png)
