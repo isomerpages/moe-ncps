@@ -17,7 +17,7 @@ description: ""
 <html>
 <body>
 <p><a href="https://schoolibrary.moe.edu.sg/nanchiaupri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/NCPS-OPAC.jpg"  style="width:35%">
+<img src="/images/Useful%20LInks%20for%20Students/NCPS-OPAC.jpg"  style="width:35%">
 </a></p>
 </body>
 </html>
@@ -27,7 +27,7 @@ description: ""
 <html>
 <body>
 <p><a href="https://www.ezhishi.net/Contents/">
-<img src="/images/ezhishi.png"  style="width:35%">
+<img src="/images/Useful%20LInks%20for%20Students/ezhishi.png"  style="width:35%">
 </a></p>
 </body>
 </html>
@@ -37,7 +37,7 @@ description: ""
 <html>
 <body>
 <p><a href="https://www.koobits.com/">
-<img src="/images/KooBits.png"  style="width:35%">
+<img src="/images/Useful%20LInks%20for%20Students/KooBits.png"  style="width:35%">
 </a></p>
 </body>
 </html>
