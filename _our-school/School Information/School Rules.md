@@ -14,7 +14,7 @@ third_nav_title: School Information
 --------------------
 **We Respect Ourselves**
 
-*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. Students are to wear school uniform on days without CCA or PE/PAL lessons.
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed. 
 *   School shoes must be completely black and worn with a pair of black school socks.
 *   All students must be neatly groomed. All male students must be clean shaven, and no wearing of beards and moustache.
 
