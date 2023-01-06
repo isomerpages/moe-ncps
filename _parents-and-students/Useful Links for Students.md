@@ -3,10 +3,11 @@ title: Useful Links for Students
 permalink: /useful-links/
 description: ""
 ---
+
 <html>
 <body>
-<p><a href="https://vle.learning.moe.edu.sg/login">
-<img src="/images/New-SLS-300x225.png"  style="width:35%">
+<p><a href="![https://vle.learning.moe.edu.sg/login](/images/Useful%20LInks%20for%20Students/New-SLS-300x225.png)">
+<img src="/images/useful links for students/New-SLS-300x225.png"  style="width:35%">
 </a></p>
 </body>
 </html>
