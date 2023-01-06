@@ -25,7 +25,7 @@ third_nav_title: School Information
 
 **We Respect This Place**
 
-*   Students are to consume food and drinks at the canteen only.
+*   Students are to consume food and drinks at the canteen during recess and lunch.
 *   Students are to return the used utensils to the respective collection point after meals.
 *   Students are to care for the school environment and school property.
 
