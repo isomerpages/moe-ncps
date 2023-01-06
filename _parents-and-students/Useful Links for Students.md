@@ -5,8 +5,9 @@ description: ""
 ---
 <html>
 <body>
-<p><a href="![https://vle.learning.moe.edu.sg/login](/images/Useful%20LInks%20for%20Students/SLS.png)">
-<img src="/images/Useful Links for Students/SLS.png"  style="width:35%">
+<p><a href="https://vle.learning.moe.edu.sg/login">
+<img 
+src="/images/Useful Links for Students/SLS.png"  style="width:35%">
 </a></p>
 </body>
 	
