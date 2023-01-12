@@ -10,7 +10,7 @@ Operating hours *
 
 |  | School Term | School Holidays | 
 | -------- | -------- | -------- | 
-| Opening Hours | Monday to Friday <br/>(8.00 am - 5.00 pm) <br/> Alternate weeks | Monday to Friday <br/>(8.00 am - 5.00 pm) <br/> Alternate weeks| 
+| Opening Hours | Monday to Friday <br/>(8.00 am - 5.00 pm) <br/> Alternate week | Monday to Friday <br/>(8.00 am - 5.00 pm) <br/> Alternate week| 
 | Lunch Hours | Monday to Friday <br/>(1.00 pm - 2.00 pm) | Monday to Friday <br/>(1.00 pm - 2.00 pm) |
                                        
 
