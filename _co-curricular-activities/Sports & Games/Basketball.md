@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 |Name of CCA|Basketball|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
-| Time |2.30 - 3.30 pm (Recreational team) |3.30 - 4.30 pm (School team)| 
+| Time |2.30 - 3.30 pm (Recreational team)<br/> 3.30 - 4.30 pm (School team) 
 |Teachers-in-charge | Mrs Annie Ng (IC)<br/>Mr Poh Echen<br/> Mrs Song Ai Koon <br/>Mr Ves Chee
 |Events participated    |National School  Games<br/>Basketball Tournament
 
