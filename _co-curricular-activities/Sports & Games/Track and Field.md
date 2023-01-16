@@ -10,4 +10,6 @@ third_nav_title: Sports & Games
 	
 <p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: inherit; font-size: inherit;">Through the CCA, students will be able to develop social skills, team building, perseverance, hard work and character building. With the knowledge acquired, the athletics skills and values learnt. Students will develop the passion for the sport, take it up as a healthy hobby in future and hopefully develop as sportsmen of integrity.</span></p></td></tr></tbody></table>
 
-		<img src="/images/CoCurricularActivities/TracknField/Track&field01.jpg" style="width:50%">
+		<img src="/images/CoCurricularActivities/TracknField/Tracknfield01.jpg" style="width:200px">
+		
+		![](/images/CoCurricularActivities/TracknField/Tracknfield01.jpg)
