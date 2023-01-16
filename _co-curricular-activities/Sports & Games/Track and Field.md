@@ -12,4 +12,3 @@ third_nav_title: Sports & Games
 
 <img src="/images/CoCurricularActivities/TracknField/Tracknfield01.jpg">
 
-![](/images/CoCurricularActivities/TracknField/Tracknfield01.jpg)
