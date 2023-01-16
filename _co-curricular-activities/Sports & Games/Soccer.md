@@ -13,6 +13,6 @@ third_nav_title: Sports & Games
 
 Through the Soccer CCA, students will be able to develop social skills and build their self-confidence through team play. They will also learn fundamental soccer skills and basic knowledge of the game. With the knowledge acquired, students are likely to develop a passion for the sport and take it up as a healthy hobby in future. The students who are more capable may develop themselves into aspiring footballers in future. The CCA also serves as a platform for the students to develop character and internalize the CC skills so that they can hopefully develop as sportsmen of integrity.
 
-![](/images/Co%20Curricular%20Activities/Scoccer/Soccer%201.jpeg)
+![](/images/CoCurricularActivities/Scoccer/Soccer%201.jpeg)
 
-![](/images/Co%20Curricular%20Activities/Scoccer/Soccer%2016.jpeg)
+![](/images/CoCurricularActivities/Scoccer/Soccer%2016.jpeg)
