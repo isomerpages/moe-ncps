@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - NCPS Curriculum/.keep
       - NCPS Curriculum.md
       - English.md
       - Mathematics.md
