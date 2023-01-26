@@ -2,6 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
+      - Nan Chiau Enriched Curriculum/Watch Me Soar (Applied Learning
+        Programme).md
       - Nan Chiau Enriched Curriculum/Global Awareness Programme.md
       - Nan Chiau Enriched Curriculum/BiCEP.md
       - Nan Chiau Enriched Curriculum/Nan Chiau Enriched Curriculum.md
