@@ -2,12 +2,12 @@ collections:
   our-programmes:
     output: true
     order:
+      - Nan Chiau Enriched Curriculum/.keep
+      - Nan Chiau Enriched Curriculum/Nan Chiau Enriched Curriculum.md
+      - Nan Chiau Enriched Curriculum/BiCEP.md
+      - Nan Chiau Enriched Curriculum/Global Awareness Programme.md
       - Nan Chiau Enriched Curriculum/Watch Me Soar (Applied Learning
         Programme).md
-      - Nan Chiau Enriched Curriculum/Global Awareness Programme.md
-      - Nan Chiau Enriched Curriculum/BiCEP.md
-      - Nan Chiau Enriched Curriculum/Nan Chiau Enriched Curriculum.md
-      - Nan Chiau Enriched Curriculum/.keep
       - NCPS Curriculum/Programme for Active Learning (PAL).md
       - NCPS Curriculum/Character and Citizenship Education.md
       - NCPS Curriculum/PE, Aesthetics and Music.md
