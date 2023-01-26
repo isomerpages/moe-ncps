@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - NCPS Curriculum/.keep
-      - NCPS Curriculum/Programme for Active Learning (PAL).md
-      - NCPS Curriculum/Character and Citizenship Education.md
-      - NCPS Curriculum/PE, Aesthetics and Music.md
-      - NCPS Curriculum/Mother Tongue.md
-      - NCPS Curriculum/Science.md
-      - NCPS Curriculum/Mathematics.md
-      - NCPS Curriculum/English.md
       - NCPS Curriculum/NCPS Curriculum.md
+      - NCPS Curriculum/English.md
+      - NCPS Curriculum/Mathematics.md
+      - NCPS Curriculum/Science.md
+      - NCPS Curriculum/Mother Tongue.md
+      - NCPS Curriculum/PE, Aesthetics and Music.md
+      - NCPS Curriculum/Character and Citizenship Education.md
+      - NCPS Curriculum/Programme for Active Learning (PAL).md
       - Nan Chiau Enriched Curriculum/.keep
       - Nan Chiau Enriched Curriculum/Nan Chiau Enriched Curriculum.md
       - Nan Chiau Enriched Curriculum/BiCEP.md
