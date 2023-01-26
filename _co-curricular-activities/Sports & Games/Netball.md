@@ -6,8 +6,8 @@ third_nav_title: Sports & Games
 ---
 |Name of CCA | Netball|  |
 | -------- | ---------- | --------------- |
-|Day | Thursday & Friday | 
-| Time |Thursday<br/>2.30 - 3.30 pm (P3) <br/>3.30 - 4.30 pm (P4)<br/> <br/>Friday<br/> 2.30 - 3.30 pm (P3)</br>3.30 - 4.30 pm (P4) 
+|Day | Thursday| 
+| Time |2.00 p.m. - 4.00 p.m.  
 |Teachers-in-charge |Madam Haryani (IC)<br>Madam Norzila Wagimin (IC)<br> Madam Tan Bee Khuan Sally| 
 |Events participated    |National School  Games<br/>Basketball Tournament
 
