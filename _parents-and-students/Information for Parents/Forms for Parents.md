@@ -7,6 +7,7 @@ third_nav_title: Information for Parents
 **MOE Financial Assistant Scheme (FAS)**
 
 *   [MOE FAS Application Form](/files/Forms%20for%20Parents/GGAS_Application%20Form%20Nov%202022.pdf)
+*   [Click here for more info on FAS](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 *  https://www.moe.gov.sg/financial-matters/financial-assistance
 
