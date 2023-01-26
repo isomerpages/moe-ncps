@@ -17,7 +17,7 @@ description: ""
 </tbody></table>
 
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 65px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;"><b>Mathematics</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;">Mrs Ang Hwee Ming Victoria<br>Mrs Elizabeth Wang<br>Mr Ves Chee Kim Lee<br></td><td style="box-sizing: inherit; padding: 5px 10px; width: 263.75px;">Head of Department<br>Subject Head<br>Senior Teacher (Mathematics)</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"></tr></tbody></table>
+
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 65px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;"><b></b></td></tr></tbody></table>
 	
