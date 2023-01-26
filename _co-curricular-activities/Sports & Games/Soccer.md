@@ -7,7 +7,7 @@ third_nav_title: Sports & Games
 |Name of CCA | Soccer |  |
 | -------- | ----------- | ----------------- |
 |Day | Thursday & Friday  | 
-| Time |2.00 - 4.00 pm || 
+| Time |2.00 p.m. - 4.00 pm || 
 |Teachers-in-charge | Ms Wong Sook Young Jane (IC)<br/>Madam Muliyati Kamis (IC) <br/> Miss Siti Nurhazlin <br/>Mrs Devi Manimaran | 
 |Events participated    |National School  Games<br/>VIA@AWWA
 
