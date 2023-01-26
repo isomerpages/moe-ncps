@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/NCPS.gif
+      background: /images/Homepage/NCPS2023.gif
       key_highlights:
         - title: School Vision
           description: An Innovative School where Inspiring Educators nurture Future-ready
