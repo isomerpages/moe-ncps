@@ -18,11 +18,3 @@ description: ""
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 65px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;"><b></b></td></tr></tbody></table>
 	
-
-
-
-
-
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 792.225px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 65px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;"><b>Student Development Team (SDT)</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 263.737px;">Ms Nur Fadzilah Binte Noor Mohd<br>Mr Tan Swee Meng<br><br>Madam Siti Hajar Binte Abdul Jalil<br>Mr Su Weilun<br><br>Madam Chai Ching Shze Sofie<br><br>Mrs Esther Say</td><td style="box-sizing: inherit; padding: 5px 10px; width: 263.75px;">Year Head <br>(Lower Primary)<br>Year Head<br>(Middle Primary)<br>Year Head<br>(Upper Primary)<br>Assistant Year Head<br>(Upper Primary)<br>Senior Teacher<br>(Learning Needs)<br>Senior School Counsellor</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"></tr></tbody></table>
-
-
