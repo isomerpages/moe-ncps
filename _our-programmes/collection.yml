@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - NCPS Curriculum/Character and Citizenship Education.md
       - NCPS Curriculum/PE, Aesthetics and Music.md
       - NCPS Curriculum/Mother Tongue.md
       - NCPS Curriculum/Science.md
