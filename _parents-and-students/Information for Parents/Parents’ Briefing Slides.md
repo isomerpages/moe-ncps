@@ -14,16 +14,14 @@ third_nav_title: Information for Parents
 | -------- | 
 |[Upper Primary Parents' Briefing 2023](https://drive.google.com/file/d/1x7XvIigfja-90hPFMJkNP_3tHoErYkwv/view?usp=share_link)  |
 |[Middle Primary Parents' Briefing 2023](https://drive.google.com/file/d/1DLi-bUCLuStgwi873N5mhuE-MGvCQvsx/view?usp=share_link)  |
+|  | 
 
 | **3 Jan 2023** | 
 | -------- | 
 |[2023 Term 1 Year Head Letter](https://drive.google.com/file/d/1IFwl6k-fxLZPm6qhNLeqfLSQKkvMaHwq/view?usp=share_link)  | 
 |[NCPS P1 Curriculum Briefing 2023](https://drive.google.com/file/d/1ffyuthJJoFac7-h2YqcGYMLUpJIqy4dl/view?usp=share_link)  |
 
-
-
-
-
+|  | 
 
 | **18 Nov 2022** | 
 | -------- | 
