@@ -4,7 +4,7 @@ permalink: /our-school/school-vendors/
 description: ""
 third_nav_title: School Service Providers
 ---
-### **Bookshop Operator – Pacific Bookstores Pte Ltd**
+#### **Bookshop Operator – Pacific Bookstores Pte Ltd**
 
 14 Arumugam Road #08-01 Lion Building C  
 Singapore 409959  
