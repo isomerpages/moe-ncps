@@ -4,8 +4,6 @@ permalink: /our-programmes/English/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
-
 ### **English Department**
 
 The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
@@ -71,9 +69,7 @@ genres in their foundational years. Through this programme, we wish to foster
 good reading habits in our students and inject a little fun before lessons
 begin.
 ![](/images/Our%20Curriculum_English/Trex%20final%20v2.jpg)
-
 ##### **School-based Reading Programme**
-
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
 fostering in them a life-long habit of self-directed learning for information and enjoyment. By
