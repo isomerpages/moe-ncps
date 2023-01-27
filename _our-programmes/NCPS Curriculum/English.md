@@ -51,7 +51,7 @@ engage children in the learning of English.
 **Experiential Learning**
 * Activities in and outside classroom
 
-#### **TREX- Time for Reading EXposure**
+**TREX- Time for Reading EXposure**
 
 TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and
 reading skills through TREX - Time for Reading EXposure. We adopt a
@@ -67,7 +67,8 @@ begin.
 
 
 
-##### **School-based Reading Programme**
+**School-based Reading Programme**
+
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
 fostering in them a life-long habit of self-directed learning for information and enjoyment. By
@@ -76,7 +77,7 @@ their motivation in learning beyond the classroom will grow. Students will be in
 to find out more, share their knowledge, and build on one another’s knowledge.
 ![school based reading programme](/images/Our%20Curriculum_English/lib%20prgm%201.png)
 
-##### **LRD & What’s Up Newspapers** 
+**LRD & What’s Up Newspapers** 
 
 * newspaper for school children
 *  curated contemporary issues and
@@ -84,13 +85,13 @@ presented at the appropriate level for young readers to inform and challenge the
 * keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 ![](/images/Our%20Curriculum_English/What's%20up.png)
 
-###### **What is learning support?**
+**What is learning support?**
    
 Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.
 
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
-##### **iCT in the curriculum**
+**iCT in the curriculum**
 
 In Nan Chiau Primary School our self-directed learners:
 
@@ -113,12 +114,12 @@ technology for learning and can:
 ###### **iCT** **in the curriculum:** Moo- ‘O’
 ![](/images/Our%20Curriculum_English/moo%20o%202%20final.png)
 
-##### **Experiential Learning**  
+**Experiential Learning**  
    
 * Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts.
 * Students learn in a variety of ways, so it is important to teach using multiple methods. By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning.
 
-##### **Learning English Through Fun & Games** 
+**Learning English Through Fun & Games** 
 
 * Games are a fun way to practise English – it can be a really motivating way to learn a language.
 * Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way.
