@@ -4,14 +4,13 @@ permalink: /our-curriculum/programme-for-active-learning-pal/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
-### **PAL@NCPS**
+#### **PAL@NCPS**
 
 PAL is a major initiative recommended by the Primary Education Review and Implementation (PERI) Committee which aims to address the need for greater emphasis on non-academic programme for Primary 1 and 2 pupils.
 Nan Chiau Primary School started her journey with PAL in 2015 as one of the Phase 6 schools involved. The PAL modules consist of 4 broad areas (Outdoor Education, Sports & Games, Visual Arts and Performing Arts). The lessons, which are conducted by form teachers, were designed to provide opportunities for students to discover their strengths and interests, build character and develop their social-emotional competencies. 
 
 
-### **NCPS PAL Schedule**
+#### **NCPS PAL Schedule**
 
 **Primary 1**
 
