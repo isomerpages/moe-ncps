@@ -3,7 +3,7 @@ title: History
 permalink: /our-school/history/
 description: ""
 ---
-<p style="box-sizing: inherit; font-size: 1em;">Nan Chiau Primary School is one of six schools run by the Singapore Hokkien Huay Kuan. It was formerly the primary section of Nan Chiau High School. Established in March 1947, it is always progressing with the time, continuously undergoing self-renewal in line with the needs of the nation and making positive contributions to the educational development of Singapore.<p/>
+Nan Chiau Primary School is one of six schools run by the Singapore Hokkien Huay Kuan. It was formerly the primary section of Nan Chiau High School. Established in March 1947, it is always progressing with the time, continuously undergoing self-renewal in line with the needs of the nation and making positive contributions to the educational development of Singapore.
 
 南侨小学前身为南侨中学附小，是新加坡福建会馆属下六所学校之一。创立于一九四七年三月，它虽然经历了不少变迁，但总是紧跟时代的步伐，配合国家的需要，不断自行自我调整，为国家的教育事业做出积极的贡献。
 
