@@ -12,13 +12,11 @@ third_nav_title: Information for Parents
 
 3\. Please wait for your child/ward outside the school (at Gate A, B or C) during dismissal time.
 
-4\. Advise your child/ward to approach the staff at the General Office for assistance if he/she does not see you during dismissal.
+4\. Parents who are driving should drop off/pick up their children at Gate C and not along the main road at Gate A or B. This is to ensure students and other road users will be safe and not be inconvenienced.
 
-5\. Parents who are driving should drop off/pick up their children at Gate C and not along the main road at Gate A or B. This is to ensure students and other road users will be safe and not be inconvenienced.
+5\. Parents/Visitors are not allowed to drive into the school premises during school hours. Please park at the multi-storey car park opposite the school.
 
-6\. Parents/Visitors are not allowed to drive into the school premises during school days, unless it is raining. Please park at the HDB multi-storey car park opposite the school.
-
-7\. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
+6\. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
 
 **B) Communication with the School**
 
@@ -26,7 +24,7 @@ third_nav_title: Information for Parents
 
 2\. Home supervision and support is necessary to ensure your child/ward’s performance in school. Kindly check your child’s/ward’s written work assigned by the teachers updated in their Student Diary. The Student Diary can be used to facilitate two way communication with the teachers.
 
-3\. Please inform your child’s/ward’s Form teacher if your child has a medical problem and is unable to participate in physical activities.
+3\. Please inform your child’s/ward’s Form teacher if your child has a medical condition and is unable to participate in physical activities.
 
 4\. A Letter of consent will be issued to your child/ward if he/she is required to come to school for CCA, remedial, supplementary lessons, learning journeys etc.
 
