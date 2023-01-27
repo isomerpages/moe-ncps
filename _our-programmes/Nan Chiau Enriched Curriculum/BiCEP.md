@@ -4,7 +4,6 @@ permalink: /our-curriculum/permalink/
 description: ""
 third_nav_title: Nan Chiau Enriched Curriculum
 ---
-
 ### **Bi-cultural Chinese Elective Programme (BiCEP)**   **双文化华文优选课程**
 
 BiCEP is a SHHK signature programme to develop a core group of effectively bilingual students in the 5 SHHK Primary Schools. Launched in 2017, the BiCEP curriculum is designed by a team of experienced Chinese Language teachers, in consultation with Chinese Language and culture experts. 
