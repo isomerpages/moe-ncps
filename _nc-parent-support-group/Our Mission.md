@@ -5,7 +5,7 @@ description: ""
 ---
 ![PSG Our Mission](/images/psg%20our%20mission.png)
 
-### **Our Roles**  
+#### **Our Roles**  
   
 1\. Support the school in activities that enhances the pupils’ welfare and development.  
 2\. Collaborate with the school on projects that make the pupils’ primary education memorable.  
