@@ -4,22 +4,21 @@ permalink: /our-curriculum/mother-tongue/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
-### **Department Vision**
+#### **Department Vision**
 
 Nurturing confident and competent users of their Mother Tongue Languages through different learning strategies and programmes.
 
-### **Department Mission**
+#### **Department Mission**
 
 * To nurture students in the four domains of language learning – Listening, Speaking, Reading and Writing.
 * To provide an environment for students to experience different ethnic cultures 
 
-### **The E3 Approach**
+#### **The E3 Approach**
 A 3-tiered approach (Excite, Engage and Explore) is established for NCPS students in the learning of their Mother Tongue Language (MTL) and Culture.
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/E3.png)
 
-### **Signature Mother Tongue Language (MTL) Programmes**
+#### **Signature Mother Tongue Language (MTL) Programmes**
 
 ##### **Chinese Classics Exposure**
 Nan Chiau has a tradition of promoting Chinese Classics Reading since we moved to Sengkang. Students learn “Guidelines to be a Good Person” or “Di Zi Gui”《弟子规》, The Three Character Classics《三字经》and The Analects《论语》．
