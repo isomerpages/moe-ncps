@@ -4,7 +4,6 @@ permalink: /our-curriculum/mathematics/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
 ### **MOE Mathematics Framework**
 
 <img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
@@ -88,5 +87,3 @@ We strongly believes that students have a deeper understanding of the concepts l
 
 ![](/images/Our%20Curriculum%20Math/concrete%201.png) 
 ![](/images/Our%20Curriculum%20Math/concrete%202.png)
-
-![CONCRETE – pictorial – abstract](/images/concrete%202.png)
