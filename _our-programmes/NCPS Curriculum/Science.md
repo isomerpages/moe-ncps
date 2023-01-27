@@ -4,18 +4,17 @@ permalink: /our-curriculum/science/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
-### **Department Vision**
+#### **Department Vision**
 
 Active Inquirers, Lifelong and Confident Learners
 
-### **Department Mission**
+#### **Department Mission**
 
 * Building a strong foundation in Science to allow students to possess scientific mindsets 
 * Providing a holistic education with a strong focus on demonstrating ways of thinking and doing in Science 
 * Instilling curiosity and providing students with experiences to inquire like scientists
 
-### **Science Experiences And Programmes**
+#### **Science Experiences And Programmes**
 
 Guided by the Ministry of Education’s (MOE) Science Curriculum Framework, our Science curriculum aims to equip our students with the scientific literacy and disposition to inquire and understand themselves and the world around them. 
 At Nan Chiau Primary School, we provide students with experiences which build on their interest in and stimulate their curiosity about the world around them. These learning experiences provide students with opportunities to develop skills, positive habits of mind and attitudes necessary for scientific inquiry. Learning of Science also takes place beyond the classrooms to enrich students’ experiences and make Science relevant to the real world around them.
