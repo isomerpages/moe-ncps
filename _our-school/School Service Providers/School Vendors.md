@@ -23,7 +23,7 @@ Operating Hours
 | Closed unless specified by School |  |    |
 
 
-### **Uniform / Shoe Supplier – Asencio Pte Ltd**
+#### **Uniform / Shoe Supplier – Asencio Pte Ltd**
 
 120 Hillview Avenue #05-03 Kewalram Hillview Singapore 669594  
 Tel: 6764 3102 Fax: 6764 1032  
@@ -39,7 +39,7 @@ Website: [http://www.asencio.com.sg](http://www.asencio.com.sg/)
 | Closed unless specified by School |  |    |
 
 
-### **School Bus Operator – Polly Transport Services**
+#### **School Bus Operator – Polly Transport Services**
 
 Liaison Officer:    Ms Susan 9069 3357 / Mr Darrell 9226 7131  
 Email: pollytransport@hotmail.com
