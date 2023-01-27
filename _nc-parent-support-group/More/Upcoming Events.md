@@ -1,10 +1,10 @@
 ---
 title: Upcoming Events
-permalink: /nc-parent-support-group/more/upcoming-events
+permalink: /nc-parent-support-group/more/upcoming-events/
 description: ""
 third_nav_title: More
 ---
-## **PSG Induction Session**  
+### **PSG Induction Session**  
   
 In order for you to better understand how PSG works with the school and who we are, we are organising an induction session for you.  
   
