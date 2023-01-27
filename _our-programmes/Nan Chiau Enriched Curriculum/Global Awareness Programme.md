@@ -4,10 +4,7 @@ permalink: /our-programmes/Global-Awareness-Programme/
 description: ""
 third_nav_title: Nan Chiau Enriched Curriculum
 ---
-
-
-
-### **Global Awareness Programme (GAP)**
+#### **Global Awareness Programme (GAP)**
 #### **心系南侨，放眼世界**
 
 Nan Chiau’s Global Awareness Programme (GAP) emphasizes collective identity and enhances global outlook among our students. Experiential Learning Theory is extensively applied. We strive to provide opportunities for our students to: 
@@ -17,7 +14,7 @@ Nan Chiau’s Global Awareness Programme (GAP) emphasizes collective identity an
 *  establish network and build friendship across borders and cultures;
 *  deepen students’ rootedness to Singapore
 
-#### **Signature Activities**
+##### **Signature Activities**
 
 **Celebration of Cultural festivals**
 
@@ -42,7 +39,7 @@ Through the overseas immersion, students go on an experiential journey to explor
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg)
 
 
-**Overseas Penpal Programme (P3)**
+**Overseas Pen Pal Programme (P3)**
 
 “Long distance separates no bosom friends” [海内存知己，天涯若比邻]. Nan Chiau believes in the importance of establish network and build friendship across borders and cultures. 
 
