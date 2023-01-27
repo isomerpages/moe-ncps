@@ -4,7 +4,7 @@ permalink: /our-curriculum/mathematics/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-### **MOE Mathematics Framework**
+#### **MOE Mathematics Framework**
 
 <img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
 style="width:100%">
@@ -12,20 +12,20 @@ style="width:100%">
 **MOE Mathematics syllabus**
 [https://www.moe.gov.sg/education/syllabuses/sciences/](https://www.moe.gov.sg/education/syllabuses/sciences/)
 
-### **Department Vision**
+#### **Department Vision**
 
 Every child is a _creative problem solver_ (innovative, think of different ways), with a _positive attitude_ (beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
 
-### **Department Focus**
+#### **Department Focus**
 
 *   To equip students with _mathematical knowledge, skills and dispositions_ for lifelong learning
 *   To empower teachers to provide a more _engaging, student-centred, and technology-enabled_ learning environment in Content, Pedagogy and Assessment
 
-### **Department Approach**
+#### **Department Approach**
 
 ![our approach](/images/Our%20Curriculum%20Math/Math-Counts-768x193.png)
 
-### **Differentiated Instruction** 
+#### **Differentiated Instruction** 
 **To stretch, enhance, and support**
 ![Differentiated instruction](/images/Our%20Curriculum%20Math/Math-Model.png)
 
@@ -45,7 +45,7 @@ The competitions which we participate in:
 *   National Mathematical Olympiad of Singapore by NUS High (NMOS) – P4 and P5
 *   Singapore Mathematical Oylmpiad for Primary School by Hwa Chong (SMOPS) – P6 & selected P5 students
 
-### **Key Programmes**
+#### **Key Programmes**
 
 **1. ‘I am a young Mathematics star’**<img src="/images/Our%20Curriculum%20Math/star%20resized.png"  
 style="width:30%">
