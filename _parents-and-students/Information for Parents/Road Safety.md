@@ -14,7 +14,7 @@ Drive slowly and keep to the speed limit of 15 km/h when you enter the school co
 
 **Driving within school vicinity**
 
-Please adhere to the speed limit of 40 km/h while driving in the school zone area.  Stay alert for pedestrians and do not sound the horn indiscriminately.
+Please adhere to the speed limit of 40 km/h while driving in the school zone area.  Stay alert for pedestrians and do not sound the car horn indiscriminately.
 
 **Dropping off your child**
 
@@ -27,4 +27,3 @@ Parking at the school compound is strictly for authorised personnel only.  Pare
 Do not park or wait along the roads outside the school gates as this will cause obstruction to traffic flow and inconvenience to nearby residents. If you need to wait, kindly park at the nearby multi-storey carparks.
 
 We seek your understanding and fullest cooperation as our students’ safety and well-being is of utmost concern.
-
