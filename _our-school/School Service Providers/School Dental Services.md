@@ -4,7 +4,7 @@ permalink: /our-school/school-dental-services/
 description: ""
 third_nav_title: School Service Providers
 ---
-### **HPB Nan Chiau Primary Dental Clinic Schedule**
+#### **HPB Nan Chiau Primary Dental Clinic Schedule**
 
 Operating hours *
 
