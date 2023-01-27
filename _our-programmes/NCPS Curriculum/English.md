@@ -4,23 +4,23 @@ permalink: /our-programmes/English/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-### **English Department**
+#### **English Department**
 
 The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
 
-### **Vision** 
+#### **Vision** 
 
 Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
-### **Mission**  
+#### **Mission**  
 
 To instil the love of English Language Learning and Reading through different strategies and foster life-long learning by Integrating 21 CC and values into the curriculum.
 
-### **Our Approach**  
+#### **Our Approach**  
    
 At NCPS, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing & representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development anchored on the English Language Syllabus 2020 (MOE, Singapore).
 
-### **Core Curriculum**  
+#### **Core Curriculum**  
 
 STELLAR (Strategies for English Language Learning and Reading) is the core
 curriculum which the school adopts for English Language. STELLAR aims to
@@ -31,7 +31,7 @@ engage children in the learning of English.
 
 ![](/images/Our%20Curriculum_English/what_is_stellar-feature-1024x348.jpg)
 
-### **Key Programmes**  
+#### **Key Programmes**  
    
 **Readers for Life**
 
@@ -60,7 +60,7 @@ engage children in the learning of English.
 * Little Red Dot (P4)
 * What’s Up (P6)
 
-##### **TREX- Time for Reading EXposure**
+#### **TREX- Time for Reading EXposure**
 
 TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and
 reading skills through TREX - Time for Reading EXposure. We adopt a
@@ -76,7 +76,7 @@ begin.
 
 
 
-##### **School-based Reading Programme**
+#### **School-based Reading Programme**
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
 fostering in them a life-long habit of self-directed learning for information and enjoyment. By
@@ -85,7 +85,7 @@ their motivation in learning beyond the classroom will grow. Students will be in
 to find out more, share their knowledge, and build on one another’s knowledge.
 ![school based reading programme](/images/Our%20Curriculum_English/lib%20prgm%201.png)
 
-##### **LRD & What’s Up Newspapers** 
+#### **LRD & What’s Up Newspapers** 
 
 * newspaper for school children
 *  curated contemporary issues and
@@ -99,7 +99,7 @@ Through specialised early intervention programmes, students are provided with st
 
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
-##### **iCT in the curriculum**
+#### **iCT in the curriculum**
 
 In Nan Chiau Primary School our self-directed learners:
 
