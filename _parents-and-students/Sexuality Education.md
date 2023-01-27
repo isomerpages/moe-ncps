@@ -27,7 +27,7 @@ description: ""
 
 You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education "Sexuality Education ")&nbsp;for more information on MOE Sexuality Education.
 
-#### **Overview of Nan Chiau Primary School’s Sexuality Education Programme for 2022**
+#### **Overview of Nan Chiau Primary School’s Sexuality Education Programme**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
