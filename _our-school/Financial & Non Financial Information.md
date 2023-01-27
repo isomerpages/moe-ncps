@@ -3,7 +3,7 @@ title: Financial & Non Financial Information
 permalink: /our-school/financial-and-non-financial-information/
 description: ""
 ---
-#### Non-Financial Information
+#### **Non-Financial Information**
 
 **Name of Organisation:** Nan Chiau Primary School
 
@@ -30,7 +30,7 @@ Name of Principal: Mrs Ong-Loh Jia Miin
 
 **Auditor:** Baker Tilly TFW LLP
 
-#### Financial Information
+#### **Financial Information**
 
 
 Please refer to this [link](/files/Nan%20Chiau%20Primary.pdf) for financial information.
