@@ -4,8 +4,7 @@ permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: NCPS Curriculum
 ---
-
-### **Department Focus**
+#### **Department Focus**
 
 At NCPS, values education forms an integral part of our students’ learning journey. The attached At NCPS, Character and Citizenship Education (CCE) forms an integral part of holistic development of our students. The school’s CCE programme aims to nurture NCPS students into future ready leaders who are rooted in values, disciplined and capable of leading themselves and others. It embodies meaningful and purposeful learning experiences and student outcomes to help NCPS students understand who they are and what they can do to make a positive impact. These outcomes are derived from the school’s core values of Respect, Responsibility, Sincerity and Perseverance. 
 The CCE curriculum frame guides and provides key directions for the department in the planning, implementation and review of the various programmes and activities. It takes reference from the existing Framework for 21st Century Competencies and student outcomes, and aims to enhance clarity on how the core values are linked to the social-emotional competencies, and how they are internalised and lived out by our students.
