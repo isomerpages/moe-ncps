@@ -69,6 +69,7 @@ genres in their foundational years. Through this programme, we wish to foster
 good reading habits in our students and inject a little fun before lessons
 begin.
 ![](/images/Our%20Curriculum_English/Trex%20final%20v2.jpg)
+
 ##### **School-based Reading Programme**
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
