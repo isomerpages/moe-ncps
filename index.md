@@ -41,6 +41,6 @@ sections:
         Briefing Slides.
       button: Read More
       url: /lp-press/parents-briefing-slides/
-      image: /images/Homepage/NCPS_ParentsBriefingSlide_Banner-1.jpg
+      image: /images/Homepage/Parents Briefing Slides.jpg
       alt: Image alt text
 ---
