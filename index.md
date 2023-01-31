@@ -33,7 +33,7 @@ sections:
         Monthly Bulletin.
       button: Read More
       url: /lp-press/ncps-monthly-bulletin-january-2020/
-      image: /images/Homepage/Website-Bulletin-Thumbnail-1.jpg
+      image: /images/Homepage/Bulletin.jpg
       alt: Image alt text
   - infopic:
       title: Parents' Briefing Slides
