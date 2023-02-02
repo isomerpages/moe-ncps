@@ -42,7 +42,8 @@ b.       Character and Citizenship Education (CCE)
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
 **At Nan Chiau Primary School, the following Sexuality Education lessons will be taught in&nbsp;*2023* :**
-        
+     
+<img src="/images/Sexuality%20Education/MOE%20Logo%20(B&W).jpg" style=width:50%>
 ![](/images/Sexuality%20Education/MOE%20Logo%20(B&W).jpg)
 
 
