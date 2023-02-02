@@ -76,10 +76,11 @@ b.       Character and Citizenship Education (CCE)
 |    |Are We More than Friends?Lesson 2    | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognize the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.   |Term 2 Week 10|
 
 
-##### **INFORMATION FOR PARENTS**  
 
-8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+**INFORMATION FOR PARENTS**  
 
-9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Opt-out-letter.pdf). The completed opt-out form is to be submitted to the Form Teachers by&nbsp;**25/02/2022.**
+8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-10.&nbsp; &nbsp; &nbsp; &nbsp; Parents can contact the school at&nbsp;[lim\_pek\_wee@schools.gov.sg](mailto:lim_pek_wee@schools.gov.sg)&nbsp;or 64897905 for discussion or to seek clarification about the school’s sexuality education programme.
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.ncps.moe.edu.sg/wp-content/uploads/2023/01/Parent-Opt-out-2023.pdf). The completed opt-out form is to be submitted to the Form Teachers by **17****/02/2023.**
+
+10.        Parents can contact the school at [lim\_pek\_wee@schools.gov.sg](mailto:lim_pek_wee@schools.gov.sg) or 64897905 for discussion or to seek clarification about the school’s sexuality education programme.
