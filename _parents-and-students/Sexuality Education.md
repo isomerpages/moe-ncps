@@ -27,15 +27,14 @@ description: ""
 
 You may click&nbsp;[[here](https://go.gov.sg/moe-sexuality-education)]&nbsp;for more information on MOE Sexuality Education.
 
-#### **Overview of Nan Chiau Primary School’s Sexuality Education Programme**
+**Overview of NAN CHIAU Primary School’s Sexuality Education Programme for 2023**
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The subjects that incorporate topics on sexuality include:
+5. The subjects that incorporate topics on sexuality include:
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science  
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form Teacher Guidance Period (FTGP)  
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
+a.       Science  
+b.       Character and Citizenship Education (CCE)
 
 **Sexuality Education**: “Curious Minds (2nd&nbsp;Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
 
