@@ -59,7 +59,7 @@ b.       Character and Citizenship Education (CCE)
 |   | Keeping Myself Safe<br>(60 min)     | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |Term 4 Week 8|
 
 
-<img src="/images/Sexuality%20Education/MOE%20Logo%20(B&W).jpg" style=width:50%>
+<img src="/images/Sexuality%20Education/MOE%20Logo%20(B&W).jpg" style="width:50%">
          
  **2023 Sexuality Education Lessons in CCE 2021**
  
