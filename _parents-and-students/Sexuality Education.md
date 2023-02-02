@@ -54,7 +54,7 @@ b.       Character and Citizenship Education (CCE)
 
 
 
-| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD (e.g. Term 1 Week 2)
+| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD <br>(e.g. Term 1 Week 2)
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
