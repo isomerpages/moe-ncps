@@ -57,7 +57,13 @@ b.       Character and Citizenship Education (CCE)
 | CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW<br style="font-size:8;">At the end of the lesson,pupils will be able to : | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)
 | -------- | -------- | -------- |
 | Growing Years    | The Changes in Me<br>(60 min)    | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty.  Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 5   |
-| -------- | -------- | -------- |
+|     | Did You Know<br> (60 min)   | Text     | Term 4 Week 7|
+
+
+
+
+
+
 
 
 
