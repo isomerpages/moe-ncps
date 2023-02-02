@@ -43,6 +43,8 @@ b.       Character and Citizenship Education (CCE)
 
 **At Nan Chiau Primary School, the following Sexuality Education lessons will be taught in&nbsp;*2023* :**
         
+![](/images/Sexuality%20Education/MOE%20Logo%20(B&W).jpg)
+
 
 **PRIMARY 5**
 
