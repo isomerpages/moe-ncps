@@ -24,8 +24,8 @@ To achieve these goals, the following CCE programmes are offered:
 
 ![](/images/Our%20Curriculum_CCE/CCE02.jpg)
 
-<img src="(/images/Our%20Curriculum_CCE/CCE03%20(1).png" style="width:50%" align="left">
-<br><br>
+<img src="/images/Our%20Curriculum_CCE/CCE03.png" style="width:50%" align="left">
+
 
 
 
