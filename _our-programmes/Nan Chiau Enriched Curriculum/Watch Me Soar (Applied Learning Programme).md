@@ -25,10 +25,10 @@ Zoom sessions with SKH personnel were conducted for the students to gather more 
 <img src="/images/Our%20Curriculum_WMS/WMS01.png"  
 style="width:90%;">
       
-
-<img src="/images/Our%20Curriculum_WMS/zoom%202.jpg"  
+![](/images/Our%20Curriculum_WMS/WMS02.png)
+<img src="/images/Our%20Curriculum_WMS/WMS02.png"  
 style="width:90%;">
-       Zoom session with Ms Hwee Kim from Sengkang General Hospital
+      
 
 From the zoom sessions, interviews with own family members and researchers, our students worked in groups to come out with creative prototypes to solve the above problem statements. The students learn as they work on their prototype creations with feedback given by their teachers and SKGH personnel.
 
