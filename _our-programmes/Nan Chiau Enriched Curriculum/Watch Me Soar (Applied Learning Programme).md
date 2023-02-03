@@ -24,7 +24,7 @@ Zoom sessions with SKH personnel were conducted for the students to gather more 
 
 <img src="/images/Our%20Curriculum_WMS/zoom%201.jpg"  
 style="width:80%" align="center">
-         <p style="font-size:14px;">Zoom session with Ms Diana Goh from Sengkang General Hospital</p>
+        Zoom session with Ms Diana Goh from Sengkang General Hospital
 
 <img src="/images/Our%20Curriculum_WMS/zoom%202.jpg"  
 style="width:80%">
