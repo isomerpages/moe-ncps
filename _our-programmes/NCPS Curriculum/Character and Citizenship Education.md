@@ -13,6 +13,8 @@ framework guides and provides key directions for the department in the planning,
 ![](/images/Our%20Curriculum_CCE/CCE%201.png)
 Relationship between 21CC Framework and CCE 2021
 
+![](/images/Our%20Curriculum_CCE/CCE03%20(1).png)
+
 To achieve these goals, the following CCE programmes are offered: 
 
 * CCE Lessons (CCE(FTGP), CCE(MTL), PAL lessons for P1-P2) and Social Studies lessons, with a focus on these content areas, i.e. National Education, Sexuality Education, Cyber Wellness, Education and Career Guidance, Mental Health and Family Education
