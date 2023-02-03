@@ -25,7 +25,7 @@ Nan Chiau has a tradition of promoting Chinese Classics Reading since we moved t
 
 In conjunction with NC75, Nan Chiau published a school-based Character and Citizenship Education (CCE) teaching package, incorporating the Chinese Classics. This initiative is for all students and aims to compliment the refreshed Character and Citizenship Education curriculum.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%201.png)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%2001.png)
 
 
 ##### **Mother Tongue Fortnight Activities**
