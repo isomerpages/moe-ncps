@@ -25,7 +25,6 @@ Zoom sessions with SKH personnel were conducted for the students to gather more 
 <img src="/images/Our%20Curriculum_WMS/WMS01.png"  
 style="width:90%;">
       
-![](/images/Our%20Curriculum_WMS/WMS02.png)
 <img src="/images/Our%20Curriculum_WMS/WMS02.png"  
 style="width:90%;">
       
