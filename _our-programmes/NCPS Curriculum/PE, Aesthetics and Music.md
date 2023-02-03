@@ -31,7 +31,7 @@ Students are also encouraged to keep fit by engaging in sports and games during 
 
 These activities are often in line with the NE related theme and festivities.
 
-![]()
+
 
 #### **Harnessing of Technology**
 
