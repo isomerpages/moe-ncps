@@ -25,6 +25,11 @@ Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using t
 
 
 
+
+| <img src="/images/Our%20Curriculum%20Science/Inquiry%201.jpg" style="width:50%"  | Text     | 
+
+
+
 ![](/images/Our%20Curriculum%20Science/Inquiry%201.jpg)
 
 ![](/images/Our%20Curriculum%20Science/Inquiry%202.jpg)
