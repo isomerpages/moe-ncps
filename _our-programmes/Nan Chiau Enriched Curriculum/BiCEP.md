@@ -31,6 +31,5 @@ NC Ambassadors are Nan Chiau’s heritage champions. They lead school tours, rem
 Before the COVID pandemic, P5 BiCEP students joined their BiCEP peers in overseas immersion trips to Xi‘an, Fujian and Taipei. During pandemic, they attended virtual immersion to Xi‘an, Fujian and Taipei and exchange with Taipei students.
 
 The experiential journey provides a real-life connection with the BiCEP curriculum. Students also get to explore their chinese heritage, establish friendship with foreign students and broaden horizons.
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg)
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP6.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BICEP03.jpg)
