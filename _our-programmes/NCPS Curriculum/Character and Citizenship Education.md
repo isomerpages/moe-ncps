@@ -13,7 +13,6 @@ framework guides and provides key directions for the department in the planning,
 ![](/images/Our%20Curriculum_CCE/CCE%201.png)
 Relationship between 21CC Framework and CCE 2021
 
-![](/images/Our%20Curriculum_CCE/CCE03%20(1).png)
 
 To achieve these goals, the following CCE programmes are offered: 
 
@@ -25,8 +24,10 @@ To achieve these goals, the following CCE programmes are offered:
 
 ![](/images/Our%20Curriculum_CCE/CCE02.jpg)
 
-<img src="/images/Our%20Curriculum_CCE/CCE03.png" style="width:50%" align="left">
+<img src="(/images/Our%20Curriculum_CCE/CCE03%20(1).png" style="width:50%" align="left">
 <br><br>
+
+
 
 ![](/images/Our%20Curriculum_CCE/CCE04.jpg)
 
