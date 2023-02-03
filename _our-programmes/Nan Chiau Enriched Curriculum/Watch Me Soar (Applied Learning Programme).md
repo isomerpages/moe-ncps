@@ -22,9 +22,9 @@ This year, staff from SKH provided four different problem statements for our Pri
 
 Zoom sessions with SKH personnel were conducted for the students to gather more information on the four problem statements. The students had the chance to interview nurses and speech therapists from SKH during their WMS lessons.  
 
-<img src="/images/Our%20Curriculum_WMS/zoom%201.jpg"  
+<img src="/images/Our%20Curriculum_WMS/WMS01.png"  
 style="width:90%;">
-       Zoom session with Ms Diana Goh from Sengkang General Hospital
+      
 
 <img src="/images/Our%20Curriculum_WMS/zoom%202.jpg"  
 style="width:90%;">
