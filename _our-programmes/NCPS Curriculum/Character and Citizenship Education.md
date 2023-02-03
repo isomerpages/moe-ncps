@@ -24,7 +24,7 @@ To achieve these goals, the following CCE programmes are offered:
 ![](/images/Our%20Curriculum_CCE/CCE02.jpg)
 
 
-<img src="/images/Our%20Curriculum_CCE/CCE03.png" style="width:80%" align="left">
+<img src="/images/Our%20Curriculum_CCE/CCE03.png" style="width:50%" align="left">
 
 ![](/images/Our%20Curriculum_CCE/CCE%207.png)
 Students expressing gratitude to our community partners and the school’s cleaners
