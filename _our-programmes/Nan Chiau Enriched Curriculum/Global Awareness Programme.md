@@ -40,6 +40,4 @@ src="/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg" style="width:80%">
 
 Our Overseas Penpal Programme (P3) link our students with overseas peers in various format, ranging from letter writing, virtual exchanges and project work 
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP%206.jpg)
-
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP%207.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP03.jpg)
