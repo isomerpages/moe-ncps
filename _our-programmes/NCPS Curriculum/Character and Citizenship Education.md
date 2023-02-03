@@ -21,12 +21,7 @@ To achieve these goals, the following CCE programmes are offered:
 
 ![](/images/Our%20Curriculum_CCE/CCE01.jpg)
 
-![](/images/Our%20Curriculum_CCE/CCE%204.jpg)
-A student placing orange peels in the food composting machine in the Reduce Food Waste Programme
-
-![](/images/Our%20Curriculum_CCE/CCE%205.jpg)
-(Left) A Green Captain monitoring the recycling rate of classes during recess 
-(Right) A Primary 4 student rinsing and recycling his aluminium drinking can
+![](/images/Our%20Curriculum_CCE/CCE02.jpg)
 
 ![](/images/Our%20Curriculum_CCE/CCE%206.jpg)
 Students from the CCA Environmental Club sharing about recycling efforts with Sengkang residents
