@@ -31,7 +31,7 @@ Students are also encouraged to keep fit by engaging in sports and games during 
 
 These activities are often in line with the NE related theme and festivities.
 
-
+![](/images/Our%20Curriculum_PAM/Pam01.jpg)
 
 #### **Harnessing of Technology**
 
