@@ -22,9 +22,7 @@ Nan Chiau infuses global awareness into the celebration of cultural festivals. S
 
 Teachers promote awareness of the major cultural festivals to students through sharing traditions and customs of cultural festivals at the Cultural exposure@MTrex.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP1.jpg)
-
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP%202.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP01.jpg)
 
 **Overseas Immersion**
 
@@ -32,9 +30,7 @@ Before the COVID pandemic, Nan Chiau organized overseas immersion trips to China
 
 Through the overseas immersion, students go on an experiential journey to explore the diverse Language and Culture of the different countries, establish friendship and develop a global outlook.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP3.jpg)
-
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP4.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP02.jpg)
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg)
 
