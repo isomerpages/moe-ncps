@@ -30,7 +30,7 @@ Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using t
 At various levels, students are actively engaged in learning with the use dataloggers to conduct simple investigations. Harnessing the affordances in technology, lessons are designed to provide platforms for students to learn seamlessly - both in classroom and out-of-classroom, both within and after curriculum time. Students will embark on online learning using Singapore Student Learning Space (SLS) as well as mobile learning using iPads. Through the use of devices and various online platforms, the learning of Science can be conducted both in-school and out-of-school.
 
 <img src="/images/Our%20Curriculum%20Science/data%20loggers%20IT%20resources.jpg" style="width:50%" align="left">
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ##### **Young Scientist Badge Scheme**
 Apart from learning about scientific conceptual knowledge, our students are also equipped with procedural skills akin to what real-life scientists have through carrying out hands-on investigations, collecting data and making sense of them. 
