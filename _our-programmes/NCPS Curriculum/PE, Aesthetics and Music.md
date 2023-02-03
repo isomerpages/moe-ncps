@@ -8,7 +8,6 @@ Physical Education, Art and Music curriculum plays an important role in the holi
 
 <img src="/images/Our%20Curriculum_PAM/pam%201.png" style="width:120%">
 
-![](/images/Our%20Curriculum_PAM/pam%201.png)
 
 The overall aim of the PE, Music and Art education is to promote Physical Education, Music & Art in 3 aspects: KNOWLEDGE, SKILLS and VALUES
 
@@ -32,11 +31,7 @@ Students are also encouraged to keep fit by engaging in sports and games during 
 
 These activities are often in line with the NE related theme and festivities.
 
-![](/images/Our%20Curriculum_PAM/pam%202.jpg)
-
-![](/images/Our%20Curriculum_PAM/pam%203.jpg)
-
-![](/images/Our%20Curriculum_PAM/pam%204.jpg)
+![]()
 
 #### **Harnessing of Technology**
 
