@@ -15,9 +15,7 @@ Students are invited to join the 3-year programme at the end of Primary 3. The 3
 
 Primary 4 BiCEP students receive training in oratorical skills as part of BiCEP curriculum, before joining their BiCEP peers from the other 4 SHHK affiliated primary schools at the BICEP Language and Cultural Camp.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/Bicep1.jpg)
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/Bicep2.jpg)
 
 
 **NC Ambassadors Programme**
