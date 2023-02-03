@@ -6,6 +6,8 @@ third_nav_title: NCPS Curriculum
 ---
 Physical Education, Art and Music curriculum plays an important role in the holistic development of students in Nan Chiau Primary School.
 
+<img src="/images/Our%20Curriculum_PAM/pam%201.png" style="width:120%">
+
 ![](/images/Our%20Curriculum_PAM/pam%201.png)
 
 The overall aim of the PE, Music and Art education is to promote Physical Education, Music & Art in 3 aspects: KNOWLEDGE, SKILLS and VALUES
