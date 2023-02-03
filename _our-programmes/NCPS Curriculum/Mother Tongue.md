@@ -34,6 +34,4 @@ In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortn
 ##### **Cultural Performance Exposure Scheme (CPES)**
 Students taking Chinese Language as their Mother Tongue go through Chinese theatrical experiences through CPES. Through the theatrical experiences, students have a deeper understanding of Chinese cultures and traditional values.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%201.jpg)
-
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/cpes%202.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL2.png)
