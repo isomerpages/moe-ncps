@@ -25,9 +25,8 @@ Nan Chiau has a tradition of promoting Chinese Classics Reading since we moved t
 
 In conjunction with NC75, Nan Chiau published a school-based Character and Citizenship Education (CCE) teaching package, incorporating the Chinese Classics. This initiative is for all students and aims to compliment the refreshed Character and Citizenship Education curriculum.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/chinese%20classics%201.jpg)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%201.png)
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%20fortnight%202.jpg)
 
 ##### **Mother Tongue Fortnight Activities**
 In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortnight Activities. Students get to explore their ethnic language and cultural activities in during curriculum time, via online platforms and virtual zoom interaction sessions.
