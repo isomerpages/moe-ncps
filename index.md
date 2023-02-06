@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Presentation1.gif
+      background: /images/Homepage/Homepage Main 2023.gif
       key_highlights:
         - title: School Vision
           description: An Innovative School where Inspiring Educators nurture Future-ready
