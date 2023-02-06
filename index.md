@@ -33,6 +33,6 @@ sections:
         Monthly Bulletin.
       button: Read More
       url: /lp-press/ncps-monthly-bulletin-january-2020/
-      image: /images/Homepage/Bulletin.jpg
+      image: /images/Homepage/Bulletin 2023.jpg
       alt: Image alt text
 ---
