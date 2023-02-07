@@ -4,7 +4,7 @@ permalink: /information-for-parents/parents-gateway/
 description: ""
 third_nav_title: Information for Parents
 ---
-Parents Gateway is adigital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities. This enables parents to better support their child in their education journey through closer interactions and communications with schools. The app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
+Parents Gateway is a digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities. This enables parents to better support their child in their education journey through closer interactions and communications with schools. The app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
 
 We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process.
 
