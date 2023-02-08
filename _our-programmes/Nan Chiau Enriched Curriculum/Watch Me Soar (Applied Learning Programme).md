@@ -8,12 +8,14 @@ third_nav_title: Nan Chiau Enriched Curriculum
 Supporting our school’s vision, “An Innovative School where Inspiring Educators Nurture Future-Ready Leaders” and Singapore’s Smart Nation vision of becoming a nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, offering opportunities for all, our Applied Learning Programme (ALP) is focusing on the theme of “Health Science” as it provides opportunities for students to contribute toward society with inventions to improve the health and daily living of people. 
 The Applied Learning Programme (ALP) in Nan Chiau Primary School (NCPS) focuses on Science, Technology, Engineering and Mathematics (STEM) in areas of Health Science. Students from Primary 3 to 5 are introduced to Design Thinking, Computational Thinking and Maker Education in our ALP curriculum. Our ALP is known as Watch Me Soar (WMS) programme with the following objectives:
 
-![](/images/Our%20Curriculum_WMS/objectives.png)
+<img src="/images/Our%20Curriculum_WMS/objectives.png" style="width:80%">
+
 The above objectives will support the school in developing our students to become Enterprising Contributors.
 
 ##### **Watch Me Soar Programmes @NCPS**
 
-![](/images/Our%20Curriculum_WMS/level%20programmes.png)
+<img src="/images/Our%20Curriculum_WMS/level%20programmes.png" style="width:80%">
+
 
 ##### **Collaboration with Sengkang General Hospital (SKH)**
 This year, NCPS collaborated with Sengkang General Hospital (SKH) to bring authentic learning experiences to our students.  The collaboration involves SKH personnel and Primary 5 students from NCPS, in coming up with solutions to address authentic real-life situations related to the theme of Health Science.  This collaboration provided our students with opportunities for exploration, collaboration and creativity, empowering them to innovate to serve the community. 
