@@ -130,6 +130,6 @@ technology for learning and can:
 
 ![](/images/Our%20Curriculum_English/learning%20fun%20games.png)
 
-<img src="(/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png" style="width:75%">
+<img src="/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png" style="width:75%">
 
 ![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
