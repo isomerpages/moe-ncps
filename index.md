@@ -19,7 +19,7 @@ sections:
         - title: School Values
           description: Respect, Responsibility, Sincerity, Perseverance
           url: ""
-      background: /images/Homepage/year book cover page design v3.png
+      background: /images/Homepage/year book cover page design v4.png
   - infopic:
       title: Nan Chiau 75th Anniversary Celebrations
       description: '"Nan Chiau, Our Story Our Pride"'
