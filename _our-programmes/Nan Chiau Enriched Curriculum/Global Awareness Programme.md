@@ -32,7 +32,7 @@ Through the overseas immersion, students go on an experiential journey to explor
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/GAP02.jpg)
 
-src="/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg" style="width:80%">
+<img src="/images/Our%20Curriculum%20MTL_GAP_Bicep/BiCEP5.jpg" style="width:80%">
 
 **Overseas Pen Pal Programme (P3)**
 
