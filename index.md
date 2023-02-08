@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Student w geometry rulers.jpg
+      background: /images/Homepage/Student w magnifying glass.jpg
       key_highlights:
         - title: School Vision
           description: An Innovative School where Inspiring Educators nurture Future-ready
