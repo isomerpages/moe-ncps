@@ -7,7 +7,7 @@ third_nav_title: NCPS Curriculum
 #### **MOE Mathematics Framework**
 
 <img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png"  
-style="width:100%">
+style="width:80%">
 
 **MOE Mathematics syllabus**
 [https://www.moe.gov.sg/education/syllabuses/sciences/](https://www.moe.gov.sg/education/syllabuses/sciences/)
