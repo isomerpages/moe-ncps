@@ -62,12 +62,6 @@ begin.
 
 | ![](/images/Our%20Curriculum_English/T%20rex1.png)     | ![](/images/Our%20Curriculum_English/T%20rex%202.png)    |   
 
-
-
-
-
-
-
 **School-based Reading Programme**
 
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
