@@ -61,9 +61,12 @@ good reading habits in our students and inject a little fun before lessons
 begin.
 
 
-| |  | |
-| ---- | -------- | -------- |
-| ![](/images/Our%20Curriculum_English/T%20rex1.png)     | ![](/images/Our%20Curriculum_English/T%20rex%202.png)    |    |
+
+| ![](/images/Our%20Curriculum_English/T%20rex1.png)     | ![](/images/Our%20Curriculum_English/T%20rex%202.png)    |   
+
+| <img src="images/Our%20Curriculum_English/T%20rex1.png" style="width=50%"  | Text     |
+
+
 
 
 
