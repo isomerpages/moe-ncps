@@ -78,7 +78,9 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 *  curated contemporary issues and
 presented at the appropriate level for young readers to inform and challenge them.
 * keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
-![](/images/Our%20Curriculum_English/What's%20up.png)
+
+<img src="/images/Our%20Curriculum_English/What's%20up.png" style="width:75%">
+
 
 **What is learning support?**
    
@@ -103,11 +105,15 @@ In addition , NCPS students are digital learners who leverage
 technology for learning and can:
 * find, think, apply and digitally create.
 * navigate the digital space in a safe and responsible way.
+
 ![](/images/Our%20Curriculum_English/ict%20collated.png)
 
-![](/images/Our%20Curriculum_English/moo%20o%20resized.png)
+<img src="/images/Our%20Curriculum_English/moo%20o%20resized.png" style="width:75%">
+
 ###### **iCT** **in the curriculum:** Moo- ‘O’
-![](/images/Our%20Curriculum_English/moo%20o%202%20final.png)
+
+<img src="/images/Our%20Curriculum_English/moo%20o%202%20final.png" style="width:75%">
+
 
 **Experiential Learning**  
    
@@ -119,9 +125,11 @@ technology for learning and can:
 * Games are a fun way to practise English – it can be a really motivating way to learn a language.
 * Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way.
 * Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time.
+
+
+
 ![](/images/Our%20Curriculum_English/learning%20fun%20games.png)
 
-![](/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png)
-
+<img src="(/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png" style="width:75%">
 
 ![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
