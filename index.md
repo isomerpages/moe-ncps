@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Student w magnifying glass.jpg
+      background: /images/Homepage/year book cover page design v2.jpg
       key_highlights:
         - title: School Vision
           description: An Innovative School where Inspiring Educators nurture Future-ready
