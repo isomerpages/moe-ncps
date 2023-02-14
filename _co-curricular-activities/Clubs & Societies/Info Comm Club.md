@@ -11,4 +11,4 @@ Such programmes include, Kudo game coding, photography skills, web designing ski
 <p style="box-sizing: inherit; font-size: 1em;">
 Students learn how to cooperate in a team as well as being efficient and productive to complete their assigned roles. They also learn to appreciate the amount of effort and the perseverance programmers need in developing games. Through Media Club, we hope to expand student’s creativity and innovative spirit. Students will learn to explore the benefits of communicating through traditional and new media. </p><table>\
 
-<img src="/images/CoCurricularActivities/Infocomm/Infocomm.jpg" style="width:70%">
+<img src="/images/CoCurricularActivities/Infocomm/Infocomm.jpg" style="width:75%">
