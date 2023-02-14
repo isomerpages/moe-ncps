@@ -9,6 +9,4 @@ third_nav_title: Sports & Games
 	
 <img src="images/CoCurricularActivities/Table%20Tennis/Table%20Tennis%20CCA%202023%201.jpg" style="width:80%"/>
 	<br>
-<img src="images/CoCurricularActivities/Table%20Tennis/Table%20Tennis%20CCA%202023%202.jpg" style="width:80%"/>	
-		
-	
+<img src="images/CoCurricularActivities/Table%20Tennis/Table%20Tennis%20CCA%202023%202.jpg" style="width:80%"/>
