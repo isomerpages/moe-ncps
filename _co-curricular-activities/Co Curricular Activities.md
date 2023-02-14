@@ -9,3 +9,8 @@ Co-Curricular Activities (CCA) is an integral part of our students’ holistic 
 At Nan Chiau Primary School, all P3 to P6 students are strongly encouraged to participate in **one CCA**. Our school offers a wide range of 20 CCAs in the domains of Aesthetics/Performing Arts, Sports, Uniformed Group and Clubs & Societies. CCAs are conducted on Thursdays and Fridays, from 2 to 4 p.m.
 
 We are committed to make CCA a meaningful experience for every student. In turn, we expect all students to take pride in their CCA and take responsibility for their learning in the CCA.
+
+<img src="/images/CoCurricularActivities/Guzheng/Guzheng%20CCA%202023%201.jpg" style="width:80%">
+<br>
+<img src="/images/CoCurricularActivities/Guzheng/Guzheng%20CCA%202023%202.jpg" style="width:80%">
+
