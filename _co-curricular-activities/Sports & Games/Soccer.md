@@ -16,5 +16,4 @@ third_nav_title: Sports & Games
 <img src="/images/CoCurricularActivities/Scoccer/Soccer%201.jpeg" style="width:80%">
 
 <br>
-
-<img src="images/CoCurricularActivities/Scoccer/Soccer%2016.jpeg" style="width:80%">
+<img src="/images/CoCurricularActivities/Scoccer/Soccer%2016.jpeg" style="width:80%">
