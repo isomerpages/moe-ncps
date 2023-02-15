@@ -10,7 +10,3 @@ At Nan Chiau Primary School, all P3 to P6 students are strongly encouraged to pa
 
 We are committed to make CCA a meaningful experience for every student. In turn, we expect all students to take pride in their CCA and take responsibility for their learning in the CCA.
 
-<img src="/images/CoCurricularActivities/Guzheng/Guzheng%20CCA%202023%201.jpg" style="width:80%">
-<br>
-<img src="/images/CoCurricularActivities/Guzheng/Guzheng%20CCA%202023%202.jpg" style="width:80%">
-
