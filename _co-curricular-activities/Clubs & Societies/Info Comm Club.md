@@ -9,6 +9,6 @@ third_nav_title: Clubs & Societies
 <p style="box-sizing: inherit; font-size: 1em;">
 2.  Students will learn and develop their skills in photography and videography. Students will also be trained to handle and manage PA systems by carrying out related duties during recess or assembly.</p>
 <p style="box-sizing: inherit; font-size: 1em;">
-3.  Through infocomm club CCA, students will learn: 1. To respect fellow team members; 2. To work effectively as a team; 3. To take responsibility in carrying out the duties assigned; 4. To persevere and complete the tasks assigned to them.</p><table>\
+3.  Through infocomm club CCA, students will learn: 1. To respect fellow team members; 2. To work effectively as a team; 3. To take responsibility in carrying out the duties assigned; 4. To persevere and complete the tasks assigned to them.</p><table>
 
 <img src="/images/CoCurricularActivities/Infocomm/Infocomm.jpg" style="width:75%">
