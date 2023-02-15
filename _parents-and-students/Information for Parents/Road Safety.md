@@ -24,6 +24,6 @@ Alight your child at the designated drop-off point at Gate C and not along the m
 
 Parking at the school compound is strictly for authorised personnel only.  Parents/guardians who are visiting the school (e.g. meeting with teachers or school leaders) are to park at the nearby multi-storey car parks. For parents who are driving to pick up their child who is unwell/injured, you may park your vehicle for a short duration (not exceeding 10 minutes) at the visitors’ carpark lots.
 
-Do not park or wait along the roads outside the school gates as this will cause obstruction to traffic flow and inconvenience to nearby residents. If you need to wait, kindly park at the nearby multi-storey carparks.
+Do not park or wait along the roads outside the school as this will cause obstruction to traffic flow and inconvenience to nearby residents. If you need to wait, kindly park at the nearby multi-storey carparks.
 
 We seek your understanding and fullest cooperation as our students’ safety and well-being is of utmost concern.
