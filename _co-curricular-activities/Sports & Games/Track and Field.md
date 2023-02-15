@@ -8,8 +8,8 @@ third_nav_title: Sports & Games
 	
 <p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: inherit; font-size: inherit;"><p>Track and Field has always been a popular CCA in Nan Chiau Primary School. Our total enrolment has always been around 80 students. At every training session, attendance rate is always above 95%. During the training sessions, students have to do a 5-minute endurance run followed by stretching and strengthening exercises. </p>
 <p>The students are divided into groups to do drills to develop their athletics skills. They are also trained to do high jump, long jump, shot put and baton passing. Those with potential will be selected to represent the school in National Primary Schools Track and Field Championships as well as SHHK Combined Schools Sports Meet.</p>
-<p>Through the CCA, students will have the opportunities to develop social and team building skills. They will also learn the importance of perseverance and values. With the acquired athletics skills and values, students will be able to develop the passion for the sport. We hope that they will be able to take it up as a healthy hobby in future and develop into sportsmen of integrity.</span></p>
+<p>Through the CCA, students will have the opportunities to develop social and team building skills. They will also learn the importance of perseverance and values. With the acquired athletics skills and values, students will be able to develop the passion for the sport. We hope that they will be able to take it up as a healthy hobby in future and develop into sportsmen of integrity.</p>
 	
-</td></tr></tbody></table>
+
 
  <img src="/images/CoCurricularActivities/TracknField/Track&Field%20CCA%202023.jpg" style="width:75%">
