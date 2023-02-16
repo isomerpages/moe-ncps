@@ -16,7 +16,7 @@ third_nav_title: Clubs & Societies
 Environmental Club aims to nurture our members to be eco-stewards who show care and concern for the environment. Each year, the members will embark on various environmental projects and initiatives, such as the 3R’s (reduce, reuse, recycle), greening school project, gardening, biodiversity week, competitions and learning journey. </p>
 
 
-<p style="box-sizing: inherit; font-size: 1em;">2023 Happenings<br>
+<p style="box-sizing: inherit; font-size: 1em;"><strong>2023 Happenings<br></strong>
 1. Earth Week Project (Term 2 Week 1)
 Our CCA members will give an assembly talk on Earth Week in Term 2 Week 1, regarding ways to cut down electricity usage at home and in school. They have been doing a study on their household’s electricity consumption, as well as to plan some recess activities for their peers. They designed ‘Save Electricity, Save the Earth’ posters for all level classrooms to encourage everyone to switch off the lights and fans before leaving the classroom.</p>
 
@@ -32,7 +32,7 @@ Term 4 – silk gourd / bitter gourd
 </p>
 <p style="box-sizing: inherit; font-size: 1em;">4. Biodiversity Week & Competitions
 We will be organising some activities for Biodiversity Week for everyone to participate in Term 3. Students will learn about local flora and fauna in our school. Also, we will take part in SembEnviro Plastic Recycling League 2023 organised by Sembcorp and other upcoming competitions. </p>
-<p style="box-sizing: inherit; font-size: 1em;">2022 Highlights
+<p style="box-sizing: inherit; font-size: 1em;"><strong>2022 Highlights<br></strong>
 In 2022 Semester 1, the Environmental Club members volunteered as Green Captains once a week during recess to remind their peers to rinse and recycle plastic bottles and aluminum cans instead of throwing them away.
 
 In May, the members went on a learning journey to Botanic Gardens. They were led by experienced nature educators to various parts of the rainforest at the Botanic Garden to learn and complete activities regarding the rainforest. They have learnt the structure and importance of rainforest.
