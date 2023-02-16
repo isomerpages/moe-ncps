@@ -16,7 +16,7 @@ third_nav_title: Clubs & Societies
 Environmental Club aims to nurture our members to be eco-stewards who show care and concern for the environment. Each year, the members will embark on various environmental projects and initiatives, such as the 3R’s (reduce, reuse, recycle), greening school project, gardening, biodiversity week, competitions and learning journey. </p>
 
 
-<p style="box-sizing: inherit; font-size: 1em;">2023 Happenings<br>
+<p style="box-sizing: inherit; font-size: 1em;">**2023 Happenings**<br>
 1. Earth Week Project (Term 2 Week 1)
 Our CCA members will give an assembly talk on Earth Week in Term 2 Week 1, regarding ways to cut down electricity usage at home and in school. They have been doing a study on their household’s electricity consumption, as well as to plan some recess activities for their peers. They designed ‘Save Electricity, Save the Earth’ posters for all level classrooms to encourage everyone to switch off the lights and fans before leaving the classroom.</p>
 
