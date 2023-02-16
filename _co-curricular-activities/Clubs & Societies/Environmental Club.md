@@ -36,7 +36,7 @@ We will be organising some activities for Biodiversity Week for everyone to part
 In 2022 Semester 1, the Environmental Club members volunteered as Green Captains once a week during recess to remind their peers to rinse and recycle plastic bottles and aluminum cans instead of throwing them away.
 
 In May, the members went on a learning journey to Botanic Gardens. They were led by experienced nature educators to various parts of the rainforest at the Botanic Garden to learn and complete activities regarding the rainforest. They have learnt the structure and importance of rainforest.
-In Term 3, the members conducted a community outreach programme via Zoom webinar. This programme aimed to bring the 5’Rs (reduce, reuse, recycle, refuse, repair) awareness to our school community which included parents and staff. 
+In Term 3, the members conducted a community outreach programme via Zoom webinar. This programme aimed to bring the 5’Rs (reduce, reuse, recycle, refuse, repair) awareness to our school community which included parents and staff. <br>
 
 The members learnt about biodiversity trail conducted by NParks officials, and learnt to design a school garden map. In Term 4, the members learnt some care tips for air plants. Each member brought 2-3 pieces of air plants home to grow.
 </p>
