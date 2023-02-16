@@ -13,8 +13,9 @@ third_nav_title: Clubs & Societies
 
 <p style="box-sizing: inherit; font-size: 1em;">The English Language Literary, Drama and Debate Society is a CCA for writers, orators and thespians. The goal of ELDDS is to ensure that every member is equipped with the necessary skills to enable them to excel in debate, writing or drama.  &nbsp;All members are trained in the above three linked disciplines. This also involves the skills for public speaking.</p> 
 	
-<p style="box-sizing: inherit; font-size: 1em;">In drama, members are taught the core basics of dramatic technique – the use of levels to create effect, vocal projection, awareness of body language, facial expressions and the use of space. In writing, members are exposed to a variety of genres.</p>
+<p style="box-sizing: inherit; font-size: 1em;">In drama, members are taught the core basics of dramatic technique – the use of levels to create effect, vocal projection, awareness of body language, facial expressions and the use of space.</p>
 
+<p style="box-sizing: inherit; font-size: 1em;"> In writing, members are exposed to a variety of genres.</p>
 
 <p style="box-sizing: inherit; font-size: 1em;">In debate, all members go through training on how to formulate and present arguments in response to assigned motions. This is to ensure that every member is equipped with the essential skills to enable them to excel in debate. It also opens their minds to different points of views and fosters a critical understanding of current affairs.</p>
 
