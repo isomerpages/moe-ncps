@@ -30,3 +30,13 @@ Term 2 – tomato / vegetables <br>
 Term 3 – brinjal / vegetables<br>
 Term 4 – silk gourd / bitter gourd
 </p>
+<p style="box-sizing: inherit; font-size: 1em;">4. Biodiversity Week & Competitions
+We will be organising some activities for Biodiversity Week for everyone to participate in Term 3. Students will learn about local flora and fauna in our school. Also, we will take part in SembEnviro Plastic Recycling League 2023 organised by Sembcorp and other upcoming competitions. </p>
+<p style="box-sizing: inherit; font-size: 1em;">2022 Highlights
+In 2022 Semester 1, the Environmental Club members volunteered as Green Captains once a week during recess to remind their peers to rinse and recycle plastic bottles and aluminum cans instead of throwing them away.
+
+In May, the members went on a learning journey to Botanic Gardens. They were led by experienced nature educators to various parts of the rainforest at the Botanic Garden to learn and complete activities regarding the rainforest. They have learnt the structure and importance of rainforest.
+In Term 3, the members conducted a community outreach programme via Zoom webinar. This programme aimed to bring the 5’Rs (reduce, reuse, recycle, refuse, repair) awareness to our school community which included parents and staff. 
+
+The members learnt about biodiversity trail conducted by NParks officials, and learnt to design a school garden map. In Term 4, the members learnt some care tips for air plants. Each member brought 2-3 pieces of air plants home to grow.
+</p>
