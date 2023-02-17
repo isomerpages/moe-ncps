@@ -8,7 +8,7 @@ third_nav_title: Sports & Games
 | -------- | ------- | --------------- |
 |Day | Wednesday - Recreational Team (P3) & School Team<br>Thursday - Recreational Team (P4 - P6)<br>Friday - School Team
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Mrs Navelen (Main IC)<br>Mr Wong Soon Teck<br/> Mr Lim Kiat Siong <br/>Mr Tan Ban Sun<br>Ms Tan Soi Moy
+|Teachers-in-charge |Mr Wong Soon Teck (Main IC)<br>Mrs Navelen<br> Mr Lim Kiat Siong <br>Mr Tan Ban Sun<br>Ms Tan Soi Moy
 
 
 <p style="box-sizing: inherit; font-size: 1em;">Currently, the badminton CCA consists of the recreation group and the school team. Both sessions are conducted by professional coaches engaged by the school.</P><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: 700;"><u style="box-sizing: inherit;">Recreation<br style="box-sizing: inherit;"></u></strong>We hope that the pupils in the recreation group will be equipped with the basic techniques and rules of the game.</p><p style="box-sizing: inherit; font-size: 1em;">1. Basic handling of the badminton rackets<br>2. Understand the rules of the game<br>3. Serving of the shuttlecock<br>4. Basic footwork</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: 700;"><u style="box-sizing: inherit;">School Team<br style="box-sizing: inherit;"></u></strong>The training is conducted by professional coaches engaged by the school. We hope to develop teams that are capable of competing well in the National School Games.
