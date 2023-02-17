@@ -1,0 +1,5 @@
+collections:
+  partners-and-stakeholders:
+    output: true
+    order:
+      - NC Alumni Association.md

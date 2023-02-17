@@ -1,32 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Nan Chiau Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Homepage/cropped-ncps-logo-1.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: School Vision
+          description: An Innovative School where Inspiring Educators nurture Future-ready
+            Leaders
+          url: ""
+        - title: School Mission
+          description: To foster Moral, Cognitive, Physical, Social and Aesthetic growth
+            of all-round students
+          url: ""
+        - title: School Values
+          description: Respect, Responsibility, Sincerity, Perseverance
+          url: ""
+      background: /images/Homepage/year book cover page design v5.png
+  - infopic:
+      title: Nan Chiau 75th Anniversary Celebrations
+      description: '"Nan Chiau, Our Story Our Pride"'
+      button: Read More
+      url: /lp-press/75th-anniversary-celebration/
+      image: /images/Homepage/NC75-COVER PAGE.jpg
+      alt: Image alt text
+  - infopic:
+      title: Termly Bulletin
+      description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
+        Monthly Bulletin.
+      button: Read More
+      url: /lp-press/ncps-monthly-bulletin-january-2020/
+      image: /images/Homepage/Bulletin 2023.jpg
+      alt: Image alt text
 ---
-

@@ -1,0 +1,18 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - History.md
+      - Vision, Mission, Values.md
+      - School Crest.md
+      - School Song.md
+      - School Information/.keep
+      - School Information/School Uniform.md
+      - School Information/School Hours.md
+      - School Information/School Rules.md
+      - School Service Providers/.keep
+      - School Service Providers/School Dental Services.md
+      - School Service Providers/School Vendors.md
+      - School Service Providers/Nan Chiau Student Care Centre.md
+      - Financial & Non Financial Information.md
+      - Frequently Asked Questions (FAQ).md
