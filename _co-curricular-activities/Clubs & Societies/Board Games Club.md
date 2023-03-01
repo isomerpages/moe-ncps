@@ -24,3 +24,5 @@ The students are **Ready to Learn** by playing board games with one another a
     
 Students are given various roles and responsibilities such as taking care of the board games and the equipment given to them.</p>
 
+<img src="/images/CoCurricularActivities/Board%20Games/BOARD%20GAMES%20CLUB.jpg" style="width:80%">
+
