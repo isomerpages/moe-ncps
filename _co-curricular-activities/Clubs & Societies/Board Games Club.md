@@ -23,3 +23,4 @@ The seniors are **Ready to Lead** the juniors in each session by guiding and a
 The students are **Ready to Learn** by playing board games with one another as it helps them with strategic decision making, critical thinking as well as improve their social and communication skills.  Students make friends with other students from other levels and classes which they may not have the opportunity to do so on their own.  They learn to collaborate and work together.
     
 Students are given various roles and responsibilities such as taking care of the board games and the equipment given to them.</p>
+
