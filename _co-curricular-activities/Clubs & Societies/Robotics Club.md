@@ -15,3 +15,6 @@ third_nav_title: Clubs & Societies
 <p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Our club mainly leverages on LEGO Mindstorms Education to educate our students in the two core components of Robotics, i.e. robot construction and programming skills. Through the trainings that students undergo, they are able to expand their understanding in the mechanics of robot movements as well as strengthen their analytical and creative learning skills. Students also get to hone their logical thinking ability as they learn to design and programme their robots through block-based programming.</p><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: inherit; font-size: inherit;">We also aim to inculcate values such as perseverance, team work, responsibility and respect in our students, through fun, engaging and comprehensive robotics programme, which utilises hands-on and minds-on approach to teaching and learning.
 
 <p style="box-sizing: inherit; font-size: 1em;">Students who display aptitude in their craft have the opportunity to represent the school and participate in various competitions which allow them to develop their leadership and management skills too.</p>
+	
+	
+	<img src="/images/CoCurricularActivities/Robotics/ROBOTICS%20CLUB.jpg" style="width:80%">

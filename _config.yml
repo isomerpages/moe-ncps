@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-ncps-staging.netlify.app
-prod: https://moe-ncps-prod.netlify.app
+staging: https://staging.d14r8iktmpuzma.amplifyapp.com/
+prod: https://master.d14r8iktmpuzma.amplifyapp.com/
 shareicon: /images/Homepage/cropped-ncps-logo-1.png
 is_government: false
 facebook-pixel: ""

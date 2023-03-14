@@ -21,3 +21,5 @@ third_nav_title: Clubs & Societies
 
 <p style="box-sizing: inherit; font-size: 1em;">
 We believe that the structured programme in ELDDS imparts valuable life skills such as the ability to think clearly and speak with confidence. Every member is given the opportunity to develop and discover their talents to excel confidently.</p>
+
+<img src="/images/CoCurricularActivities/ELDDS/ELDDS.jpg" style="width:80%">

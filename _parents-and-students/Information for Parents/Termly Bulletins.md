@@ -4,6 +4,10 @@ permalink: /lp-press/ncps-monthly-bulletin-january-2020/
 description: ""
 third_nav_title: Information for Parents
 ---
+**Year 2023**
+
+[Term 1 e-Bulletin](https://tinyurl.com/NCPS2023T1BULLETIN)
+
 **Year 2022**
 
 [Term 1 e-Bulletin](/files/Termly%20Bulletin/2022-Term-1-e-Bulletin.pdf)

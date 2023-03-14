@@ -12,7 +12,7 @@ third_nav_title: Clubs & Societies
 
 <p style="box-sizing: inherit; font-size: 1em;">Board games play a crucial role in children’s development and growth. It is an important aspect of brain development as they help acquire logical and reasoning skills, boost critical thinking and gain spatial reasoning.
     
-Students learn the rules and play Scrabble during their weekly sessions.  They have a fun-filled time playing with their friends and at the same time, they learn to work as a team and learn social skills.
+Students learn the rules and play International Chess during their weekly sessions.  They have a fun-filled time playing with their friends and at the same time, learn social skills.
     
 During each session, students display the 3Rs.
     
@@ -23,3 +23,6 @@ The seniors are **Ready to Lead** the juniors in each session by guiding and a
 The students are **Ready to Learn** by playing board games with one another as it helps them with strategic decision making, critical thinking as well as improve their social and communication skills.  Students make friends with other students from other levels and classes which they may not have the opportunity to do so on their own.  They learn to collaborate and work together.
     
 Students are given various roles and responsibilities such as taking care of the board games and the equipment given to them.</p>
+
+<img src="/images/CoCurricularActivities/Board%20Games/BOARD%20GAMES%20CLUB.jpg" style="width:80%">
+
