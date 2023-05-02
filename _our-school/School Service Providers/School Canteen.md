@@ -7,9 +7,9 @@ third_nav_title: School Service Providers
 #### **Canteen Stall Vacancy**
 
 
-| Type of Stall | Closing Date |  |
+| Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice | 30 June 2023 |    |
+| Chinese Rice | 30 June 2023 | Rice with dishes  |
 
 **Application Procedure**
 
