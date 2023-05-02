@@ -27,7 +27,7 @@ third_nav_title: School Service Providers
 			* 	Email: ncps@moe.edu.sg
 			* 	Contact Person: Mr Isaac Lee
 
-Interested applicants must meet the following criteria:
+**Interested applicants must meet the following criteria:**
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant(s).
 * Able to provide good service and quality food with prices determined in consultation with the school.
@@ -35,7 +35,7 @@ Interested applicants must meet the following criteria:
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
-Applicants should preferably fulfill the following criteria:
+**Applicants should preferably fulfill the following criteria:**
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
