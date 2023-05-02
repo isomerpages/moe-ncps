@@ -18,16 +18,18 @@ third_nav_title: School Service Providers
 
 2.  Attach the following documents together with the application form:
 
-			* Photocopy of NRIC (front and back)
-			* List of proposed menu and pricing for all items
-			* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+	* Photocopy of NRIC (front and back)
+	* List of proposed menu and pricing for all items
+	* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
+
 
 3.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-			* 	Address: 50 Anchorvale Link, Singapore 545080
-			* 	Contact Number: 6489 7905
-			* 	Email: ncps@moe.edu.sg
-			* 	Contact Person: Mr Isaac Lee
+	* 	Address: 50 Anchorvale Link, Singapore 545080
+	* 	Contact Number: 6489 7905
+	* 	Email: ncps@moe.edu.sg
+	* 	Contact Person: Mr Isaac Lee
+
 
 **Interested applicants must meet the following criteria:**
 
