@@ -22,7 +22,6 @@ third_nav_title: School Service Providers
 	* List of proposed menu and pricing for all items
 	* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-
 3.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 	* 	Address: 50 Anchorvale Link, Singapore 545080
@@ -38,6 +37,7 @@ third_nav_title: School Service Providers
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in School Programme (HMSP)" guidelines (see [link](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) ).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
+
 
 **Applicants should preferably fulfill the following criteria:**
 
