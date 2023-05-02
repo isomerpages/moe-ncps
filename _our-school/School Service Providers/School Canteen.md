@@ -14,7 +14,7 @@ third_nav_title: School Service Providers
 
 1.  Download and complete the application form.  You may also request for a hardcopy from the School's General Office.
 
-[Application Form for School Canteen Stall]()
+	[Application Form for School Canteen Stall]()
 
 2.  Attach the following documents together with the application form:
 			* Photocopy of NRIC (front and back)
