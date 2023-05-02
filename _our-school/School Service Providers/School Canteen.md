@@ -33,7 +33,7 @@ third_nav_title: School Service Providers
 
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant(s).
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in School Programme (HMSP)" guidelines (see link ).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in School Programme (HMSP)" guidelines (see [link](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) ).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
