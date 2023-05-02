@@ -12,7 +12,6 @@ third_nav_title: School Service Providers
 
 **Application Procedure**
 
-1. Download and complete the application form.  You may also request for a hardcopy from the School's General Office.
+1.  Download and complete the application form.  You may also request for a hardcopy from the School's General Office.
 
-2. Attach the following documents together with the application form:
-	
+2.  Attach the following documents together with the application form:
