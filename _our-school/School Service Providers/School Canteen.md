@@ -9,7 +9,7 @@ third_nav_title: School Service Providers
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Mixed Rice | 31 June 2023 | Rice with dishes  |
+| Chinese Mixed Rice | 30 June 2023 | Rice with dishes  |
 
 **Application Procedure**
 
