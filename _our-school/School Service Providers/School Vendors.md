@@ -44,6 +44,5 @@ Website:&nbsp;[http://www.asencio.com.sg](http://www.asencio.com.sg/)
 Liaison Officer:&nbsp; &nbsp; Ms Susan 9069 3357 / Mr Darrell 9226 7131  
 Email: [pollytransport@hotmail.com](mailto:pollytransport@hotmail.com)
 
-**Bus Fare**
-
+**Bus Fares**
 [Details of bus operator and bus fares](/files/School%20Bus%20Operator/details%20of%20bus%20operators%20and%20bus%20fares.pdf)
