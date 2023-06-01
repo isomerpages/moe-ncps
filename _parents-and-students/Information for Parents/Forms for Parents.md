@@ -10,17 +10,9 @@ third_nav_title: Information for Parents
 *   [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 
-**NEU PC Plus Programme**
-
-*   [Application Form for NEU PC Plus](/files/Forms%20for%20Parents/NPP-Application-Form-for-NON-MOE-SPED-FAS-1.pdf)
-
-*   [Application Form for NEU PC Plus - MOE-SPED FAS Recipients](/files/Forms%20for%20Parents/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
-
-*   [NEU PC Plus IMDA Fibre Broadband Svc](/files/Forms%20for%20Parents/NEU-PC-Plus-IMDA-Fibre-Broadband-Svc.pdf)
-
 **Application for Waiting List**
 
-*    [Application Form for Waiting List to NCPS](/files/Forms%20for%20Parents/Application-Form-for-Transfer-2022.pdf)
+*    [Application Form for Waiting List to NCPS](/files/Forms%20for%20Parents/application%20form%20for%20transfer.pdf)
 
 **Application for Leave of Absence (LOA)**
 
