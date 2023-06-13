@@ -9,7 +9,7 @@ third_nav_title: Information for Parents
 [Term 1 e-Bulletin](https://tinyurl.com/NCPS2023T1BULLETIN)
 
 
-[Term 2 e-Bulletin](https://online.flipbuilder.com/ncps/vtyg/)
+[Term 2 e-Bulletin](https://online.flipbuilder.com/ncps/wtkz/)
 
 
 **Year 2022**
