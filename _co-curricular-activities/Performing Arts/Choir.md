@@ -15,4 +15,4 @@ third_nav_title: Performing Arts
 
 <img src="/images/CoCurricularActivities/Choir/CHOIR.jpg" style="width:80%">
 
-<img src="/images/CoCurricularActivities/Choir/choir02.jpeg" style="width:80% height:80%">
+<img src="/images/CoCurricularActivities/Choir/choir02.jpeg" style="width:80%">
