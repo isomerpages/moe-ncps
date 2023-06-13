@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Contact Information.md
       - History.md
       - Vision, Mission, Values.md
       - School Crest.md
