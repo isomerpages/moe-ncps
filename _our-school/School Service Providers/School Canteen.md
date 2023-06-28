@@ -22,9 +22,9 @@ third_nav_title: School Service Providers
 
 **Application Procedure**
 
-* Complete and submit the application form to the School's General Office by the closing date with the following documents.  You may also request for a hardcopy from the School's General Office.
+* Complete and submit the  [application form](/files/Canteen%20Stall%20Application/application-form-for-school-canteen-stall.pdf)  to the School's General Office by the closing date with the following documents.  You may also request for a hardcopy from the School's General Office.
 
-	[Application Form For School Canteen Stall](/files/Canteen%20Stall%20Application/application-form-for-school-canteen-stall.pdf)
+	
 	* Photocopy of NRIC (front and back)
 	* Proposed menu and pricing
 	* Photocopy of relevant certificates such as Basic Food Hygiene, etc
