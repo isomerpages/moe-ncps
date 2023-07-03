@@ -9,7 +9,7 @@ third_nav_title: School Service Providers
 
 | Type of Stall | Closing Date | 
 | -------- | -------- | 
-| Chinese Mixed Rice / Chinese Vegetarian  | 30 June 2023 | Rice with dishes  |
+| Chinese Mixed Rice / Chinese Vegetarian  | 30 Sep 2023 | 
 
 **Application Requirements**
 
