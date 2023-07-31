@@ -24,5 +24,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 #### How to get there?
 
-* Nearest MRT: Sengkang
-* Buses Nearby: 372, 50, 102, 85
+1. Nearest MRT: Sengkang
+2. Buses Nearby: 372, 50, 102, 85
