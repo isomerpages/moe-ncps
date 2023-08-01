@@ -6,7 +6,8 @@ third_nav_title: School Service Providers
 ---
 ### School Bus Advertisement
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
+To apply, please refer to the Service Requirements and the Application Procedure below
+
 
 #### Service Requirements
 
