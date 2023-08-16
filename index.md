@@ -37,7 +37,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Ex-Students Homecoming
-      description: Infopic description
       button: Read More
       url: /parents-and-students/permalink/
       image: /images/Homepage/staff appreciation 2023.png
