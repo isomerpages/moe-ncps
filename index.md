@@ -24,7 +24,7 @@ sections:
       title: Ex-Students Homecoming
       button: Read More
       url: /parents-and-students/permalink/
-      image: /images/Homepage/ex-student homecoming 2023.jpeg
+      image: /images/Homepage/ex-students homecoming 2023.png
       alt: Image alt text
   - infopic:
       title: Termly Bulletin
