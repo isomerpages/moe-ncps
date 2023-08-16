@@ -10,7 +10,7 @@ third_nav_title: Information for Parents
 *   [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 
-**Application for Waiting List**
+**Application for Wait List**
 
 *    [Application Form for Waiting List to NCPS](/files/Forms%20for%20Parents/application%20form%20for%20transfer.pdf)
 

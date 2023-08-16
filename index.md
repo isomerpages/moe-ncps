@@ -21,11 +21,10 @@ sections:
           url: ""
       background: /images/Homepage/year book cover page design v5.png
   - infopic:
-      title: Nan Chiau 75th Anniversary Celebrations
-      description: '"Nan Chiau, Our Story Our Pride"'
+      title: Ex-Students Homecoming
       button: Read More
-      url: /lp-press/75th-anniversary-celebration/
-      image: /images/Homepage/NC75-COVER PAGE.jpg
+      url: /parents-and-students/permalink/
+      image: /images/Homepage/ex-students homecoming 2023.png
       alt: Image alt text
   - infopic:
       title: Termly Bulletin
