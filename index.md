@@ -35,4 +35,11 @@ sections:
       url: /lp-press/ncps-monthly-bulletin-january-2020/
       image: /images/Homepage/Bulletin 2023.jpg
       alt: Image alt text
+  - infopic:
+      title: Ex-Students Homecoming
+      description: Infopic description
+      button: Read More
+      url: /parents-and-students/permalink/
+      image: /images/Homepage/staff appreciation 2023.png
+      alt: Image alt text
 ---
