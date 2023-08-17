@@ -12,7 +12,7 @@ third_nav_title: Information for Parents
 
 **Application for Wait List**
 
-*    [Application Form for Waiting List to NCPS](/files/Forms%20for%20Parents/application%20form%20for%20transfer.pdf)
+*    [Application Form for Seeking Transfer / Adminission](/files/Forms%20for%20Parents/application%20form%20for%20transfer.pdf)
 
 **Application for Leave of Absence (LOA)**
 
