@@ -1,5 +1,5 @@
 ---
-title: School Canteen
+title: School Canteen Advertisement
 permalink: /our-school/school-canteen/
 description: ""
 third_nav_title: School Service Providers
@@ -9,7 +9,8 @@ third_nav_title: School Service Providers
 
 | Type of Stall | Closing Date | 
 | -------- | -------- | 
-| Chinese Mixed Rice / Chinese Vegetarian  | 30 Sep 2023 | 
+| Mixed Rice Stall / Vegetarian Stall  | 31 Dec 2023 | 
+| Malay Food Stall  | 31 Dec 2023 | 
 
 **Application Requirements**
 
