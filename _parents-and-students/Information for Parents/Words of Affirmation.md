@@ -13,6 +13,4 @@ We often find our teachers working tirelessly to motivate our students, checking
 
 Non-teaching staff is also an important team that ensures the smooth running of the school.
 
-Here’s your chance to affirm both teaching and non-teaching staff of their efforts and hard work. It will only take a few minutes, but the impact of those words will lead to positive environment for everybody because
-
-when our staff feel valued and appreciated at work, it trickles down to all our students.
+Here’s your chance to affirm both teaching and non-teaching staff of their efforts and hard work. It will only take a few minutes, but the impact of those words will lead to positive environment for everybody because when our staff feel valued and appreciated at work, it trickles down to all our students.
