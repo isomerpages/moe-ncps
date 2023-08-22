@@ -17,7 +17,7 @@ description: ""
 
 #### **Year Head for Primary 3 &amp; Primary 4**
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 663.825px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 395.3px;">Mr Tan Swee Meng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;">Primary 3 &amp; 4 Year Head</td></tr></tbody></table>
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 663.825px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 396.475px;">Mr Tan Swee Meng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 657px;">Primary 3 &amp; 4 Year Head</td></tr></tbody></table>
 
 <b>Form Teachers for Primary 3</b>
 
