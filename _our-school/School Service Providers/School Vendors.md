@@ -41,7 +41,7 @@ Website:&nbsp;[http://www.asencio.com.sg](http://www.asencio.com.sg/)
 
 #### **School Bus Operator – Polly Transport Services**
 
-Liaison Officer:&nbsp; &nbsp; Ms Susan 9069 3357 / Mr Darrell 9226 7131  
+Tel:&nbsp; &nbsp; Ms Susan 9069 3357 / Mr Darrell 9226 7131  
 Email: [pollytransport@hotmail.com](mailto:pollytransport@hotmail.com)
 
 **Bus Fares** 
