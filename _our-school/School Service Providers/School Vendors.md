@@ -46,4 +46,4 @@ Email: [pollytransport@hotmail.com](mailto:pollytransport@hotmail.com)
 
 **Bus Fares** 
 
-[Details of bus operator and bus fares](/files/School%20Bus%20Operator/details%20of%20bus%20operators%20and%20bus%20fares.pdf)
+[Click here to refer to the bus fares](/files/School%20Bus%20Operator/details%20of%20bus%20operators%20and%20bus%20fares.pdf)
