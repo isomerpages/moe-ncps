@@ -11,6 +11,7 @@ third_nav_title: Information for Parents
 
 [Term 2 e-Bulletin](https://online.flipbuilder.com/ncps/wtkz/)
 
+[Term 3 e-Bulletin](https://online.flipbuilder.com/ncps/ylmf/)
 
 **Year 2022**
 
