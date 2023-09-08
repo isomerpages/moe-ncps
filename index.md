@@ -21,19 +21,6 @@ sections:
           url: ""
       background: /images/Homepage/year book cover page design v5.png
   - infopic:
-      title: Words of Affirmation
-      subtitle: Staff appreciation  Day 2023
-      button: Read More
-      url: /parents-and-students/information-for-parents/words-of-encouragement/
-      image: /images/Homepage/staff appreciation 2023.png
-      alt: Image alt text
-  - infopic:
-      title: Ex-Students Homecoming
-      button: Read More
-      url: /parents-and-students/permalink/
-      image: /images/Homepage/ex-students homecoming 2023.png
-      alt: Image alt text
-  - infopic:
       title: Termly Bulletin
       description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
         Monthly Bulletin.

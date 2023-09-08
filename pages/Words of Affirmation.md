@@ -2,7 +2,6 @@
 title: Words of Affirmation
 permalink: /parents-and-students/information-for-parents/words-of-encouragement/
 description: ""
-third_nav_title: Information for Parents
 ---
 ## Staff Appreciation Day
 

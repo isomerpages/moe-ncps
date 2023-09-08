@@ -1,8 +1,7 @@
 ---
 title: Announcement
-permalink: /parents-and-students/permalink/
+permalink: /lp-press/permalink/
 description: ""
-third_nav_title: Information for Parents
 ---
 ### Ex-students Homecoming
 
