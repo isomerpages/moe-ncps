@@ -3,14 +3,10 @@ title: Announcement
 permalink: /lp-press/permalink/
 description: ""
 ---
-### Ex-students Homecoming
+### **Caring Teacher Awards (CTA) 2024 Nominations**
 
-This year, the school will be opened to welcome ex-students to visit your teachers on **31st August 2023, Thursday from 11.15 a.m. to 12.30 p.m.**
 
-For students in secondary school, you are to be in your school uniform.  For others, please contact your teachers in advance before coming to school.
+The Caring Teacher Awards (CTA) aims to acknowledge teachers in our schools who go beyond the call of duty, nurturing the holistic development of their students and ensuring their charges grow up to be confident, independent and resilient learners for our nation.
 
-Do note that only level 1 area (Foyer and outside General Office) and ISH level 1 will be opened during that period. Canteen and other levels will be out of bound.
-
-Please make an appointment by filling the [Google Form](https://go.gov.sg/ncps-exstudents-homecoming2023) by **25 August 2023, Friday. **
-
-See you on that day.
+Nominations can be done online @ https://www.cta.nie.edu.sg/)
+Closing Date: **12 January 2024**
