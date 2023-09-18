@@ -28,4 +28,14 @@ sections:
       url: /lp-press/ncps-monthly-bulletin-january-2020/
       image: /images/Homepage/Bulletin 2023.jpg
       alt: Image alt text
+  - infopic:
+      title: Caring Teacher Awards 2024
+      subtitle: Latest Events
+      id: infopic
+      description: This award aims to recognise and reward teachers who show care and
+        concern for the holistic development of their students.
+      button: Read More
+      url: /lp-press/permalink/
+      image: /images/Homepage/caring teacher 2024.png
+      alt: Image alt text
 ---
