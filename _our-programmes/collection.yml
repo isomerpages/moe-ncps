@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - NCPS Curriculum/Test.md
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
