@@ -33,7 +33,7 @@ sections:
       id: infopic
       description: Teachers play a critical role in moulding the future of our nation...
       button: Read More
-      image: /images/Homepage/Vote_for_teachers.gif
+      image: /images/Homepage/Nominate_your_teachers.gif
       alt: Image alt text
       url: /lp-press/permalink/
 ---
