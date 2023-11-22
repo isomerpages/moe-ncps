@@ -38,4 +38,12 @@ sections:
       url: /lp-press/permalink/
       image: /images/Homepage/caring teacher 2024.png
       alt: Image alt text
+  - infopic:
+      title: Teaching Award Nominations 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Homepage/Vote_for_teachers.gif
+      alt: Image alt text
 ---
