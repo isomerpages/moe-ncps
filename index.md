@@ -29,13 +29,11 @@ sections:
       image: /images/Homepage/Bulletin 2023.jpg
       alt: Image alt text
   - infopic:
-      title: Caring Teacher Awards 2024
-      subtitle: Latest Events
+      title: Teaching Award Nominations 2024
       id: infopic
-      description: This award aims to recognise and reward teachers who show care and
-        concern for the holistic development of their students.
+      description: Teachers play a critical role in moulding the future of our nation...
       button: Read More
-      url: /lp-press/permalink/
-      image: /images/Homepage/caring teacher 2024.png
+      image: /images/Homepage/Nominate_your_teachers.gif
       alt: Image alt text
+      url: /lp-press/permalink/
 ---
