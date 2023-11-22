@@ -14,11 +14,11 @@ As we end 2023, we are excited to share with you three Teaching Award Nomination
 
 
 ![](/images/Homepage/PTA2024.png)
-[Click here to vote for President's Award for Teachers (PTA) 2024](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
+[Click here to nominate for President's Award for Teachers (PTA) 2024](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
 
 ![](/images/Homepage/OYEA_2024.png)
-[Click here to vote for Outstanding Youth in Education Award (OYEA) 2024](https://form.gov.sg/650a8bfa356d470012265669)
+[Click here to nominate for Outstanding Youth in Education Award (OYEA) 2024](https://form.gov.sg/650a8bfa356d470012265669)
 
 <img src="/images/Homepage/caring%20teacher%202024.png" style="width:80%">
 
-[Click here to vote for Caring Teacher Award (CTA) 2024](https://www.cta.nie.edu.sg/nominate)
+[Click here to nominate for Caring Teacher Award (CTA) 2024](https://www.cta.nie.edu.sg/nominate)
