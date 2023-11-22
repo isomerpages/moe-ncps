@@ -46,4 +46,5 @@ sections:
       button: Button Text
       image: /images/Homepage/Vote_for_teachers.gif
       alt: Image alt text
+      url: /lp-press/permalink/
 ---
