@@ -3,6 +3,7 @@ title: Termly Bulletins
 permalink: /lp-press/ncps-monthly-bulletin-january-2020/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 **Year 2023**
 
@@ -12,6 +13,8 @@ third_nav_title: Information for Parents
 [Term 2 e-Bulletin](https://online.flipbuilder.com/ncps/wtkz/)
 
 [Term 3 e-Bulletin](https://online.flipbuilder.com/ncps/ylmf/)
+
+[Term 4 e-Bulletin](https://online.flipbuilder.com/ncps/rnlv/)
 
 **Year 2022**
 
