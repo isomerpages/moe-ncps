@@ -3,6 +3,7 @@ title: School Rules
 permalink: /our-school/school-rules/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 **National Anthem, Pledge and School Song**
 
@@ -15,7 +16,7 @@ third_nav_title: School Information
 **We Respect Ourselves**
 
 *   Students are to wear their full school uniform on days when there are no PE/PAL lessons in their class timetable.  School PE t-shirts/shorts can only be worn on days when the class has PE/PAL lessons.
-*   School shoes must be completely black and worn with a pair of black school socks.
+*   School shoes must be completely black and worn with a pair of black socks.
 *   All students must be neatly groomed. All male students must be clean shaven, and no wearing of beards and moustache.
 
 **We Respect One Another**
