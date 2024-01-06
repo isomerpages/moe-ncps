@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ------- | --------------- |
 |Day | Thursday - Recreational Team (P3 - P6) &amp; School Team<br>Friday - School Team   | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Sun Fu Pei (Main IC)<br>Madam Xiao Ji<br>Madam Tang Zhu Min<br>Madam Chen Yan
+|Teachers-in-charge |Madam Sun Fu Pei (Main IC)<br>Madam Xiao Ji<br>Madam Tang Zhu Min<br>Madam Chuan Ai Ling<br>Madam Chen Yan
 |Events participated    |National Primary Schools Wushu Championship|
 
 
