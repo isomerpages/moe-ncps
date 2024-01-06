@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ------- | --------------- |
 |Day | Friday   | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Miss Tang Souw Ying (Main IC)<br>Madam Sofie Chai Ching Shze
+|Teachers-in-charge |Mrs Ng – Chua Ming Ching (Main IC)<br>Madam&nbsp; Noorkhairuniza<br>Miss Tang Souw Ying <br>Madam Sofie Chai Ching Shze
 |Events participated    |National Primary Schools Track and Field Championships<br>SHHK Combined Schools Sports Meet
 
 <p style="box-sizing: inherit; font-size: 1em;">Track and Field has always been a popular CCA in Nan Chiau Primary School. Our total enrolment has always been around 80 students. At every training session, attendance rate is always above 95%. During the training sessions, students have to do a 5-minute endurance run followed by stretching and strengthening exercises. </p>
