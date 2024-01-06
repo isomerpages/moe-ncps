@@ -3,12 +3,13 @@ title: Netball
 permalink: /co-curricular-activities/sports-games/netball-2/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 |Name of CCA | Netball|  |
 | -------- | ---------- | --------------- |
 |Day | Thursday - All students<br>Friday - School Team| 
 | Time |2.00 p.m. - 4.00 p.m.  
-|Teachers-in-charge |Madam Haryani (Main IC)<br>Madam Norzila Wagimin<br> Madam Tan Bee Khuan Sally| 
+|Teachers-in-charge |Madam Tan Bee Khuan Sally (Main IC)<br> Miss Putri| 
 |Events participated    |National School&nbsp; Games<br>Netball Tournament
 
 <p style="box-sizing: inherit; font-size: 1em;">The Netball Club is newly set up in January 2016. Weekly training are conducted every Thursdays from 2.00-4.00 pm.&nbsp;During each training, the girls are taught dynamic stretches which will help them to warm up the targeted major muscle groups. The girls will then perform some ball handling drills to increase their familiarisation with the ball. Refinement tasks are also carried out on the girls to hone their attacking skills such as shooting, using off-the-ball movements to move away from defender, receiving the ball effectively from the thrower etc. Rules of the game are introduced as the girls play the netball game. These real life experiences will definitely help them to remember the rules better.
