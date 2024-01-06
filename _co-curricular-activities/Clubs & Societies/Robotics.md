@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-|Name of CCA|Robotics|  |
+|Name of CCA|Robotics Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday| 
 | Time |2.00 p.m. - 4.00 p.m. 
