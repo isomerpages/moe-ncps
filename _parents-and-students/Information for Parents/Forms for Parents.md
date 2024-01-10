@@ -13,7 +13,7 @@ variant: markdown
 
 **Application for Wait List**
 
-* [ Application Form for Seeking Transfer / Adminission](/files/Application_Form_for_Transfer_2024.pdf)
+* [ Application Form for Seeking Transfer / Adminission](/files/Forms%20for%20Parents/Application_Form_for_Transfer_2024.pdf)
 
 **Application for Leave of Absence (LOA)**
 
