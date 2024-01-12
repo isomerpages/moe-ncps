@@ -3,13 +3,14 @@ title: Environmental Club
 permalink: /co-curricular-activities/clubs-societies/environmental-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 |Name of CCA|Environmental Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Miss Na Vievern (Main IC)<br>Madam Tang Li Kuon
-|Events participated    |Recycle Right & The 5 R's Webinar Session (2022)<br>Rainforest Learning Journey at the Botanic Gardens (2022)
+|Teachers-in-charge |Madam Tang Li Kuon (Main IC)<br>Miss Na Vievern 
+|Events participated    |Recycle Right &amp; The 5 R's Webinar Session (2022)<br>Rainforest Learning Journey at the Botanic Gardens (2022)
 
 <p style="box-sizing: inherit; font-size: 1em;">CCA Mission - We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
 
@@ -30,7 +31,7 @@ Term 2 – tomato / vegetables <br>
 Term 3 – brinjal / vegetables<br>
 Term 4 – silk gourd / bitter gourd
 </p>
-<p style="box-sizing: inherit; font-size: 1em;">4. Biodiversity Week & Competitions
+<p style="box-sizing: inherit; font-size: 1em;">4. Biodiversity Week &amp; Competitions
 We will be organising some activities for Biodiversity Week for everyone to participate in Term 3. Students will learn about local flora and fauna in our school. Also, we will take part in SembEnviro Plastic Recycling League 2023 organised by Sembcorp and other upcoming competitions. </p>
 <p style="box-sizing: inherit; font-size: 1em;"><strong>2022 Highlights<br></strong>
 In 2022 Semester 1, the Environmental Club members volunteered as Green Captains once a week during recess to remind their peers to rinse and recycle plastic bottles and aluminum cans instead of throwing them away.

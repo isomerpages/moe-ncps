@@ -3,12 +3,13 @@ title: Wushu
 permalink: /co-curricular-activities/sports-games/wushu/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 |Name of CCA|Wushu|  |
 | -------- | ------- | --------------- |
-|Day | Thursday - Recreational Team (P3 - P6) & School Team<br>Friday - School Team   | 
+|Day | Thursday - Recreational Team (P3 - P6) &amp; School Team<br>Friday - School Team   | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Sun Fu Pei (Main IC)<br>Madam Xiao Ji<br>Mr Cheng Zhong<br>Ms Liu Lan Ying
+|Teachers-in-charge |Madam Sun Fu Pei (Main IC)<br>Madam Xiao Ji<br>Madam Tang Zhu Min<br>Madam Chuan Ai Ling<br>Madam Chen Yan
 |Events participated    |National Primary Schools Wushu Championship|
 
 
