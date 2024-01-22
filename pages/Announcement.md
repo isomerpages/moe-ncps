@@ -2,7 +2,6 @@
 title: Announcement
 permalink: /lp-press/permalink/
 description: ""
-third_nav_title: Information for Parents
 variant: markdown
 ---
 # Teaching Award Nominations 2024
