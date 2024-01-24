@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - NCPS Curriculum/Sexuality Education.md
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
@@ -12,6 +11,7 @@ collections:
       - NCPS Curriculum/PE, Aesthetics and Music.md
       - NCPS Curriculum/Character and Citizenship Education.md
       - NCPS Curriculum/Programme for Active Learning (PAL).md
+      - NCPS Curriculum/Sexuality Education.md
       - NC Enriched Curriculum/.keep
       - NC Enriched Curriculum/Nan Chiau Enriched Curriculum.md
       - NC Enriched Curriculum/BiCEP.md
