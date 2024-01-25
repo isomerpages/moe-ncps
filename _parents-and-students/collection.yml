@@ -1,0 +1,14 @@
+collections:
+  parents-and-students:
+    output: true
+    order:
+      - Information for Parents/.keep
+      - Information for Parents/Information for Parents.md
+      - Information for Parents/Termly Bulletins.md
+      - Information for Parents/Parents’ Briefing Slides.md
+      - Information for Parents/Forms for Parents.md
+      - Information for Parents/Parents Gateway.md
+      - Information for Parents/Road Safety.md
+      - Information for Parents/Snacks For Break Time.md
+      - Useful Links for Students.md
+      - Consent for Photography and Videos.md

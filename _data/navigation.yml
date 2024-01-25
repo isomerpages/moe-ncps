@@ -1,0 +1,19 @@
+logo: /images/Homepage/School Logo (Main page 2).png
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our Team
+    collection: our-team
+  - title: Programmes
+    collection: programmes
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: Parents & Students
+    collection: parents-and-students
+  - title: Partners
+    url: /partners-and-stakeholders/nc-alumni-association
+    sublinks:
+      - title: Parent Support Group
+        url: /partners/permalink/
+      - title: NC Alumni Association
+        url: /partners-and-stakeholders/nc-alumni-association
