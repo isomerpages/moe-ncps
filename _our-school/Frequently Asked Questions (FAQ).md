@@ -10,7 +10,7 @@ Please inform the staff at General Office who will advise you on the form(s) and
 
 **How do I contact the school?**
 
-Please refer to the following link:&nbsp;<a target="\_blank" href="/our-school/school-contact-information/">Contact Us</a>
+Please refer to the following link:&nbsp;<a target="\_blank" href="/our-school/school-contact-information/">School Contact Information</a>
 
 **What are the school’s arrival and dismissal time for students?**
 
