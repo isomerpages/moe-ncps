@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png" style="width:80%">
 
 #### **MOE Mathematics syllabus**
-<a target="_blank" href="https://www.moe.gov.sg/primary/curriculum/syllabus">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
+<a target="\_blank" href="https://www.moe.gov.sg/primary/curriculum/syllabus">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 
 #### **Department Vision**
 
