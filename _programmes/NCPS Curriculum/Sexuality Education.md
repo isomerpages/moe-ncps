@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /sexuality-education/
 description: ""
 third_nav_title: NCPS Curriculum
+variant: markdown
 ---
 **MOE Sexuality Education in Schools**
 
@@ -26,11 +27,12 @@ third_nav_title: NCPS Curriculum
 
 (iv)&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click&nbsp; <a target="\_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>
+&nbsp;for more information on MOE Sexuality Education.
 
 **Overview of NAN CHIAU Primary School’s Sexuality Education Programme for 2023**
 
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)for more information on the scope of Sexuality Education in the school curriculum.
+4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a target="\_blank" href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.
 
 5. The subjects that incorporate topics on sexuality include:
 
@@ -43,32 +45,32 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-**At Nan Chiau Primary School, the following Sexuality Education lessons will be taught in&nbsp;*2023* :**
+**At Nan Chiau Primary School, the following Sexuality Education lessons will be taught in&nbsp;*2024* :**
      
 <img src="/images/Sexuality%20Education/MOE%20Logo%20(B&amp;W).jpg" style="width:50%">
 
 
-**2023 Sexuality Education Lessons in CCE 2021**
+**2024 Sexuality Education Lessons in CCE 2021**
 
 
 **PRIMARY 5**
 
-| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW<br style="font-size:8;">At the end of the lesson,pupils will be able to : | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)
+| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW| TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)
 | -------- | -------- | -------- |
-| Growing Years    | The Changes in Me<br>(60 min)    | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty.  Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 5   |
-| &nbsp; &nbsp; | Did You Know<br> (60 min) &nbsp; | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. &nbsp; &nbsp; | Term 4 Week 7|
+| Growing Years    | The Changes in Me<br>(60 min)    | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty.  Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 4 Week 4   |
+| &nbsp; &nbsp; | Did You Know<br> (60 min) &nbsp; | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. &nbsp; &nbsp; | Term 4 Week 5|
 |   | Keeping Myself Safe<br>(60 min)     | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |Term 4 Week 8|
 
 
 <img src="/images/Sexuality%20Education/MOE%20Logo%20(B&amp;W).jpg" style="width:50%">
          
- **2023 Sexuality Education Lessons in CCE 2021**
+ **2024 Sexuality Education Lessons in CCE 2021**
  
 **PRIMARY 6**
 
 
 
-| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW<br style="font-size:8;">At the end of the lesson,pupils will be able to : | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)|
+| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)|
 | -------- | -------- | -------- |
 | Growing Years     | Did You Know<br>(60 min)     | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |Term 2 Week 1|
 |     | Are We More than Friends? Lesson 1     | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends    |Term 2 Week 8|

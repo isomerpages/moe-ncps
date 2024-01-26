@@ -3,6 +3,7 @@ title: School Canteen Advertisement
 permalink: /our-school/school-canteen/
 description: ""
 third_nav_title: School Service Providers
+variant: markdown
 ---
 #### **Canteen Stall Vacancy**
 
@@ -16,7 +17,7 @@ third_nav_title: School Service Providers
 
 * Singapore citizen or Singapore Permanent Resident (SPR).
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* Must comply with the Healthy Meals in Schools Programme Guidelines set by the Health Promotion Board (HPB) (see [link](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) ).
+* Must comply with the Healthy Meals in Schools Programme Guidelines set by the Health Promotion Board (HPB) (see <a target="\_blank" href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">link</a>).
 * Able to maintain high standard of food safety and personal hygiene.
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate, and is required to apply for a food stall license from Singapore Food Agency (SFA).
 * Possess catering experience or experience operating in a school environment (preferred but not compulsory).

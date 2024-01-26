@@ -3,6 +3,7 @@ title: School Vendors
 permalink: /our-school/school-vendors/
 description: ""
 third_nav_title: School Service Providers
+variant: markdown
 ---
 #### **Bookshop Operator – Pacific Bookstores Pte Ltd**
 
@@ -10,7 +11,8 @@ third_nav_title: School Service Providers
 Singapore 409959  
 Tel: 6464 0111 Fax: 6464 0110  
 Email:&nbsp;[looeefah@pacificbookstores.com](mailto:looeefah@pacificbookstores.com)  
-Website:&nbsp;[http://www.pacificbookstores.com](http://www.pacificbookstores.com/)
+Website:&nbsp; <a target="\_blank" href="http://www.pacificbookstores.com">http://www.pacificbookstores.com</a>
+
 
 Operating Hours  
 
@@ -28,7 +30,8 @@ Operating Hours
 120 Hillview Avenue #05-03 Kewalram Hillview Singapore 669594  
 Tel: 6764 3102 Fax: 6764 1032  
 Email:&nbsp;[sales@asencio.com.sg](mailto:sales@asencio.com.sg)  
-Website:&nbsp;[http://www.asencio.com.sg](http://www.asencio.com.sg/)
+Website:&nbsp;<a target="\_blank" href="http://www.asencio.com.sg">http://www.asencio.com.sg</a>
+
 
 | School Term |  |  |
 | -------- | -------- | -------- |
