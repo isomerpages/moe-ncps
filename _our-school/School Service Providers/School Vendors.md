@@ -30,7 +30,8 @@ Operating Hours
 120 Hillview Avenue #05-03 Kewalram Hillview Singapore 669594  
 Tel: 6764 3102 Fax: 6764 1032  
 Email:&nbsp;[sales@asencio.com.sg](mailto:sales@asencio.com.sg)  
-Website:&nbsp;[http://www.asencio.com.sg](http://www.asencio.com.sg/)
+Website:&nbsp;<a target="\_blank" href="http://www.asencio.com.sg">http://www.asencio.com.sg</a>
+
 
 | School Term |  |  |
 | -------- | -------- | -------- |
