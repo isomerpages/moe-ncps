@@ -7,6 +7,6 @@ variant: markdown
 Page Under Construction
 =======================
 
-<a target="_blank" href="https://www.WordPress.com">NCPS Website</a>
+
 
 Coming Soon…
