@@ -18,4 +18,4 @@ variant: markdown
 
 **Application for Leave of Absence (LOA)**
 
-*   [Application Form for Leave of Absence](https://form.gov.sg/60b9973c3c599c0011f052a6)
+*   <a target="\_blank" href="https://form.gov.sg/60b9973c3c599c0011f052a6">Application Form for Leave of Absence</a>
