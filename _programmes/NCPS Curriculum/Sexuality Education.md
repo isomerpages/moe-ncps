@@ -64,13 +64,13 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 <img src="/images/Sexuality%20Education/MOE%20Logo%20(B&amp;W).jpg" style="width:50%">
          
- **2023 Sexuality Education Lessons in CCE 2021**
+ **2024 Sexuality Education Lessons in CCE 2021**
  
 **PRIMARY 6**
 
 
 
-| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW<br style="font-size:8;">At the end of the lesson,pupils will be able to : | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)|
+| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD <br style="font-size:10;">(e.g. Term 1 Week 2)|
 | -------- | -------- | -------- |
 | Growing Years     | Did You Know<br>(60 min)     | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.** This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     |Term 2 Week 1|
 |     | Are We More than Friends? Lesson 1     | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends    |Term 2 Week 8|
