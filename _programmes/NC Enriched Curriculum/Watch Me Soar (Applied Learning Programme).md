@@ -2,7 +2,7 @@
 title: Watch Me Soar (Applied Learning Programme)
 permalink: /our-programmes/WatchMeSoar/
 description: ""
-third_nav_title: Nan Chiau Enriched Curriculum
+third_nav_title: NC Enriched Curriculum
 ---
 #### **Watch Me Soar**
 Supporting our school’s vision, “An Innovative School where Inspiring Educators Nurture Future-Ready Leaders” and Singapore’s Smart Nation vision of becoming a nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, offering opportunities for all, our Applied Learning Programme (ALP) is focusing on the theme of “Health Science” as it provides opportunities for students to contribute toward society with inventions to improve the health and daily living of people. 
@@ -24,17 +24,13 @@ This year, staff from SKH provided four different problem statements for our Pri
 
 Zoom sessions with SKH personnel were conducted for the students to gather more information on the four problem statements. The students had the chance to interview nurses and speech therapists from SKH during their WMS lessons.  
 
-<img src="/images/Our%20Curriculum_WMS/WMS01.png"  
-style="width:80%;">
+<img src="/images/Our%20Curriculum_WMS/WMS01.png" style="width:80%;">
       
-<img src="/images/Our%20Curriculum_WMS/WMS02.png"  
-style="width:80%;">
+<img src="/images/Our%20Curriculum_WMS/WMS02.png" style="width:80%;">
       
 
 From the zoom sessions, interviews with own family members and researchers, our students worked in groups to come out with creative prototypes to solve the above problem statements. The students learn as they work on their prototype creations with feedback given by their teachers and SKGH personnel.
 
-<img src= "/images/Our%20Curriculum_WMS/problem%20statement%201.jpg"  
-style="width:45%"> 
+<img src="/images/Our%20Curriculum_WMS/problem%20statement%201.jpg" style="width:45%"> 
 
-<img src="/images/Our%20Curriculum_WMS/problem%20statement%202.jpg"  
-style="width:45%">
+<img src="/images/Our%20Curriculum_WMS/problem%20statement%202.jpg" style="width:45%">

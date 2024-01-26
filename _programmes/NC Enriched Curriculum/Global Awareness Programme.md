@@ -2,7 +2,7 @@
 title: Global Awareness Programme
 permalink: /our-programmes/Global-Awareness-Programme/
 description: ""
-third_nav_title: Nan Chiau Enriched Curriculum
+third_nav_title: NC Enriched Curriculum
 ---
 #### **Global Awareness Programme (GAP)**
 #### **心系南侨，放眼世界**
