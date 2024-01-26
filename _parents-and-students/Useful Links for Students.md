@@ -23,7 +23,7 @@ variant: markdown
 
 
 
-<p><a href="https://www.ezhishi.net/Contents/">
+<p><a target="_blank" href="https://www.ezhishi.net/Contents/">
 <img src="/images/Useful%20LInks%20for%20Students/ezhishi.png" style="width:35%">
 </a></p>
 
@@ -33,7 +33,7 @@ variant: markdown
 
 
 
-<p><a href="https://www.koobits.com/">
+<p><a target="_blank" href="https://www.koobits.com/">
 <img src="/images/Useful%20LInks%20for%20Students/KooBits.png" style="width:35%">
 </a></p>
 
