@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support Group (PSG).md
+      - Parent Support Group.md
       - NC Alumni Association.md
