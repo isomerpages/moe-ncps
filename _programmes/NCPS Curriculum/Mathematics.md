@@ -40,7 +40,7 @@ For more information:
 For students with high ability in Mathematics, they will be invited to join the Excellence 2000 (E2K) for Mathematics programme.
 
 For more information:  
-<a target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners">https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners</a>
+<a target="\_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners">https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners</a>
 
 
 The competitions which we participate in:
