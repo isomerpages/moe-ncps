@@ -14,7 +14,8 @@ Please refer to the following link:&nbsp;<a target="\_blank" href="/our-school/s
 
 **What are the school’s arrival and dismissal time for students?**
 
-Please refer to for following link:&nbsp;[School Hours](/our-school/school-hours/)
+Please refer to for following link:&nbsp;<a target="\_blank" href="/our-school/school-hours/">School Hours</a>
+
 
 **Who should I contact to provide feedback/enquiries to the school?**
 
@@ -27,11 +28,12 @@ Monday – Friday
 
 **When will the various school gates be opened?**
 
-Please refer to for following link:&nbsp;[School Hours](/our-school/school-hours/)
+Please refer to for following link:&nbsp;&nbsp;<a target="\_blank" href="/our-school/school-hours/">School Hours</a>
 
 **Are there Student Care Services available in Nan Chiau Primary School?**
 
-Please refer to the following link :&nbsp;[Nan Chiau Student Care Centre](/our-school/nan-chiau-student-care-centre/)
+Please refer to the following link :&nbsp;&nbsp;<a target="\_blank" href="/our-school/nan-chiau-student-care-centre/">NC Student Care Centre</a>
+[Nan Chiau Student Care Centre](/our-school/nan-chiau-student-care-centre/)
 
 **What is the opening hours of the school library?**
 
@@ -40,7 +42,8 @@ Monday – Friday
 
 **My child is currently studying in the school and I wish to contribute my service as a Parents Support Group (PSG) member. How can I join?**
 
-You can check out our [PSG website](/nc-parent-support-group/home) for more information.  
+You can check out our <a target="\_blank" href="/our-school/nan-chiau-student-care-centre/">PSG webiste</a>
+[PSG website](/nc-parent-support-group/home) for more information.  
 
 
 **What are the available CCAs?**
