@@ -48,4 +48,4 @@ You can check out our <a target="\_blank" href="/our-school/nan-chiau-student-ca
 
 **What are the available CCAs?**
 
-Please refer the the following link:&nbsp;[Co-Curricular Activities](/co-curricular-activities/)
+Please refer the the following link:&nbsp;<a target="\_blank" href="/co-curricular-activities/">Co-Curricular Activities</a>
