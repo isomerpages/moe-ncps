@@ -105,4 +105,4 @@ Student Care Fee Assistance (SCFA) by MSF are available for students in need of 
 Centre Head  
 Nan Chiau Student Care Centre  
 Email:&nbsp;&nbsp;[ncscc@nascans.com](mailto:ncscc@nascans.com) <br>
-Website:&nbsp;&nbsp;[www.nascans.com](http://www.nascans.com/)
+Website:&nbsp;&nbsp;<a target="\_blank" href="http://www.nascans.com">http://www.nascans.com</a>
