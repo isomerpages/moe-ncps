@@ -13,7 +13,7 @@ variant: markdown
 
 
 
-<p><a href="https://schoolibrary.moe.edu.sg/nanchiaupri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+<p><a target="_blank" href="https://schoolibrary.moe.edu.sg/nanchiaupri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
 <img src="/images/Useful%20LInks%20for%20Students/NCPS-OPAC.jpg" style="width:35%">
 </a></p>
 
