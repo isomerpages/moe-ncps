@@ -7,13 +7,14 @@ variant: markdown
 ---
 **MOE Financial Assistance Scheme (FAS)**
 
-[MOE FAS Application Form](/files/Forms%20for%20Parents/GGAS_Application%20Form%20Nov%202022.pdf)
-[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+* [MOE FAS Application Form](/files/Forms%20for%20Parents/GGAS_Application%20Form%20Nov%202022.pdf)
+
+* <a target="\_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 
 
 **Application for Wait List**
 
-* [ Application Form for Seeking Transfer / Adminission](/files/Forms%20for%20Parents/Application_Form_for_Transfer_2024.pdf)
+* [&nbsp;Application Form for Seeking Transfer / Adminission](/files/Forms%20for%20Parents/Application_Form_for_Transfer_2024.pdf)
 
 **Application for Leave of Absence (LOA)**
 
