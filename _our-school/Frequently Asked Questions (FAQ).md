@@ -42,8 +42,8 @@ Monday – Friday
 
 **My child is currently studying in the school and I wish to contribute my service as a Parents Support Group (PSG) member. How can I join?**
 
-You can check out our <a target="\_blank" href="/our-school/nan-chiau-student-care-centre/">PSG webiste</a>
-[PSG website](/nc-parent-support-group/home) for more information.  
+You can check out our <a target="\_blank" href="/partners/permalink/">PSG webiste</a>
+ for more information.  
 
 
 **What are the available CCAs?**
