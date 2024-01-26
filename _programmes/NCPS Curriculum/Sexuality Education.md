@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /sexuality-education/
 description: ""
 third_nav_title: NCPS Curriculum
+variant: markdown
 ---
 **MOE Sexuality Education in Schools**
 
@@ -26,7 +27,8 @@ third_nav_title: NCPS Curriculum
 
 (iv)&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click&nbsp; <a target="\_blank" href="https://go.gov.sg/moe-sexuality-education">here</a>
+&nbsp;for more information on MOE Sexuality Education.
 
 **Overview of NAN CHIAU Primary School’s Sexuality Education Programme for 2023**
 
