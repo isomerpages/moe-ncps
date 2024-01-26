@@ -15,11 +15,7 @@ variant: markdown
 
 <a target="\_blank" href="https://online.flipbuilder.com/ncps/rnlv/">Term 4 e-Bulletin</a>
 
-[Term 2 e-Bulletin](https://online.flipbuilder.com/ncps/wtkz/)
 
-[Term 3 e-Bulletin](https://online.flipbuilder.com/ncps/ylmf/)
-
-[Term 4 e-Bulletin](https://online.flipbuilder.com/ncps/rnlv/)
 
 **Year 2022**
 
