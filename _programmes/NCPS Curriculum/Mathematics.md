@@ -33,12 +33,13 @@ Every child is a&nbsp;_creative problem solver_&nbsp;(innovative, think of diffe
 To better support students who need more reinforcement in their learning of Mathematics, the department has Learning Support for Mathematics (LSM) programmes for selected Primary One and Primary Two students. Students are put into smaller groups so that the teacher can customize activities based on their learning progress.
 
 For more information:  
-[https://www.moe.gov.sg/primary/curriculum/learning-support](https://www.moe.gov.sg/primary/curriculum/learning-support)
+<a target="\_blank" href="https://www.moe.gov.sg/primary/curriculum/learning-support">https://www.moe.gov.sg/primary/curriculum/learning-support</a>
 
 For students with high ability in Mathematics, they will be invited to join the Excellence 2000 (E2K) for Mathematics programme.
 
 For more information:  
-[https://www.moe.gov.sg/programmes/high-ability-learners](https://www.moe.gov.sg/programmes/high-ability-learners)
+<a target="\_blank" href="https://www.moe.gov.sg/programmes/high-ability-learners">https://www.moe.gov.sg/programmes/high-ability-learners</a>
+
 
 The competitions which we participate in:
 
