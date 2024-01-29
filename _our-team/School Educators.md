@@ -6,12 +6,8 @@ variant: markdown
 ---
 <h4><strong>Year Head for Primary 1 &amp; Primary 2</strong></h4><p></p>
 
-<table><tbody><tr><td></td>
-	<td></td>
-	</tr></tbody></table>
 
-
-<table border="1"><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr></tbody></table>
+<table border="1"><tbody><tr><td>Ms Nur Fadzilah</td><td>Primary 1 &amp; 2 Year Head</td></tr></tbody></table>
 	
 
 <p><strong>Form Teachers for Primary 1</strong></p>
