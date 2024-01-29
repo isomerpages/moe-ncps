@@ -10,7 +10,7 @@ variant: markdown
 	<td></td>
 	</tr></tbody></table>
 
-<table><tbody><tr><td rowspan="1" colspan="1"><p>Ms Nur Fadzilah</p></td><td rowspan="1" colspan="1"><p>Primary 1 &amp; 2 Year Head</p></td></tr><tr><td rowspan="1" colspan="1"><p>Madam Norliza</p></td><td rowspan="1" colspan="1"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 6 Assistant Year Head</p></td></tr></tbody></table>
+
 <table><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr></tbody></table>
 	
 
