@@ -10,9 +10,8 @@ variant: markdown
 	<td>Primary 1 &amp; 2 Year Head</td>
 	</tr></tbody></table>
 
-<table><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr>
+<table><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr></tbody></table>
 	
-<tr><td rowspan="1" colspan="1"><p>1 Respect</p></td><td rowspan="1" colspan="1"><p>Miss Tang Souw Ying <br>Miss Quah Hwee Loo<br>Madam Stella Chia Yoke Yeng</p></td></tr></tbody></table>
 
 <p><strong>Form Teachers for Primary 1</strong></p>
 
