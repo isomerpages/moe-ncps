@@ -11,7 +11,7 @@ variant: markdown
 	</tr></tbody></table>
 
 
-<table><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr></tbody></table>
+<table border="1"><tbody><tr><td><p>Ms Nur Fadzilah</p></td><td><p>Primary 1 &amp; 2 Year Head</p></td></tr></tbody></table>
 	
 
 <p><strong>Form Teachers for Primary 1</strong></p>
