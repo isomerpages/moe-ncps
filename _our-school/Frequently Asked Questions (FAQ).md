@@ -32,7 +32,7 @@ Please refer to for following link:&nbsp;&nbsp;<a target="\_blank" href="/our-sc
 
 **Are there Student Care Services available in Nan Chiau Primary School?**
 
-Please refer to the following link :&nbsp;&nbsp;<a target="\_blank" href="/our-school/nan-chiau-student-care-centre/">NC Student Care Centre</a>
+Please refer to the following link :&nbsp;&nbsp;<a target="\_blank" href="/our-school/nan-chiau-student-care-centre/">NCPS Student Care Centre</a>
 
 
 **What is the opening hours of the school library?**
