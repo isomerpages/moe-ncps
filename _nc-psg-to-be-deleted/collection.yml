@@ -1,5 +1,5 @@
 collections:
-  nc-parent-support-group:
+  nc-psg-to-be-deleted:
     output: true
     order:
       - Home.md
