@@ -2,16 +2,16 @@ collections:
   programmes:
     output: true
     order:
-      - NCPS Curriculum/.keep
-      - NCPS Curriculum/NC Curriculum.md
-      - NCPS Curriculum/English.md
-      - NCPS Curriculum/Mathematics.md
-      - NCPS Curriculum/Science.md
-      - NCPS Curriculum/Mother Tongue.md
-      - NCPS Curriculum/PE, Aesthetics and Music.md
-      - NCPS Curriculum/Character and Citizenship Education.md
-      - NCPS Curriculum/Programme for Active Learning (PAL).md
-      - NCPS Curriculum/Sexuality Education.md
+      - NC Curriculum/.keep
+      - NC Curriculum/NC Curriculum.md
+      - NC Curriculum/English.md
+      - NC Curriculum/Mathematics.md
+      - NC Curriculum/Science.md
+      - NC Curriculum/Mother Tongue.md
+      - NC Curriculum/PE, Aesthetics and Music.md
+      - NC Curriculum/Character and Citizenship Education.md
+      - NC Curriculum/Programme for Active Learning (PAL).md
+      - NC Curriculum/Sexuality Education.md
       - NC Enriched Curriculum/.keep
       - NC Enriched Curriculum/Nan Chiau Enriched Curriculum.md
       - NC Enriched Curriculum/BiCEP.md
