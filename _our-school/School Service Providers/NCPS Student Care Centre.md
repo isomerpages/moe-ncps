@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img src="/images/Homepage/nascans_logo.jpg" style="width:60%">
 
-**NC STUDENT CARE CENTRE (NCSCC)**
+**NCPS STUDENT CARE CENTRE (NCSCC)**
 
 The Student Care Centre (SCC) was specially set up in January 2014 to cater to the needs of the student population. With NASCANS Pte Ltd appointed to manage the SCC, 60 students were housed next to the Indoor Sports Hall in a 2-room unit. This intake has since increased to 150 students in 2015 with the addition of 3 joint-use classrooms.
 
