@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Service Providers
 variant: markdown
 ---
-#### **HPB NC Primary Dental Clinic Schedule**
+#### **NC HPB Primary Dental Clinic**
 
 Operating hours *
 
