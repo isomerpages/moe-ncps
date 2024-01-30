@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - NCPS Curriculum/.keep
-      - NCPS Curriculum/NCPS Curriculum.md
+      - NCPS Curriculum/NC Curriculum.md
       - NCPS Curriculum/English.md
       - NCPS Curriculum/Mathematics.md
       - NCPS Curriculum/Science.md
