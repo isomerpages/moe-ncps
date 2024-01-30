@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Service Providers
 variant: markdown
 ---
-#### **NC HPB Dental Clinic**
+#### **NCPS HPB Dental Clinic**
 
 Operating hours *
 
