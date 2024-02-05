@@ -2,7 +2,6 @@ collections:
   ncps-experience:
     output: true
     order:
-      - Co Curricular Activities.md
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
@@ -18,3 +17,4 @@ collections:
       - NCPS Enriched Curriculum/BiCEP.md
       - NCPS Enriched Curriculum/Global Awareness Programme.md
       - NCPS Enriched Curriculum/Watch Me Soar (Applied Learning Programme).md
+      - Co Curricular Activities.md
