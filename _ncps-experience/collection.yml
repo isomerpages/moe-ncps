@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  ncps-experience:
     output: true
     order:
       - NCPS Curriculum/.keep
