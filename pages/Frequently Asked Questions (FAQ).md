@@ -42,7 +42,7 @@ Monday – Friday
 
 **My child is currently studying in the school and I wish to contribute my service as a Parents Support Group (PSG) member. How can I join?**
 
-You can check out our <a target="\_blank" href="/partners/permalink/">PSG webiste</a>
+You can check out our <a target="\_blank" href="/partners/permalink/">PSG website</a>
  for more information.  
 
 
