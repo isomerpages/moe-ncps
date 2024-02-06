@@ -2,7 +2,6 @@ collections:
   ncps-experience:
     output: true
     order:
-      - CCA/Sports & Games.md
       - CCA/Co Curricular Activities.md
       - CCA/.keep
       - NCPS Curriculum/.keep
