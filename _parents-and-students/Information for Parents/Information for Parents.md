@@ -3,6 +3,7 @@ title: Information for Parents
 permalink: /information-for-parents/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 **A) Students’ Safety**
 
@@ -14,7 +15,7 @@ third_nav_title: Information for Parents
 
 4\. Parents who are driving should drop off/pick up their children at Gate C and not along the main road at Gate A or B. This is to ensure students and other road users will be safe and not be inconvenienced.
 
-5\. Parents/Visitors are not allowed to drive into the school premises during school hours. Please park at the multi-storey car park opposite the school.
+5\. Parents/Visitors are not allowed to drive into the school premises during school hours. Parents are allowed to drive-in to the school only from 4.20 p.m. onwards.
 
 6\. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
 

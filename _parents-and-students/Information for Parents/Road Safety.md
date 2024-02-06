@@ -3,6 +3,7 @@ title: Road Safety
 permalink: /information-for-parents/student-safety/
 description: ""
 third_nav_title: Information for Parents
+variant: markdown
 ---
 Road safety is a shared responsibility.  Parents play an important role in modelling positive road safety behaviour for our children.  Parents are reminded to abide by traffic rules and  adhere to the schools’ traffic management policies.
 
@@ -10,7 +11,7 @@ Road safety is a shared responsibility.  Parents play an important role in mode
 
 **Driving within the school compound**
 
-Drive slowly and keep to the speed limit of 15 km/h when you enter the school compound. To keep the school compound safe, drive in the school is only allowed from 4:20pm onwards.
+Drive slowly and keep to the speed limit of 15 km/h when you enter the school compound. To keep the school compound safe, parents are allowed to drive-in to the school only from 4.20 p.m. onwards.
 
 **Driving within school vicinity**
 

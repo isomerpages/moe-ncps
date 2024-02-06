@@ -1,0 +1,12 @@
+collections:
+  nc-psg-to-be-deleted:
+    output: true
+    order:
+      - Home.md
+      - Our Mission.md
+      - Committees.md
+      - Past Events.md
+      - More/.keep
+      - More/Upcoming Events.md
+      - More/JOIN US NOW!.md
+      - More/Contact.md
