@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Sports & Games/.keep
-      - Sports & Games/Netball.md
       - Sports & Games/Badminton.md
       - Sports & Games/Table Tennis.md
       - Sports & Games/Track and Field.md
