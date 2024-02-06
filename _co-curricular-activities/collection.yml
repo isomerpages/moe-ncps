@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Infocomm & Media.md
       - Clubs & Societies/Environmental Club.md
       - Clubs & Societies/Strategy Games.md
