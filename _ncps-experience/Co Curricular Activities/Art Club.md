@@ -12,3 +12,5 @@ variant: markdown
 |Teachers-in-charge |Ms Amanda Lim (Main IC)<br>Miss Manisha Suruchand <br> Madam Chee Kim Kiau <br>Mr Mark Lee
 
 <p style="box-sizing: inherit; font-size: 1em;">The Art Club comprises of students who are passionate about visual arts. They are keen in learning how to expressing themselves through the use of various mediums and techniques.</p><p style="box-sizing: inherit; font-size: 1em;">Modules on calligraphy and oil pastels are offered and students are guided through various techniques such as brush calligraphy, hand lettering, rule of 3s, layering, blending, and scratching. Students apply the various techniques taught in the creation of their art pieces and share their work with their friends at the end of the CCA session. </p>
+
+![](/images/CoCurricularActivities/Art%20Club/Art_Club_2024.jpg)
