@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Sports & Games/.keep
+      - CCA/Sports & Games.md
       - CCA/Co Curricular Activities.md
       - CCA/.keep
       - NCPS Curriculum/.keep
