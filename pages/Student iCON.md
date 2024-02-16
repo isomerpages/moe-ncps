@@ -41,10 +41,11 @@ to Junior College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Google_apps.png">
 </div>
 <p></p>
-<h4>Student Zoom </h4>
+<h4>Student Zoom</h4>
 <p>Zoom accounts for students will help teachers facilitate student identity
 verification and will also allow students to carry out synchronous learning
 effectively. Student Zoom can be accessed from&nbsp;<a href="https://students-edu-sg.zoom.us/" rel="noopener noreferrer nofollow" target="_blank"><u>https://students-edu-sg.zoom.us</u></a>
 </p>
-<p>Refer to this guide for the steps to login student iCON zoom</p>
+<p>Refer to <a href="/files/NCPS___Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">this guide </a>for
+the steps to login student iCON zoom</p>
 <p></p>
