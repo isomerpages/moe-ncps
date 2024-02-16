@@ -4,7 +4,7 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<h4><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u></a></strong></h4>
+<h4></h4>
 <p>Student iCON is a suite of Google apps including email and other app services
 such as Google Classroom and Docs that helps to better support your learning
 in the following ways:</p>
@@ -20,6 +20,8 @@ in the following ways:</p>
 <p></p>
 </li>
 </ul>
+<p>Student iCON can be accessed from&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u></a>
+</p>
 <h4>Benefits of Student iCON</h4>
 <ul data-tight="true" class="tight">
 <li>
