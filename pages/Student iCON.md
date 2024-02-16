@@ -49,3 +49,15 @@ effectively. Student Zoom can be accessed from&nbsp;<a href="https://students-ed
 <p>Refer to <a href="/files/NCPS___Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">this guide </a>for
 the steps to login student iCON zoom</p>
 <p></p>
+<h4>Microsoft Office 365 ProPlus</h4>
+<p>As part of the MOE-Microsoft Student Use Benefits, students can use their
+MIMS (Student iCON) accounts to download Office Applications such as Excel,
+Powerpoint, Word etc.</p>
+<p>This access is free for students whose parents have given their consent
+to use MOE's centrally provisioned digital tools.</p>
+<p>Click here&nbsp;to view the guide on how to install and activate the Office
+365 ProPlus.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
