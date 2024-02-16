@@ -4,7 +4,7 @@ permalink: /permalink/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
+<h2>Student iCON</h2>
 <p>Student iCON is a suite of Google apps including email and other app services
 such as Google Classroom and Docs that helps to better support your learning
 in the following ways:</p>
@@ -43,7 +43,7 @@ to Junior College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Google_apps.png">
 </div>
 <p></p>
-<h4>Student Zoom</h4>
+<h2>Student Zoom</h2>
 <p>Zoom accounts for students will help teachers facilitate student identity
 verification and will also allow students to carry out synchronous learning
 effectively. Student Zoom can be accessed from&nbsp;<a href="https://students-edu-sg.zoom.us/" rel="noopener noreferrer nofollow" target="_blank"><u>https://students-edu-sg.zoom.us</u></a>
@@ -51,7 +51,7 @@ effectively. Student Zoom can be accessed from&nbsp;<a href="https://students-ed
 <p>Refer to <a href="/files/NCPS___Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">this guide </a>for
 the steps to login student iCON zoom</p>
 <p></p>
-<h4>Microsoft Office 365 ProPlus</h4>
+<h2>Microsoft Office 365 ProPlus</h2>
 <p>As part of the MOE-Microsoft Student Use Benefits, students can use their
 MIMS (Student iCON) accounts to download Office Applications such as Excel,
 Powerpoint, Word etc.</p>
@@ -59,7 +59,6 @@ Powerpoint, Word etc.</p>
 to use MOE's centrally provisioned digital tools.</p>
 <p>Click <a href="/files/NCPS___Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the guide on how to install and activate the Office 365 ProPlus.</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
