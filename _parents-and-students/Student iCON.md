@@ -22,6 +22,7 @@ in the following ways:</p>
 </ul>
 <p>Student iCON can be accessed from&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u></a>
 </p>
+<p></p>
 <h4>Benefits of Student iCON</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,6 +44,8 @@ to Junior College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Google_apps.png">
 </div>
 <p></p>
+<p>Please refer to this <a href="/files/Student_icon_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a> for more information on
+Student iCON.</p>
 <h2>Student Zoom</h2>
 <p>Zoom accounts for students will help teachers facilitate student identity
 verification and will also allow students to carry out synchronous learning
