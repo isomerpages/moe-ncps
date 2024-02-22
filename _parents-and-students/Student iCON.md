@@ -44,6 +44,7 @@ to Junior College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Google_apps.png">
 </div>
 <p></p>
+<p></p>
 <p>Please refer to this <a href="/files/Student_icon_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a> for more information on
 Student iCON.</p>
 <h2>Student Zoom</h2>
