@@ -4,6 +4,12 @@ permalink: /useful-links/
 description: ""
 variant: markdown
 ---
+<p><a target="_blank" href="https://schoolibrary.moe.edu.sg/nanchiaupri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+<img src="/images/Useful%20LInks%20for%20Students/NCPS-OPAC.jpg" style="width:35%">
+</a></p>
+
+
+
 <p><a target="_blank" href="https://vle.learning.moe.edu.sg/login">
 <img src="/images/Useful%20LInks%20for%20Students/SLS.png" style="width:35%">
 </a></p>
