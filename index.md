@@ -19,7 +19,7 @@ sections:
         - title: School Values
           description: Respect, Responsibility, Sincerity, Perseverance
           url: ""
-      background: /images/Homepage/Boat_2.png
+      background: /images/Homepage/Boat_2.jpg
   - infopic:
       title: Termly Bulletin
       description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
