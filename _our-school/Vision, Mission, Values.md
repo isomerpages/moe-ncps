@@ -2,6 +2,7 @@
 title: Vision, Mission, Values
 permalink: /our-school/vision-mission-values/
 description: ""
+variant: markdown
 ---
 #### **School Vision**
 
@@ -23,11 +24,11 @@ To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round s
 
 #### **School Values**
 
-Respect, Responsibility, Sincerity, Perseverance
+Respect, Responsibility, Sincerity,&nbsp;Perseverance
 
 **学校价值观**  
 
 尊敬, 责任感, 诚意，毅力
 
-[  
-](https://www.ncps.moe.edu.sg/our-school/vision-mission-values/#top)
+<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:60%">
+
