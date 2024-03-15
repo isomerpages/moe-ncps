@@ -2,6 +2,7 @@
 title: Vision, Mission, Values
 permalink: /our-school/vision-mission-values/
 description: ""
+variant: markdown
 ---
 #### **School Vision**
 
@@ -29,5 +30,3 @@ Respect, Responsibility, Sincerity, Perseverance
 
 尊敬, 责任感, 诚意，毅力
 
-[  
-](https://www.ncps.moe.edu.sg/our-school/vision-mission-values/#top)
