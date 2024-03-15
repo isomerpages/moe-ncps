@@ -30,3 +30,4 @@ Respect, Responsibility, Sincerity, Perseverance
 
 尊敬, 责任感, 诚意，毅力
 
+![](/images/Homepage/FINAL___VERSION_1_.jpg)
