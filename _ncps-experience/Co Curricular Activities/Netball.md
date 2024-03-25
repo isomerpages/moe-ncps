@@ -20,4 +20,5 @@ Netball is a team sport where our dedicated girls learn a plethora of values fro
 
 Last but not least, building camaraderie and confidence are the most valuable takeaways from playing in this sport.</p>
 
-<img src="/images/CoCurricularActivities/Netball/Netball%20CCA%202023.jpg" style="width:80%">
+<img src="/images/CoCurricularActivities/Netball/Netball_2024.jpg" style="width:80%">
+
