@@ -18,4 +18,4 @@ third_nav_title: Co Curricular Activities
 	
 <p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; font-family: inherit; font-size: inherit;">There are also game sessions to build on discipline and teamwork. We have showcased the martial arts through several school internal performances such as Chinese New Year Celebration, Celebrate Success and Primary Six Graduation Ceremony.</span></p>
 
-<img src="/images/CoCurricularActivities/Wushu/WUSHU.jpg" style="width:80%">
+<img src="/images/CoCurricularActivities/Wushu/Wushu_2024.jpg" style="width:80%">
