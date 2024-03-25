@@ -42,4 +42,5 @@ In Term 3, the members conducted a community outreach programme via Zoom webinar
 The members learnt about biodiversity trail conducted by NParks officials, and learnt to design a school garden map. In Term 4, the members learnt some care tips for air plants. Each member brought 2-3 pieces of air plants home to grow.
 </p>
 
-<img src="/images/CoCurricularActivities/Environmental%20Club/ENVIRONMENTAL%20CLUB.jpg" style="width:80%">
+<img src="/images/CoCurricularActivities/Environmental%20Club/Environmental_Club_2024.jpg" style="width:80%">
+
