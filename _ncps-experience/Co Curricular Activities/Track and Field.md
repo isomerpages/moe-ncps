@@ -16,4 +16,4 @@ variant: markdown
 <p style="box-sizing: inherit; font-size: 1em;">The students are divided into groups to do drills to develop their athletics skills. They are also trained to do high jump, long jump, shot put and baton passing. Those with potential will be selected to represent the school in National Primary Schools Track and Field Championships as well as SHHK Combined Schools Sports Meet.</p>
 <p style="box-sizing: inherit; font-size: 1em;">Through the CCA, students will have the opportunities to develop social and team building skills. They will also learn the importance of perseverance and values. With the acquired athletics skills and values, students will be able to develop the passion for the sport. We hope that they will be able to take it up as a healthy hobby in future and develop into sportsmen of integrity.</p>
 
-<img src="/images/CoCurricularActivities/TracknField/Track&amp;Field%20CCA%202023.jpg" style="width:75%">
+<img src="/images/CoCurricularActivities/TracknField/Track___Field_2024.jpg" style="width:75%">

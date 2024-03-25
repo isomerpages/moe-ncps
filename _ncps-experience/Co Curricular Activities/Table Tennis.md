@@ -21,6 +21,5 @@ variant: markdown
 <p style="box-sizing: inherit; font-size: 1em;">We aim to equip our players not only with knowledge and skills but also to cultivate in them, perseverance, responsibility and integrity. With the expertise acquired through the coming years, we hope to develop a new generation of young players, who will go on to challenge the best in the world.</p>
 
 	
-<img src="/images/CoCurricularActivities/Table%20Tennis/Table%20Tennis%20CCA%202023%201.jpg" style="width:80%">
-	<br>
-<img src="/images/CoCurricularActivities/Table%20Tennis/Table%20Tennis%20CCA%202023%202.jpg" style="width:80%">
+<img src="/images/CoCurricularActivities/Table%20Tennis/Table_Tennis_2024.jpg" style="width:80%">
+	

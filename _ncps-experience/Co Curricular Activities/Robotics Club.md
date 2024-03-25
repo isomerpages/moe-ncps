@@ -17,4 +17,5 @@ variant: markdown
 
 </span></p><p style="box-sizing: inherit; font-size: 1em;">Students who display aptitude in their craft have the opportunity to represent the school and participate in various competitions which allow them to develop their leadership and management skills too.</p>
 
-<img src="/images/CoCurricularActivities/Robotics/Robotics.JPG" style="width:80%">
+<img src="/images/CoCurricularActivities/Robotics/Robotics_2024.jpg" style="width:80%">
+
