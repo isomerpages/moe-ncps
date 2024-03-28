@@ -45,8 +45,8 @@ to Junior College</p>
 </div>
 <p></p>
 <p></p>
-<p>Please refer to this <a href="/files/Student_icon_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">document </a>for more information on
-Student iCON.</p>
+<p>Please refer to this <a href="/files/Icon_Onboarding_Updates_for_Parents_updated_22_February_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a>
+<a href="/files/Student_icon_FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>for more information on Student iCON.</p>
 <h2>Student Zoom</h2>
 <p>Zoom accounts for students will help teachers facilitate student identity
 verification and will also allow students to carry out synchronous learning
