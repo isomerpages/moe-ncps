@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ------- | --------------- |
 |Day | Thursday | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Tang Li Kuon (Main IC)
+|Teachers-in-charge |Madam Tang Li Kuon (Main IC)<br> Madam Nur Khadijah Bte Zainal Ariffin 
 |Events participated    |Recycle Right &amp; The 5 R's Webinar Session (2022)<br>Rainforest Learning Journey at the Botanic Gardens (2022)
 
 <p style="box-sizing: inherit; font-size: 1em;">CCA Mission - We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
