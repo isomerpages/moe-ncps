@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ---------- | --------------- |
 |Day |Thursday - All students &nbsp;<br>Friday - School Team   | 
 | Time |2.00 p.m. - 4.00 p.m.  
-|Teachers-in-charge |Madam Norzila Wagimin (Main IC)   <br>Madam Haryani<br>Madam Tan Bee Khuan Sally<br> Miss Putri| 
+|Teachers-in-charge |Madam Haryani (Main IC) <br>Madam Tan Bee Khuan Sally<br> Miss Putri| 
 |Events participated    |National School&nbsp; Games<br>Netball Tournament
 
 
@@ -21,4 +21,3 @@ Netball is a team sport where our dedicated girls learn a plethora of values fro
 Last but not least, building camaraderie and confidence are the most valuable takeaways from playing in this sport.</p>
 
 <img src="/images/CoCurricularActivities/Netball/Netball_2024.jpg" style="width:80%">
-
