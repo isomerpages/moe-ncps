@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ------- | --------------- |
 |Day | Thursday | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Margie Tang (Main IC)<br>Madam Kiu Kwee Fern<br> Madam Nur Khadijah Bte Zainal Ariffin <br>Mr Ivan Goh
+|Teachers-in-charge |Madam Margie Tang (Main IC)<br>Madam Kiu Kwee Fern<br>Mr Ivan Goh
 
 
 <p style="box-sizing: inherit; font-size: 1em;">1.  Students who shows interest in photography, videography and PA systems are given the opportunity to develop and enhance their skillsets through our structured training programme and activities. Infocomm Club delivers essential support to the school in providing media support for events and activities both inside as well as outside of the school premises.</p>
@@ -19,4 +19,3 @@ variant: markdown
 3.  Through infocomm club CCA, students will learn: 1. To respect fellow team members; 2. To work effectively as a team; 3. To take responsibility in carrying out the duties assigned; 4. To persevere and complete the tasks assigned to them.</p>
 
 <img src="/images/CoCurricularActivities/Infocomm/Infocomm_2024.jpg" style="width:75%">
-
