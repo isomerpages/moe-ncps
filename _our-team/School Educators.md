@@ -6,7 +6,6 @@ variant: markdown
 ---
 <h4><strong>Year Head for Primary 1 &amp; Primary 2</strong></h4>
 
-<table><tbody><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mr Su Weilun</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size:1em;">&nbsp;&nbsp;&nbsp;&nbsp;Primary 5 Assistant Year Head</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Madam Norliza</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primary 6 Assistant Year Head</p></td></tr></tbody></table>
 
 <table border="0"><tbody><tr><td>Ms Nur Fadzilah</td><td>Primary 1 Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr><tr><td>Mrs Tan Su Zhen Jasmine</td><td>Primary 2 Assistant Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
 	
