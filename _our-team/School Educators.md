@@ -4,7 +4,7 @@ permalink: /our-team/educators/
 description: ""
 variant: markdown
 ---
-<h4><strong>Year Head for Primary 1 &amp; Primary 2</strong></h4><p></p>
+<h4><strong>Year Head for Primary 1 &amp; Primary 2</strong></h4>
 
 
 <table border="0"><tbody><tr colspan="2"><td>Ms Nur Fadzilah</td><td>Primary 1 Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr><tr colspan="2"><td>Mrs Tan Su Zhen Jasmine</td><td>Primary 2 Assistant Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
