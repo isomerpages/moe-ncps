@@ -2,14 +2,19 @@
 title: Words of Affirmation
 permalink: /parents-and-students/information-for-parents/words-of-encouragement/
 description: ""
+variant: markdown
 ---
-## Staff Appreciation Day
+## Ex-students Home Coming 2024
 
+ 
+This year, the school will be opened to welcome ex-students to visit your teachers
 
-### [Words of Affirmation](https://form.gov.sg/64528b56b91c1900116f7c34)
+on 29th August, Thursday from 11.30 a.m. to 1 p.m.
 
-We often find our teachers working tirelessly to motivate our students, checking in on their well-being while partnering with our parents to bring out the best in our students. Educators pour so much into everyone around them and everything they do.
+For students in secondary school, you are to be in your school uniform.
 
-Non-teaching staff is also an important team that ensures the smooth running of the school.
+For others, please contact your teachers in advance before coming to school.
 
-Here’s your chance to affirm both teaching and non-teaching staff of their efforts and hard work. It will only take a few minutes, but the impact of those words will lead to positive environment for everybody because when our staff feel valued and appreciated at work, it trickles down to all our students.
+Do make an appointment by filling the [form](https://go.gov.sg/ncps-24-homecoming) by **27 August, Tuesday**.
+
+See you on that day.
