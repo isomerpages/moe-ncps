@@ -28,4 +28,13 @@ sections:
       url: /lp-press/ncps-monthly-bulletin-january-2020/
       image: /images/Homepage/Bulletin_2024.png
       alt: Image alt text
+  - infopic:
+      title: Staff Appreciation Day
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: /parents-and-students/information-for-parents/words-of-encouragement/
+      image: /images/Home_Coming_2024.jpg
+      alt: Image alt text
 ---
