@@ -30,10 +30,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Staff Appreciation Day
-      subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Read More
       url: /parents-and-students/information-for-parents/words-of-encouragement/
       image: /images/Home_Coming_2024.jpg
       alt: Image alt text
