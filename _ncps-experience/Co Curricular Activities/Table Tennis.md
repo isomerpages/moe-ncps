@@ -7,7 +7,7 @@ variant: markdown
 ---
 |Name of CCA|Table Tennis|  |
 | -------- | ------- | --------------- |
-|Day | Thursday - Recreational Team (P3) &amp; School Team <br>Friday - Recreational Team (P4 - P6) &amp; School Team | 
+|Day | Thursday - All students <br>Friday - School Team (Selected P3 to P6) | 
 | Time |2.00 p.m. - 4.00 p.m. 
 |Teachers-in-charge |Mr Jimmy Kong (Main IC) <br>Mrs Chua Puay Hwa<br> Mr Chuan Peck Chew <br>Mrs Navelen
 |Events participated    |National School Games Table Tennis
@@ -22,4 +22,3 @@ variant: markdown
 
 	
 <img src="/images/CoCurricularActivities/Table%20Tennis/Table_Tennis_2024.jpg" style="width:80%">
-	
