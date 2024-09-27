@@ -2,6 +2,7 @@ collections:
   ncps-experience:
     output: true
     order:
+      - NCPS Curriculum/Sports Club.md
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
