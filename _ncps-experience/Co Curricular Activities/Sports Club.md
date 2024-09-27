@@ -18,4 +18,4 @@ third_nav_title: Co Curricular Activities
 <img src="/images/CoCurricularActivities/Sports%20Club/Sports_Club_1.jpg" style="width:60%">
 
 
-<img src="/images/CoCurricularActivities/Sports%20Club/Sports_Club_2.jpg" style="width:80%; height:60%">
+<img src="/images/CoCurricularActivities/Sports%20Club/Sports_Club_2.jpg" style="width:60%">
