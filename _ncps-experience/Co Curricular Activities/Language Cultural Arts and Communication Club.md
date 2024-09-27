@@ -22,4 +22,3 @@ third_nav_title: Co Curricular Activities
 <img src="/images/CoCurricularActivities/LCACC/LCACC_3.jpg" style="width:80%">
 
 <img src="/images/CoCurricularActivities/LCACC/LCACC_4.jpg" style="width:80%">
-
