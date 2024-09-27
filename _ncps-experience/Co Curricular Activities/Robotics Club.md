@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-|Name of CCA|Robotics Club|  |
+|Name of CCA|Robotics|  |
 | -------- | ------- | --------------- |
 |Day | Thursday| 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Norliza (Main IC) <br> Ms Wendy Chia <br>Mr Lim Sean Yang<br>Madam Cheng Bee Leng<br>Madam Nurnazlin Bte Zainuden
+|Teachers-in-charge | Mr Lim Sean Yang (Main IC) <br> Ms Wendy Chia <br>Mrs Cheng Bee Leng<br>Madam Nurnazlin Bte Zainuden
 |Events participated    |Innovation Design and Engineering (IDE) Competition<br>National Robotics Programming Competition (NRPC)<br>National Robotics Competition (NRC)
 
 <p style="box-sizing: inherit; font-size: 1em;">The Robotics Club provides an excellent platform for students to pursue their passion for innovation and robotics beyond the requirements of the primary school syllabus. Merging Science, Technology, Engineering and Mathematics (STEM), we provide valuable opportunities for students to develop their 21st century skills, i.e. ability to think critically and creatively, be innovative and to communicate as well as collaborate with their peers effectively.</p>
@@ -18,4 +18,3 @@ variant: markdown
 </span></p><p style="box-sizing: inherit; font-size: 1em;">Students who display aptitude in their craft have the opportunity to represent the school and participate in various competitions which allow them to develop their leadership and management skills too.</p>
 
 <img src="/images/CoCurricularActivities/Robotics/Robotics_2024.jpg" style="width:80%">
-
