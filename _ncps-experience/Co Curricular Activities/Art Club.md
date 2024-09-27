@@ -7,7 +7,7 @@ variant: markdown
 ---
 |Name of CCA|Art Club|  |
 | -------- | ------- | --------------- |
-|Day | Thursday | 
+|Day | Friday | 
 | Time |2.00 p.m. - 4.00 p.m. 
 |Teachers-in-charge |Ms Amanda Lim (Main IC)<br>Miss Manisha Suruchand <br> Madam Chee Kim Kiau <br>Mr Mark Lee
 
