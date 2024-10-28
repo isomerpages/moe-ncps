@@ -38,7 +38,7 @@ show greater consideration for others.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco004.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco004.jpg">
 </div>
 <p></p>
 <p></p>
