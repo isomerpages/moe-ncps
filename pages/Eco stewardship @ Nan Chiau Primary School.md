@@ -24,12 +24,12 @@ show greater consideration for others.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco001.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco001.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco002.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco002.jpg">
 </div>
 <p></p>
 <p></p>
