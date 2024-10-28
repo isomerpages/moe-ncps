@@ -22,9 +22,21 @@ designated stations. We hope these projects will inspire both the school
 community and the public to take responsibility for the environment and
 show greater consideration for others.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco01.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco03.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco04.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CoCurricularActivities/Environmental Club/Eco05.jpg">
 </div>
 <p></p>
