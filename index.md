@@ -28,4 +28,12 @@ sections:
       url: /lp-press/ncps-monthly-bulletin-january-2020/
       image: /images/Homepage/Bulletin_2024.png
       alt: Image alt text
+  - infopic:
+      title: Eco Stewardship @ NCPS
+      id: infopic
+      button: Read More
+      url: /eco-stewardship-nan-chiau-primary-school/
+      image: /images/CoCurricularActivities/Environmental
+        Club/Eco_Stewardship_2024.png
+      alt: Image alt text
 ---
