@@ -4,8 +4,6 @@ permalink: /our-school/financial-and-non-financial-information/
 description: ""
 variant: markdown
 ---
-[](/files/Nan_Chiau_Primary_School.pdf)#### **Non-Financial Information**
-
 **Name of Organisation:**&nbsp;Nan Chiau Primary School
 
 **Address:**&nbsp;50 Anchorvale Link, Singapore 545080
@@ -34,4 +32,4 @@ Name of Principal: Mrs Ong-Loh Jia Miin
 #### **Financial Information**
 
 
-Please refer to this&nbsp;[link](/files/Nan%20Chiau%20Primary.pdf)&nbsp;for financial information.
+Please refer to this&nbsp;[link](/files/Nan_Chiau_Primary_School.pdf)&nbsp;for financial information.
