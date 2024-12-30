@@ -13,6 +13,9 @@ variant: markdown
 
 <a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">Term 3 e-Bulletin</a>
 
+<a target="\_blank" href="https://online.flipbuilder.com/ncps/qoey/">Term 4 e-Bulletin</a>
+
+
 **Year 2023**
 
 <a target="\_blank" href="https://online.flipbuilder.com/ncps/vlsr/">Term 1 e-Bulletin</a>
