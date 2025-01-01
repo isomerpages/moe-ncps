@@ -27,7 +27,6 @@ variant: markdown
 
 
 <h4><strong>Year Head for Primary 3 &amp; Primary 4</strong></h4>
-<table><tbody><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mr Tan Swee Meng</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size:1em;">Primary 4 Year Head</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Madam Priya D/O Jairam</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size:1em;">Primary 3 Assistant Year Head</p></td></tr></tbody></table>
 
 <table border="0"><tbody><tr><td>Mr Tan Swee Meng</td><td>Primary 4 Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr><tr><td>Madam Priya D/O Jairam</td><td>Primary 3 Assistant Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
 
