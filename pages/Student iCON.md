@@ -47,13 +47,6 @@ to Junior College</p>
 <p></p>
 <p>Please refer to this <a href="/files/Icon_Onboarding_Updates_for_Parents_updated_22_February_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a> for
 more information on Student iCON.</p>
-<h2>Student Zoom</h2>
-<p>Zoom accounts for students will help teachers facilitate student identity
-verification and will also allow students to carry out synchronous learning
-effectively. Student Zoom can be accessed from&nbsp;<a href="https://students-edu-sg.zoom.us/" rel="noopener noreferrer nofollow" target="_blank"><u>https://students-edu-sg.zoom.us</u></a>
-</p>
-<p>Refer to <a href="/files/NCPS___Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">this guide </a>for
-the steps to login student iCON zoom</p>
 <p></p>
 <h2>Microsoft Office 365 ProPlus</h2>
 <p>As part of the MOE-Microsoft Student Use Benefits, students can use their
