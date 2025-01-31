@@ -83,6 +83,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents may opt their children out of Sexuality Education lessons.
 
-9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here]([(/files/GY_Series_2025_Opt_Out_Form.pdf)]).&nbsp;The completed opt-out form is to be submitted to the Form Teachers by&nbsp;**14****/02/2025.**
+9.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable&nbsp;[here](/files/GY_Series_2025_Opt_Out_Form.pdf).&nbsp;The completed opt-out form is to be submitted to the Form Teachers by&nbsp;**14****/02/2025.**
 
 10.&nbsp; &nbsp; &nbsp; &nbsp; Parents can contact the school at&nbsp;[lim\_pek\_wee@schools.gov.sg](mailto:lim_pek_wee@schools.gov.sg)&nbsp;or 64897905 for discussion or to seek clarification about the school’s Sexuality Education programme.
