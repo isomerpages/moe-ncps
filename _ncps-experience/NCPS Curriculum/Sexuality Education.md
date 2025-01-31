@@ -162,7 +162,9 @@ will feel more comfortable during the discussions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/Sexuality%20Education/MOE%20Logo%20(B&amp;W).jpg">
@@ -170,23 +172,75 @@ will feel more comfortable during the discussions.</p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p><strong>PRIMARY 6</strong>
-</p><pre><code>| CCE (FTGP) THEME|LESSON TITLE/DURATION | LESSON OVERVIEW | TIME PERIOD &lt;br style="font-size: 9;"&gt;(e.g. Term 1 Week 2)|</code></pre>
-<p>| -------- | -------- | -------- | | Growing Years | Are We More than
-Friends?
-<br>Lesson 1 (60 min) | In this lesson, students will learn to distinguish
-between the characteristics of love and infatuation, and identify the strong
-emotions that may arise from experiencing the feelings of infatuation.
-They will recognise that experiencing feelings of infatuation is part of
-growing up and becoming infatuated with someone does not mean that they
-should be involved in a romantic relationship. Instead, they should focus
-on building strong and healthy friendships with their circles of friends
-|Term 2 Week 10| | |Are We More than Friends?
-<br>Lesson 2 (60 min) | In this lesson, students will learn healthy ways to
-manage the emotions arising from infatuation and recognise the importance
-of respecting the boundaries of any relationship.&nbsp;They will also recognize
-the negative impact of teasing their peers who may be experiencing the
-feelings of infatuation and learn to behave maturely towards each other.
-|Term 3 Week 3|</p>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCE (FTGP) THEME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>LESSON TITLE/DURATION</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>LESSON OVERVIEW</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TIME PERIOD
+<br>(e.g. Term 1 Week 2)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Growing Years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?
+<br>Lesson 1
+<br>(60min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn to distinguish between the characteristics
+of love and infatuation, and identify the strong emotions that may arise
+from experiencing the feelings of infatuation. They will recognise that
+experiencing feelings of infatuation is part of growing up and becoming
+infatuated with someone does not mean that they should be involved in a
+romantic relationship. Instead, they should focus on building strong and
+healthy friendships with their circles of friends.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are We More than Friends?
+<br>Lesson 2
+<br>(60 min)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will learn healthy ways to manage the emotions
+arising from infatuation and recognise the importance of respecting the
+boundaries of any relationship.&nbsp;They will also recognize the negative
+impact of teasing their peers who may be experiencing the feelings of infatuation
+and learn to behave maturely towards each other.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p><pre><code></code></pre>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents may opt their children out
