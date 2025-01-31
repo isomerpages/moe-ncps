@@ -249,7 +249,8 @@ of Sexuality Education lessons.</p>
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
 is also downloadable&nbsp;<a href="/files/GY_Series_2025_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The completed
-opt-out form is to be submitted to the Form Teachers by&nbsp;<strong>14</strong>**/02/2025.**</p>
+opt-out form is to be submitted to the Form Teachers by&nbsp;<strong>14/02/2025.</strong>
+</p>
 <p>10.&nbsp; &nbsp; &nbsp; &nbsp; Parents can contact the school at&nbsp;
 <a href="mailto:lim_pek_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pek_wee@schools.gov.sg</a>&nbsp;or 64897905 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
