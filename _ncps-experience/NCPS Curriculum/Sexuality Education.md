@@ -145,13 +145,19 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Keeping Myself Safe
+<br>(60min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends. This lesson is conducted
+separately for boys and girls in different classrooms, so that the students
+will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 4 Week 9</p>
 </td>
 </tr>
 </tbody>
