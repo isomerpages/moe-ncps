@@ -240,7 +240,7 @@ and learn to behave maturely towards each other.</p>
 </tr>
 </tbody>
 </table>
-<p></p><pre><code></code></pre>
+<p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Parents may opt their children out
