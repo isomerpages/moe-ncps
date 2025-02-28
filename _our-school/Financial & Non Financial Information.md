@@ -10,7 +10,7 @@ variant: markdown
 
 **Contact Information:**
 
-*   Name of Contact Person:&nbsp;Madam Ong Suat Li
+*   Name of Contact Person:&nbsp;Mr Winston Tan Wee Sing
 *   Telephone No:&nbsp;6489 7905
 *   Fax No:&nbsp;6489 7906
 *   Email Address:&nbsp;ncps@moe.edu.sg
