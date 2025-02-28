@@ -20,6 +20,7 @@ sections:
           description: Respect, Responsibility, Sincerity, Perseverance
           url: ""
       background: /images/Homepage/year book cover page design v5.png
+      variant: image
   - infopic:
       title: Termly Bulletin
       description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
