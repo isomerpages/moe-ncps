@@ -20,6 +20,7 @@ sections:
           description: Respect, Responsibility, Sincerity, Perseverance
           url: ""
       background: /images/Homepage/year book cover page design v5.png
+      variant: image
   - infopic:
       title: Termly Bulletin
       description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
@@ -27,13 +28,5 @@ sections:
       button: Read More
       url: /lp-press/ncps-monthly-bulletin-january-2020/
       image: /images/Homepage/Bulletin_2024.png
-      alt: Image alt text
-  - infopic:
-      title: Eco Stewardship @ NCPS
-      id: infopic
-      button: Read More
-      url: /eco-stewardship-nan-chiau-primary-school/
-      image: /images/CoCurricularActivities/Environmental
-        Club/Eco_Stewardship_2024.png
       alt: Image alt text
 ---

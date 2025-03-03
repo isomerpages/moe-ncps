@@ -2,7 +2,6 @@
 title: School Canteen Advertisement
 permalink: /our-school/school-canteen/
 description: ""
-third_nav_title: School Service Providers
 variant: markdown
 ---
 #### **Canteen Stall Vacancy**
