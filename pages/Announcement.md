@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Nominate a Teacher of English Language who inspired you!
 
-![](/images/Teacher01.png)
+![style="width:80%" ](/images/Teacher01.png)
 
 Dear Parents/Students,
 
