@@ -12,8 +12,13 @@ Do you know of a teacher of English Language who made learning the language enjo
 
 If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Inspiring Teacher of English Language’ to acknowledge and affirm the teacher's efforts.
 
-**Inspiring Teacher of English Award 2025 (Nominate by 6pm on 24 March 2025):**
+Soft copies of the Nomination Form can be downloaded [here](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information).
 
-Nomination forms for the Teaching Award can be downloaded&nbsp;[here](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information).
+Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
 
- <p>Please email the completed Nomination Forms to 'ncps@moe.edu.sg' by 6pm on 24 March 2025. </p>
+
+ <p style="color:#0000FF">Please email the completed Nomination Forms to 'ncps@moe.edu.sg' <b>by 6pm on 24 March 2025.</b> </p>
+ 
+ 
+ 
+ 
