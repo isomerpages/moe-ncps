@@ -4,20 +4,16 @@ permalink: /lp-press/permalink/
 description: ""
 variant: markdown
 ---
-# Teaching Award Nominations 2024
+### Nominate a Teacher of English Language who inspired you!
 
-Teachers play a critical role in moulding the future of our nation. Through their wisdom and dedication, they never fail to inspire us to dream, fight, and never give up.
+Dear Parents/Students,
 
-As we end 2023, we are excited to share with you three Teaching Award Nominations. The nomination period starts from now till&nbsp;**10th January 2024.** So, this is an opportunity for you to show the deserving teacher(s) that you care and appreciate them in everything that they do. It will mean a lot to them and make them feel loved.
+Do you know of a teacher of English Language who made learning the language enjoyable?
 
+If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Inspiring Teacher of English Language’ to acknowledge and affirm the teacher's efforts.
 
+**Inspiring Teacher of English Award 2025 (Nominate by 6pm on 24 March 2025):**
 
-![](/images/Homepage/PTA2024.png)
-[Click here to nominate for President's Award for Teachers (PTA) 2024](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
+Nomination forms for the Teaching Award can be downloaded&nbsp;[here](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information).
 
-![](/images/Homepage/OYEA_2024.png)
-[Click here to nominate for Outstanding Youth in Education Award (OYEA) 2024](https://form.gov.sg/650a8bfa356d470012265669)
-
-<img src="/images/Homepage/caring%20teacher%202024.png" style="width:80%">
-
-[Click here to nominate for Caring Teacher Award (CTA) 2024](https://www.cta.nie.edu.sg/nominate)
+ <p>Please email the completed Nomination Forms to 'ncps@moe.edu.sg' by 6pm on 24 March 2025. </p>
