@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### Nominate a Teacher of English Language who inspired you!
 
-<img src="/images/Teacher01.png" style="width:60%">
+<img src="/images/Inspiring_Teacher_of_English_Award_2025_Nominations.png" style="width:100%">
+
 
 Dear Parents/Students,
 
@@ -19,3 +20,4 @@ Soft copies of the Nomination Form can be downloaded [here](https://www.language
 <p style="color:#0000FF">Please email the completed Nomination Forms to 'ncps@moe.edu.sg' <b>by 6pm on 24 March 2025.</b> </p>
 
 Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
+
