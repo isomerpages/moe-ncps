@@ -27,6 +27,8 @@ Thank you for affirming and acknowledging the good efforts of our NCPS Teachers 
 
 <img src="/images/Homepage/Teacher02_png.jpg" style="width:60%">
 
+Dear Parents/Students,
+
 Do you know of a teacher of Malay Language who made learning the language enjoyable?
 
 If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Arif Budiman Malay Language Teacher Award’ to acknowledge and affirm the teacher's efforts.
@@ -36,9 +38,12 @@ Nominate online: <a target="\_blank" href="https://go.gov.sg/agab2025">https://g
 
 Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
 
+-------
 ### Nominate an Inspiring Teacher of Tamil Language
 
 <img src="/images/Homepage/Teacher02.png" style="width:60%">
+
+Dear Parents/Students,
 
 Do you know of a teacher of Tamil Language who made learning the language enjoyable?
 
