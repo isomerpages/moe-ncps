@@ -25,7 +25,7 @@ sections:
       title: Announcement
       description: Call for Nominations...
       button: Read More
-      url: /lp-press/ncps-monthly-bulletin-january-2020/
+      url: /lp-press/permalink/
       image: /images/Homepage/Nominate_your_teachers.gif
       alt: Image alt text
 ---
