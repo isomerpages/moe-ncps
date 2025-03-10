@@ -4,20 +4,52 @@ permalink: /lp-press/permalink/
 description: ""
 variant: markdown
 ---
-# Teaching Award Nominations 2024
+### Nominate a Teacher of English Language who inspired you!
 
-Teachers play a critical role in moulding the future of our nation. Through their wisdom and dedication, they never fail to inspire us to dream, fight, and never give up.
-
-As we end 2023, we are excited to share with you three Teaching Award Nominations. The nomination period starts from now till&nbsp;**10th January 2024.** So, this is an opportunity for you to show the deserving teacher(s) that you care and appreciate them in everything that they do. It will mean a lot to them and make them feel loved.
+<img src="/images/Inspiring_Teacher_of_English_Award_2025_Nominations.png" style="width:100%">
 
 
+Dear Parents/Students,
 
-![](/images/Homepage/PTA2024.png)
-[Click here to nominate for President's Award for Teachers (PTA) 2024](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
+Do you know of a teacher of English Language who made learning the language enjoyable?
 
-![](/images/Homepage/OYEA_2024.png)
-[Click here to nominate for Outstanding Youth in Education Award (OYEA) 2024](https://form.gov.sg/650a8bfa356d470012265669)
+If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Inspiring Teacher of English Language’ to acknowledge and affirm the teacher's efforts.
 
-<img src="/images/Homepage/caring%20teacher%202024.png" style="width:80%">
+Soft copies of the Nomination Form can be downloaded
+<a target="\_blank" href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information">here</a>
 
-[Click here to nominate for Caring Teacher Award (CTA) 2024](https://www.cta.nie.edu.sg/nominate)
+<p style="color:#0000FF">Please email the completed Nomination Forms to 'ncps@moe.edu.sg' <b>by 6pm on 24 March 2025.</b> </p>
+
+Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
+
+------------------------------
+### Nominate an Inspiring Teacher of Malay Language
+
+<img src="/images/Homepage/Teacher02_png.jpg" style="width:60%">
+
+Dear Parents/Students,
+
+Do you know of a teacher of Malay Language who made learning the language enjoyable?
+
+If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Arif Budiman Malay Language Teacher Award’ to acknowledge and affirm the teacher's efforts.
+
+Arif Budiman Malay Language Teacher Award 2025 (Nominate by 4 April 2025)
+Nominate online: <a target="\_blank" href="https://go.gov.sg/agab2025">https://go.gov.sg/agab2025</a>
+
+Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
+
+-------
+### Nominate an Inspiring Teacher of Tamil Language
+
+<img src="/images/Homepage/Teacher02.png" style="width:60%">
+
+Dear Parents/Students,
+
+Do you know of a teacher of Tamil Language who made learning the language enjoyable?
+
+If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Most Inspiring Tamil Teacher Award’  to acknowledge and affirm the teacher's efforts.
+
+Most Inspiring Tamil Teacher 2025 (Nominate by 4 April 2025)
+Nominate online: <a target="\_blank" href="https://go.gov.sg/mitt2025"> https://go.gov.sg/mitt2025</a>
+
+Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!

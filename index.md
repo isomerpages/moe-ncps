@@ -22,11 +22,10 @@ sections:
       background: /images/Homepage/year book cover page design v5.png
       variant: image
   - infopic:
-      title: Termly Bulletin
-      description: Dear Parent/ Guardian, Please refer to the attachment for the NCPS
-        Monthly Bulletin.
+      title: Announcement
+      description: Call for Nominations...
       button: Read More
-      url: /lp-press/ncps-monthly-bulletin-january-2020/
-      image: /images/Homepage/Bulletin_2024.png
+      url: /lp-press/permalink/
+      image: /images/Homepage/Nominate_your_teachers.gif
       alt: Image alt text
 ---
