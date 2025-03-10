@@ -22,6 +22,7 @@ Soft copies of the Nomination Form can be downloaded
 
 Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
 
+------------------------------
 ### Nominate an Inspiring Teacher of Malay Language
 
 <img src="/images/Homepage/Teacher02_png.jpg" style="width:60%">
