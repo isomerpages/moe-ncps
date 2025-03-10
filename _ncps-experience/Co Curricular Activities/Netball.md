@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ---------- | --------------- |
 |Day |Thursday - All students &nbsp;<br>Friday - School Team   | 
 | Time |2.00 p.m. - 4.00 p.m.  
-|Teachers-in-charge |Madam Haryani (Main IC) <br>Madam Tan Bee Khuan Sally<br> Miss Putri| 
+|Teachers-in-charge |Miss Putri (Main IC) <br>Madam Haryani<br>Madam Tan Bee Khuan Sally<br>Ms Lim Pek Wee
 |Events participated    |National School&nbsp; Games<br>Netball Tournament
 
 
