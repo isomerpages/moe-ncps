@@ -9,7 +9,7 @@ variant: markdown
 | -------- | ------- | --------------- |
 |Day | Thursday - All students <br>Friday - School Team (Selected P3 to P6) | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Mr Jimmy Kong (Main IC) <br>Mrs Chua Puay Hwa<br> Mr Chuan Peck Chew <br>Mrs Navelen
+|Teachers-in-charge |Mr Jimmy Kong (Main IC) <br>Mrs Chua Puay Hwa<br> Ms Yeo Kah Gek <br>Mrs Navelen
 |Events participated    |National School Games Table Tennis
 
 <p style="box-sizing: inherit; font-size: 1em;">The Table Tennis CCA is introduced in our school to encourage high participation among our Primary Three students and to pave the pathway to spot promising talents.</p><p style="box-sizing: inherit; font-size: 1em;"></p><p style="box-sizing: inherit; font-size: 1em;">Table tennis, also known as ping pong, is a sport in which two or four players hit a lightweight ball back and forth across a table using a small racquet. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions.</p>
