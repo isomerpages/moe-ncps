@@ -31,7 +31,7 @@ Do you know of a teacher of Malay Language who made learning the language enjoya
 If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Arif Budiman Malay Language Teacher Award’ to acknowledge and affirm the teacher's efforts.
 
 Arif Budiman Malay Language Teacher Award 2025 (Nominate by 4 April 2025)
-Nominate online: https://go.gov.sg/agab2025
+Nominate online: <a target="\_blank" href="https://go.gov.sg/agab2025">https://go.gov.sg/agab2025</a>
 
 Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
 
@@ -44,6 +44,6 @@ Do you know of a teacher of Tamil Language who made learning the language enjoya
 If your answer to the above is "Yes", please take a few minutes to nominate the teacher for the ‘Most Inspiring Tamil Teacher Award’  to acknowledge and affirm the teacher's efforts.
 
 Most Inspiring Tamil Teacher 2025 (Nominate by 4 April 2025)
-Nominate online: https://go.gov.sg/mitt2025
+Nominate online: <a target="\_blank" href="https://go.gov.sg/mitt2025"> https://go.gov.sg/mitt2025</a>
 
 Thank you for affirming and acknowledging the good efforts of our NCPS Teachers with your nominations!
