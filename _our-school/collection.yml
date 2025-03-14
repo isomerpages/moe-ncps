@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - HERITAGE/History.md
       - HERITAGE/.keep
       - Principal's Message.md
       - NCPS FAMILY/.keep
