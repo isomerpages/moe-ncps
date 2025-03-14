@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - HERITAGE/School Philosophy and Core Values.md
       - HERITAGE/.keep
       - HERITAGE/History.md
       - HERITAGE/Vision, Mission, Values.md
+      - HERITAGE/School Philosophy and Core Values.md
       - HERITAGE/School Crest.md
       - HERITAGE/School Song.md
       - Principal's Message.md
