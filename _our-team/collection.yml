@@ -1,5 +1,4 @@
 collections:
   our-team:
     output: true
-    order:
-      - School Administration Team.md
+    order: []
