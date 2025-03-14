@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - NCPS Co Curriculum/.keep
-      - Co Curricular Activities (CCA).md
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
