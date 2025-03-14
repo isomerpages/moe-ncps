@@ -2,12 +2,12 @@ collections:
   our-school:
     output: true
     order:
-      - GENERAL INFORMATION/Road Safety.md
-      - GENERAL INFORMATION/School Rules.md
-      - GENERAL INFORMATION/School Hours.md
-      - GENERAL INFORMATION/School Uniform.md
-      - GENERAL INFORMATION/Financial & Non Financial Information.md
       - GENERAL INFORMATION/.keep
+      - GENERAL INFORMATION/School Uniform.md
+      - GENERAL INFORMATION/School Hours.md
+      - GENERAL INFORMATION/School Rules.md
+      - GENERAL INFORMATION/Road Safety.md
+      - GENERAL INFORMATION/Financial & Non Financial Information.md
       - HERITAGE/.keep
       - HERITAGE/History.md
       - HERITAGE/Vision, Mission, Values.md
