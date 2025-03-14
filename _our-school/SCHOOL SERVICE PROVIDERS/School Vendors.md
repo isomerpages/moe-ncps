@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SCHOOL SERVICE PROVIDERS
 variant: markdown
 ---
-#### **Bookshop Operator – Pacific Bookstores Pte Ltd**
+### **Bookshop Operator – Pacific Bookstores Pte Ltd**
 
 14 Arumugam Road #08-01 Lion Building C  
 Singapore 409959  
@@ -25,7 +25,7 @@ Operating Hours
 | Closed unless specified by School |  |    |
 
 
-#### **Uniform / Shoe Supplier – Asencio Pte Ltd**
+### **Uniform / Shoe Supplier – Asencio Pte Ltd**
 
 120 Hillview Avenue #05-03 Kewalram Hillview Singapore 669594  
 Tel: 6764 3102 Fax: 6764 1032  
@@ -42,11 +42,3 @@ Website:&nbsp;<a target="\_blank" href="http://www.asencio.com.sg">http://www.as
 | Closed unless specified by School |  |    |
 
 
-#### **School Bus Operator – Polly Transport Services**
-
-Tel:&nbsp; &nbsp; Ms Susan 9069 3357 / Mr Darrell 9226 7131  
-Email: [pollytransport@hotmail.com](mailto:pollytransport@hotmail.com)
-
-**Bus Fares** 
-
-[Click here to refer to the bus fares](/files/School%20Bus%20Operator/details%20of%20bus%20operators%20and%20bus%20fares.pdf)
