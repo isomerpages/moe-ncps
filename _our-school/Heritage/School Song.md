@@ -3,8 +3,9 @@ title: School Song
 permalink: /our-school/school-song/
 description: ""
 third_nav_title: Heritage
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkW8A3fOKB0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkW8A3fOKB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 **1 First Verse**:  
 Our passion is burning  
