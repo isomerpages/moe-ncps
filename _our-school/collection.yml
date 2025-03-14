@@ -2,18 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - General Information/.keep
-      - General Information/School Uniform.md
-      - General Information/School Hours.md
-      - General Information/School Rules.md
-      - General Information/Road Safety.md
-      - General Information/Financial & Non Financial Information.md
-      - Heritage/.keep
-      - Heritage/History.md
-      - Heritage/Vision, Mission, Values.md
-      - Heritage/School Philosophy and Core Values.md
-      - Heritage/School Crest.md
-      - Heritage/School Song.md
       - Principal's Message.md
       - NCPS Family/.keep
       - NCPS Family/School Management Team.md
@@ -22,6 +10,18 @@ collections:
       - NCPS Family/School Administration Team.md
       - NCPS Family/Parent Support Group (PSG).md
       - NCPS Family/NC Alumni Association.md
+      - Heritage/.keep
+      - Heritage/History.md
+      - Heritage/Vision, Mission, Values.md
+      - Heritage/School Philosophy and Core Values.md
+      - Heritage/School Crest.md
+      - Heritage/School Song.md
+      - General Information/.keep
+      - General Information/School Uniform.md
+      - General Information/School Hours.md
+      - General Information/School Rules.md
+      - General Information/Road Safety.md
+      - General Information/Financial & Non Financial Information.md
       - School Service Providers/.keep
       - School Service Providers/School Dental Services.md
       - School Service Providers/School Bus Service.md
