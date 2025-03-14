@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - NCPS FAMILY/Parent Support Group (PSG).md
       - NCPS FAMILY/.keep
       - NCPS FAMILY/School Management Team.md
       - NCPS FAMILY/School Management Committee.md
