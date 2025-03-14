@@ -2,6 +2,7 @@ collections:
   ncps-experience:
     output: true
     order:
+      - NCPS Co Curriculum/Character and Citizenship Education.md
       - NCPS Co Curriculum/Co Curricular Activities (CCA).md
       - NCPS Co Curriculum/.keep
       - NCPS Curriculum/.keep
