@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - NCPS FAMILY/.keep
       - Principal's Message.md
       - History.md
       - Vision, Mission, Values.md
