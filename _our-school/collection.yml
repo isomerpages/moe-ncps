@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - GENERAL INFORMATION/Road Safety.md
       - GENERAL INFORMATION/School Rules.md
       - GENERAL INFORMATION/School Hours.md
       - GENERAL INFORMATION/School Uniform.md
