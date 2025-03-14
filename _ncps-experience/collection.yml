@@ -2,18 +2,18 @@ collections:
   ncps-experience:
     output: true
     order:
-      - NCPS Co Curriculum/Sexuality Education.md
-      - NCPS Co Curriculum/PE, Aesthetics and Music.md
-      - NCPS Co Curriculum/Programme for Active Learning (PAL).md
-      - NCPS Co Curriculum/Character and Citizenship Education.md
-      - NCPS Co Curriculum/Co Curricular Activities (CCA).md
-      - NCPS Co Curriculum/.keep
       - NCPS Curriculum/.keep
       - NCPS Curriculum/NCPS Curriculum.md
       - NCPS Curriculum/English.md
       - NCPS Curriculum/Mathematics.md
       - NCPS Curriculum/Science.md
       - NCPS Curriculum/Mother Tongue.md
+      - NCPS Co Curriculum/.keep
+      - NCPS Co Curriculum/Sexuality Education.md
+      - NCPS Co Curriculum/PE, Aesthetics and Music.md
+      - NCPS Co Curriculum/Programme for Active Learning (PAL).md
+      - NCPS Co Curriculum/Character and Citizenship Education.md
+      - NCPS Co Curriculum/Co Curricular Activities (CCA).md
       - Signature Programmes/.keep
       - Signature Programmes/NCPS Enriched Curriculum.md
       - Signature Programmes/BiCEP.md
