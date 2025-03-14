@@ -2,11 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - HERITAGE/School Song.md
-      - HERITAGE/School Crest.md
-      - HERITAGE/Vision, Mission, Values.md
-      - HERITAGE/History.md
       - HERITAGE/.keep
+      - HERITAGE/History.md
+      - HERITAGE/Vision, Mission, Values.md
+      - HERITAGE/School Crest.md
+      - HERITAGE/School Song.md
       - Principal's Message.md
       - NCPS FAMILY/.keep
       - NCPS FAMILY/School Management Team.md
