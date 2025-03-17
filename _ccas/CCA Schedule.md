@@ -4,8 +4,7 @@ permalink: /cca-schedule/
 variant: tiptap
 description: ""
 ---
-<p><strong>CCA Schedule for 2025</strong>
-</p>
+<h3><strong>CCA Schedule for 2025</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
