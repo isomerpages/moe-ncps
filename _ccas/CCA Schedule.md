@@ -128,8 +128,8 @@ description: ""
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday - Recreational Team (P3) &amp; School Team
-<br>Thursday - Recreational Team (P4 - P6)
+<p>Wednesday - P3 &amp; School Team
+<br>Thursday - P4 - P6
 <br>Friday - School Team</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ description: ""
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday - Recreational Team (P3 - P6)
+<p>Thursday - All students
 <br>Friday - School Team (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
