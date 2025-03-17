@@ -97,12 +97,12 @@ School Term (Monday to Friday):&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 School Holiday &amp; School Closure Days:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.30 am – 7.00 pm
 
 **STUDENT CARE FEES** <br>
-School Term:&nbsp; $220 per month (inclusive of GST)  
+School Term:&nbsp; $224 per month (inclusive of GST)  
 Student Care Fee Assistance (SCFA) by MSF are available for students in need of financial assistance.&nbsp;_Terms and conditions apply._
 
 &nbsp;**CONTACT DETAILS** <br>
- Jacinta Annabella  
-Centre Head  
+Jacinta Thomas<br>
+Senior Centre Head  
 Nan Chiau Student Care Centre  
 Email:&nbsp;&nbsp;[ncscc@nascans.com](mailto:ncscc@nascans.com) <br>
 Website:&nbsp;&nbsp;<a target="\_blank" href="http://www.nascans.com">http://www.nascans.com</a>
