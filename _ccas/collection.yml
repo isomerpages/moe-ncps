@@ -2,15 +2,16 @@ collections:
   ccas:
     output: true
     order:
-      - Visual and Performing Arts/International Dance.md
-      - Visual and Performing Arts/Guzheng.md
-      - Visual and Performing Arts/Festive Drumming.md
-      - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Art Club.md
-      - Visual and Performing Arts/.keep
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/.keep
+      - CCA Requirements & Policy.md
+      - CCA Schedule.md
+      - Club and Societies/.keep
+      - Club and Societies/Strategy Games.md
+      - Club and Societies/Sports Club.md
+      - Club and Societies/Robotics Club.md
+      - Club and Societies/Language Cultural Arts and Communication Club.md
+      - Club and Societies/Infocomm & Media.md
+      - Club and Societies/Environmental Club.md
+      - Physical Sports/.keep
       - Physical Sports/Wushu.md
       - Physical Sports/Track and Field.md
       - Physical Sports/Table Tennis.md
@@ -18,13 +19,12 @@ collections:
       - Physical Sports/Netball.md
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
-      - Physical Sports/.keep
-      - Club and Societies/Strategy Games.md
-      - Club and Societies/Sports Club.md
-      - Club and Societies/Robotics Club.md
-      - Club and Societies/Language Cultural Arts and Communication Club.md
-      - Club and Societies/Infocomm & Media.md
-      - Club and Societies/Environmental Club.md
-      - Club and Societies/.keep
-      - CCA Schedule.md
-      - CCA Requirements & Policy.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
+      - Uniformed Groups/Brownies.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/International Dance.md
+      - Visual and Performing Arts/Guzheng.md
+      - Visual and Performing Arts/Festive Drumming.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Art Club.md
