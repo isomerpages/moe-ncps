@@ -91,7 +91,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strategy Games Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Physical Sports</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -102,7 +125,92 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday - Recreational Team (P3) &amp; School Team
+<br>Thursday - Recreational Team (P4 - P6)
+<br>Friday - School Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday - Recreational Team (P3 - P6)
+<br>Friday - School Team (P5 &amp; P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday - All students &nbsp;
+<br>Friday - School Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soccer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday - All students
+<br>Friday - School Team (P5 &amp; P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday - All students
+<br>Friday - School Team (Selected P3 to P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday - All students
+<br>Friday - School Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Uniformed Groups</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -113,7 +221,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Visual and Performing Arts</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,123 +255,46 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2 - 4pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Festive Drumming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2 - 4pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Guzheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thursday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2 - 4pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>International Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2 - 4pm</p>
 </td>
 </tr>
 </tbody>
