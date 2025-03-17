@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club and Societies
 variant: markdown
 ---
-|Name of CCA|Infocomm &amp; Media|  |
+|Name of CCA|Infocomm &amp; Media Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
 | Time |2.00 p.m. - 4.00 p.m. 
