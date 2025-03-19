@@ -17,9 +17,6 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
-        - title: TESTING
-          description: ""
-          url: ""
       background: /images/Homepage/year book cover page design v5.png
       variant: image
   - infopic:
