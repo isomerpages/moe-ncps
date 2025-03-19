@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-**National Anthem, Pledge and School Song**
+#### **National Anthem, Pledge and School Song**
 
 *   Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
 *   Students must stand at attention throughout the flag raising ceremony.
