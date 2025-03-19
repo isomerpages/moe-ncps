@@ -8,16 +8,17 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: School Vision
-          description: An Innovative School where Inspiring Educators nurture Future-ready
-            Leaders
+        - title: HIGHLIGHTS
+          description: ""
           url: ""
-        - title: School Mission
-          description: To foster Moral, Cognitive, Physical, Social and Aesthetic growth
-            of all-round students
+        - title: STUDENT'S VOICE
+          description: ""
           url: ""
-        - title: School Values
-          description: Respect, Responsibility, Sincerity, Perseverance
+        - title: RESOURCES
+          description: ""
+          url: ""
+        - title: TESTING
+          description: ""
           url: ""
       background: /images/Homepage/year book cover page design v5.png
       variant: image
