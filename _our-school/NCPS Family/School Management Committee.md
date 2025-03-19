@@ -5,10 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
-<p style="color:#0000FF"><b>Nan Chiau Primary School is a government-aided school established by the Singapore Hokkien Huay Kuan </b></p>
+<p style="color:#002060"><b>Nan Chiau Primary School is a government-aided school established by the Singapore Hokkien Huay Kuan </b></p>
 
 
-**Nan Chiau Primary School is a government-aided school established by the Singapore Hokkien Huay Kuan.**
+
 
 <img src="/images/OUR%20SCHOOL/SHHK_icon.jpg" style="width:60%">
 
