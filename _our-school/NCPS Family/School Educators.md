@@ -5,13 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
-<h4><strong>Year Head for Primary 1 &amp; Primary 2</strong></h4>
+#### Form Teachers for Primary 1
 
-
-<table border="0"><tbody><tr><td>Ms Nur Fadzilah</td><td>Primary 1 Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr><tr><td>Mrs Tan Su Zhen Jasmine</td><td>Primary 2 Assistant Year Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></tbody></table>
-	
-
-<p><strong>Form Teachers for Primary 1</strong></p>
 
 <table><tbody><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Compassion</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Madam Maslinda Bte Samuri<br>Mrs Navelen</p></td></tr>
 <tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Courage</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mrs Aziz – Nor Azlin<br>Mr Lim Kiat Siong</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Diligence</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mr Darren Lim Kiang Shiang<br>Mrs Wong –&nbsp;Tan Rui Ting Edel Alica</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Gratitude</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mrs Regina Soh<br>Mr Adam Bin Mohamed Ali</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Integrity</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mrs Tan Su Zhen Jasmine<br>Madam Kiu Kwee Fern</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Kindness</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Madam Muliyati<br>Ms Lee Yan Ting Cheryl</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Perseverance</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Mrs Cheng Bee Leng<br>Madam Tang Zhu Min</p></td></tr><tr><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">1 Responsibility</p></td><td rowspan="1" colspan="1"><p style="box-sizing: inherit; font-size: 1em;">Madam Ho Ju Lee<br>Madam Chen Yan
