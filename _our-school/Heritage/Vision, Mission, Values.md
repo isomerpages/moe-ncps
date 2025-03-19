@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Heritage
 ---
-#### **School Vision**
+## **School Vision**
 
 An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 
@@ -15,7 +15,7 @@ An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 培育英才，激励人心  
 正直诚毅，勤奋进取
 
-#### **School Mission**
+## **School Mission**
 
 To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students.
 
@@ -23,7 +23,7 @@ To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round s
 
 培育德智体群美各方面均衡发展的领袖。
 
-#### **School Values**
+## **School Values**
 
 Respect, Responsibility, Sincerity,&nbsp;Perseverance
 
