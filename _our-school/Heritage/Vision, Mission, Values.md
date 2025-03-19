@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: Heritage
 ---
+<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:50%">
+
 ## **School Vision**
 
 An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
@@ -31,4 +33,3 @@ Respect, Responsibility, Sincerity,&nbsp;Perseverance
 
 尊敬, 责任感, 诚意，毅力
 
-<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:60%">
