@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
+
+
+![Low Res](/images/Low_Res.jpg)
+Low Res
+
+![Mid Res](/images/Mid_Res.jpg)
+Mid Res
+
 |Name of CCA|Badminton|  |
 | -------- | ------- | --------------- |
 |Day | Wednesday - Recreational Team (P3) &amp; School Team<br>Thursday - Recreational Team (P4 - P6)<br>Friday - School Team
