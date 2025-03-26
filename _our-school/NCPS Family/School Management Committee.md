@@ -16,13 +16,13 @@ Singapore Hokkien Huay Kuan set up its first school in 1849. Over the years, it 
 
 Today, the six affiliated schools: Tao Nan School, Ai Tong School, Chongfu Primary School, Nan Chiau High&nbsp;School, Nan Chiau Primary School and Kong Hwa School have a combined enrolment of 14,000 students&nbsp;and 700 staff. They share a common set of mission and motto:
 
-**Mission**
+#### Mission
 *   To provide for development in the moral, cognitive, physical, social and&nbsp;aesthetic spheres;
 *   To instill a love for the nation and the community;
 *   To equip students with basic life skills;
 *   To preserve and promote Chinese language and Chinese culture.
 
-**Motto**
+#### Motto
 Sincerity &amp; Perseverance
 <br>
 <br>
