@@ -113,7 +113,7 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
     </tr>
 	 <tr> 
     <td>Gate C<br></td>
-      <td>Primary 5 &amp; 6<br>6.50 am - 7.25 am<br>1.20 pm - 2.00 pm<br>4.00 pm - 4.30 pm\*</td>
+      <td>Primary 5 &amp; 6<br>6.50 am - 7.25 am<br>1.20 pm - 2.00 pm<br>4.00 pm - 4.30 pm*</td>
     <td><br></td>
   </tr>
 	 
@@ -122,5 +122,3 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 
 
 \* <font size="2">Only on CCA &amp; Coaching days</font>
-	
-
