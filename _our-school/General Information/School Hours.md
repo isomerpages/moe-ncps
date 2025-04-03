@@ -60,39 +60,24 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
   <tr>
     <th class="tg-1h0n">Time</th>
     <th class="tg-1h0n">Level</th>
-    <th class="tg-1h0n">Snack Break</th>
+    <th class="tg-1h0n"></th>
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td>9.00 am - 9.30 am<br></td>
-    <td>Primary 1<br></td>
-    <td>Betweeen 11:30 am - 12.30 pm<br></td>
-  </tr>
-  <tr>
-    <td>9.30 am - 10.00 am<br></td>
-    <td>Primary 2<br></td>
-    <td>Betweeen 11:30 am - 12.30 pm<br></td>
-  </tr>
-  <tr>
-    <td>10.00 am - 10.30 am<br></td>
-    <td>Primary 3<br></td>
-    <td>Betweeen 11:30 am - 12.30 pm<br></td>
-  </tr>
-	  <tr>
-    <td>10.30 am - 11.00 am<br></td>
-      <td>Primary 6<br></td>
-    <td>Betweeen 11:30 am - 12.30 pm<br></td>
+  	  <tr>
+    <td>1.25 pm<br></td>
+      <td>Primary 1 &amp; 2<br></td>
+    <td><br></td>
   </tr>
 	 <tr> 
-    <td>11.00 am - 11.30 am<br></td>
-      <td>Primary 5<br></td>
-    <td>Betweeen 9:00 am - 9.30 am<br></td>
+    <td>1.30 pm<br></td>
+      <td>Primary 3 &amp; 4<br></td>
+    <td><br></td>
     </tr>
 	 <tr> 
-    <td>11.30 am - 12.00 pm<br></td>
-      <td>Primary 4<br></td>
-    <td>Betweeen 9:00 am - 9.30 am<br></td>
+    <td>1.35 pm<br></td>
+      <td>Primary 5 &amp; 6<br></td>
+    <td><br></td>
   </tr>
 	 
 </tbody>
