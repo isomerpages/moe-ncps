@@ -83,12 +83,6 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 </tbody>
 </table>
 
-| Time | Level |  |
-| -------- | -------- | -------- |
-| 1.25 pm | Primary 1 &amp; 2 | 
-| 1.30 pm | Primary 3 &amp; 4 | 
-| 1.35 pm | Primary 5 &amp; 6 | 
-
 
 #### Gate Opening Hours
 
