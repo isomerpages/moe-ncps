@@ -12,39 +12,21 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1h0n">Name</th>
-    <th class="tg-1h0n">Appointment</th>
-    <th class="tg-1h0n">Email Address</th>
+    <th class="tg-1h0n">Time</th>
+    <th class="tg-1h0n">Level</th>
+    <th class="tg-1h0n">Snack Break</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Wesley Cheong</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Principal</span></td>
-    <td style="text-align: center; vertical-align: middle;" rowspan="4" class="tg-lb3e"><a href="mailto:anchorgreenps_school_leaders@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">anchorgreenps_school_leaders@schools.gov.sg</span></a></td>
+    <tr>
+    <td>9.00 am - 9.30 am<br></td>
+    <td>School Staff Developer<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
   </tr>
   <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mrs Lim-Neo Lay Pin</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Mumtaas Mohamed Kassim</span></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal <br>(Education Officer)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mr Lee Sech Wee</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Vice Principal<br>(Administration)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Vinitha Nair<br>
-(Mrs Thiro)</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">School Staff Developer</span><br></td>
-    <td style="text-align: center; vertical-align: middle;" class="tg-fskk"><a href="mailto:vinitha_nair@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">vinitha_nair@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Mdm Shubana Mohd Yusof</span><br></td>
-    <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA">Head of Department <br>English Language</span><br></td>
-    <td style="text-align: center; vertical-align: middle;" class="tg-lb3e"><a href="mailto:shubana_mohd_yusof@schools.gov.sg"><span style="font-weight:500;text-decoration:none;color:#21088A">shubana_mohd_yusof@schools.gov.sg</span></a><br></td>
+    <td>9.30 am - 10.00 am<br></td>
+    <td>Primary 2<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
   </tr>
   <tr>
     <td class="tg-s6uv"><span style="color:#222;background-color:#FBFFFA"> Mdm Ang Gek Moi</span><br></td>
