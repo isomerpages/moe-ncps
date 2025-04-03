@@ -9,7 +9,8 @@ variant: markdown
 
 Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are strongly encouraged to arrive in school by 7.25am.
 
-<br><br><br><br><table class="tg">
+#### Staggered Recess Timings
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-1h0n">Time</th>
@@ -52,20 +53,50 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 </tbody>
 </table>
 
-
-#### Staggered Recess Timings
-
-| Time | Level | Snack Break |
-| ----| ------ | ------------ |
-| 9.00 am - 9.30 am| Primary 1 | Betweeen 11:30 am - 12.30 pm |
-| 9.30 am - 10.00 am| Primary 2 | Betweeen 11:30 am - 12.30 pm |
-| 10.00 am - 10.30 am| Primary 3 | Betweeen 11:30 am - 12.30 pm |
-| 10.30 am - 11.00 am| Primary 6 | Betweeen 11:30 am - 12.30 pm |
-| 11.00 am - 11.30 am| Primary 5 | Betweeen 9:00 am - 9.30 am |
-| 11.30 am - 12.00 pm| Primary 4 | Betweeen 9:00 am - 9.30 am |
-
-
 #### Staggered Dismissal Timings
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Time</th>
+    <th class="tg-1h0n">Level</th>
+    <th class="tg-1h0n">Snack Break</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td>9.00 am - 9.30 am<br></td>
+    <td>Primary 1<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
+  </tr>
+  <tr>
+    <td>9.30 am - 10.00 am<br></td>
+    <td>Primary 2<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
+  </tr>
+  <tr>
+    <td>10.00 am - 10.30 am<br></td>
+    <td>Primary 3<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
+  </tr>
+	  <tr>
+    <td>10.30 am - 11.00 am<br></td>
+      <td>Primary 6<br></td>
+    <td>Betweeen 11:30 am - 12.30 pm<br></td>
+  </tr>
+	 <tr> 
+    <td>11.00 am - 11.30 am<br></td>
+      <td>Primary 5<br></td>
+    <td>Betweeen 9:00 am - 9.30 am<br></td>
+    </tr>
+	 <tr> 
+    <td>11.30 am - 12.00 pm<br></td>
+      <td>Primary 4<br></td>
+    <td>Betweeen 9:00 am - 9.30 am<br></td>
+  </tr>
+	 
+</tbody>
+</table>
 
 | Time | Level |  |
 | -------- | -------- | -------- |
