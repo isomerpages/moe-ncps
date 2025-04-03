@@ -86,6 +86,35 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 
 #### Gate Opening Hours
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1h0n">Gate</th>
+    <th class="tg-1h0n">Monday to Friday</th>
+    <th class="tg-1h0n"></th>
+  </tr>
+</thead>
+<tbody>
+  	  <tr>
+    <td>Gate A<br></td>
+      <td>6.30 am - 6.30 pm<br></td>
+    <td><br></td>
+  </tr>
+	 <tr> 
+    <td>Gate B<br></td>
+      <td>6.50 am - 7.25 am<br>1.20 pm - 2.00 pm</td>
+    <td><br></td>
+    </tr>
+	 <tr> 
+    <td>Gate C<br></td>
+      <td>Primary 5 &amp; 6<br>6.50 am - 7.25 am<br>1.20 pm - 2.00 pm<br>4.00 pm - 4.30 pm\*</td>
+    <td><br></td>
+  </tr>
+	 
+</tbody>
+</table>
+
+
 | Gate | Monday to Friday |  |
 | -------- | -------- | -------- |
 | Gate A | 6.30 am - 6.30 pm |     |
