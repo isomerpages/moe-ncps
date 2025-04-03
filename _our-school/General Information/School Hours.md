@@ -11,12 +11,12 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 
 #### Staggered Recess Timings
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 80%; width: 80%;">
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px;  width: 80%;">
 <tbody style="box-sizing: inherit;">
 <tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
-<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 30%; height: 23px;"><b>Time</b></td>
+<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 20px; width: 30%; height: 23px;"><b>Time</b></td>
 	
-<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"><b>Level</b></td>
+<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 20%; height: 23px;"><b>Level</b></td>
 <td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 100%; height: 23px;"><b>Snack Break</b></td>
 
 </tr>
