@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Heritage
 ---
-<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:50%">
+<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:30%">
 
 ## **School Vision**
 
@@ -32,4 +32,3 @@ Respect, Responsibility, Sincerity,&nbsp;Perseverance
 **学校价值观**  
 
 尊敬, 责任感, 诚意，毅力
-
