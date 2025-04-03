@@ -5,11 +5,7 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-#### General Office Opening Hours
 
-|  |  |  |
-| -------- | -------- | -------- |
-| Monday - Friday | 7.30 am - 5.00 pm |    |
 
 #### Morning Assembly
 
@@ -134,3 +130,9 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 
 
 \* <font size="2">Only on CCA &amp; Coaching days</font>
+
+#### General Office Opening Hours
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Monday - Friday | 7.30 am - 5.00 pm |    |
