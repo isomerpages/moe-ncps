@@ -5,6 +5,12 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
+#### General Office Opening Hours
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Monday - Friday | 7.30 am - 5.00 pm |    |
+
 #### Morning Assembly
 
 Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are strongly encouraged to arrive in school by 7.25am.
@@ -115,17 +121,6 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 </table>
 
 
-| Gate | Monday to Friday |  |
-| -------- | -------- | -------- |
-| Gate A | 6.30 am - 6.30 pm |     |
-| Gate B | 6.50 am - 7.25 am <br>1.20 pm - 2.00 pm |      |
-| Gate C | 6.50 am - 7.25 am <br>1.20 pm - 2.00 pm <br>4.00 pm - 4.30 pm* |      |
-
-\* <font size="3">Only on CCA &amp; Coaching days</font>
+\* <font size="2">Only on CCA &amp; Coaching days</font>
 	
 
-#### General Office Opening Hours
-
-|  |  |  |
-| -------- | -------- | -------- |
-| Monday - Friday | 7.30 am - 5.00 pm |    |
