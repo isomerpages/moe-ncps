@@ -22,10 +22,10 @@ Nan Chiau Primary School is an Exempt Charity
 A Member of Education Central Fund
 
 **Vision**<br>
-An Innovative School where Inspiring Educators Nurture Future-ready Leaders with Values.
+An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
 
 **Mission**<br>
-To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.
+To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students.
 
 **Key Employees** <br>
 Mrs Ong-Loh Jia Miin, Principal
