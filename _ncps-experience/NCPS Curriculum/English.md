@@ -109,7 +109,7 @@ technology for learning and can:
 
 <img src="/images/Our%20Curriculum_English/moo%20o%20resized.png" style="width:75%">
 
-###### **iCT**&nbsp;**in the curriculum:**&nbsp;Moo- ‘O’
+###### **iCT**&nbsp;**in the curriculum:**&nbsp;Moo-O
 
 <img src="/images/Our%20Curriculum_English/moo%20o%202%20final.png" style="width:75%">
 
