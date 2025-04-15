@@ -13,7 +13,7 @@ third_nav_title: General Information
 **Telephone No:** 6489 7905<br>
 **Fax No:** 6489 7906 <br>
 **Email Address:** ncps@moe.edu.sg<br>
-**Web-site Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
+**Website Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
 
 **Charity Status**<br>
 Nan Chiau Primary School is an Exempt Charity
@@ -22,10 +22,10 @@ Nan Chiau Primary School is an Exempt Charity
 A Member of Education Central Fund
 
 **Vision**<br>
-An Innovative School where Inspiring Educators Nurture Future-ready Leaders.
+An Innovative School where Inspiring Educators Nurture Future-ready Leaders
 
 **Mission**<br>
-To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students.
+To foster Moral, Cognitive, Physical, Social and Aesthetic growth of all-round students
 
 **Key Employees** <br>
 Mrs Ong-Loh Jia Miin, Principal
