@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: General Information
 ---
-**Name of Organisation:**&nbsp;Nan Chiau Primary School
+**Name of Organisation:**&nbsp;Nan Chiau Primary School<br>
 
 **Address:**&nbsp;50 Anchorvale Link, Singapore 545080
 
