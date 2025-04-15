@@ -17,6 +17,6 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
-      background: /images/Homepage/year book cover page design v5.png
+      background: /images/Homepage/Homebanner.gif
       variant: image
 ---
