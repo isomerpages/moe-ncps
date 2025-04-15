@@ -11,28 +11,10 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 
 #### Staggered Recess Timings
 
-<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px;  width: 80%;">
-<tbody style="box-sizing: inherit;">
-<tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
-<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 20px; width: 30%; height: 23px;"><b>Time</b></td>
-	
-<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 20%; height: 23px;"><b>Level</b></td>
-<td border="1" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 100%; height: 23px;"><b>Snack Break</b></td>
 
-</tr>
-<tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">9.00 am - 9.30 am</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Primary 1</td>
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Betweeen 11:30 am - 12.30 pm</td>
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"></td>
-</tr>
-	<tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">9.00 am - 9.30 am</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Primary 1</td>
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Betweeen 11:30 am - 12.30 pm</td>
-<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"></td>
-</tr></tbody>
-</table>
 
-==================
+
+
 <table class="tg">
 <thead>
   <tr>
