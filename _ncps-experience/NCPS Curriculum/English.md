@@ -3,10 +3,9 @@ title: English
 permalink: /our-programmes/English/
 description: ""
 third_nav_title: NCPS Curriculum
+variant: markdown
 ---
-The English Department is a diverse group of life-long learners who constantly challenge and encourage our students to learn actively, communicate effectively and think critically so that they contribute their acquired skills to the community.
-
-#### **Department Vision** 
+## **Department Vision** 
 
 Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
