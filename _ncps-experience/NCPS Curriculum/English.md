@@ -45,7 +45,7 @@ engage children in the learning of English.
 **iCT in the curriculum**
 
 * iCT in the classroom
-* MOO-’O’
+* Moo-O
 
 **Experiential Learning**
 * Activities in and outside classroom
