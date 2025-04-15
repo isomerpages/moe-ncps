@@ -14,7 +14,7 @@ third_nav_title: General Information
 **Name of Contact Person:** Mr Winston Tan Wee Sing<br>
 **Telephone No:** 6489 7905<br>
 **Fax No:** 6489 7906 <br>
-**Email Address:** ncps@moe.edu.sg[](ncps@moe.edu.sg)<br>
+**Email Address:** ncps@moe.edu.sg<br>
 **Web-site Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
 
 **Charity Status**
