@@ -5,13 +5,6 @@ description: ""
 third_nav_title: NCPS Curriculum
 variant: markdown
 ---
-#### **MOE Mathematics Framework**
-
-<img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png" style="width:80%">
-
-#### **MOE Mathematics syllabus**
-<a target="\_blank" href="https://www.moe.gov.sg/primary/curriculum/syllabus">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
-
 #### **Department Vision**
 
 Every child is a&nbsp;_creative problem solver_&nbsp;(innovative, think of different ways), with a&nbsp;_positive attitude_&nbsp;(beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
@@ -24,6 +17,13 @@ Every child is a&nbsp;_creative problem solver_&nbsp;(innovative, think of diffe
 #### **Department Approach**
 
 <img src="/images/Our%20Curriculum%20Math/Math-Counts-768x193.png" style="width:80%">
+
+#### **MOE Mathematics Framework**
+
+<img src="/images/Our%20Curriculum%20Math/The-Pentagon-Model-for-mathematical-problem-solving-Ministry-of-Education-Singapore.png" style="width:80%">
+
+#### **MOE Mathematics syllabus**
+<a target="\_blank" href="https://www.moe.gov.sg/primary/curriculum/syllabus">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 
 
 #### **Differentiated Instruction**&nbsp;
