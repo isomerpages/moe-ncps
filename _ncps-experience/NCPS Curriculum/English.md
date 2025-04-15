@@ -52,12 +52,7 @@ engage children in the learning of English.
 
 **TREX- Time for Reading EXposure**
 
-TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and
-reading skills through TREX - Time for Reading EXposure. We adopt a
-school-wide approach where students are exposed to books of different
-genres in their foundational years. Through this programme, we wish to foster
-good reading habits in our students and inject a little fun before lessons
-begin.
+TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and reading skills through TREX - Time for Reading EXposure. We adopt a school-wide approach where students are exposed to books of different genres in their foundational years. Through this programme, we wish to foster good reading habits in our students and inject a little fun before lessons begin.
 
 | ![](/images/Our%20Curriculum_English/T%20rex1.png)     | ![](/images/Our%20Curriculum_English/T%20rex%202.png)    |   
 
@@ -97,8 +92,8 @@ In Nan Chiau Primary School our self-directed learners:
 * explore and sustain their interests beyond the curriculum
 
 NCPS students are also connected learners who continually learn by:
-* collaborating with their peers, the community and the world.
-* connecting a range of online and offline information sources.
+* collaborating with their peers, the community and the world
+* connecting a range of online and offline information sources
 
 In addition , NCPS students are digital learners who leverage
 technology for learning and can:
