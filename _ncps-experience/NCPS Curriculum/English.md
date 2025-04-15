@@ -91,10 +91,10 @@ The programmes are conducted by trained teachers who focused on building languag
 
 In Nan Chiau Primary School our self-directed learners:
 
-* are intrinsically motivated to learn.
-* take ownership of their own learning.
-* manage and monitor their learning independently.
-* explore and sustain their interests beyond the curriculum.
+* are intrinsically motivated to learn
+* take ownership of their own learning
+* manage and monitor their learning independently
+* explore and sustain their interests beyond the curriculum
 
 NCPS students are also connected learners who continually learn by:
 * collaborating with their peers, the community and the world.
