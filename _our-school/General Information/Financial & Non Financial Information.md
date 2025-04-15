@@ -11,10 +11,10 @@ third_nav_title: General Information
 
 **Contact Information:**
 
-**Name of Contact Person**:&nbsp;Mr Winston Tan Wee Sing
-**Telephone No**:&nbsp;6489 7905
-**Fax No:**&nbsp;6489 7906
-**Email Address**:&nbsp;ncps@moe.edu.sg
+**Name of Contact Person:** Mr Winston Tan Wee Sing<br>
+**Telephone No:** 6489 7905<br>
+**Fax No:** 6489 7906 <br>
+**Email Address:** ncps@moe.edu.sg[](ncps@moe.edu.sg)<br>
 **Web-site Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
 
 **Charity Status**
@@ -30,9 +30,9 @@ An Innovative School where Inspiring Educators Nurture Future-ready Leaders with
 To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.
 
 **Key Employees** <br>
-Name of Principal: Mrs Ong-Loh Jia Miin
+Mrs Ong-Loh Jia Miin, Principal
 
-**Auditor:**&nbsp;Baker Tilly TFW LLP
+**Auditor:** <br>Baker Tilly TFW LLP
 
 #### **Financial Information**
 
