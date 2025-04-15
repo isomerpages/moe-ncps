@@ -5,11 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-<img src="/images/Low_Res.jpg" style="width:80%">	
-Low Res
-
 <img src="/images/Mid_Res.jpg" style="width:80%">	
-Mid Res
 
 <br>
 
