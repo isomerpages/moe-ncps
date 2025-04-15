@@ -17,13 +17,17 @@ third_nav_title: General Information
 **Email Address**:&nbsp;ncps@moe.edu.sg
 **Web-site Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
 
-**Charity Status:**&nbsp;Nan Chiau Primary School is an Exempt Charity
+**Charity Status**
+Nan Chiau Primary School is an Exempt Charity
 
-**IPC Status:**&nbsp;A Member of Education Central Fund
+**IPC Status**<br>
+A Member of Education Central Fund
 
-**Vision:**&nbsp;An Innovative School where Inspiring Educators Nurture Future-ready Leaders with Values.
+**Vision**<br>
+An Innovative School where Inspiring Educators Nurture Future-ready Leaders with Values.
 
-**Mission:**&nbsp;To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.
+**Mission**<br>
+To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.
 
 **Key Employees** <br>
 Name of Principal: Mrs Ong-Loh Jia Miin
