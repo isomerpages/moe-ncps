@@ -11,11 +11,11 @@ third_nav_title: General Information
 
 **Contact Information:**
 
-*   Name of Contact Person:&nbsp;Mr Winston Tan Wee Sing
-*   Telephone No:&nbsp;6489 7905
-*   Fax No:&nbsp;6489 7906
-*   Email Address:&nbsp;ncps@moe.edu.sg
-*   Web-site Address:&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
+**Name of Contact Person**:&nbsp;Mr Winston Tan Wee Sing
+**Telephone No**:&nbsp;6489 7905
+**Fax No:**&nbsp;6489 7906
+**Email Address**:&nbsp;ncps@moe.edu.sg
+**Web-site Address:**&nbsp;[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
 
 **Charity Status:**&nbsp;Nan Chiau Primary School is an Exempt Charity
 
