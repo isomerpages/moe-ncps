@@ -5,7 +5,7 @@ description: ""
 third_nav_title: NCPS Curriculum
 variant: markdown
 ---
-## **Department Vision** 
+#### **Department Vision** 
 
 Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
