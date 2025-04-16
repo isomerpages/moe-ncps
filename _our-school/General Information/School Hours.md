@@ -61,14 +61,14 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 #### Staggered Dismissal Timings
 
 <table>
-<thead>
-  <tr>
+
+  <tbody><tr>
     <th class="tg-1h0n">Time</th>
     <th class="tg-1h0n">Level&nbsp; &nbsp; &nbsp; uuuuuu</th>
-    <th class="tg-1h0n"></th>
+  
   </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   	  <tr>
     <td>1.25 pm<br></td>
       <td>Primary 1 &amp; 2<br></td>
@@ -95,7 +95,7 @@ Flag raising and pledge taking will commence at 7.30am.&nbsp; Students are stron
 <thead>
   <tr>
     <th>Gate</th>
-    <th>Monday to Friday</th>
+    <th>Monday - Friday</th>
     <th class="tg-1h0n"></th>
   </tr>
 </thead>
