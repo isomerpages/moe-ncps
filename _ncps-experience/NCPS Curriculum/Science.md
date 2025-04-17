@@ -53,8 +53,6 @@ Learning Science is not just about concepts and skills. Teachers at NCPS are alw
 ![](/images/Our%20Curriculum%20Science/Science2025_03.jpg)
 
 
-
-
 ##### **Science Enrichment Programme (E2K)**
 
 Selected Primary 4 and 5 students are given opportunities to engage in scientific investigations involving advanced Science concepts. This programme aims to stimulate curiosity and to further develop and strengthen our students’ abilities to study phenomena and their possible causes in scientific investigations and discourse. Through this programme, students learn to work harmoniously in groups and work towards a common goal in solving problems.
