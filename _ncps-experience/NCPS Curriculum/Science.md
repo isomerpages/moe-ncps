@@ -48,11 +48,12 @@ The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetla
 
 Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
 
+![](/images/Our%20Curriculum%20Science/Science2025_04.jpg)
+
 ![](/images/Our%20Curriculum%20Science/Science2025_02.jpg)
 
 ![](/images/Our%20Curriculum%20Science/Science2025_03.jpg)
 
-![](/images/Our%20Curriculum%20Science/Science2025_04.jpg)
 
 
 
