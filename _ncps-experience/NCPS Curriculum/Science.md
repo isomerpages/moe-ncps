@@ -26,7 +26,7 @@ Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using t
 
 ![](/images/Our%20Curriculum%20Science/Science2025_01.jpg)
 
-
+![](/images/Our%20Curriculum%20Science/Science2025_01.jpg)
 
 ##### **Use of Dataloggers and IT Resources**
 
