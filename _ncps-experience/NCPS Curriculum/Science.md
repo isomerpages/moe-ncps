@@ -30,8 +30,7 @@ Science curriculum at NCPS adopts the pedagogy of Inquiry-based Learning using t
 
 At various levels, students are actively engaged in learning with the use dataloggers to conduct simple investigations. Harnessing the affordances in technology, lessons are designed to provide platforms for students to learn seamlessly - both in classroom and out-of-classroom, both within and after curriculum time. Students will embark on online learning using Singapore Student Learning Space (SLS) as well as mobile learning using iPads. Through the use of devices and various online platforms, the learning of Science can be conducted both in-school and out-of-school.
 
-<img src="/images/Our%20Curriculum%20Science/data%20loggers%20IT%20resources.jpg" style="width:65%" align="left">
-<br><br><br><br><br><br><br><br>
+
 
 ##### **Young Scientist Badge Scheme**
 Apart from learning about scientific conceptual knowledge, our students are also equipped with procedural skills akin to what real-life scientists have through carrying out hands-on investigations, collecting data and making sense of them. 
@@ -49,7 +48,6 @@ The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetla
 
 Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
 
-| <img src="put image here" style="width:80%">  
 ![](/images/Our%20Curriculum%20Science/Science2025_02.jpg)
 
 ![](/images/Our%20Curriculum%20Science/Science2025_03.jpg)
