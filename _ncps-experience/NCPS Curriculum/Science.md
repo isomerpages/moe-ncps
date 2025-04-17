@@ -52,6 +52,8 @@ Learning Science is not just about concepts and skills. Teachers at NCPS are alw
 | <img src="put image here" style="width:80%">  
 ![](/images/Our%20Curriculum%20Science/Science2025_02.jpg)
 
+![](/images/Our%20Curriculum%20Science/Science2025_03.jpg)
+
 
 ##### **Science Enrichment Programme (E2K)**
 
