@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /our-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: NCPS Co Curriculum
+variant: markdown
 ---
 #### **Department Focus**
 
@@ -17,7 +18,7 @@ Relationship between 21CC Framework and CCE 2021
 To achieve these goals, the following CCE programmes are offered: 
 
 * CCE Lessons (CCE(FTGP), CCE(MTL), PAL lessons for P1-P2) and Social Studies lessons, with a focus on these content areas, i.e. National Education, Sexuality Education, Cyber Wellness, Education and Career Guidance, Mental Health and Family Education
-* Values Education, where NCPS students are engaged biweekly on internalising the core values and how they can express their understanding via CCE badge design and active contribution to their class/school community (e.g. in Clean &amp; Green Classroom)
+* Values Education, where NCPS students are engaged regularly on internalising the core values and how they can express their understanding via CCE badge design and active contribution to their class/school community (e.g. in Clean &amp; Green Classroom)
 * Values in Action (VIA): VIA, such as Eco-Stewardship Programme and Appreciation Programme for our community partners provide platforms and opportunities for NCPS students to apply knowledge, skills and values acquired through meaningful contributions to the class, school and Sengkang community
 
 ![](/images/Our%20Curriculum_CCE/CCE01.jpg)
