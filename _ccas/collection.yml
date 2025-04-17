@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - CCA Requirements & Policy.md
       - CCA Schedule 2025.md
       - Club and Societies/.keep
       - Club and Societies/Environmental Club.md
