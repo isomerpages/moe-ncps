@@ -37,10 +37,11 @@ engage children in the learning of English.
 * Little Red Dot (P4)
 * What’s Up (P6)
 
-**Learning Support Programme (LSP)**
+**Learning Support Programme**
 
+* Learning Support Programme (LSP) for English
 * Reading Remediation Programme (RRP)
-* School-based Dyslexia Remediation Programme (SDR)
+* School-based Dyslexia Remediation (SDR) Programme 
 
 **iCT in the curriculum**
 
