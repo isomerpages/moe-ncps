@@ -31,14 +31,7 @@ engage children in the learning of English.
 
 #### **Key Programmes**  
    
-**Readers for Life**
-
-
-
-
-
-<h2>An unordered HTML list</h2>
-
+**Readers for Life**<br>
 <ul>
   <li>T-Rex&nbsp; (Time for Reading EXposure) (P1-P6)</li>
   <li>Library Programmes&nbsp; (P1-P6)</li>
