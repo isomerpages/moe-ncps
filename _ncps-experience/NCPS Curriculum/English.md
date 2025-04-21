@@ -102,9 +102,7 @@ technology for learning and can:
 * find, think, apply and digitally create
 * navigate the digital space in a safe and responsible way
 
-![](/images/Our%20Curriculum_English/ict%20collated.png)
 
-<img src="/images/Our%20Curriculum_English/moo%20o%20resized.png" style="width:75%">
 
 ###### **iCT**&nbsp;**in the curriculum:**&nbsp;Moo-O
 
