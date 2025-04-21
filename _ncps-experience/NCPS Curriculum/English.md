@@ -113,5 +113,3 @@ technology for learning and can:
 * Games are a fun way to practise English – it can be a really motivating way to learn a language
 * Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way
 * Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time
-
-
