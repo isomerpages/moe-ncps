@@ -66,15 +66,12 @@ their motivation in learning beyond the classroom will grow. Students will be in
 to find out more, share their knowledge, and build on one another’s knowledge.
 ![school based reading programme](/images/Our%20Curriculum_English/lib%20prgm%201.png)
 
-**LRD &amp; What’s Up Newspapers** 
+**What’s Up Newspapers** 
 
 * newspaper for school children
 *  curated contemporary issues and
 presented at the appropriate level for young readers to inform and challenge them.
 * keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
-
-<img src="/images/Our%20Curriculum_English/What's%20up.png" style="width:75%">
-
 
 **What is learning support?**
    
