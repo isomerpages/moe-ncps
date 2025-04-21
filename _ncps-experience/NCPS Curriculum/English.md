@@ -71,9 +71,9 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 ![](/images/Our%20Curriculum_English/Reading_2025.jpg)
 
 **What’s Up Newspapers**<br>
-(a) newspaper for school children<br>
-(b) curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
-(c) keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
+* newspaper for school children<br>
+* curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
+* keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 
 **What is learning support?**<br>
 Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.<br>
