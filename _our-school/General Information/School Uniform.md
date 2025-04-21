@@ -9,9 +9,10 @@ Students are to wear the prescribed school uniform when they report to school, i
 
 **School Attire - Girls**
 
-<img src="/images/OUR%20SCHOOL/Girls_Attire.png" style="width:80%">
+<img src="/images/OUR%20SCHOOL/School_girl.png" style="width:80%">
+
 
 **School Attire - Boys**
 
 
-<img src="/images/OUR%20SCHOOL/Boys_Attire.png" style="width:80%">
+<img src="/images/OUR%20SCHOOL/School_boy.png" style="width:80%">
