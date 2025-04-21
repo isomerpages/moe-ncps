@@ -72,7 +72,7 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 
 **What’s Up Newspapers**<br>
 (a) newspaper for school children<br>
-(b)curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
+(b) curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
 (c) keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 
 **What is learning support?**<br>
