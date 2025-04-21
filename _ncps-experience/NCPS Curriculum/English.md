@@ -26,9 +26,8 @@ positive attitude towards learning in the foundation years. The programme
 uses research-based teaching strategies and age-appropriate materials to
 engage children in the learning of English.
 
-![](/images/Our%20Curriculum_English/what_is_stellar-feature-![]
+![](/images/Our%20Curriculum_English/stellar_2025.jpg)
 
-![](/images/Our%20Curriculum_English/Stellar.jpg)
 
 #### **Key Programmes**  
    
@@ -102,7 +101,7 @@ technology for learning and can:
 * find, think, apply and digitally create
 * navigate the digital space in a safe and responsible way
 
-
+![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
 
 ###### **iCT**&nbsp;**in the curriculum:**&nbsp;Moo-O
 
