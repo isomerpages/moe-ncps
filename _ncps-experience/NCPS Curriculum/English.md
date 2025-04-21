@@ -39,12 +39,6 @@ engage children in the learning of English.
 </ul>  
 
 
-
-
-* Library Programmes&nbsp; (P1-P6)
-* Little Red Dot (P4)
-* What’s Up (P6)
-
 **Learning Support Programme**
 
 * Learning Support Programme (LSP) for English
