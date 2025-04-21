@@ -68,7 +68,8 @@ fostering in them a life-long habit of self-directed learning for information an
 providing students with a repertoire of resources that are current and of interest, we believe that
 their motivation in learning beyond the classroom will grow. Students will be intrinsically motivated
 to find out more, share their knowledge, and build on one another’s knowledge.
-![school based reading programme](/images/Our%20Curriculum_English/lib%20prgm%201.png)
+
+![](/images/Our%20Curriculum_English/Reading_2025.jpg)
 
 **What’s Up Newspapers** 
 
