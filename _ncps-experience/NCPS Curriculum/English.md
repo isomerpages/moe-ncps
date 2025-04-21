@@ -79,7 +79,7 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.<br>
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
-#### iCT in the curriculum
+#### iCT in the classroom
 
 In Nan Chiau Primary School our self-directed learners:<br>
 (a) are intrinsically motivated to learn<br>
