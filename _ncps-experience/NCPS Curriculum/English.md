@@ -33,7 +33,21 @@ engage children in the learning of English.
    
 **Readers for Life**
 
-* T-Rex&nbsp; (Time for Reading EXposure) (P1-P6)
+
+
+
+
+<h2>An unordered HTML list</h2>
+
+<ul>
+  <li>T-Rex&nbsp; (Time for Reading EXposure) (P1-P6)</li>
+  <li>Library Programmes&nbsp; (P1-P6)</li>
+  <li>What’s Up (P6)</li>
+</ul>  
+
+
+
+
 * Library Programmes&nbsp; (P1-P6)
 * Little Red Dot (P4)
 * What’s Up (P6)
