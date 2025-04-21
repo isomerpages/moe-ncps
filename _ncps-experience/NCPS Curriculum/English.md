@@ -26,7 +26,9 @@ positive attitude towards learning in the foundation years. The programme
 uses research-based teaching strategies and age-appropriate materials to
 engage children in the learning of English.
 
-![](/images/Our%20Curriculum_English/what_is_stellar-feature-1024x348.jpg)
+![](/images/Our%20Curriculum_English/what_is_stellar-feature-![]
+
+![](/images/Our%20Curriculum_English/Stellar.jpg)
 
 #### **Key Programmes**  
    
