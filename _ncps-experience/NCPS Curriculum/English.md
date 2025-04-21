@@ -98,9 +98,19 @@ technology for learning and can:<br>
 ![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
 
 **Experiential Learning**  
-   
-* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts
-* Students learn in a variety of ways, so it is important to teach using multiple methods.&nbsp;By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning
+
+
+
+<dl>
+  <dt>* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts</dt>
+ 
+  <dt>* Students learn in a variety of ways, so it is important to teach using multiple methods.&nbsp;By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning</dt>
+ 
+</dl>
+
+
+
+ 
 
 **Learning English Through Fun &amp; Games** 
 
