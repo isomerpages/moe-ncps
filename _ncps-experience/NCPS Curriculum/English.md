@@ -82,31 +82,31 @@ The programmes are conducted by trained teachers who focused on building languag
 #### iCT in the curriculum
 
 **iCT in the classroom**<br>
-In Nan Chiau Primary School our self-directed learners:<br>
-(a) are intrinsically motivated to learn<br>
-(b) take ownership of their own learning<br>
-(c) manage and monitor their learning independently<br>
-(d) explore and sustain their interests beyond the curriculum
+In Nan Chiau Primary School, our self-directed learners:<br>
+* are intrinsically motivated to learn<br>
+* take ownership of their own learning<br>
+* manage and monitor their learning independently<br>
+* explore and sustain their interests beyond the curriculum
 
 NCPS students are also connected learners who continually learn by:<br>
-(a) collaborating with their peers, the community and the world<br>
-(b) connecting a range of online and offline information sources
+* collaborating with their peers, the community and the world<br>
+* connecting a range of online and offline information sources
 
 In addition, NCPS students are digital learners who leverage
 technology for learning and can:<br>
-(a) find, think, apply and digitally create<br>
-(b) navigate the digital space in a safe and responsible way
+* find, think, apply and digitally create<br>
+* navigate the digital space in a safe and responsible way
 
 ![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
 
 #### Experiential Learning
 
-(a) Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts <br>
-(b) Students learn in a variety of ways, so it is important to teach using multiple methods.&nbsp;By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning
+* Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts <br>
+* Students learn in a variety of ways, so it is important to teach using multiple methods.&nbsp;By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning
  
 
 **Learning English Through Fun &amp; Games** 
 
-(a) Games are a fun way to practise English – it can be a really motivating way to learn a language<br>
-(b) Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way<br>
-(c) Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time
+* Games are a fun way to practise English – it can be a really motivating way to learn a language<br>
+* Games are also great for students who are shy or worried about making mistakes. It can give them an opportunity to communicate in English in a safe and fun way<br>
+* Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time
