@@ -103,11 +103,6 @@ technology for learning and can:
 
 ![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
 
-###### **iCT**&nbsp;**in the curriculum:**&nbsp;Moo-O
-
-<img src="/images/Our%20Curriculum_English/moo%20o%202%20final.png" style="width:75%">
-
-
 **Experiential Learning**  
    
 * Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts
