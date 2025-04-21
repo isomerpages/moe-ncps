@@ -52,15 +52,14 @@ engage children in the learning of English.
 **Experiential Learning**
 * Activities in and outside classroom
 
-**TREX- Time for Reading EXposure**
-
+#### Readers for Life
+**TREX- Time for Reading EXposure**<br>
 TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and reading skills through TREX - Time for Reading EXposure. We adopt a school-wide approach where students are exposed to books of different genres in their foundational years. Through this programme, we wish to foster good reading habits in our students and inject a little fun before lessons begin.
 
 ![](/images/Our%20Curriculum_English/Trex_2025.jpg)
 
 
-**School-based Reading Programme**
-
+**School-based Reading Programme**<br>
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
 fostering in them a life-long habit of self-directed learning for information and enjoyment. By
@@ -70,36 +69,31 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 
 ![](/images/Our%20Curriculum_English/Reading_2025.jpg)
 
-**What’s Up Newspapers** 
+**What’s Up Newspapers**<br>
+(a) newspaper for school children<br>
+(b)curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
+(c) keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 
-* newspaper for school children
-*  curated contemporary issues and
-presented at the appropriate level for young readers to inform and challenge them.
-* keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
-
-**What is learning support?**
-   
-Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.
-
+**What is learning support?**<br>
+Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.<br>
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
 **iCT in the curriculum**
 
-In Nan Chiau Primary School our self-directed learners:
+In Nan Chiau Primary School our self-directed learners:<br>
+(a) are intrinsically motivated to learn<br>
+(b) take ownership of their own learning<br>
+(c) manage and monitor their learning independently<br>
+(d) explore and sustain their interests beyond the curriculum
 
-* are intrinsically motivated to learn
-* take ownership of their own learning
-* manage and monitor their learning independently
-* explore and sustain their interests beyond the curriculum
-
-NCPS students are also connected learners who continually learn by:
-* collaborating with their peers, the community and the world
-* connecting a range of online and offline information sources
+NCPS students are also connected learners who continually learn by:<br>
+(a) collaborating with their peers, the community and the world<br>
+(b) connecting a range of online and offline information sources
 
 In addition , NCPS students are digital learners who leverage
-technology for learning and can:
-* find, think, apply and digitally create
-* navigate the digital space in a safe and responsible way
+technology for learning and can:<br>
+(a) find, think, apply and digitally create<br>
+(b) navigate the digital space in a safe and responsible way
 
 ![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
 
