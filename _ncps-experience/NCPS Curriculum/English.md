@@ -91,7 +91,7 @@ NCPS students are also connected learners who continually learn by:<br>
 (a) collaborating with their peers, the community and the world<br>
 (b) connecting a range of online and offline information sources
 
-In addition , NCPS students are digital learners who leverage
+In addition, NCPS students are digital learners who leverage
 technology for learning and can:<br>
 (a) find, think, apply and digitally create<br>
 (b) navigate the digital space in a safe and responsible way
