@@ -51,14 +51,14 @@ The competitions which we participate in:
 
 #### **Key Programmes**
 
-##### 1.&nbsp;‘I am a young Mathematics star’
+#### 1.&nbsp;‘I am a young Mathematics star’
 <img src="/images/Our%20Curriculum%20Math/star%20resized.png" style="width:30%">
 
 
 
 To build our students’ interests and confidence in Mathematics, the department designed simple and fun activities to engage them to connect Mathematics with their daily life experiences, and experience successes in Mathematics.
 
-##### 2\. RC3&nbsp;(Reasoning, Communication, Collaboration and Connection)
+#### 2\. RC3&nbsp;(Reasoning, Communication, Collaboration and Connection)
 
 <img src="/images/Our%20Curriculum%20Math/Math-RC.png" style="width:30%">
 
@@ -75,13 +75,13 @@ Our students learn the best through play. Through these Mathematics games, stude
 
 ![](/images/Our%20Curriculum%20Math/play%20@%20recess.png)
 
-##### 4.&nbsp;BEST Mathematical Problem Solving Approach
+#### 4.&nbsp;BEST Mathematical Problem Solving Approach
 
 Problem Solving is at the heart of the Singapore Mathematics Curriculum. Our school adopts the BEST Mathematical Problem Solving Approach to develop our students’ metacognition. B for Be focused. E for explore and plan. S for solve the problem and T for think about the answer. This comprises of a list of questions to help students monitor and direct their cognitive resources to better understand and make sense of a given problem. Through the monitoring of their own thinking, students also increase ownership and take charge of their own learning.
 
 <img src="/images/Our%20Curriculum%20Math/Math-Model-2.png" style="width:60%">
 
-##### 5.&nbsp;CONCRETE – pictorial – abstract
+#### 5.&nbsp;CONCRETE – pictorial – abstract
 
 We strongly believes that students have a deeper understanding of the concepts learnt through hands-on activities. Through these activities using Math manipulative, students are able to better grasp their concepts and apply the concepts in the assigned tasks.
 
