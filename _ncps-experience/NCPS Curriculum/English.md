@@ -115,9 +115,3 @@ technology for learning and can:
 * Games encourage teamwork, problem-solving and creativity – and everyone wins! Students can play together in a fun, supportive way and improve their English at the same time
 
 
-
-![](/images/Our%20Curriculum_English/learning%20fun%20games.png)
-
-<img src="/images/Our%20Curriculum_English/activities%20in%20the%20classroom.png" style="width:75%">
-
-![](/images/Our%20Curriculum_English/experiential%20learning%20collated.png)
