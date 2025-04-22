@@ -7,72 +7,29 @@ variant: markdown
 ---
 <img src="/images/Homepage/nascans_logo.jpg" style="width:60%">
 
-**NCPS STUDENT CARE CENTRE (NCSCC)**
+#### <b>About NASCANS</b>
 
-The Student Care Centre (SCC) was specially set up in January 2014 to cater to the needs of the student population. With NASCANS Pte Ltd appointed to manage the SCC, 60 students were housed next to the Indoor Sports Hall in a 2-room unit. This intake has since increased to 150 students in 2015 with the addition of 3 joint-use classrooms.
+Established in 2006, NASCANS is a leading student care and kindergarten care brand with over 30 locations in partner MOE schools and residential communities, providing students with “an oasis between school and home”. NASCANS is under the umbrella of Global EduHub, a private-sector educational group with over 27 years of experience running more than 50 preschools, childcare centres, student care and kindergarten care centres in Singapore, Australia and China NASCANS has recently been awarded as a 3-time winner of the ‘Best Student Care Programme in Holistic Development’ under the Best Enrichment and Learning Schools 2022 / 2023 category by Parents World Magazine for the third consecutive year. NASCANS’ award-winning programme helps children develop positive thinking habits, leadership skills and strength of character through structured and fun learning activities.
 
-**WHAT IS NASCANS**
+#### **VISION** <br>
 
-NASCANS believes in the holistic development of a leader. NASCANS provides a “third place” between school and home that is conducive and convenient for students to embark on their quests of unfolding knowledge. At the same time, the students develop critical and creative thinking skills, together with leadership qualities and character building through a series of holistic and fun-filled activities.
+An Oasis Between School and Home
 
-NASCANS believes in the development of each child through 4 values:  
-1\. Lifelong Learning and Development  
-2\. Develop Critical and Creative Thinking  
-3\. Character Development  
-4\. Being Responsible and Caring
+#### **Our Core Student Care Programme**
 
-**VISION** <br>
+**Homework Supervision**<br>
+At NASCANS, we support students in approaching their homework with focus and responsibility. Our dedicated mentors provide supervision, guiding students to stay on track as they complete their assignments. This helps ease the homework routine for families and allows parents to enjoy more quality time with their child at home.
 
-The “third place” between &nbsp;school and home where quests for knowledge unfold and learning begins.&nbsp;
+**Character Education**<br>
+At NASCANS, character education is an integral part of our daily programme, aimed at nurturing positive values and personal growth. Our approach fosters an environment where children can build essential life skills that contribute to their overall development and well-being.
 
-**MISSION** <br>
+**Enrichment**<br>
+At NASCANS, enrichment programmes are designed to enhance students' learning experiences beyond the classroom. These programmes provide opportunities for personal growth, creativity, and skill development in a variety of areas. Students are encouraged to explore their interests, develop new talents, and build confidence.
 
-To help each child develop critical and creative thinking skills, nurture leadership qualities and build strength of character through structured and fun learning activities.
+**Outdoor**<br>
+At Nascans, outdoor activities play a vital role in fostering physical, social, and emotional development. Through carefully planned outdoor experiences, students are encouraged to explore nature, engage in active play, and develop teamwork and leadership skills. These activities not only promote a healthy lifestyle but also provide opportunities for children to connect with their environment. 
+NASCANS is supported by a dedicated team at our headquarters, bringing decades of experience in the effective management and operation of student care centres. Our team's expertise ensures that we consistently provide high-quality care and support for students.
 
-**WHAT WE DO**
-
-Established in 2006, NASCANS is a leading after-school student care provider in Singapore with over 10 years of experience. The first Student Care Centre (SCC) started in January 2010 and it has now grown to 18 centres island-wide, reaching out to a student population of over 2,400.
-
-NASCANS provides a wide variety of programmes, professionally developed and delivered to the students. Such programmes include quality academic guidance, character building and leadership development programmes targeted at supporting and developing the students holistically.
-
-The&nbsp;**key focus**&nbsp;of the programmes are:
-– Completion of the school homework  
-– Revision of spelling  
-– Revision of core subjects (English, 2nd&nbsp;Language, Maths &amp; Science)
-
-Mentors are present to provide any guidance and supervision required. They also ensure that the students complete their homework before 5pm so students can return home afterwards and spend more quality time with their family. The students are also given time to socialise and bond with each other on a daily basis. This fosters relationships between the students and helps to break down any communication or social barriers.  
-Other elements of the NASCANS programme conducted include:
-
-**1\. In-house academic enrichment programmes** <br>
-– Creative Writing for P1 Students  
-– Power Reading P2 Students  
-– Map Mapping &amp; Power Memory for P3-6 Students
-
-&nbsp;**2. Character Education** <br>
- – Extending Character Value Previously Learned  
-– Exploring Meaning of Current Week’s Character Value  
-– Building Capacity to Exhibit Character Value  
-– Increasing Alertness to Apply Character Value
-
-**3\. Sports &amp; Indoor Games** <br>
-– Art &amp; Craft Zones  
-– Free Expression Zones  
-– Cozy Reading Corners  
-– Multimedia and Intellectual Game Zones
-
-**4\. Outdoor Games and Power Engagement Activities** <br>
-– Craft Work  
-– Team-building Games  
-– Ball Games  
-– Competitions and Tele-matches
-
-**5\. Music &amp; Dance** <br>
-– Craft Work
-
-There are also exciting holiday programmes organized for the students during the school holidays, and it include a holistic range of activities from outings to workshops.  
-Furthermore, the Centre strives to provide a home-like environment with different activity areas for students to engage in during their free time with peers. The conducive setting allows for better concentration and comfort for the students as they engage in their academic revision and other activities.
-
-NASCANS aim to be an extension of the school, complementing and expanding on the range of services that the school provides. It works with the school to develop every child’s creative mind with a series of integrated programmes and activities.
 
 **MANAGEMENT &amp; CURRICULUM TEAM**
 
