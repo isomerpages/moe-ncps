@@ -14,7 +14,7 @@ Email:&nbsp;[looeefah@pacificbookstores.com](mailto:looeefah@pacificbookstores.c
 Website:&nbsp; <a target="\_blank" href="http://www.pacificbookstores.com">http://www.pacificbookstores.com</a>
 
 
-Operating Hours  
+**Operating Hours**
 
 | School Term |  |  |
 | -------- | -------- | -------- |
@@ -32,6 +32,7 @@ Tel: 6764 3102 Fax: 6764 1032
 Email:&nbsp;[sales@asencio.com.sg](mailto:sales@asencio.com.sg)  
 Website:&nbsp;<a target="\_blank" href="http://www.asencio.com.sg">http://www.asencio.com.sg</a>
 
+**Operating Hours**
 
 | School Term |  |  |
 | -------- | -------- | -------- |
