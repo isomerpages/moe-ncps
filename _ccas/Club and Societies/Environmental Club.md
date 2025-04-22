@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Club and Societies
 variant: markdown
 ---
+
+![](/images/CoCurricularActivities/Environmental%20Club/DSC_0583_4.jpg)
+
 ![](/images/CoCurricularActivities/Environmental%20Club/EnvSci_2025.jpg)
 
 |Name of CCA|Environmental Club|  |
