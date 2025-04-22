@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Club and Societies
 variant: markdown
 ---
+
+
 |Name of CCA|Infocomm &amp; Media Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
 | Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Madam Margie Tang (Main IC)<br>Madam Kiu Kwee Fern
+|Teachers-in-charge |Madam Margie Tang (Main IC)<br>Madam Kiu Kwee Fern<br>Mr Ivan Goh
 
 
 <p style="box-sizing: inherit; font-size: 1em;">1.  Students who shows interest in photography, videography and PA systems are given the opportunity to develop and enhance their skillsets through our structured training programme and activities. Infocomm Club delivers essential support to the school in providing media support for events and activities both inside as well as outside of the school premises.</p>
