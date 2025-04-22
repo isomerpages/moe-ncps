@@ -6,6 +6,7 @@ third_nav_title: Club and Societies
 variant: markdown
 ---
 
+![](/images/CoCurricularActivities/Infocomm/Infocomm_2015.jpg)
 
 |Name of CCA|Infocomm &amp; Media Club|  |
 | -------- | ------- | --------------- |
