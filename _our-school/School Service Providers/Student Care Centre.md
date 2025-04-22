@@ -31,7 +31,7 @@ At Nascans, outdoor activities play a vital role in fostering physical, social, 
 NASCANS is supported by a dedicated team at our headquarters, bringing decades of experience in the effective management and operation of student care centres. Our team's expertise ensures that we consistently provide high-quality care and support for students.
 
 
-**MANAGEMENT &amp; CURRICULUM TEAM**
+#### **MANAGEMENT &amp; CURRICULUM TEAM**
 
 **Mdm Ci Ci Koh – Executive Director** <br>
 Director of Global Eduhub  
