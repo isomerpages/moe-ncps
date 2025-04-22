@@ -31,7 +31,6 @@ variant: markdown
 *   Students are to care for the school environment and school property.
 
 #### **Being Responsible**
----------------------
 
 *   All students must assemble at the respective venues for the Flag Raising Ceremony at 7.30 a.m. Students arriving after 7.30 a.m. will be deemed as late.
 *   A student who is absent from school must submit a letter of excuse or Medical Certificate to the Form Teacher upon his/her return.
