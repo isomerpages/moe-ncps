@@ -12,7 +12,7 @@ variant: markdown
 *   Students must sing the National Anthem and school song with pride.
 
 #### **Being Respectful**
---------------------
+
 **We Respect Ourselves**
 
 *   Students are to wear their full school uniform on days when there are no PE/PAL lessons in their class timetable.  School PE t-shirts/shorts can only be worn on days when the class has PE/PAL lessons.
