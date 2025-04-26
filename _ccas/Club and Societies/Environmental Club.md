@@ -22,7 +22,7 @@ variant: markdown
 |Teachers-in-charge |Madam Tang Li Kuon (Main IC)<br> Madam Nur Khadijah Bte Zainal Ariffin<br>Miss Nur Azlin
 |Events participated    |Recycle Right &amp; The 5 R's Webinar Session (2022)<br>Rainforest Learning Journey at the Botanic Gardens (2022)
 
-<p style="box-sizing: inherit; font-size: 1em;">CCA Mission - We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
+<p style="box-sizing: inherit;">CCA Mission - We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
 
 Environmental Club aims to nurture our members to be eco-stewards who show care and concern for the environment. Each year, the members will embark on various environmental projects and initiatives, such as the 3R’s (reduce, reuse, recycle), greening school project, gardening, biodiversity week, competitions and learning journey. </p>
 
