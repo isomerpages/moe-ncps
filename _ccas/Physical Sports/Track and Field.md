@@ -15,4 +15,3 @@ Track and Field has always been a popular CCA in Nan Chiau Primary School. Our t
 The students are divided into groups to do drills to develop their athletics skills. They are also trained to do high jump, long jump, shot put and baton passing. Those with potential will be selected to represent the school in National Primary Schools Track and Field Championships as well as SHHK Combined Schools Sports Meet.
 
 Through the CCA, students will have the opportunities to develop social and team building skills. They will also learn the importance of perseverance and values. With the acquired athletics skills and values, students will be able to develop the passion for the sport. We hope that they will be able to take it up as a healthy hobby in future and develop into sportsmen of integrity.
-
