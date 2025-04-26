@@ -21,9 +21,10 @@ variant: markdown
 
 
 
-<p style="box-sizing: inherit;">CCA Mission - We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
+#### **CCA Mission**
+We want to make the school an eco-friendly place and encourage everyone to practise the 3R’s without being reminded.
 
-Environmental Club aims to nurture our members to be eco-stewards who show care and concern for the environment. Each year, the members will embark on various environmental projects and initiatives, such as the 3R’s (reduce, reuse, recycle), greening school project, gardening, biodiversity week, competitions and learning journey. </p>
+Environmental Club aims to nurture our members to be eco-stewards who show care and concern for the environment. Each year, the members will embark on various environmental projects and initiatives, such as the 3R’s (reduce, reuse, recycle), greening school project, gardening, biodiversity week, competitions and learning journey. <p></p>
 
 #### **2023 Happenings**
 
