@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Club and Societies
 variant: markdown
 ---
-
 ![](/images/CoCurricularActivities/Infocomm/CCA_infocomm02.jpg)
+
 |Name of CCA|Infocomm &amp; Media Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
