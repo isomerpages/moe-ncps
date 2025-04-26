@@ -13,6 +13,8 @@ variant: markdown
 
 ![](/images/CoCurricularActivities/Environmental%20Club/EnvSci_2025.jpg)
 
+![](/images/CoCurricularActivities/Environmental%20Club/CCA_envclub02_2.jpg)
+
 ![](/images/CoCurricularActivities/Environmental%20Club/CCA_envclub01_2.jpg)
 
 |Name of CCA|Environmental Club|  |
