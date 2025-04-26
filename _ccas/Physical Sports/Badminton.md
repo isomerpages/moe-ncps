@@ -5,17 +5,22 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-<img src="/images/Mid_Res.jpg" style="width:100%">	
+![](/images/CoCurricularActivities/Badminton/CCA_badminton01.jpg)
 
 <br>
-
-|Name of CCA|Badminton|  |
-| -------- | ------- | --------------- |
-|Day | Wednesday - Recreational Team (P3) &amp; School Team<br>Thursday - Recreational Team (P4 - P6)<br>Friday - School Team
-| Time |2.00 p.m. - 4.00 p.m. 
-|Teachers-in-charge |Mr Wong Soon Teck (Main IC)<br>Madam Felicia Ho Mei Li<br> Mr Lim Kiat Siong <br>Mrs Devi Manimaran
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 100%;font-size:18px"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px; font-size:18px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;"><b>Name of CCA</b></td><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Badminton</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Day</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Wednesday - Recreational Team (P3) &amp; School Team<br>Thursday - Recreational Team (P4 - P6)<br>Friday - School Team</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Time</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">2.00 p.m. - 4.00 p.m.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Teachers-in-charge</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Mr Wong Soon Teck (Main IC)<br>Madam Felicia Ho Mei Li<br>Mr Lim Kiat Siong<br>Mrs Devi Manimaran</td></tr></tbody></table>
 
 
-<p style="box-sizing: inherit; font-size: 1em;">Currently, the badminton CCA consists of the recreation group and the school team. Both sessions are conducted by professional coaches engaged by the school.</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: 700;"><u style="box-sizing: inherit;">Recreation<br style="box-sizing: inherit;"></u></strong>We hope that the pupils in the recreation group will be equipped with the basic techniques and rules of the game.</p><p style="box-sizing: inherit; font-size: 1em;">1. Basic handling of the badminton rackets<br>2. Understand the rules of the game<br>3. Serving of the shuttlecock<br>4. Basic footwork</p><p style="box-sizing: inherit; font-size: 1em;"><strong style="box-sizing: inherit; font-weight: 700;"><u style="box-sizing: inherit;">School Team<br style="box-sizing: inherit;"></u></strong>The training is conducted by professional coaches engaged by the school. We hope to develop teams that are capable of competing well in the National School Games.
+
+Currently, the badminton CCA consists of the recreation group and the school team. Both sessions are conducted by professional coaches engaged by the school.
+
+#### **Recreation**
+We hope that the pupils in the recreation group will be equipped with the basic techniques and rules of the game.
+* Basic handling of the badminton rackets<br>
+* Understand the rules of the game<br>
+* Serving of the shuttlecock<br>
+* Basic footwork
+
+#### **School Team**
+The training is conducted by professional coaches engaged by the school. We hope to develop teams that are capable of competing well in the National School Games.
 <br><br>
-	</p>
