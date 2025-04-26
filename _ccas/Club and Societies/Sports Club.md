@@ -5,6 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Club and Societies
 ---
+![](/images/CoCurricularActivities/Sports%20Club/CCA_Sprotsclub01.jpg)<br>
+
+
 |Name of CCA|Sports Club|  |
 | -------- | ------- | --------------- |
 |Day | Thursday | 
