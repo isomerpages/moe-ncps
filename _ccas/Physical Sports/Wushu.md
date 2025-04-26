@@ -13,4 +13,3 @@ third_nav_title: Physical Sports
 Wushu members will practise on the basics (flexibility split kicks, horse stances) every training session. Building the stamina and perseverance through an hour of warm-up at the start of the training helps to perform their routines well.
 	
 There are also game sessions to build on discipline and teamwork. We have showcased the martial arts through several school internal performances such as Chinese New Year Celebration, Celebrate Success and Primary Six Graduation Ceremony.
-
