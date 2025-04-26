@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Club and Societies
 variant: markdown
 ---
+![](/images/CoCurricularActivities/Robotics/CCA_Robotics01.jpg)
+
 |Name of CCA|Robotics|  |
 | -------- | ------- | --------------- |
 |Day | Thursday| 
@@ -17,4 +19,3 @@ variant: markdown
 
 </span></p><p style="box-sizing: inherit; font-size: 1em;">Students who display aptitude in their craft have the opportunity to represent the school and participate in various competitions which allow them to develop their leadership and management skills too.</p>
 
-<img src="/images/CoCurricularActivities/Robotics/Robotics_2024.jpg" style="width:80%">
