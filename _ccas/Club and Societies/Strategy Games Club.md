@@ -16,7 +16,7 @@ Students learn the rules and play International Chess during their weekly sessio
 
 During each session, students display the **3Rs**.<br>
 
-The seniors are **Ready to Serve** by teaching the juniors some strategies of the various board games.&nbsp; They show their juniors by role modelling and teaching them the etiquette of playing games and taking care of the game sets. <br>
-The seniors are **Ready to Lead** the juniors in each session by guiding and advising them. Some juniors upon seeing the good examples set by the seniors have taken on the role of guiding and helping their peers as well.<br>
-The students are&nbsp;**Ready to Learn**&nbsp;by playing board games with one another&nbsp;as it helps them with strategic decision making, critical thinking as well as improve their social and communication skills.&nbsp; Students make friends with other students from other levels and classes which they may not have the opportunity to do so on their own.&nbsp; They learn to collaborate and work together.<br>
+The seniors are **Ready to Serve** by teaching the juniors some strategies of the various board games.&nbsp; They show their juniors by role modelling and teaching them the etiquette of playing games and taking care of the game sets. <br><br>
+The seniors are **Ready to Lead** the juniors in each session by guiding and advising them. Some juniors upon seeing the good examples set by the seniors have taken on the role of guiding and helping their peers as well.<br><br>
+The students are&nbsp;**Ready to Learn**&nbsp;by playing board games with one another&nbsp;as it helps them with strategic decision making, critical thinking as well as improve their social and communication skills.&nbsp; Students make friends with other students from other levels and classes which they may not have the opportunity to do so on their own.&nbsp; They learn to collaborate and work together.<br><br>
 Students are given various roles and responsibilities such as taking care of the board games and the equipment given to them.
