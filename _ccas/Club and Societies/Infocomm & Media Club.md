@@ -14,8 +14,12 @@ variant: markdown
 |Teachers-in-charge |Madam Margie Tang (Main IC)<br>Madam Kiu Kwee Fern<br>Mr Ivan Goh
 
 
-<p style="box-sizing: inherit;">1.  Students who shows interest in photography, videography and PA systems are given the opportunity to develop and enhance their skillsets through our structured training programme and activities. Infocomm Club delivers essential support to the school in providing media support for events and activities both inside as well as outside of the school premises.</p>
-<p style="box-sizing: inherit;">
-2.  Students will learn and develop their skills in photography and videography. Students will also be trained to handle and manage PA systems by carrying out related duties during recess or assembly.</p>
-<p style="box-sizing: inherit;">
-3.  Through infocomm club CCA, students will learn: 1. To respect fellow team members; 2. To work effectively as a team; 3. To take responsibility in carrying out the duties assigned; 4. To persevere and complete the tasks assigned to them.</p>
+Students who shows interest in photography, videography and PA systems are given the opportunity to develop and enhance their skillsets through our structured training programme and activities. Infocomm Club delivers essential support to the school in providing media support for events and activities both inside as well as outside of the school premises.<br>
+
+Students will learn and develop their skills in photography and videography. Students will also be trained to handle and manage PA systems by carrying out related duties during recess or assembly.<br>
+
+Through infocomm club CCA, students will learn:<br>
+1. To respect fellow team members; 
+2. To work effectively as a team; 
+3. To take responsibility in carrying out the duties assigned; 
+4. To persevere and complete the tasks assigned to them.<p></p>
