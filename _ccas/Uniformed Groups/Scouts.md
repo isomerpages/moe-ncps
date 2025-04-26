@@ -22,4 +22,3 @@ Play acting such as charades are used as this allows the children to use their i
 Foot-drills instil discipline and team work as the pack works together to achieve the desired outcomes.
 
 In short, self-developmental activities are a well-entrenched component of the overall drive towards encouraging “Fun &amp; Discovery” amongst the Cubs.
-
