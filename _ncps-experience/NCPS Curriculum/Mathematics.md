@@ -79,7 +79,7 @@ Our students learn the best through play. Through these Mathematics games, stude
 
 Problem Solving is at the heart of the Singapore Mathematics Curriculum. Our school adopts the BEST Mathematical Problem Solving Approach to develop our students’ metacognition. B for Be focused. E for explore and plan. S for solve the problem and T for think about the answer. This comprises of a list of questions to help students monitor and direct their cognitive resources to better understand and make sense of a given problem. Through the monitoring of their own thinking, students also increase ownership and take charge of their own learning.
 
-<img src="/images/Our%20Curriculum%20Math/Math-Model-2.png" style="width:60%">
+<img src="/images/Our%20Curriculum%20Math/Math-Model-2.png" style="width:100%">
 
 #### 5.&nbsp;CONCRETE – pictorial – abstract
 
