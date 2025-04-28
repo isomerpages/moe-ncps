@@ -19,7 +19,7 @@ Environmental Club aims to nurture our members to be eco-stewards who show care 
 #### **2023 Happenings**
 
 *  <b>Earth Week Project</b> <br>
-Our CCA members will give an assembly talk on Earth Week in Term 2 Week 1, regarding ways to cut down electricity usage at home and in school. They have been doing a study on their household’s electricity consumption, as well as to plan some recess activities for their peers. They designed ‘Save Electricity, Save the Earth’ posters for all level classrooms to encourage everyone to switch off the lights and fans before leaving the classroom.<p></p>
+Our CCA members will give an assembly talk on Earth Week in Term 2 Week 1, regarding ways to cut down electricity usage at home and in school. They have been doing a study on their household’s electricity consumption, as well as to plan some recess activities for their peers. They designed ‘Save Electricity, Save the Earth’ posters for all level classrooms to encourage everyone to switch off the lights and fans before leaving the classroom.
 
 *  <b>Learning Journey</b><br>
 The members will be going for a guided farm tour. They will be given the opportunity to touch, smell, and taste some of the vegetables and fruits, herbs and spices, and medicinal plants. The guide will introduce methods of sustainable and planet-friendly farming. Members will learn to pot their own plants to take home.
