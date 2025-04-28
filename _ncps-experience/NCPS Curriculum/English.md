@@ -97,7 +97,7 @@ technology for learning and can:<br>
 * find, think, apply and digitally create<br>
 * navigate the digital space in a safe and responsible way
 
-![](/images/Our%20Curriculum_English/eng_ict01_2025.jpg)
+![](/images/Our%20Curriculum_English/Eng_ICT01.jpg)
 
 #### Experiential Learning
 
