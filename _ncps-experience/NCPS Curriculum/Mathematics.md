@@ -30,7 +30,7 @@ Every child is a&nbsp;_creative problem solver_&nbsp;(innovative, think of diffe
 #### **Differentiated Instruction**&nbsp;
 **To stretch, enhance, and support**
 
-<img src="/images/Our%20Curriculum%20Math/Math-Model.png" style="width:80%">
+<img src="/images/Our%20Curriculum%20Math/Math-Model.png" style="width:100%">
 
 
 To better support students who need more reinforcement in their learning of Mathematics, the department has Learning Support for Mathematics (LSM) programmes for selected Primary One and Primary Two students. Students are put into smaller groups so that the teacher can customize activities based on their learning progress.
@@ -53,7 +53,7 @@ The competitions which we participate in:
 #### **Key Programmes**
 
 #### 1.&nbsp;‘I am a young Mathematics star’
-<img src="/images/Our%20Curriculum%20Math/star%20resized.png" style="width:30%">
+<img src="/images/Our%20Curriculum%20Math/star%20resized.png" style="width:80%">
 
 
 
@@ -61,7 +61,7 @@ To build our students’ interests and confidence in Mathematics, the department
 
 #### 2\. RC3&nbsp;(Reasoning, Communication, Collaboration and Connection)
 
-<img src="/images/Our%20Curriculum%20Math/Math-RC.png" style="width:30%">
+<img src="/images/Our%20Curriculum%20Math/Math-RC.png" style="width:50%">
 
 Traditional teacher-centric lessons are no longer effective to meet the learning needs of our 21st century students. To prepare our students for future challenges, RC3&nbsp;is a project which the department customized for our P3 and P4 students. Comprehensive lesson packages using the&nbsp;inquiry-based approach&nbsp;are carefully-designed for selected topics, to develop confident communicators with good reasoning skills. With the use of technology, student-centric activities with&nbsp;authentic learning experiences&nbsp;are implemented to make learning relevant, engaging and meaningful to their lives. This is to create opportunities for the students to discover, reason and communicate mathematics, through stimulating discussions and activities where they can explore possibilities and make connections, through collaborations with their peers.
 
