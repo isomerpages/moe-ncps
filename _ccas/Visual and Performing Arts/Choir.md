@@ -17,4 +17,3 @@ Following that, the team will be exploring new opportunities in representing the
 
 They always look forward to perform and showcase their abilities. With perseverance, their hard work has definitely shone through their growing skills and talent.
 
-src="/images/CoCurricularActivities/Choir/Choir_2024.jpg"&gt;
