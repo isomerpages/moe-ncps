@@ -3,6 +3,7 @@ title: Mother Tongue
 permalink: /our-curriculum/mother-tongue/
 description: ""
 third_nav_title: NCPS Curriculum
+variant: markdown
 ---
 #### **Department Vision**
 
@@ -20,7 +21,7 @@ A 3-tiered approach (Excite, Engage and Explore) is established for NCPS student
 
 #### **Signature Mother Tongue Language (MTL) Programmes**
 
-##### **Chinese Classics Exposure**
+##### 1. Chinese Classics Exposure
 Nan Chiau has a tradition of promoting Chinese Classics Reading since we moved to Sengkang. Students learn “Guidelines to be a Good Person” or “Di Zi Gui”《弟子规》, The Three Character Classics《三字经》and The Analects《论语》．
 
 In conjunction with NC75, Nan Chiau published a school-based Character and Citizenship Education (CCE) teaching package, incorporating the Chinese Classics. This initiative is for all students and aims to compliment the refreshed Character and Citizenship Education curriculum.
@@ -28,10 +29,10 @@ In conjunction with NC75, Nan Chiau published a school-based Character and Citiz
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%2001.png)
 
 
-##### **Mother Tongue Fortnight Activities**
+##### 2. Mother Tongue Fortnight Activities
 In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortnight Activities. Students get to explore their ethnic language and cultural activities in during curriculum time, via online platforms and virtual zoom interaction sessions.
 
-##### **Cultural Performance Exposure Scheme (CPES)**
+##### 3. Cultural Performance Exposure Scheme (CPES)
 Students taking Chinese Language as their Mother Tongue go through Chinese theatrical experiences through CPES. Through the theatrical experiences, students have a deeper understanding of Chinese cultures and traditional values.
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL2.png)
