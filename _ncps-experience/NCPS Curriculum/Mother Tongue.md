@@ -32,6 +32,11 @@ In conjunction with NC75, Nan Chiau published a school-based Character and Citiz
 ##### 2. Mother Tongue Fortnight Activities
 In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortnight Activities. Students get to explore their ethnic language and cultural activities in during curriculum time, via online platforms and virtual zoom interaction sessions.
 
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MT_003.jpg)
+
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MT_001.jpg)
+
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MT_004.jpg)
+
 ##### 3. Cultural Performance Exposure Scheme (CPES)
 Students taking Chinese Language as their Mother Tongue go through Chinese theatrical experiences through CPES. Through the theatrical experiences, students have a deeper understanding of Chinese cultures and traditional values.
-
