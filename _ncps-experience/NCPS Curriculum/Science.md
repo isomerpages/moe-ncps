@@ -44,6 +44,8 @@ Learning Journeys form an integral part of the Science curriculum in NCPS. In ma
 For instance, the Primary 3 students visited the Singapore Zoological Garden to learn more about the Animal Kingdom.  They are tasked to complete a few online activities which were accessed via the smart devices. Through this experiential learning, students are given the opportunity to observe the characteristics of different animal groups such as mammals, birds and fish closely. Students also learnt to work collaboratively in groups and communicate their findings.
 The Primary 6 students are given the opportunity to visit the Sungei Buloh Wetland Reserve. This learning journey emphasizes taking the learning process and experience beyond the classroom, but keeping it rooted to the curriculum. Through such authentic learning experience, students make observations to the mangrove swamp habitat and community and share findings with their peers.
 
+![](/images/Our%20Curriculum%20Science/Science2025_05.jpg)
+
 ##### 5. Science@Recess
 
 Learning Science is not just about concepts and skills. Teachers at NCPS are always with creative and innovative strategies to make learning fun and meaningful for our students. One of the strategies is to engage our students in simple hands-on experiments. Students explore and experiment Science activities during their recess break, allowing the students to learn as they play. Applying these concepts and skills learnt to play-based activities further enhance our students’ subject mastery where they could internalise their learnings better while having fun.
