@@ -79,6 +79,8 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.<br>
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
+![](/images/Our%20Curriculum_English/Eng_LSP01.jpg)
+
 #### iCT in the curriculum
 
 **iCT in the classroom**<br>
