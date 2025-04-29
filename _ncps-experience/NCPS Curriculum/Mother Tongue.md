@@ -28,6 +28,8 @@ In conjunction with NC75, Nan Chiau published a school-based Character and Citiz
 
 ![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MTL%2001.png)
 
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MT_002.jpg)
+
 
 ##### 2. Mother Tongue Fortnight Activities
 In Nan Chiau, we adopt the Blended Learning approach for our Mother Tongue Fortnight Activities. Students get to explore their ethnic language and cultural activities in during curriculum time, via online platforms and virtual zoom interaction sessions.
