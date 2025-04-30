@@ -7,19 +7,19 @@ variant: markdown
 ---
 #### Students’ Safety
 
-1\. If you wish to see your child/ward, please obtain a visitor pass at the security post and proceed to the General Office for assistance.
+1. If you wish to see your child/ward, please obtain a visitor pass at the security post and proceed to the General Office for assistance.
 
-2\. If you need to take your child/ward home during curriculum time, please inform your child/ward’s Form Teacher in advance.
+2. If you need to take your child/ward home during curriculum time, please inform your child/ward’s Form Teacher in advance.
 
-3\. Please wait for your child/ward outside the school (at Gate A, B or C) during dismissal time.
+3. Please wait for your child/ward outside the school (at Gate A, B or C) during dismissal time.
 
-4\. Parents who are driving should drop off/pick up their children at Gate C and not along the main road at Gate A or B. This is to ensure students and other road users will be safe and not be inconvenienced.
+4. Parents who are driving should drop off/pick up their children at Gate C and not along the main road at Gate A or B. This is to ensure students and other road users will be safe and not be inconvenienced.
 
-5\. Parents/Visitors are not allowed to drive into the school premises during school hours. Parents are allowed to drive-in to the school only from 4.20 p.m. onwards.
+5. Parents/Visitors are not allowed to drive into the school premises during school hours. Parents are allowed to drive-in to the school only from 4.20 p.m. onwards.
 
-6\. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
+6. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
 
-**B) Communication with the School**
+#####  Communication with the School
 
 1\. Please update any changes to your contact numbers with your child’s/ward’s Form Teacher.
 
