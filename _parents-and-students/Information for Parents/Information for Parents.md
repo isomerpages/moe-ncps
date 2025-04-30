@@ -21,20 +21,20 @@ variant: markdown
 
 #####  Communication with the School
 
-1\. Please update any changes to your contact numbers with your child’s/ward’s Form Teacher.
+1. Please update any changes to your contact numbers with your child’s/ward’s Form Teacher.
 
-2\. Home supervision and support is necessary to ensure your child/ward’s performance in school. Kindly check your child’s/ward’s written work assigned by the teachers updated in their Student Diary. The Student Diary can be used to facilitate two way communication with the teachers.
+1. Home supervision and support is necessary to ensure your child/ward’s performance in school. Kindly check your child’s/ward’s written work assigned by the teachers updated in their Student Diary. The Student Diary can be used to facilitate two way communication with the teachers.
 
-3\. Please inform your child’s/ward’s Form teacher if your child has a medical condition and is unable to participate in physical activities.
+1. Please inform your child’s/ward’s Form teacher if your child has a medical condition and is unable to participate in physical activities.
 
-4\. A Letter of consent will be issued to your child/ward if he/she is required to come to school for CCA, remedial, supplementary lessons, learning journeys etc.
+1. A Letter of consent will be issued to your child/ward if he/she is required to come to school for CCA, remedial, supplementary lessons, learning journeys etc.
 
-**C) Others**
+##### Others
 
-1\. Please label your child’s/ward’s personal belongings. Teach your child not to leave his/her belongings unattended at all times.
+1. Please label your child’s/ward’s personal belongings. Teach your child not to leave his/her belongings unattended at all times.
 
-2\. Name tags should be ironed onto the right side of blouses/shirts and PE T-shirts.
+1. Name tags should be ironed onto the right side of blouses/shirts and PE T-shirts.
 
-3\. If your child forgets to bring pocket money to school, he/she can approach the staff at the General Office for assistance.
+1. If your child forgets to bring pocket money to school, he/she can approach the staff at the General Office for assistance.
 
-4\. The school encourages students to engage in silent reading before the flag-raising ceremony.
+1. The school encourages students to engage in silent reading before the flag-raising ceremony. 
