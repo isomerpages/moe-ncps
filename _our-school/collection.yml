@@ -2,6 +2,12 @@ collections:
   our-school:
     output: true
     order:
+      - Heritage/.keep
+      - Heritage/History.md
+      - Heritage/Vision, Mission, Values.md
+      - Heritage/School Philosophy and Core Values.md
+      - Heritage/School Crest.md
+      - Heritage/School Song.md
       - NCPS Family/.keep
       - NCPS Family/School Management Committee.md
       - NCPS Family/School Management Team.md
@@ -9,12 +15,6 @@ collections:
       - NCPS Family/School Administration Team.md
       - NCPS Family/Parent Support Group (PSG).md
       - NCPS Family/NC Alumni Association.md
-      - Heritage/.keep
-      - Heritage/History.md
-      - Heritage/Vision, Mission, Values.md
-      - Heritage/School Philosophy and Core Values.md
-      - Heritage/School Crest.md
-      - Heritage/School Song.md
       - General Information/.keep
       - General Information/School Uniform.md
       - General Information/School Hours.md
