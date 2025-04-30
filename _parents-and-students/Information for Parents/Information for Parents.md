@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-**A) Students’ Safety**
+#### Students’ Safety
 
 1\. If you wish to see your child/ward, please obtain a visitor pass at the security post and proceed to the General Office for assistance.
 
