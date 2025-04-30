@@ -11,9 +11,9 @@ At NCPS, values education forms an integral part of our students’ learning jou
 The CCE curriculum frame guides and provides key directions for the department in the planning, implementation and review of the various programmes and activities. It takes reference from the existing Framework for 21st Century Competencies and student outcomes, and aims to enhance clarity on how the core values are linked to the social-emotional competencies, and how they are internalised and lived out by our students.
 framework guides and provides key directions for the department in the planning, implementation and review of the various activities.
 
-<img src="/images/Our%20Curriculum_CCE/CCE%201.png" style="width:80%">
-Relationship between 21CC Framework and CCE 2021
 
+![](/images/Our%20Curriculum_CCE/cce01.jpg)
+Relationship between 21CC Framework and CCE 2021
 
 To achieve these goals, the following CCE programmes are offered: 
 
