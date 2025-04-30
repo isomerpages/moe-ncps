@@ -7,9 +7,9 @@ variant: markdown
 ---
 #### Students’ Safety
 
-1. If you wish to see your child/ward, please obtain a visitor pass at the security post and proceed to the General Office for assistance.
+* If you wish to see your child/ward, please obtain a visitor pass at the security post and proceed to the General Office for assistance.
 
-2. If you need to take your child/ward home during curriculum time, please inform your child/ward’s Form Teacher in advance.
+* If you need to take your child/ward home during curriculum time, please inform your child/ward’s Form Teacher in advance.
 
 3. Please wait for your child/ward outside the school (at Gate A, B or C) during dismissal time.
 
@@ -19,7 +19,7 @@ variant: markdown
 
 6. Impress upon your child/ward the danger of running along corridors and up and down the staircases.
 
-#####  Communication with the School
+####  Communication with the School
 
 1. Please update any changes to your contact numbers with your child’s/ward’s Form Teacher.
 
@@ -37,4 +37,4 @@ variant: markdown
 
 1. If your child forgets to bring pocket money to school, he/she can approach the staff at the General Office for assistance.
 
-1. The school encourages students to engage in silent reading before the flag-raising ceremony. 
+1. The school encourages students to engage in silent reading before the flag-raising ceremony.
