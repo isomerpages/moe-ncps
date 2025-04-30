@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Service Providers
 variant: markdown
 ---
-#### **Bookshop Operator – Pacific Bookstores Pte Ltd**
+#### Bookshop Operator – Pacific Bookstores Pte Ltd
 
 14 Arumugam Road #08-01 Lion Building C  
 Singapore 409959  
@@ -25,7 +25,7 @@ Website:&nbsp; <a target="\_blank" href="http://www.pacificbookstores.com">http:
 | Closed unless specified by School |  |    |
 
 
-#### **Uniform / Shoe Supplier – Asencio Pte Ltd**
+#### Uniform / Shoe Supplier – Asencio Pte Ltd
 
 120 Hillview Avenue #05-03 Kewalram Hillview Singapore 669594  
 Tel: 6764 3102 Fax: 6764 1032  
