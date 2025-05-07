@@ -17,6 +17,6 @@ sections:
         - title: RESOURCES
           description: ""
           url: ""
-      background: /images/Homepage/home_banner_5a.jpg
+      background: /images/Homepage/Homebanner2025.gif
       variant: image
 ---
