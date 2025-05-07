@@ -15,6 +15,6 @@ Eligible students are invited to join the 3-year programme at the end of Primary
 <b>1. BICEP Language and Cultural Camp </b><br>
 Primary four BiCEP students receive training in oratorical skills as part of BiCEP curriculum, before joining their BiCEP peers from the other 4 SHHK affiliated primary schools at the BICEP Language and Cultural Camp.<br><br>
 <b>2. Nan Chiau Ambassador Programme </b><br>
-To promote student leadership and hone their bilingual communication skills, BiCEP students are trained as Nan Chiau (NC) Ambassadors. NC Ambassadors are Nan Chiau’s heritage champions. They lead school tours, reminiscing the NC Story with students and visitors to the school.<br><br>
+To promote student leadership and hone their bilingual communication skills, BiCEP students are trained as Nan Chiau (NC) Ambassadors. NC Ambassadors are Nan Chiau’s heritage champions. They lead school tours, reminiscing about the NC Story with students and visitors to the school.<br><br>
 <b>3. Overseas Immersion Programme</b><br>
 Primary five BiCEP students joined their BiCEP peers in overseas immersion trips to Beijing, Xi‘an and Taipei. The experiential journey provides a real-life connection with the BiCEP curriculum. Students get to explore their Chinese heritage, establish friendship with foreign students and broaden their horizons.
