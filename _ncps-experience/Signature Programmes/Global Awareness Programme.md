@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-
-
 #### <b>Global Awareness Programme (GAP) </b>
 #### <b>“心系南侨，放眼世界”</b><br>
 
