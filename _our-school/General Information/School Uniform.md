@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General Information
 variant: markdown
 ---
-Students are to wear the prescribed school uniform when they report to school, i.e. even during school holidays or when students attend remedial/supplementary/enrichment lessons and CCA.&nbsp; Modification to the school uniform is prohibited.
+Students are to wear the prescribed school uniform when they report to school, i.e. even during school holidays or when students attend remedial/supplementary/enrichment lessons and CCA.&nbsp; Modification to the school uniform is prohibited. Name tags should be ironed onto the right side of blouses/shirts and PE T-shirts.
 
 #### School Attire - Girls
 
