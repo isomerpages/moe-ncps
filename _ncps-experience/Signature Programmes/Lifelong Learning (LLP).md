@@ -17,6 +17,8 @@ The 7 Habits of Highly Effective People is one of the teaching tools to guide an
 Aligned to Health Promotion Board (HPB)
 The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and beverage choices in schools. Working closely with our canteen vendors, we aim to help students to cultivate healthy eating habits by providing healthy meals and health talks. Termly healthy messages are conveyed to parents to support the Grow Well SG programme.<br><br>
 
+![](/images/Signature%20Programmes/llp03.jpg)
+
 **(ii) Fortnightly Lower Primary (LP) Morning Workout &amp; No School Bag Day (NSBD) Level Workout**<br>
 Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in following events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br><br>
 
