@@ -33,8 +33,6 @@ variant: markdown
 
 * Please label your child’s/ward’s personal belongings. Teach your child not to leave his/her belongings unattended at all times.
 
-* Name tags should be ironed onto the right side of blouses/shirts and PE T-shirts.
-
 * If your child forgets to bring pocket money to school, he/she can approach the staff at the General Office for assistance.
 
 * The school encourages students to engage in silent reading before the flag-raising ceremony.
