@@ -21,14 +21,14 @@ Our Tier 1 programme offers from Primary 3 to 5 students a hands-on experience i
 
 #### Our Tier 2: Specialised Thinking and Innovation Programmes For Selected Primary 5 Students
 Our Tier 2 programme offers selected students hands-on experience in STEM through design thinking challenges - collaborating with external agencies like Singapore Hokkien Huay Kuan, Sengkang General Hospital, Health Promotion Board and others.<br>
-**Innovation Programme (IvP)**<br>
+##### Innovation Programme (IvP)
 In the IvP, selected students are exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other industry partners.
 The programme aims to nurture our students' problem-solving dispositions and thinking skills:
 * Ability to think critically about existing problems.
 * Generation of ideas to improve the situation.
 * Development of prototypes to test and improve their ideas.
 
-**SHHK Thinkers Programme**<br>
+##### SHHK Thinkers Programme
 This programme, supported by Singapore Hokkien Huay Kuan, provides opportunities for selected students to explore how Artificial Intelligence (AI) can improve their way of life so that they can be active contributors to the society and the community through solving authentic real-world issues 
 The students will:
 * Develop critical and inventive thinking
