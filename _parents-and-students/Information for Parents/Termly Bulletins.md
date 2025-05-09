@@ -5,18 +5,7 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-**Year 2025**
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 161px; width: 665.188px;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;"><b>Year 2025</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>URLs</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Term 1</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/ulew/">https://online.flipbuilder.com/ncps/ulew/</a></td></tr></tbody></table>
 
-<a target="\_blank" href="https://www.ncps.moe.edu.sg/our-team/school-management-team/">Term 1 e-Bulletin</a>
-
-**Year 2024**
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/lpky/">Term 1 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/kvzq/">Term 2 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">Term 3 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/qoey/">Term 4 e-Bulletin</a>
-
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 161px; width: 665.188px;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;"><b>Year 2024</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>URLs</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Term 1</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/lpky/">https://online.flipbuilder.com/ncps/lpky/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Term 2</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/kvzq/">https://online.flipbuilder.com/ncps/kvzq/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Term 3</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">https://online.flipbuilder.com/ncps/pfre/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Term 4</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/qoey/">https://online.flipbuilder.com/ncps/qoey/</a></td></tr></tbody></table>
 
