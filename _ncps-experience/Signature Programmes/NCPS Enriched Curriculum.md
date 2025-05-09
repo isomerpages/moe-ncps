@@ -6,8 +6,7 @@ third_nav_title: Signature Programmes
 variant: markdown
 ---
 #### Inspiring Confident Thinkers, Compassionate Leaders
-At Nan Chiau Primary School, we believe in nurturing every child through a rich and holistic educational experience. <br>
-Our Nan Chiau Enriched Curriculum (NCEC) goes beyond the academic core to develop students’ character, creativity and competencies for the future. &gt;br&gt;
+At Nan Chiau Primary School, we believe in nurturing every child through a rich and holistic educational experience. Our Nan Chiau Enriched Curriculum (NCEC) goes beyond the academic core to develop students’ character, creativity and competencies for the future.<br>
 Through NCEC, every Nan Chiau student grows as a confident communicator, thoughtful innovator, and caring leader — ready to contribute meaningfully to Singapore and the world.<br>
 It is anchored in three key programmes:
 
