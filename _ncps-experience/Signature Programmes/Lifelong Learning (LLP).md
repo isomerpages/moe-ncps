@@ -32,23 +32,23 @@ To allow our students to be self-directed and make more informed decisions on he
 ##### 3.	Staff
 Together with Staff Welfare Committee and PE department, we make a point to include staff bonding and wellness activities at least once a term. Both structured and unstructured physical activities are available to promote inclusive participation for all staff. 
 ##### 4.	Community
-(i)	Preschoolers
-•	Kindergarten – NCPS Tour
+**(i)	Preschoolers**<br>
+•	Kindergarten – NCPS Tour <br>
 A student-led initiative by Prefect EXCO team and partnership with neighbouring kindergarten schools where they attended our school tour to ease Primary 1 transition, hosted by our Prefects. Advocating on healthy messages by Prefects, preschoolers get to try healthy meals sold in our school canteen and to highlight on personal hygiene to wash their hands before meals. In addition, they learn about active living through Recess Play Programme as they get to participate during the school tour. Preschoolers are also given opportunities to learn more about our Co-Curriculum Activities (CCA) through CCA Values-In-Action (VIA) organised and conducted by various CCA students.
 
-•	Kindergarten Storytelling Session
-Another student-led initiative planned and executed by Prefect EXCO team to advocate on healthy habits and active living. Prefect EXCO conducted storytelling session with storybooks related to healthy habits and sports and to engage preschoolers through simple workouts and physical activities.
+•	**Kindergarten Storytelling Session**<br>
+Another student-led initiative planned and executed by Prefect EXCO team to advocate on healthy habits and active living. Prefect EXCO conducted storytelling sessions with storybooks related to healthy habits and sports and to engage preschoolers through simple workouts and physical activities.
 
-(ii)	Elderly
-•	Bright Hill Evergreen Home (Punggol)
-In support of Intergenerational Learning Programme (ILP) &amp; Values in Action (VIA), working with Bright Hill Evergreen Home (Punggol) allow us to execute our Primary 6 Adaptive Sports Programme through scheduled interaction sessions for all Primary 6 students to interact with elderly and allow our students to take charge, to teach and guide the elderly on adaptive sports (modified floorball) through active interaction. In collaboration with PE department, our PE teachers conduct lessons on empathy skills as well as to guide them on how to conduct adaptive sports; modified floorball to the elderlies during PE lessons so that students are confident to lead in facilitating during their visit and interaction. 
+(ii)	**Elderly**<br>
+•	Bright Hill Evergreen Home (Punggol)<br>
+In support of the Intergenerational Learning Programme (ILP) &amp; Values in Action (VIA), working with Bright Hill Evergreen Home (Punggol) allows us to execute our Primary 6 Adaptive Sports Programme through scheduled interaction sessions for all Primary 6 students to interact with elderly and allow our students to take charge, to teach and guide the elderly on adaptive sports (modified floorball) through active interaction. In collaboration with the PE department, our PE teachers conduct lessons on empathy skills as well as to guide them on how to conduct adaptive sports; modified floorball to the elderlies during PE lessons so that students are confident to lead in facilitating during their visit and interaction. 
 
 •	Active Ageing Center Engagement
-This programme aims to develop empathy and community service values in our student leaders, Primary 5 CCA Leaders. Our latest partnership with Active Ageing Center, Blk 353 (St Luke's Eldercare) collaborates to promote healthy living within our community. Volunteered CCA leaders (Tier 2 leadership) actively participated in this Values in Action (VIA) sessions with the elderly, focusing on interactive activities and adaptive sports to promote on active living.
+This programme aims to develop empathy and community service values in our student leaders, Primary 5 CCA Leaders. Our latest partnership with Active Ageing Center, Blk 353 (St Luke's Eldercare) collaborates to promote healthy living within our community. Volunteered CCA leaders (Tier 2 leadership) actively participated in this Values in Action (VIA) sessions with the elderly, focusing on interactive activities and adaptive sports to promote active living.
 
-(iii)	Others 
-•	Health Promotion Board (HPB)
+**(iii)	Others**<br>
+•	Health Promotion Board (HPB)<br>
 Working on promoting active and healthy lifestyle, HPB is onboard with us as one of the external organisations to guide and support our Primary 5 students in Design Thinking during Watch Me Soar (WMS) programme where students works on problem solving after identifying prevailing health problems and issues.
 
-•	Hwa Chong Institute (HCI) Project Unwind 5.0
+•	Hwa Chong Institute (HCI) Project Unwind 5.0<br>
 In collaboration with Hwa Chong Institute to support their service learning project, Project Unwind 5.0. The overarching aim of HCI service learning project is to engage our students in fun and meaningful activities, to improve their physical and mental wellbeing by leading a healthy lifestyle through recess and after-school engagements.
