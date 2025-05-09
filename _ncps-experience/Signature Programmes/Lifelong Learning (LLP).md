@@ -28,6 +28,8 @@ Designated venues such as school field and parade square are opened to various l
 * Peer Support Leader (PSL) Games Corner<br>
 This programme promotes inclusiveness within the school environment and to promote culture of care. Initiated by our Peer Support Leaders (PSL), they devised Student Lounge and Peer Support Game Corner to support their peers in school. This initiative has benefitted whole school as they advocate on positive behaviour and relationships through games and to support mental wellbeing of students. Our P4 to P6 PSLs planned their own recess schedule to manage the Game Corner and Student Lounge during their respective recesses which improve student engagement and socialization and our Parent Support Group volunteers supported the Games Corner for our lower primary levels.
 
+![](/images/Signature%20Programmes/llp02.jpg)
+
 * Healthy Corner<br>
 To allow our students to be self-directed and make more informed decisions on healthy eating and lifestyle, we have created a healthy corner with Body Mass Index (BMI) chart and weighing machine for everyone’s use in school.
 
@@ -58,3 +60,5 @@ Working on promoting active and healthy lifestyle, HPB is onboard with us as one
 In collaboration with Hwa Chong Institute to support their service-learning project, Project Unwind 5.0. The overarching aim of HCI service-learning project is to engage our students in fun and meaningful activities, to improve their physical and mental wellbeing by leading a healthy lifestyle through recess and after-school engagements.
 
 ![](/images/Signature%20Programmes/Ivp03.jpg)
+
+![](/images/Signature%20Programmes/llp01.jpg)
