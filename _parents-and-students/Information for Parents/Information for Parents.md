@@ -17,13 +17,13 @@ variant: markdown
 
 * Parents/Visitors are not allowed to drive into the school premises during school hours. Parents are allowed to drive-in to the school only from 4.20 p.m. onwards.
 
-* Impress upon your child/ward the danger of running along corridors and up and down the staircases.
+* Impress upon your child/ward the dangers of running in the corridors and on the staircases.
 
 ####  Communication with the School
 
 * Please update any changes to your contact numbers with your child’s/ward’s Form Teacher.
 
-* Home supervision and support is necessary to ensure your child/ward’s performance in school. Kindly check your child’s/ward’s written work assigned by the teachers updated in their Student Diary. The Student Diary can be used to facilitate two way communication with the teachers.
+* Home supervision and support are necessary to ensure your child’s/ward’s performance in school. Kindly check your child’s/ward’s written work as assigned by the teachers and updated in their Student Diary. The Student Diary may also be used to facilitate two-way communication with the teachers.
 
 * Please inform your child’s/ward’s Form teacher if your child has a medical condition and is unable to participate in physical activities.
 
