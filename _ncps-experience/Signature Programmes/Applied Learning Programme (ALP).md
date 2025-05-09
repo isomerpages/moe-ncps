@@ -28,6 +28,8 @@ The programme aims to nurture our students' problem-solving dispositions and thi
 * Generation of ideas to improve the situation.
 * Development of prototypes to test and improve their ideas.
 
+![](/images/Signature%20Programmes/Ivp01.jpg)
+
 ##### SHHK Thinkers Programme
 This programme, supported by Singapore Hokkien Huay Kuan, provides opportunities for selected students to explore how Artificial Intelligence (AI) can improve their way of life so that they can be active contributors to the society and the community through solving authentic real-world issues 
 The students will:
