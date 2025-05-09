@@ -51,3 +51,4 @@ Working on promoting active and healthy lifestyle, HPB is onboard with us as one
 
 •	Hwa Chong Institute (HCI) Project Unwind 5.0<br>
 In collaboration with Hwa Chong Institute to support their service-learning project, Project Unwind 5.0. The overarching aim of HCI service-learning project is to engage our students in fun and meaningful activities, to improve their physical and mental wellbeing by leading a healthy lifestyle through recess and after-school engagements.
+
