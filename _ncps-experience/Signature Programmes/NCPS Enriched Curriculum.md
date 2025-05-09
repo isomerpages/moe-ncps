@@ -20,7 +20,7 @@ The LLP fosters resilience, teamwork and responsible leadership through sports a
 * Emphasis on compassionate leadership, sportsmanship and school pride
 * Opportunities for all students to grow as peer leaders and active citizens
 
-**BiCEP/GAP: Bilingualism and Global Awareness**<br>
+#### BiCEP/GAP: **Bilingualism and Global Awareness**
 The Bilingual &amp; Bicultural Chinese Enrichment Programme (BiCEP) and Global Awareness Programme (GAP) enhance students’ appreciation of culture, heritage, and global perspectives.
 * BiCEP deepens love for the Chinese Language and culture through storytelling, literature, and cross-cultural experiences
 * GAP exposes students to international issues and diverse cultures, fostering global-mindedness and respect
