@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-![](/images/Signature_Programme/BICEP01.jpg)<br>
-![](/images/Signature_Programme/BICEP02.jpg)
+
+![](/images/Signature%20Programmes/BICEP01.jpg)<br>
+![](/images/Signature%20Programmes/BICEP02.jpg)
 
 #### <b>Bi-cultural Chinese Elective Programme (BiCEP) </b>
 #### <b>双文化华文优选课程</b>
