@@ -38,6 +38,8 @@ A student-led initiative by Prefect EXCO team and partnership with neighbouring 
 •	Kindergarten Storytelling Session<br>
 Another student-led initiative planned and executed by Prefect EXCO team to advocate on healthy habits and active living. Prefect EXCO conducted storytelling sessions with storybooks related to healthy habits and sports and to engage preschoolers through simple workouts and physical activities.
 
+![](/images/Signature%20Programmes/Ivp02.jpg)
+
 **(ii)	Elderly**<br>
 •	Bright Hill Evergreen Home (Punggol)<br>
 In support of the Intergenerational Learning Programme (ILP) &amp; Values in Action (VIA), working with Bright Hill Evergreen Home (Punggol) allows us to execute our Primary 6 Adaptive Sports Programme through scheduled interaction sessions for all Primary 6 students to interact with elderly and allow our students to take charge, to teach and guide the elderly on adaptive sports (modified floorball) through active interaction. In collaboration with the PE department, our PE teachers conduct lessons on empathy skills as well as to guide them on how to conduct adaptive sports; modified floorball to the elderlies during PE lessons so that students are confident to lead in facilitating during their visit and interaction. 
@@ -51,4 +53,3 @@ Working on promoting active and healthy lifestyle, HPB is onboard with us as one
 
 •	Hwa Chong Institute (HCI) Project Unwind 5.0<br>
 In collaboration with Hwa Chong Institute to support their service-learning project, Project Unwind 5.0. The overarching aim of HCI service-learning project is to engage our students in fun and meaningful activities, to improve their physical and mental wellbeing by leading a healthy lifestyle through recess and after-school engagements.
-
