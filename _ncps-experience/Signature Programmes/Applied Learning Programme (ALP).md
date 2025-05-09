@@ -17,7 +17,7 @@ Our Tier 1 programme offers from Primary 3 to 5 students a hands-on experience i
 * Building simple prototypes with purpose
 * Applying computational thinking in everyday life
 
-#### *insert image here*
+![](/images/Signature%20Programmes/alp01.jpg)
 
 #### Our Tier 2: Specialised Thinking and Innovation Programmes For Selected Primary 5 Students
 Our Tier 2 programme offers selected students hands-on experience in STEM through design thinking challenges - collaborating with external agencies like Singapore Hokkien Huay Kuan, Sengkang General Hospital, Health Promotion Board and others.<br>
