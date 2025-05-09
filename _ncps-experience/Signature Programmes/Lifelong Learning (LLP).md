@@ -10,7 +10,7 @@ In alignment to nationwide direction on Healthier SG, Student Leadership departm
 
 ##### 1.	The 7 Habits of Highly Effective People: **The Leader in Me**<br>
 The 7 Habits of Highly Effective People is one of the teaching tools to guide and support student leadership for both staff and students in school. For P1 to P5 levels, The 7 Habits of Highly Effective People is taught during Watch Me Soar (WMS) lessons. The 7 Habits cohort trainings are conducted for Upper Primary levels to reinforce their learning and application as they prepare for their secondary school journey. Prefect leadership trainings are also anchored on The 7 Habits of Highly Effective People as it builds character and competence to develop student leadership towards self-directed learning.
-By incorporating the 7 Habits into our Lifelong Learning Programme, Healthier NCPS, students develop the skills and habits necessary to maintain a healthy and active lifestyle for self before advocating to others. 
+By incorporating The 7 Habits into our Lifelong Learning Programme, Healthier NCPS, students develop the skills and habits necessary to maintain a healthy and active lifestyle for self before advocating to others. 
  <br>
 
 ##### 2.	Students<br>
