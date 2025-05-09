@@ -5,33 +5,33 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-#### **Watch Me Soar**
-Supporting our school’s vision, “An Innovative School where Inspiring Educators Nurture Future-Ready Leaders” and Singapore’s Smart Nation vision of becoming a nation where people live meaningful and fulfilled lives, enabled seamlessly by technology, offering opportunities for all, our Applied Learning Programme (ALP) is focusing on the theme of “Health Science” as it provides opportunities for students to contribute toward society with inventions to improve the health and daily living of people. 
-The Applied Learning Programme (ALP) in Nan Chiau Primary School (NCPS) focuses on Science, Technology, Engineering and Mathematics (STEM) in areas of Health Science. Students from Primary 3 to 5 are introduced to Design Thinking, Computational Thinking and Maker Education in our ALP curriculum. Our ALP is known as Watch Me Soar (WMS) programme with the following objectives:
+#### Empowering Young Minds Through Design Thinking and Innovation
+At Nan Chiau Primary School, our Applied Learning Programme (ALP) nurtures future-ready learners who think critically, inventively, and adaptively. Anchored in the vision of a **Smart Nation** and aligned with **MOE’s 21st Century Competencies**, our ALP empowers students with real-world problem-solving skills using **STEM and Design Thinking**.<br>
+**Future-Ready Learners in the Making**<br>
+Our ALP builds confidence and creativity in every student. Whether through broad exposure in Tier 1 or deeper dives in Tier 2, students are empowered to be thoughtful problem solvers, innovative thinkers, and contributors to a better tomorrow.
 
-<img src="/images/Our%20Curriculum_WMS/objectives.png" style="width:80%">
+#### Our Tier 1: STEM for All
+Our Tier 1 programme offers from Primary 3 to 5 students a hands-on experience in STEM through age-appropriate design thinking challenges. Every student can participate in:
+* Designing smart furniture
+* Creating healthy lifestyle tools
+* Building simple prototypes with purpose
+* Applying computational thinking in everyday life
 
-The above objectives will support the school in developing our students to become Enterprising Contributors.
+insert image here
 
-##### **Watch Me Soar Programmes @NCPS**
+Our Tier 2: Specialised Thinking and Innovation Programmes
+For Selected Primary 5 Students
+Our Tier 2 programme offers selected students hands-on experience in STEM through design thinking challenges - collaborating with external agencies like Singapore Hokkien Huay Kuan, Sengkang General Hospital, Health Promotion Board and others.
+Innovation Programme (IvP)
+In the IvP, selected students are exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other industry partners.
+The programme aims to nurture our students' problem-solving dispositions and thinking skills:
+•	Ability to think critically about existing problems.
+•	Generation of ideas to improve the situation.
+•	Development of prototypes to test and improve their ideas.
 
-<img src="/images/Our%20Curriculum_WMS/level%20programmes.png" style="width:80%">
-
-
-##### **Collaboration with Sengkang General Hospital (SKH)**
-This year, NCPS collaborated with Sengkang General Hospital (SKH) to bring authentic learning experiences to our students.  The collaboration involves SKH personnel and Primary 5 students from NCPS, in coming up with solutions to address authentic real-life situations related to the theme of Health Science.  This collaboration provided our students with opportunities for exploration, collaboration and creativity, empowering them to innovate to serve the community. 
-
-This year, staff from SKH provided four different problem statements for our Primary 5 students to solve during the school-based curriculum, Watch Me Soar (WMS) lessons.
-
-Zoom sessions with SKH personnel were conducted for the students to gather more information on the four problem statements. The students had the chance to interview nurses and speech therapists from SKH during their WMS lessons.  
-
-<img src="/images/Our%20Curriculum_WMS/WMS01.png" style="width:80%;">
-      
-<img src="/images/Our%20Curriculum_WMS/WMS02.png" style="width:80%;">
-      
-
-From the zoom sessions, interviews with own family members and researchers, our students worked in groups to come out with creative prototypes to solve the above problem statements. The students learn as they work on their prototype creations with feedback given by their teachers and SKGH personnel.
-
-<img src="/images/Our%20Curriculum_WMS/problem%20statement%201.jpg" style="width:45%"> 
-
-<img src="/images/Our%20Curriculum_WMS/problem%20statement%202.jpg" style="width:45%">
+SHHK Thinkers Programme
+This programme, supported by Singapore Hokkien Huay Kuan, provides opportunities for selected students to explore how Artificial Intelligence (AI) can improve their way of life so that they can be active contributors to the society and the community through solving authentic real-world issues 
+The students will:
+•	Develop critical and inventive thinking
+•	Develop communication and collaborative skills
+•	Build up problem-solving competencies
