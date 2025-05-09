@@ -16,10 +16,10 @@ By incorporating the 7 Habits into our Lifelong Learning Programme, Healthier NC
 ##### 2.	Students<br>
 **(i)	Healthy Canteen &amp; Health Talks**<br>
 Aligned to Health Promotion Board (HPB)
-The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and beverage choices in schools. Working closely with our canteen vendors, we aim to help students to cultivate healthy eating habits by providing healthy meals and health talks. Termly healthy messages are conveyed to parents to support the Grow Well SG programme.
+The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and beverage choices in schools. Working closely with our canteen vendors, we aim to help students to cultivate healthy eating habits by providing healthy meals and health talks. Termly healthy messages are conveyed to parents to support the Grow Well SG programme.<br>
 **(ii) Fortnightly Lower Primary (LP) Morning Workout &amp; No School Bag Day (NSBD) Level Workout**<br>
-Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in following events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.
-**(iii) Recess Play Programme**
+Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in following events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br>
+**(iii) Recess Play Programme**<br>
 	•	Play@Recess
 Designated venues such as school field and parade square are opened to various levels during recess to allow students to engage in self-directed activities where they develop social skills, cognitive abilities, and physical fitness, as well as emotional well. Our newly constructed playground is opened for our lower primary students to improve their coordination and motor skills. P1 to P6 Physical Education (PE) Captains are assigned with weekly duties to assist teachers on recess duty with safe play and loaning of equipment during Play@Recess. With the support of many dedicated Parent Support Group (PSG) volunteers, makes our Recess Play possible for our lower primary levels as they help and play a part in making school safe and fun for our students.
  
