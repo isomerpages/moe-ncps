@@ -20,13 +20,13 @@ The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and b
 **(ii) Fortnightly Lower Primary (LP) Morning Workout &amp; No School Bag Day (NSBD) Level Workout**<br>
 Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in following events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br>
 **(iii) Recess Play Programme**<br>
-* Play@Recess
-Designated venues such as school field and parade square are opened to various levels during recess to allow students to engage in self-directed activities where they develop social skills, cognitive abilities, and physical fitness, as well as emotional well. Our newly constructed playground is opened for our lower primary students to improve their coordination and motor skills. P1 to P6 Physical Education (PE) Captains are assigned with weekly duties to assist teachers on recess duty with safe play and loaning of equipment during Play@Recess. With the support of many dedicated Parent Support Group (PSG) volunteers, it makes our Recess Play possible for our lower primary levels as they help and play a part in making school safe and fun for our students.
+* Play@Recess<br>
+Designated venues such as school field and parade square are opened to various levels during recess to allow students to engage in self-directed activities where they develop social skills, cognitive abilities, and physical fitness, as well as emotional well. Our newly constructed playground is opened for our lower primary students to improve their coordination and motor skills. P1 to P6 Physical Education (PE) Captains are assigned with weekly duties to assist teachers on recess duty with safe play and loaning of equipment during Play@Recess. With the support of many dedicated Parent Support Group (PSG) volunteers, it makes our Recess Play possible for our lower primary levels as they help and play a part in making the school safe and fun for our students.
  
-•	Peer Support Leader (PSL) Games Corner
+* Peer Support Leader (PSL) Games Corner<br>
 This programme promotes inclusiveness within the school environment and to promote culture of care. Initiated by our Peer Support Leaders (PSL), they devised Student Lounge and Peer Support Game Corner to support their peers in school. This initiative has benefitted whole school as they advocate on positive behaviour and relationships through games and to support mental wellbeing of students. Our P4 to P6 PSLs planned their own recess schedule to manage the Game Corner and Student Lounge during their respective recesses which improve student engagement and socialization and our Parent Support Group volunteers supported the Games Corner for our lower primary levels.
 
-•	Healthy Corner
+* Healthy Corner<br>
 To allow our students to be self-directed and make more informed decisions on healthy eating and lifestyle, we have created a healthy corner with Body Mass Index (BMI) chart and weighing machine for everyone’s use in school.
 
 ##### 3.	Staff
