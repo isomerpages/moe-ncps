@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Highlights.md
       - Heritage/.keep
       - Heritage/History.md
       - Heritage/Vision, Mission, Values.md
