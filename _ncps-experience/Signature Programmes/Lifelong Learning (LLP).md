@@ -23,7 +23,7 @@ Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by pr
 
 ![](/images/Signature%20Programmes/llp09.jpg)
 
-![](/images/Signature%20Programmes/llp10.jpg)
+![](/images/Signature%20Programmes/llp11.jpg)
 <br>
 **(iii) Recess Play Programme**<br>
 * Play@Recess<br>
