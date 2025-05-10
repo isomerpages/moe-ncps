@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-#### <b>Global Awareness Programme (GAP) </b>
+
+![](/images/Signature%20Programmes/gap01.jpg)
+
+![](/images/Signature%20Programmes/gap02.jpg)
+
 #### <b>“心系南侨，放眼世界”</b><br>
 
 Nan Chiau’s Global Awareness Programme (GAP) emphasizes collective identity and enhances global outlook among our students. The school strives to provide opportunities for our students to: 
