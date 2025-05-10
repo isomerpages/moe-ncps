@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
-          url: ""
+          url: /mother-tongue-appreciation/
         - title: STUDENT'S VOICE
           description: ""
           url: ""
