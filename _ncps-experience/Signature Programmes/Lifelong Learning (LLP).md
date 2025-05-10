@@ -21,7 +21,10 @@ Aligned with the Health Promotion Board’s (HPB) Healthy Meals in Schools Progr
 **(ii) Fortnightly Lower Primary (LP) Morning Workout &amp; No School Bag Day (NSBD) Level Workout**<br>
 Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br>
 
+![](/images/Signature%20Programmes/llp09.jpg)
 
+![](/images/Signature%20Programmes/llp10.jpg)
+<br>
 **(iii) Recess Play Programme**<br>
 * Play@Recess<br>
 Designated venues such as school field and parade square are opened to various levels during recess to allow students to engage in self-directed activities where they develop social skills, cognitive abilities, and physical fitness, as well as emotional well. Our newly constructed playground is opened for our lower primary students to improve their coordination and motor skills. P1 to P6 Physical Education (PE) Captains are assigned with weekly duties to assist teachers on recess duty with safe play and loaning of equipment during Play@Recess. With the support of many dedicated Parent Support Group (PSG) volunteers, it makes our Recess Play possible for our lower primary levels as they help and play a part in making the school safe and fun for our students.
@@ -37,6 +40,8 @@ This programme promotes inclusiveness within the school environment and to promo
 * Healthy Corner<br>
 To allow our students to be self-directed and make more informed decisions on healthy eating and lifestyle, we have created a healthy corner with Body Mass Index (BMI) chart and weighing machine for everyone’s use in school.
 
+
+
 ##### 3.	Staff
 Together with Staff Welfare Committee and PE department, we make a point to include staff bonding and wellness activities at least once a term. Both structured and unstructured physical activities are available to promote inclusive participation for all staff. 
 
@@ -50,7 +55,7 @@ A student-led initiative by Prefect EXCO team and partnership with neighbouring 
 ![](/images/Signature%20Programmes/llp08.jpg)
 
 ![](/images/Signature%20Programmes/llp07__1_.jpg)
-
+<br>
 •	Kindergarten Storytelling Session<br>
 Another student-led initiative planned and executed by Prefect EXCO team to advocate on healthy habits and active living. Prefect EXCO conducted storytelling sessions with storybooks related to healthy habits and sports and to engage preschoolers through simple workouts and physical activities.
 
