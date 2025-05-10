@@ -25,7 +25,10 @@ Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by pr
 **(iii) Recess Play Programme**<br>
 * Play@Recess<br>
 Designated venues such as school field and parade square are opened to various levels during recess to allow students to engage in self-directed activities where they develop social skills, cognitive abilities, and physical fitness, as well as emotional well. Our newly constructed playground is opened for our lower primary students to improve their coordination and motor skills. P1 to P6 Physical Education (PE) Captains are assigned with weekly duties to assist teachers on recess duty with safe play and loaning of equipment during Play@Recess. With the support of many dedicated Parent Support Group (PSG) volunteers, it makes our Recess Play possible for our lower primary levels as they help and play a part in making the school safe and fun for our students.
- 
+
+![](/images/Signature%20Programmes/llp05.jpg)
+
+
 * Peer Support Leader (PSL) Games Corner<br>
 This programme promotes inclusiveness within the school environment and to promote culture of care. Initiated by our Peer Support Leaders (PSL), they devised Student Lounge and Peer Support Game Corner to support their peers in school. This initiative has benefitted whole school as they advocate on positive behaviour and relationships through games and to support mental wellbeing of students. Our P4 to P6 PSLs planned their own recess schedule to manage the Game Corner and Student Lounge during their respective recesses which improve student engagement and socialization and our Parent Support Group volunteers supported the Games Corner for our lower primary levels.
 
@@ -36,10 +39,17 @@ To allow our students to be self-directed and make more informed decisions on he
 
 ##### 3.	Staff
 Together with Staff Welfare Committee and PE department, we make a point to include staff bonding and wellness activities at least once a term. Both structured and unstructured physical activities are available to promote inclusive participation for all staff. 
+
+![](/images/Signature%20Programmes/llp06.jpg)
+
 ##### 4.	Community
 **(i)	Preschoolers**<br>
 •	Kindergarten – NCPS Tour <br>
 A student-led initiative by Prefect EXCO team and partnership with neighbouring kindergarten schools where they attended our school tour to ease Primary 1 transition, hosted by our Prefects. Advocating on healthy messages by Prefects, preschoolers get to try healthy meals sold in our school canteen and to highlight on personal hygiene to wash their hands before meals. In addition, they learn about active living through Recess Play Programme as they get to participate during the school tour. Preschoolers are also given opportunities to learn more about our Co-Curriculum Activities (CCA) through CCA Values-In-Action (VIA) organised and conducted by various CCA students.
+
+![](/images/Signature%20Programmes/llp08.jpg)
+
+![](/images/Signature%20Programmes/llp07__1_.jpg)
 
 •	Kindergarten Storytelling Session<br>
 Another student-led initiative planned and executed by Prefect EXCO team to advocate on healthy habits and active living. Prefect EXCO conducted storytelling sessions with storybooks related to healthy habits and sports and to engage preschoolers through simple workouts and physical activities.
