@@ -28,7 +28,7 @@ Designated venues such as school field and parade square are opened to various l
 
 ![](/images/Signature%20Programmes/llp05.jpg)
 
-
+<br>
 * Peer Support Leader (PSL) Games Corner<br>
 This programme promotes inclusiveness within the school environment and to promote culture of care. Initiated by our Peer Support Leaders (PSL), they devised Student Lounge and Peer Support Game Corner to support their peers in school. This initiative has benefitted whole school as they advocate on positive behaviour and relationships through games and to support mental wellbeing of students. Our P4 to P6 PSLs planned their own recess schedule to manage the Game Corner and Student Lounge during their respective recesses which improve student engagement and socialization and our Parent Support Group volunteers supported the Games Corner for our lower primary levels.
 
