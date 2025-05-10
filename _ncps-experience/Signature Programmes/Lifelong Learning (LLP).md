@@ -19,7 +19,7 @@ Aligned with the Health Promotion Board’s (HPB) Healthy Meals in Schools Progr
 ![](/images/Signature%20Programmes/llp04.jpg)
 <br>
 **(ii) Fortnightly Lower Primary (LP) Morning Workout &amp; No School Bag Day (NSBD) Level Workout**<br>
-Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in following events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br><br>
+Our P5 &amp; P6 CCA Leaders who volunteered themselves to serve the school by promoting active and healthy living under Lifelong Learning Programme - Healthier NCPS. They engaged in events and activities such as Fortnightly LP morning workout, NSBD level mass workout, promotion of health initiatives and related activities.<br>
 
 
 **(iii) Recess Play Programme**<br>
