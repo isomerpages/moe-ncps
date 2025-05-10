@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-
 ![](/images/Signature%20Programmes/gap01.jpg)
 
 ![](/images/Signature%20Programmes/gap02.jpg)
