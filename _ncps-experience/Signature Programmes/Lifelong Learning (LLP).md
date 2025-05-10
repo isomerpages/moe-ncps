@@ -14,8 +14,7 @@ The 7 Habits of Highly Effective People is one of the teaching tools to guide an
 
 ##### 2.	Students<br>
 **(i)	Healthy Canteen &amp; Health Talks**<br>
-Aligned to Health Promotion Board (HPB)
-The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and beverage choices in schools. Working closely with our canteen vendors, we aim to help students to cultivate healthy eating habits by providing healthy meals and health talks. Termly healthy messages are conveyed to parents to support the Grow Well SG programme.<br><br>
+Aligned to Health Promotion Board's (HPB) The Healthy Meals in Schools Programme (HMSP), to encourage healthier food and beverage choices in schools. Working closely with our canteen vendors, we aim to help students to cultivate healthy eating habits by providing healthy meals and health talks. Termly healthy messages are conveyed to parents to support the Grow Well SG programme.<br><br>
 
 ![](/images/Signature%20Programmes/llp03.jpg)
 
