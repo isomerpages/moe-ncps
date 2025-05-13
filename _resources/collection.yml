@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Information for Parents.md
       - Resources for Staff.md
       - Resource for Students.md
