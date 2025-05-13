@@ -38,20 +38,21 @@ and craft activities have been introduced to add vibrancy during recess.</p>
 <p>These activities are often in line with the NE related theme and festivities.</p>
 
 #### Harnessing of Technology
-<p><strong>Physical Education</strong>
-<br>Technology is part and parcel of life at Nan Chiau Primary School. To
+##### Physical Education
+Technology is part and parcel of life at Nan Chiau Primary School. To
 leverage on the power of technology, the PE department have started to
 use Polar Heart Rate Monitors which are specifically developed for the
 young. This technology allows students to record the duration of exercise
 as well as the level of intensity during a PE lesson. The data is then
 used by the students to plan for their own exercise programme which will
 have the maximum positive impact on their health and fitness.&nbsp; As
-a result, students thus become more self-directed and independent.</p>
-<p><strong>Art</strong> 
-<br>The Art Blog will be further enhanced to include more features. Virtual
+a result, students thus become more self-directed and independent.<p></p>
+
+##### Art
+The Art Blog will be further enhanced to include more features. Virtual
 Art Museum tours and more digitalised students’ art work will be included
 in the Art Blog. Students are able to explore YouTube links which are shared
-on the Art Blog to extend their lessons and learn.</p>
+on the Art Blog to extend their lessons and learn.<p></p>
 <p>Learning journey to the National Art Gallery will be conducted for students
 where they will make use of their tablets to take photographs and post
 up on blogs via the LMS portal.</p>
@@ -59,9 +60,10 @@ up on blogs via the LMS portal.</p>
 as part of their art curriculum. Students are also encouraged to search
 for online sources and research via their tablet for inspiration.</p>
 <p>Eco-Bin competition- Research and voting are done online.</p>
-<p><strong>Music</strong> 
-<br>IT related music programme was adopted to make&nbsp;music lessons&nbsp;more
-enjoyable and student centric.</p>
+
+##### Music
+IT related music programme was adopted to make&nbsp;music lessons&nbsp;more
+enjoyable and student centric.<p></p>
 <p>A new keyboard room has been set-up where ICT devices such as IPads can
 be connected and utilized for music lessons.</p>
 <p>The music department leverages on ICT tools which are available to supplement
