@@ -18,7 +18,7 @@ Programme;
 of different visual and performing arts and music programmes;
 <br>• instilled with life-long interest in and an appreciation for Art and
 Music.</p>
-<h4><strong>Talent development in PAM</strong></h4>
+#### Talent development in PAM
 <p>Students are given opportunities to apply the skills and knowledge they
 learnt during their PE lessons and recreational sports CCA to participate
 in intra and inter class competitions. Talented students who are spotted
@@ -29,13 +29,15 @@ interest or &nbsp;good in music and art are given various platforms such
 as school concerts, mass singing, internal art competitions, etc., to display
 their talents. Outstanding students who displayed exceptionally capabilities
 in music and art are then sent for external competitions.</p>
-<h4><strong>PLAY @ Recess</strong></h4>
+
+#### PLAY @ Recess
 <p>Students are also encouraged to keep fit by engaging in sports and games
 during their recess. Activities related to art and music have also be included
 to cater to students who enjoy these activities. Karaoke sessions and art
 and craft activities have been introduced to add vibrancy during recess.</p>
 <p>These activities are often in line with the NE related theme and festivities.</p>
-<h4><strong>Harnessing of Technology</strong></h4>
+
+#### Harnessing of Technology
 <p><strong>Physical Education</strong>
 <br>Technology is part and parcel of life at Nan Chiau Primary School. To
 leverage on the power of technology, the PE department have started to
