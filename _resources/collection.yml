@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Resource for students.md
+      - Resource for Students.md
       - Resources for Staff.md
