@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Resources for Teachers.md
       - Resources.md
+      - Resources for Teachers.md
