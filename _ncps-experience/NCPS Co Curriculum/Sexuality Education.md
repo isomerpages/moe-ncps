@@ -44,8 +44,9 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click&nbsp; <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="\_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of NAN CHIAU PRIMARY SCHOOL’S Sexuality Education Programme for 2025</strong>
-</p>
+
+#### Overview of NAN CHIAU PRIMARY SCHOOL’S Sexuality Education Programme for 2025
+<p></p>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -61,7 +62,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>:&nbsp;</p>
+
+#### Sexuality Education Lessons
 <ol start="6">
 <li>
 <p>The upper primary years mark the onset of puberty. With better nutrition
