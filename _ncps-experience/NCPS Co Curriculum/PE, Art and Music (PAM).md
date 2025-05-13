@@ -7,9 +7,6 @@ variant: tiptap
 ---
 <p>Physical Education, Art and Music curriculum plays an important role in
 the holistic development of students in Nan Chiau Primary School.</p>
-<div class="isomer-image-wrapper">
-<img style="width:120%" height="auto" width="100%" src="/images/Our%20Curriculum_PAM/pam%201.png">
-</div>
 <p>The overall aim of the PE, Music and Art education is to promote Physical
 Education, Music &amp; Art in 3 aspects: KNOWLEDGE, SKILLS and VALUES</p>
 <p>At the end of their 6 years primary school education in NCPS, every student
@@ -38,9 +35,6 @@ during their recess. Activities related to art and music have also be included
 to cater to students who enjoy these activities. Karaoke sessions and art
 and craft activities have been introduced to add vibrancy during recess.</p>
 <p>These activities are often in line with the NE related theme and festivities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Curriculum_PAM/Pam01.jpg">
-</div>
 <h4><strong>Harnessing of Technology</strong></h4>
 <p><strong>Physical Education</strong>
 <br>Technology is part and parcel of life at Nan Chiau Primary School. To
