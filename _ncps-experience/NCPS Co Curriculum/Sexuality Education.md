@@ -5,8 +5,6 @@ description: ""
 third_nav_title: NCPS Co Curriculum
 variant: tiptap
 ---
-<p><strong>NAN CHIAU PRIMARY SCHOOL</strong>
-</p>
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <ol data-tight="true" class="tight">
