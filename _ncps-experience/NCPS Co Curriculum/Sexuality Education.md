@@ -5,8 +5,7 @@ description: ""
 third_nav_title: NCPS Co Curriculum
 variant: markdown
 ---
-<p><strong>MOE Sexuality Education in Schools</strong>
-</p>
+#### MOE Sexuality Education in Schools
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools is about enabling students to understand
