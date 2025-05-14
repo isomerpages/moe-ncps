@@ -27,7 +27,7 @@ uses research-based teaching strategies and age-appropriate materials to
 engage children in the learning of English.
 
 ![](/images/Our%20Curriculum_English/engstellar.jpg)
-
+<img src="/images/Our%20Curriculum_English/engstellar.jpg" style="width:80%">
 
 #### Key Programmes 
    
