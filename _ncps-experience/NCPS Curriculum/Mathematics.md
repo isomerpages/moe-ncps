@@ -12,7 +12,7 @@ Every child is a **creative problem solver** (innovative, think of different way
 #### **Department Focus**
 
 *   To equip students with **mathematical knowledge**, **skills** and **dispositions** for lifelong learning
-*   To empower teachers to provide a more&nbsp;_engaging, student-centred, and technology-enabled_&nbsp;learning environment in Content, Pedagogy and Assessment
+*   To empower teachers to provide a more **engaging**,** student-centred**, and **technology-enabled** learning environment in Content, Pedagogy and Assessment
 
 #### **Department Approach**
 
