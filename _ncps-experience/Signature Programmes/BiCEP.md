@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Signature Programmes
 variant: markdown
 ---
-
 ![](/images/Signature%20Programmes/BICEP01.jpg)<br>
 ![](/images/Signature%20Programmes/BICEP02.jpg)
 
-#### <b>Bi-cultural Chinese Elective Programme (BiCEP) </b>
-#### <b>双文化华文优选课程</b>
+#### Bi-cultural Chinese Elective Programme (BiCEP) 
+#### 双文化华文优选课程
 
 BiCEP is a SHHK signature programme to develop a core group of effectively bilingual students. Launched in 2017, the BiCEP curriculum is designed by a team of experienced Chinese Language teachers, in consultation with professionals in the Chinese Language and Culture. 
 Eligible students are invited to join the 3-year programme at the end of Primary three. The 3-year curriculum allows students to explore Chinese Literature and Culture, learn Translation and Oratorical skills, in the process discover their passion and interest in Chinese language and culture.
