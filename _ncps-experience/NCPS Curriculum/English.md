@@ -75,7 +75,7 @@ to find out more, share their knowledge, and build on one another’s knowledge.
 * curated contemporary issues and presented at the appropriate level for young readers to inform and challenge them.<br> 
 * keeping the students engaged through the English language exercises that improve oral, grammar and composition skills
 
-**What is learning support?**<br>
+**What is Learning Support?**<br>
 Through specialised early intervention programmes, students are provided with structured curriculum to close their learning gaps with their peers.<br>
 The programmes are conducted by trained teachers who focused on building language skills in small groups of not more than ten students.
 
@@ -83,7 +83,7 @@ The programmes are conducted by trained teachers who focused on building languag
 
 #### iCT in the curriculum
 
-**iCT in the classroom**<br>
+**iCT In The Classroom**<br>
 In Nan Chiau Primary School, our self-directed learners:<br>
 * are intrinsically motivated to learn<br>
 * take ownership of their own learning<br>
