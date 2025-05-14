@@ -115,11 +115,11 @@ Nan Chiau Primary School was conferred the School Distinction Award and three Be
 南侨小学获颁资讯通信科技“学校专长活动计划奖”。  
 南侨小学获颁“新加坡创新(I-Class)奖”。
 
-**二零零九年**  
+#### 二零零九年
 南侨小学与南洋理工大学国立教育学院联合设立本地第一个教育研究所 Centre for Educational Research and Application,CERA）  
 学校参与由新加坡教育部和微软携手策划的BackPack.LIVE计划。
 
-**二零一零年**  
+#### 二零零年
 南侨小学成为北区校群的资讯通信科技卓越中心（CoE,ICT）。  
 南侨小学再次获得 “新加坡创新(I-Class)奖”。
 
