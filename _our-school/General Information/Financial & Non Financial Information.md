@@ -9,7 +9,7 @@ third_nav_title: General Information
 **Address:**&nbsp;50 Anchorvale Link, Singapore 545080
 
 **Contact Information:**<br>
-**Name of Contact Person:** Mr Winston Tan Wee Sing<br>
+**Contact Person:** Mr Winston Tan Wee Sing<br>
 **Telephone No:** 6489 7905<br>
 **Fax No:** 6489 7906 <br>
 **Email Address:** [ncps@moe.edu.sg](mailto:ncps@moe.edu.sg)  
