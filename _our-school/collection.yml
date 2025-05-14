@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Heritage/School Crest and Song.md
       - Heritage/.keep
       - Heritage/History.md
       - Heritage/Vision, Mission, Values.md
