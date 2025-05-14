@@ -26,7 +26,7 @@ positive attitude towards learning in the foundation years. The programme
 uses research-based teaching strategies and age-appropriate materials to
 engage children in the learning of English.
 
-![](/images/Our%20Curriculum_English/stellar_2025.jpg)
+![](/images/Our%20Curriculum_English/engstellar.jpg)
 
 
 #### **Key Programmes**  
@@ -45,7 +45,7 @@ engage children in the learning of English.
 * Reading Remediation Programme (RRP)
 * School-based Dyslexia Remediation (SDR) Programme 
 
-**iCT in the curriculum**
+**iCT In The Curriculum**
 
 * iCT in the classroom
 * Moo-O
