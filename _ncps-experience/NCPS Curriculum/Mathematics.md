@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### **Department Vision**
 
-Every child is a&nbsp;_creative problem solver_&nbsp;(innovative, think of different ways), with a&nbsp;_positive attitude_&nbsp;(beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
+Every child is a **creative problem solver** (innovative, think of different ways), with a **positive attitude** (beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
 
 #### **Department Focus**
 
