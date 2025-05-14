@@ -60,7 +60,7 @@ TREX: In line with Stellar 2.0, we aim to strengthen our children’s language a
 ![](/images/Our%20Curriculum_English/Trex_2025.jpg)
 
 
-**School-based Reading Programme**<br>
+**School-Based Reading Programme**<br>
 The objective of our Reading Programme is to develop students’ interest and positive attitude to
 learning beyond their comfort zones, indirectly improving their achievement in the language, and
 fostering in them a life-long habit of self-directed learning for information and enjoyment. By
@@ -81,7 +81,7 @@ The programmes are conducted by trained teachers who focused on building languag
 
 ![](/images/Our%20Curriculum_English/Eng_LSP01.jpg)
 
-#### iCT in the curriculum
+#### iCT In The Curriculum
 
 **iCT In The Classroom**<br>
 In Nan Chiau Primary School, our self-directed learners:<br>
