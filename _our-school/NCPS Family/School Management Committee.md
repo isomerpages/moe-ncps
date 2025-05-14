@@ -8,7 +8,7 @@ third_nav_title: NCPS Family
 <p style="color:#002060"><b>Nan Chiau Primary School is a government-aided school established by the Singapore Hokkien Huay Kuan </b></p>
 
 
-<img src="/images/OUR%20SCHOOL/SHHK_icon.jpg" style="width:60%">
+<img src="/images/OUR%20SCHOOL/SHHK_icon.jpg" style="width:100%">
 
 Singapore Hokkien Huay Kuan set up its first school in 1849. Over the years, it built Chongwen Ge, Chui Eng&nbsp;Free School, Tao Nan School, Ai Tong School, Chong Hock Girls’ School, Nan Chiau High School and Kong&nbsp;Hwa School. Initially, these schools adopted prevailing China’s curriculum and taught Chinese culture and&nbsp;values, including Analects of Confucius (Lun Yu《论语》), in Hokkien. To meet the pace of societal changes,&nbsp;these soon gave way to offering English Language and Mathematics in addition to the Chinese Language.
 
