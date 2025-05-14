@@ -27,6 +27,6 @@ variant: markdown
 <font size="2">*Only on CCA &amp; Coaching days</font> 
  
  
-##### **General Office Opening Hours**
+#### General Office Opening Hours
  
 <table border="0" style="font-size: 18px;box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 100%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255);"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 30%;">Monday to Friday </td><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 70%;">7.30 am - 5.00 pm</td></tr></tbody></table>
