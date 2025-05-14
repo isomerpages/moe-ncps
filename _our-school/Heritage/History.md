@@ -3,68 +3,67 @@ title: History
 permalink: /our-school/history/
 description: ""
 third_nav_title: Heritage
+variant: markdown
 ---
 Nan Chiau Primary School is one of six schools run by the Singapore Hokkien Huay Kuan. It was formerly the primary section of Nan Chiau High School. Established in March 1947, it is always progressing with the time, continuously undergoing self-renewal in line with the needs of the nation and making positive contributions to the educational development of Singapore.
 
 南侨小学前身为南侨中学附小，是新加坡福建会馆属下六所学校之一。创立于一九四七年三月，它虽然经历了不少变迁，但总是紧跟时代的步伐，配合国家的需要，不断自行自我调整，为国家的教育事业做出积极的贡献。
 
-<img src="/images/Homepage/Old_NCPS.jpg" style="width:50%">
+<img src="/images/Homepage/Old_NCPS.jpg" style="width:100%">
 
-<img src="/images/Homepage/Tan_KK_Lee_KC.jpg" style="width:50%">
+<img src="/images/Homepage/Tan_KK_Lee_KC.jpg" style="width:100%">
 
-**1941**  
+#### 1941
 Initiated by Mr Tan Kah Kee, Mr Lee Kong Chian donated a plot of land at Kim Yan Road as the school site for the building of Nan Chiau Teachers’ Training School.
 
-**1947**  
+#### 1947
 Singapore Hokkien Huay Kuan converted the Nan Chiau Teachers’ Training School to Nan Chiau Girls’ High School including an ancillary primary school. Nan Chiau Girls’ High School was founded.
 
-**1965**  
+#### 1965
 Singapore Hokkien Huay Kuan invested $2 million in rebuilding the school. The secondary school moved to temporary premises at Guillemard Road while the primary school remained at the original site.
 
-**1969**  
+#### 1969
 Nan Chiau Primary School is one of six schools run by the Singapore Hokkien Huay Kuan. It was formerly the primary section of Nan Chiau High School. Established in March 1947, it is always progressing with the time, continuously undergoing self-renewal in line with the needs of the nation and making positive contributions to the educational development of Singapore. .
 
-**1979**  
+#### 1979
 The school began functioning as a full school, with the primary section and the secondary section sharing the same premises.
 
-**1980**  
+#### 1980
 The school adopted English as its main medium of instruction.
-
-**1984**  
+#### 1984
 With its first intake of male pupils, the school became co-educational and was renamed Nan Chiau High School.
 
-**2001**  
+#### 2001
 Relocated to Sengkang New Town in December 2000, Nan Chiau High School and Nan Chiau Primary School operated as two schools in January 2001.
 
-**2003**  
+#### 2003
 Nan Chiau Primary School was officially opened by RAdm Teo Chee Hean, Minister for Education on 8 March 2003.
 
-**2005**  
+#### 2005
 The school was selected to join BackPack.NET, a collaborative initiative by MOE, Microsoft and iDA.
-
-**2006**  
+#### 2006
 The school was awarded the LEAD IT School status.  
 The school was also the Prototype School for Curriculum Innovation under the TLLM (Teach Less Learn More) initiative.
 
-**2007**  
+#### 2007
 The school achieved the Best School (National) Thinking Culture Award (TCA).  
 The school received the Programme for School-Based Excellence (PSE) in ICT Award.  
 The school received the Singapore Innovation Class (I-Class) Award.
 
-**2009**  
+#### 2009
 Nan Chiau Primary School and the Learning Sciences Lab/National Institute of Education jointly set up the Centre for Educational Research and Application in ICT (CERA).  
 The school was selected to join BackPack.LIVE, a collaborative initiative by MOE and Microsoft.
 
-**2010**  
+#### 2010
 The school was appointed the North Zone (NZ) Centre of Excellence (CoE) for ICT.  
 The school was also named a Microsoft Mentor School.  
 The school received the Singapore Innovation Class (I-Class) Award for the second time.
 
-**2011**  
+#### 2011
 Nan Chiau Primary School received the status of FutureSchool@Singapore.  
 The school launched MyCLOUD and Seamless Learning and was awarded the status of Niche School in Basketball.
 
-**2012**  
+#### 2012
 The school rolled out several ICT programmes:
 
 *   Seamless Learning Science Project
@@ -74,13 +73,13 @@ The school rolled out several ICT programmes:
 *   Mathematics Project
 *   Science Digital Story-telling Project with a Finnish School
 
-**2016**  
+#### 2016
 Nan Chiau Primary School was conferred the School Distinction Award and three Best Practices Awards in Teaching &amp; Learning, Partnership and Staff Well-Being &amp; Development.
 
-**一九四一年**  
+#### 一九四一年
 由陈嘉庚先生发起，李光前先生捐献金炎路校址，创办南侨师范学校。
 
-**一九四七年**  
+#### 一九四七年
 新加坡福建会馆将南侨师范改为南侨女子中学，并且设立了附小。
 
 **一九六五年**  
