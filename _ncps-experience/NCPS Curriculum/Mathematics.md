@@ -5,25 +5,25 @@ description: ""
 third_nav_title: NCPS Curriculum
 variant: markdown
 ---
-#### **Department Vision**
+#### Department Vision
 
 Every child is a **creative problem solver** (innovative, think of different ways), with a **positive attitude** (beliefs, interest, appreciation, confidence, perseverance) towards Mathematics
 
-#### **Department Focus**
+#### Department Focus
 
 *   To equip students with **mathematical knowledge**, **skills** and **dispositions** for lifelong learning
 *   To empower teachers to provide a more **engaging**,** student-centred**, and **technology-enabled** learning environment in Content, Pedagogy and Assessment
 
-#### **Department Approach**
+#### Department Approach
 
 <img src="/images/Our%20Curriculum%20Math/Math-Counts-768x193.png" style="width:100%">
 
-#### **MOE Mathematics Framework**
+#### MOE Mathematics Framework
 
 ![](/images/Our%20Curriculum%20Math/singapure_math.jpg)
 
 
-#### **MOE Mathematics syllabus**
+#### MOE Mathematics syllabus
 <a target="\_blank" href="https://www.moe.gov.sg/primary/curriculum/syllabus">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 
 
@@ -50,7 +50,7 @@ The competitions which we participate in:
 *   National Mathematical Olympiad of Singapore by NUS High (NMOS) – P4 and P5
 *   Singapore Mathematical Oylmpiad for Primary School by Hwa Chong (SMOPS) – P6 &amp; selected P5 students
 
-#### **Key Programmes**
+#### Key Programmes
 
 ##### 1. ‘I am a young Mathematics star’
 <img src="/images/Our%20Curriculum%20Math/star%20resized.png" style="width:60%">
