@@ -5,19 +5,19 @@ description: ""
 third_nav_title: NCPS Curriculum
 variant: markdown
 ---
-#### **Department Vision** 
+#### Department Vision
 
 Our students are active listeners, effective readers, inspiring speakers, talented writers, and passionate life-long learners.
 
-#### **Department Mission**  
+#### Department Mission 
 
 To instil the love of English Language Learning and Reading through different strategies and foster life-long learning by Integrating 21 CC and values into the curriculum.
 
-#### **Department Approach**  
+#### Department Approach  
    
 At NCPS, we aim to equip students with a strong foundation in reading, writing, speaking, listening, viewing &amp; representing skills for effective communication and provide an enjoyable language learning experience through explicit instruction and communicative approach to language development anchored on the English Language Syllabus 2020 (MOE, Singapore).
 
-#### **Core Curriculum**  
+#### Core Curriculum 
 
 STELLAR (Strategies for English Language Learning and Reading) is the core
 curriculum which the school adopts for English Language. STELLAR aims to
@@ -29,7 +29,7 @@ engage children in the learning of English.
 ![](/images/Our%20Curriculum_English/engstellar.jpg)
 
 
-#### **Key Programmes**  
+#### Key Programmes 
    
 **Readers for Life**<br>
 <ul>
@@ -53,7 +53,7 @@ engage children in the learning of English.
 **Experiential Learning**
 * Activities in and outside classroom
 
-#### Readers for Life
+##### Readers for Life
 **TREX- Time for Reading EXposure**<br>
 TREX: In line with Stellar 2.0, we aim to strengthen our children’s language and reading skills through TREX - Time for Reading EXposure. We adopt a school-wide approach where students are exposed to books of different genres in their foundational years. Through this programme, we wish to foster good reading habits in our students and inject a little fun before lessons begin.
 
@@ -81,7 +81,7 @@ The programmes are conducted by trained teachers who focused on building languag
 
 ![](/images/Our%20Curriculum_English/Eng_LSP01.jpg)
 
-#### iCT In The Curriculum
+##### iCT In The Curriculum
 
 **iCT In The Classroom**<br>
 In Nan Chiau Primary School, our self-directed learners:<br>
@@ -101,7 +101,7 @@ technology for learning and can:<br>
 
 ![](/images/Our%20Curriculum_English/Eng_ICT01.jpg)
 
-#### Experiential Learning
+##### Experiential Learning
 
 * Teaching English with hands-on activities can help language students learn and practice new vocabulary, grammar, ideas, and concepts <br>
 * Students learn in a variety of ways, so it is important to teach using multiple methods.&nbsp;By incorporating hands-on experiences in our English lessons, students have higher levels of engagement and learning
