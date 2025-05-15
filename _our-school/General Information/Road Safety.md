@@ -21,6 +21,8 @@ Please adhere to the speed limit of 40 km/h while driving in the school zone are
 **Dropping off your&nbsp;child**<br>
 Alight your child at the designated drop-off point at Gate C and not along the main road at Gate A or B. Get your child to be ready to alight when your car approaches the designated drop-off point. Your child should alight swiftly on the side nearest to the kerb.&nbsp; Parents should promptly drive off once your child has alighted from the car.
 
+![](/images/OUR%20SCHOOL/Map01.jpg)
+
 #### Parking
 
 Parking at the school compound is strictly for authorised personnel only.&nbsp; Parents/guardians who are visiting the school (e.g. meeting with teachers or school leaders) are to park at the nearby multi-storey car parks. For parents who are driving to pick up their child who is unwell/injured, you may park your vehicle for a short duration (not exceeding 10 minutes) at the visitors’ carpark lots.
