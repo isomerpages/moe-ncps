@@ -24,21 +24,42 @@ The heart shape in the overlapping centre symbolises care and concern for the to
  
 
 **First Verse**:  
-Our passion is burning  
-Our songs are soaring  
-Let us praise in a single voice  
-Beloved Nan Chiau.
+Our passion is burning
+热情在燃烧
 
-Reinvent ourselves  
-Thrive in the dynamic era  
-Promote the Chinese culture  
+Our songs are soaring
+歌声上云霄
+
+Let us praise in a single voice
+我们同声赞美
+
+Beloved Nan Chiau
+可爱的南侨
+
+Reinvent ourselves
+时代在呼唤
+
+Thrive in the dynamic era
+警钟在猛敲
+
+Promote the Chinese culture 
+发扬中华文化
+
 Seek glory for our nation
+争取国家荣耀
 
 **Chorus**:  
 Beloved teachers and friends  
-Beloved schoolmates  
+亲爱的老师友们
+
+Beloved schoolmates 
+亲爱的同学们 
+
 Let us put our hearts together  
+我们携手迈进
+
 To work towards our common goal
+向着那共同的目标
 
 **Second Verse**  
 Passion in learning  
