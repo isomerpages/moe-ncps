@@ -49,8 +49,7 @@ Seek glory for our nation
 争取国家荣耀
 
 **Chorus**:  
-Beloved teachers and friends  
-亲爱的师友们
+Beloved teachers and friends  亲爱的师友们
 
 Beloved schoolmates 
 亲爱的同学们 
@@ -80,7 +79,7 @@ Reinvent ourselves
 Thrive in the dynamic era  
 警钟在猛敲
 
-Promote t
+Promote the Chinese culture
 发扬中华文化 
 
 Seek glory for our nation
@@ -94,5 +93,6 @@ Beloved schoolmates
 
 Let us put our hearts together  
 我们携手迈进
+
 To work towards our common goal
-向着那共同的目标 
+向着那共同的目标
