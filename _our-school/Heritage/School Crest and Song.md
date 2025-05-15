@@ -63,14 +63,28 @@ To work towards our common goal
 
 **Second Verse**  
 Passion in learning  
-Relentless in pursuing  
+虚心的学习
+
+Relentless in pursuing 
+不断的研讨遵 
+
 Uphold our school motto  
+守诚毅校训
+
 Sincerity and perseverance
+遵守诚毅校训
 
 Reinvent ourselves  
+大家团结牢
+
 Thrive in the dynamic era  
+时代在呼唤
+
 Promote the Chinese culture  
+发扬中华文化 
+
 Seek glory for our nation
+争取国家荣耀
 
 **Chorus**:  
 Beloved teachers and friends  
