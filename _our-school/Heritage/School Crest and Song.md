@@ -83,7 +83,7 @@ Thrive in the dynamic era  <br>
 Promote the Chinese culture<br>
 发扬中华文化 
 
-Seek glory for our nation
+Seek glory for our nation<br>
 争取国家荣耀
 
 **Chorus**:  
