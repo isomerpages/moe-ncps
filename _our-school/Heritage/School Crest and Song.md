@@ -50,7 +50,7 @@ Seek glory for our nation
 
 **Chorus**:  
 Beloved teachers and friends  
-亲爱的老师友们
+亲爱的师友们
 
 Beloved schoolmates 
 亲爱的同学们 
@@ -66,28 +66,33 @@ Passion in learning
 虚心的学习
 
 Relentless in pursuing 
-不断的研讨遵 
+不断的研讨
 
 Uphold our school motto  
-守诚毅校训
-
-Sincerity and perseverance
 遵守诚毅校训
 
-Reinvent ourselves  
+Sincerity and perseverance
 大家团结牢
 
-Thrive in the dynamic era  
+Reinvent ourselves  
 时代在呼唤
 
-Promote the Chinese culture  
+Thrive in the dynamic era  
+警钟在猛敲
+
+Promote t
 发扬中华文化 
 
 Seek glory for our nation
 争取国家荣耀
 
 **Chorus**:  
-Beloved teachers and friends  
+Beloved teachers and friends 亲爱的师友们 
+
 Beloved schoolmates  
+亲爱的同学们
+
 Let us put our hearts together  
+我们携手迈进
 To work towards our common goal
+向着那共同的目标 
