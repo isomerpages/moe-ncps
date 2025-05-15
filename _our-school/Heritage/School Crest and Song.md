@@ -24,75 +24,77 @@ The heart shape in the overlapping centre symbolises care and concern for the to
  
 
 **First Verse**:  
-Our passion is burning
+Our passion is burning<br>
 热情在燃烧
 
-Our songs are soaring
+Our songs are soaring<br>
 歌声上云霄
 
-Let us praise in a single voice
+Let us praise in a single voice<br>
 我们同声赞美
 
-Beloved Nan Chiau
+Beloved Nan Chiau<br>
 可爱的南侨
 
-Reinvent ourselves
+Reinvent ourselves<br>
 时代在呼唤
 
-Thrive in the dynamic era
+Thrive in the dynamic era<br>
 警钟在猛敲
 
-Promote the Chinese culture 
+Promote the Chinese culture <br>
 发扬中华文化
 
-Seek glory for our nation
+Seek glory for our nation<br>
 争取国家荣耀
 
 **Chorus**:  
-Beloved teachers and friends  亲爱的师友们
+Beloved teachers and friends  <br>
+亲爱的师友们
 
-Beloved schoolmates 
+Beloved schoolmates <br>
 亲爱的同学们 
 
-Let us put our hearts together  
+Let us put our hearts together  <br>
 我们携手迈进
 
-To work towards our common goal
+To work towards our common goal<br>
 向着那共同的目标
 
 **Second Verse**  
-Passion in learning  
+Passion in learning  <br>
 虚心的学习
 
-Relentless in pursuing 
+Relentless in pursuing <br>
 不断的研讨
 
-Uphold our school motto  
+Uphold our school motto  <br>
 遵守诚毅校训
 
-Sincerity and perseverance
+Sincerity and perseverance<br>
 大家团结牢
 
-Reinvent ourselves  
+Reinvent ourselves  <br>
 时代在呼唤
 
-Thrive in the dynamic era  
+Thrive in the dynamic era  <br>
 警钟在猛敲
 
-Promote the Chinese culture
+Promote the Chinese culture<br>
 发扬中华文化 
 
 Seek glory for our nation
 争取国家荣耀
 
 **Chorus**:  
-Beloved teachers and friends 亲爱的师友们 
+Beloved teachers and friends <br>
+亲爱的师友们 
 
-Beloved schoolmates  
+Beloved schoolmates  <br>
 亲爱的同学们
 
-Let us put our hearts together  
+Let us put our hearts together  <br>
 我们携手迈进
 
-To work towards our common goal
+To work towards our common goal<br>
 向着那共同的目标
