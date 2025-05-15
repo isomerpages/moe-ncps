@@ -15,7 +15,13 @@ The red colour of the rings depicts a persevering spirit to pursue a bright and 
 The heart shape in the overlapping centre symbolises care and concern for the total welfare of pupils in a pupil-oriented system.
 
 #### Our Song
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkW8A3fOKB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<div style="max-width: 560px;">
+  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kkW8A3fOKB0?si=CNae-AARjj6B0n2t">
+    </iframe>
+  </div>
+</div>
+ 
 
 **First Verse**:  
 Our passion is burning  
