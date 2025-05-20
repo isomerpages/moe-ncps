@@ -21,7 +21,7 @@ Please adhere to the speed limit of 40 km/h while driving in the school zone are
 **Dropping off your&nbsp;child**<br>
 Alight your child at the designated drop-off point at Gate C and not along the main road at Gate A or B. Get your child to be ready to alight when your car approaches the designated drop-off point. Your child should alight swiftly on the side nearest to the kerb.&nbsp; Parents should promptly drive off once your child has alighted from the car.
 
-![](/images/OUR%20SCHOOL/Map01.jpg)
+![](/images/OUR%20SCHOOL/Schoolmap02.jpg)
 
 #### Parking
 
