@@ -32,3 +32,8 @@ Respect, Responsibility, Sincerity,&nbsp;Perseverance
 #### 学校价值观
 
 尊敬, 责任感, 诚意，毅力
+
+#### Our Three Goldern Rules
+We Respect Ourselves<br>
+We Respect One Another <br>
+We Respect This Place
