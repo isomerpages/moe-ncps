@@ -8,8 +8,6 @@ variant: markdown
 #### Parents' Role
 Road safety is a shared responsibility.&nbsp; Parents play an important role in modelling positive road safety behaviour for our children.&nbsp; Parents are reminded to abide by traffic rules and&nbsp; adhere to the schools’ traffic management policies.
 
-![](/images/OUR%20SCHOOL/Schoolmap01.jpg)
-
 ![](/images/OUR%20SCHOOL/Schoolmap03.jpg)
 
 #### Driving
