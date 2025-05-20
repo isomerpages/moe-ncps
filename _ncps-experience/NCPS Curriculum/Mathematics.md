@@ -53,9 +53,6 @@ The competitions which we participate in:
 #### Key Programmes
 
 ##### 1. ‘I am a young Mathematics star’
-<img src="/images/Our%20Curriculum%20Math/star%20resized.png" style="width:60%">
-
-
 
 To build our students’ interests and confidence in Mathematics, the department designed simple and fun activities to engage them to connect Mathematics with their daily life experiences, and experience successes in Mathematics.
 
@@ -70,7 +67,8 @@ Traditional teacher-centric lessons are no longer effective to meet the learning
 
 
 ##### 3. Play@Recess
-<img src="/images/Our%20Curriculum%20Math/Math-Model-1.png" style="width:60%">
+
+![](/images/Our%20Curriculum%20Math/math_02.jpg)
 Our students learn the best through play. Through these Mathematics games, students are able to better grasp their concepts, have a deeper understanding and apply the concepts learnt in class.
 
 
