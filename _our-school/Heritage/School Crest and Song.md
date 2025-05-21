@@ -29,8 +29,8 @@ The heart shape in the overlapping centre symbolises care and concern for the to
 
 
 **First Verse**:  
-Our passion is burning<br>
-热情在燃烧
+Our passion is burning,  Our songs are soaring<br>
+热情在燃烧, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;歌声上云霄
 
 Our songs are soaring<br>
 歌声上云霄
