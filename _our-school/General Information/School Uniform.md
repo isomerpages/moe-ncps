@@ -24,7 +24,7 @@ Students are to wear the prescribed school uniform when they report to school, i
 
 <img src="/images/OUR%20SCHOOL/School_boy.png" style="width:80%">
 
-**Hair **
+**Hair**
 * Well-trimmed and not touching ears, eyebrows and collar
 
 **Face**
