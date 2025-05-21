@@ -82,4 +82,3 @@ Problem Solving is at the heart of the Singapore Mathematics Curriculum. Our sch
 ##### 5.&nbsp;CONCRETE – pictorial – abstract
 
 We strongly believes that students have a deeper understanding of the concepts learnt through hands-on activities. Through these activities using Math manipulative, students are able to better grasp their concepts and apply the concepts in the assigned tasks.
-
