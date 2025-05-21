@@ -7,14 +7,15 @@ third_nav_title: School Service Providers
 ---
 #### NCPS HPB Dental Clinic
 
-Operating hours *
+**Operating hours**
 
-|       | School Term |<br>
+|  School Term     |  |<br>
 | -------- | -------- | -------- |
-| Operating Hours  | Monday to Friday<br>8.00am - 5.00pm<br>Alternate week    | 
-| Lunch Hours  | Monday to Friday<br>1.00pm - 2.00pm<br>    | 
+|Monday to Friday  | 8.00am - 5.00pm<br>(Alternate week)    | 
+| Lunch Hours  | 1.00pm - 2.00pm<br>    | 
 
-\* <font size="3"> Subject to changes when Dental Therapist is on leave</font>
+Contact Person: Madam Han Peck Jong<br>
+Contact Number: 85334638
 
 #### School Bus Operator – Polly Transport Services
 
