@@ -54,29 +54,18 @@ Let us put our hearts together,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 **Second Verse**  
-Passion in learning  <br>
-虚心的学习
+Passion in learning, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Relentless in pursuing <br>
+虚心的学习, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不断的研讨
 
-Relentless in pursuing <br>
-不断的研讨
+Uphold our school motto,  Sincerity and perseverance <br>
+遵守诚毅校训, 大家团结牢
 
-Uphold our school motto  <br>
-遵守诚毅校训
+Reinvent ourselves, Thrive in the dynamic era <br>
+时代在呼唤, 警钟在猛敲
 
-Sincerity and perseverance<br>
-大家团结牢
+Promote the Chinese culture, Seek glory for our nation<br>
+发扬中华文化, 争取国家荣耀
 
-Reinvent ourselves  <br>
-时代在呼唤
-
-Thrive in the dynamic era  <br>
-警钟在猛敲
-
-Promote the Chinese culture<br>
-发扬中华文化 
-
-Seek glory for our nation<br>
-争取国家荣耀
 
 **Chorus**:  
 Beloved teachers and friends <br>
