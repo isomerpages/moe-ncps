@@ -31,32 +31,6 @@ At Nascans, outdoor activities play a vital role in fostering physical, social, 
 NASCANS is supported by a dedicated team at our headquarters, bringing decades of experience in the effective management and operation of student care centres. Our team's expertise ensures that we consistently provide high-quality care and support for students.
 
 
-#### MANAGEMENT &amp; CURRICULUM TEAM
-
-**Mdm Ci Ci Koh – Executive Director** <br>
-Director of Global Eduhub  
-Global EduHub is an Education Service Provider, managing and supporting a large chain of premium schools which offer a range of quality and effective educational services ranging from infant care, childcare to student care, making an impact to young children’s lives during their most important formative years.
-
-**Dr Henry Toi** <br>
-Executive Director of The Art Costa Centre for Thinking &amp; Affiliate Director of Habits of Mind  
-Creator the The Habits of S.U.C.C.E.S.S.  
-Founder and Managing Director of Nurture Craft  
-Master Trainer for Tony Buzan’s mind mapping
-
-**Ms Chiew Lai Peng** <br>
-Curriculum Director of The Art Costa Centre  
-Professional Developer with The Institute For Habit of Mind  
-Graduated from NIE, Singapore  
-Certified Developer, MIDAS Administrator and Buzan Licensed Instructor
-
-**CENTRE OPENING HOURS** <br>
-School Term (Monday to Friday):&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10.00 am – 7.00 pm  
-School Holiday &amp; School Closure Days:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.30 am – 7.00 pm
-
-**STUDENT CARE FEES** <br>
-School Term:&nbsp; $224 per month (inclusive of GST)  
-Student Care Fee Assistance (SCFA) by MSF are available for students in need of financial assistance.&nbsp;_Terms and conditions apply._
-
 &nbsp;**CONTACT DETAILS** <br>
 Jacinta Thomas<br>
 Senior Centre Head  
