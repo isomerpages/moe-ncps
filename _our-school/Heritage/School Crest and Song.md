@@ -32,26 +32,14 @@ The heart shape in the overlapping centre symbolises care and concern for the to
 Our passion is burning,  Our songs are soaring<br>
 热情在燃烧, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;歌声上云霄
 
-Our songs are soaring<br>
-歌声上云霄
+Let us praise in a single voice, Beloved Nan Chiau<br>
+我们同声赞美, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可爱的南侨
 
-Let us praise in a single voice<br>
-我们同声赞美
+Reinvent ourselves, Thrive in the dynamic era<br>
+时代在呼唤, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;警钟在猛敲
 
-Beloved Nan Chiau<br>
-可爱的南侨
-
-Reinvent ourselves<br>
-时代在呼唤
-
-Thrive in the dynamic era<br>
-警钟在猛敲
-
-Promote the Chinese culture <br>
-发扬中华文化
-
-Seek glory for our nation<br>
-争取国家荣耀
+Promote the Chinese culture, Seek glory for our nation<br>
+发扬中华文化, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;争取国家荣耀
 
 **Chorus**:  
 Beloved teachers and friends  <br>
