@@ -5,19 +5,21 @@ description: ""
 third_nav_title: NCPS Co Curriculum
 variant: markdown
 ---
-<p>Physical Education, Art and Music curriculum plays an important role in
-the holistic development of students in Nan Chiau Primary School.</p>
-<p>The overall aim of the PE, Music and Art education is to promote Physical
-Education, Music &amp; Art in 3 aspects: KNOWLEDGE, SKILLS and VALUES</p>
-<p>At the end of their 6 years primary school education in NCPS, every student
-will be:</p>
-<p>• equipped with the necessary skills, attitude and knowledge to maintain
+Physical Education, Art and Music curriculum plays an important role in
+the holistic development of students in Nan Chiau Primary School.
+The overall aim of the PE, Music and Art education is to promote Physical
+	Education, Music &amp; Art in 3 aspects: <b>KNOWLEDGE</b>, <b>SKILLS</b> and <b>VALUES</b>
+	
+At the end of their 6 years primary school education in NCPS, every student
+will be:
+* equipped with the necessary skills, attitude and knowledge to maintain
 and sustain healthy lifestyle through the Eat Right and Live Healthily
 Programme;
-<br>• aesthetically cultured through enjoyable and purposeful experiences
+* aesthetically cultured through enjoyable and purposeful experiences
 of different visual and performing arts and music programmes;
-<br>• instilled with life-long interest in and an appreciation for Art and
-Music.</p>
+* instilled with life-long interest in and an appreciation for Art and
+Music.
+
 #### Talent development in PAM
 <p>Students are given opportunities to apply the skills and knowledge they
 learnt during their PE lessons and recreational sports CCA to participate
