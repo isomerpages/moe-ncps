@@ -17,7 +17,7 @@ Nurturing confident and competent users of their Mother Tongue Languages through
 #### The E3 Approach
 A 3-tiered approach (Excite, Engage and Explore) is established for NCPS students in the learning of their Mother Tongue Language (MTL) and Culture.
 
-![](/images/Our%20Curriculum%20MTL_GAP_Bicep/E3.png)
+![](/images/Our%20Curriculum%20MTL_GAP_Bicep/MT_005.jpg)
 
 #### Signature Mother Tongue Language (MTL) Programmes
 
