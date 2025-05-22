@@ -33,11 +33,12 @@ their talents. Outstanding students who displayed exceptionally capabilities
 in music and art are then sent for external competitions.
 
 #### PLAY @ Recess
-<p>Students are also encouraged to keep fit by engaging in sports and games
+Students are also encouraged to keep fit by engaging in sports and games
 during their recess. Activities related to art and music have also be included
 to cater to students who enjoy these activities. Karaoke sessions and art
-and craft activities have been introduced to add vibrancy during recess.</p>
-<p>These activities are often in line with the NE related theme and festivities.</p>
+and craft activities have been introduced to add vibrancy during recess.
+
+These activities are often in line with the NE related theme and festivities.
 
 #### Harnessing of Technology
 ##### Physical Education
@@ -47,27 +48,27 @@ use Polar Heart Rate Monitors which are specifically developed for the
 young. This technology allows students to record the duration of exercise
 as well as the level of intensity during a PE lesson. The data is then
 used by the students to plan for their own exercise programme which will
-have the maximum positive impact on their health and fitness.&nbsp; As
-a result, students thus become more self-directed and independent.<p></p>
+have the maximum positive impact on their health and fitness. As
+a result, students thus become more self-directed and independent.
 
 ##### Art
 The Art Blog will be further enhanced to include more features. Virtual
 Art Museum tours and more digitalised students’ art work will be included
 in the Art Blog. Students are able to explore YouTube links which are shared
-on the Art Blog to extend their lessons and learn.<p></p>
-<p>Learning journey to the National Art Gallery will be conducted for students
+on the Art Blog to extend their lessons and learn.<br><br>
+Learning journey to the National Art Gallery will be conducted for students
 where they will make use of their tablets to take photographs and post
-up on blogs via the LMS portal.</p>
-<p>Primary 3 – 4 utilize tablets in their digital art photography lessons
+up on blogs via the LMS portal.<br><br>
+Primary 3 – 4 utilize tablets in their digital art photography lessons
 as part of their art curriculum. Students are also encouraged to search
-for online sources and research via their tablet for inspiration.</p>
-<p>Eco-Bin competition- Research and voting are done online.</p>
+for online sources and research via their tablet for inspiration.
+Eco-Bin competition- Research and voting are done online.
 
 ##### Music
 IT related music programme was adopted to make&nbsp;music lessons&nbsp;more
-enjoyable and student centric.<p></p>
-<p>A new keyboard room has been set-up where ICT devices such as IPads can
-be connected and utilized for music lessons.</p>
-<p>The music department leverages on ICT tools which are available to supplement
+enjoyable and student centric.<br><br>
+A new keyboard room has been set-up where ICT devices such as IPads can
+be connected and utilized for music lessons.<br><br>
+The music department leverages on ICT tools which are available to supplement
 their curriculum. Garage band is introduced into the curriculum where students
-are exposed to the use of IPads to play tunes via music apps.</p>
+are exposed to the use of iPads to play tunes via music apps.
