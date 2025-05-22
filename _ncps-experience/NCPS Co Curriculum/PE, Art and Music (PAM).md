@@ -21,16 +21,16 @@ of different visual and performing arts and music programmes;
 Music.
 
 #### Talent development in PAM
-<p>Students are given opportunities to apply the skills and knowledge they
+Students are given opportunities to apply the skills and knowledge they
 learnt during their PE lessons and recreational sports CCA to participate
 in intra and inter class competitions. Talented students who are spotted
-will be recommended to join the school team.</p>
-<p>Students are also given the chance to excel in the aesthetics. &nbsp;Through
+will be recommended to join the school team.
+Students are also given the chance to excel in the aesthetics. &nbsp;Through
 the art and music lessons, talented students who are spotted to have an
 interest or &nbsp;good in music and art are given various platforms such
 as school concerts, mass singing, internal art competitions, etc., to display
 their talents. Outstanding students who displayed exceptionally capabilities
-in music and art are then sent for external competitions.</p>
+in music and art are then sent for external competitions.
 
 #### PLAY @ Recess
 <p>Students are also encouraged to keep fit by engaging in sports and games
