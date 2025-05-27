@@ -21,13 +21,6 @@ To achieve these goals, the following CCE programmes are offered:
 * Values Education, where NCPS students are engaged regularly on internalising the core values and how they can express their understanding via CCE badge design and active contribution to their class/school community (e.g. in Clean &amp; Green Classroom)
 * Values in Action (VIA): VIA, such as Eco-Stewardship Programme and Appreciation Programme for our community partners provide platforms and opportunities for NCPS students to apply knowledge, skills and values acquired through meaningful contributions to the class, school and Sengkang community
 
-![](/images/Our%20Curriculum_CCE/CCE01.jpg)
+![](/images/Our%20Curriculum_CCE/CCE02.jpg)<br>
 
-![](/images/Our%20Curriculum_CCE/CCE02.jpg)
-
-<img src="/images/Our%20Curriculum_CCE/CCE03.png" style="width:50%" align="left">
-
-
-![](/images/Our%20Curriculum_CCE/CCE04.jpg)
-
-![](/images/Our%20Curriculum_CCE/CCE05.jpg)
+![](/images/Our%20Curriculum_CCE/CCE03.jpg)
