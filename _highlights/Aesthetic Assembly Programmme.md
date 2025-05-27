@@ -10,6 +10,7 @@ Programme Highlights:<br>
 🥁 Vocal Percussion &amp; Song Arrangement – Discover the art of vocal percussion and how an a cappella song is put together <br>
 🎤 Local Music Contributions – Learn about MICappella’s role in platforms like the National Day Parade.
 
+![](/images/Highlights/highlight01.jpg)
 
 ![](/images/Highlights/Highlights02.jpg)
 
