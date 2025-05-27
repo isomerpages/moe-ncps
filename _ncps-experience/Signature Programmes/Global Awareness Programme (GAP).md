@@ -7,7 +7,6 @@ variant: markdown
 ---
 ![](/images/Signature%20Programmes/gap01.jpg)
 
-![](/images/Signature%20Programmes/gap02.jpg)
 
 #### <b>“心系南侨，放眼世界”</b><br>
 
