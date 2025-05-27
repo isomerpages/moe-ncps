@@ -2,12 +2,12 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Information for Parents/Other Resources.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/Termly Bulletins.md
       - Information for Parents/Forms.md
       - Information for Parents/Parents Gateway.md
       - Information for Parents/Snacks For Break Time.md
+      - Information for Parents/Other Resources.md
       - Useful Links for Students.md
       - Consent for Photography and Videos.md
