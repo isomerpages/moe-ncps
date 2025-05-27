@@ -36,3 +36,7 @@ The students will:
 * Develop critical and inventive thinking
 * Develop communication and collaborative skills
 * Build up problem-solving competencies
+
+![](/images/Signature%20Programmes/ALP02.jpg)
+
+![](/images/Signature%20Programmes/ALP02.jpg)
