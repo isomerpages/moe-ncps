@@ -39,4 +39,4 @@ The students will:
 
 ![](/images/Signature%20Programmes/ALP02.jpg)
 
-![](/images/Signature%20Programmes/ALP02.jpg)
+![](/images/Signature%20Programmes/ALP03.jpg)
