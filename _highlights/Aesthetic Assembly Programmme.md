@@ -12,10 +12,9 @@ Programme Highlights:<br>
 
 ![](/images/Highlights/highlight01.jpg)
 
-![](/images/Highlights/Highlights02.jpg)
+![](/images/Highlights/highlight02.jpg)
 
-![](/images/Highlights/Highlights04.jpg)
 
-![](/images/Highlights/Highlights01.jpg)
+
 
 ![](/images/Highlights/Highlights03.jpg)
