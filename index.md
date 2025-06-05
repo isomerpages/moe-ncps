@@ -13,7 +13,7 @@ sections:
           url: /mother-tongue-appreciation/
         - title: STUDENT'S VOICE
           description: ""
-          url: ""
+          url: /interview-with-the-alumni/
         - title: RESOURCES
           description: ""
           url: /resources-for-teachers/
