@@ -13,10 +13,14 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 
 <div style="max-width: 800px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Interview with NC Alumni   1" src="https://www.youtube.com/embed/43rivHtq9As?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" height="675" width="1200"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/43rivHtq9As?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     
   </div>
 </div><br><br>
+
+
+
+
 <b>Nan Chiau Alumni Wushu</b><br>
 1. Low Seng Hng Ethan (Granduated from Nan Chiau Primary School in 2017)<br>
 2. Low Cheng Teng Eason (Granduated from Nan Chiau Primary School in 2019)<br>
@@ -26,6 +30,6 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 
 <div style="max-width: 1200px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Interview with NC Alumni   4" src="https://www.youtube.com/embed/R6HzecDH3hA?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" height="675" width="1200"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/R6HzecDH3hA?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       </div>
 </div><br><br>
