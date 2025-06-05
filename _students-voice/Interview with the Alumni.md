@@ -11,7 +11,7 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 1. Madam Chua Siew Lian (Graduated from Nan Chiau Girls' High School in 1996)<br>
 2. Madam Goh Soh Lian (Granduated from Nan Chiau Girls' High School in 1973)<br><br>
 
-<div style="max-width: 560px;">
+<div style="max-width: 800px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Interview with NC Alumni   1" src="https://www.youtube.com/embed/43rivHtq9As?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" height="675" width="1200"></iframe>
     
@@ -24,10 +24,8 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 4. Low Thee Then Ellyn ((Granduated from Nan Chiau Primary School in 2022)<br><br>
 
 
-<div style="max-width: 560px;">
+<div style="max-width: 1200px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Interview with NC Alumni   4" src="https://www.youtube.com/embed/R6HzecDH3hA?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" height="675" width="1200"></iframe>
       </div>
 </div><br><br>
-
-
