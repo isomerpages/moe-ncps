@@ -66,8 +66,6 @@ In **Primary 3 and 4**, pupils explore **instrumental proficiency**, with focuse
 
 By **Primary 5 and 6**, pupils are ready to participate in **ensemble playing**, a culmination of their prior learning. Using their foundational skills in rhythm, melody, and instrumental techniques, pupils come together to perform in small and large group ensembles. They take on different instrumental parts, collaborate on arrangements, and even explore **songwriting**. Integrated into this phase is the use of ICT tools such as **Song Maker and Chrome Music Lab**, enabling pupils to compose, arrange, and reflect creatively on their musical ideas.
 
-Our programme also aims to identify and develop musical talents. Through performance opportunities and regular assessments, the Music Committee seeks to talent scout pupils with strong musical abilities, especially in instrumental playing and ensemble leadership. These pupils are nurtured further and may represent the school in performances and external events, contributing to the school's vibrant musical culture.
+Our programme also aims to **identify and develop musical talents**. Through performance opportunities and regular assessments, the Music Committee seeks to **talent scout pupils with strong musical abilities**, especially in instrumental playing and ensemble leadership. These pupils are nurtured further and may represent the school in performances and external events, contributing to the school's vibrant musical culture.
 
 Through this spiraled and student-centred approach, the Nan Chiau Primary Music Committee endeavours to instill a lasting appreciation for music while empowering pupils with the skills, creativity, and confidence to express themselves musically.
-
-**
