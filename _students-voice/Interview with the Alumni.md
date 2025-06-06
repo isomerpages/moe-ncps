@@ -6,7 +6,7 @@ description: ""
 ---
 Our students from Language Cultural Arts &amp; Communication Club (LCACC) were honoured to be given the opportunity to interview our alumni about their experience in Nan Chiau Primary School during the School Anniversary Celebration.
 
-2
+3
 <br>
 <b>Nan Chiau Alumni Choir</b><br>
 1. Madam Chua Siew Lian (Graduated from Nan Chiau Girls' High School in 1996)<br>
@@ -37,5 +37,3 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
     </iframe>
   </div>
 </div>
-
-   
