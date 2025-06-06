@@ -6,13 +6,18 @@ description: ""
 ---
 Our students from Language Cultural Arts &amp; Communication Club (LCACC) were honoured to be given the opportunity to interview our alumni about their experience in Nan Chiau Primary School during the School Anniversary Celebration.
 
-1
+2
 <br>
 <b>Nan Chiau Alumni Choir</b><br>
 1. Madam Chua Siew Lian (Graduated from Nan Chiau Girls' High School in 1996)<br>
 2. Madam Goh Soh Lian (Granduated from Nan Chiau Girls' High School in 1973)<br><br>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/43rivHtq9As?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="max-width: 560px;">
+  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/43rivHtq9As?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql">
+    </iframe>
+  </div>
+</div>
     
   <br><br>
 
