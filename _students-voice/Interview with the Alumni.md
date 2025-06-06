@@ -31,5 +31,11 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 4. Low Thee Then Ellyn ((Granduated from Nan Chiau Primary School in 2022)<br><br>
 
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/R6HzecDH3hA?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
- <br><br>
+<div style="max-width: 560px;">
+  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R6HzecDH3hA?list=PLiKdU1o7tSWwkqwaE43nx0Y19bEElpAql">
+    </iframe>
+  </div>
+</div>
+
+   
