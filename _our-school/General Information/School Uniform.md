@@ -29,4 +29,4 @@ Students are to wear the prescribed school uniform when they report to school, i
 
 **Face**
 * Males being clean shaven, e.g. all males students must be clean shaven at all times. Moustache and beards are not allowed
-* Pierchings are not allowed
+* Piercing are not allowed
