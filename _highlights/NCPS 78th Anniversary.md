@@ -4,7 +4,7 @@ permalink: /ncps-78th-anniversary/
 variant: markdown
 description: ""
 ---
-#### Nan Chiau Loves Me ("南侨爱我")
+#### Nan Chiau Loves Me 南侨爱我
 
 ![](/images/Highlights/IMG_4039.jpg)
 
