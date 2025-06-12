@@ -18,5 +18,5 @@ sections:
           description: ""
           url: /resources-for-teachers/
       background: /images/Homepage/ezgif_com_animated_gif_maker.gif
-      variant: image
+      variant: center
 ---
