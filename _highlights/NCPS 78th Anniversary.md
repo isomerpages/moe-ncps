@@ -4,8 +4,9 @@ permalink: /ncps-78th-anniversary/
 variant: markdown
 description: ""
 ---
-NC78 School Annniversary - Nan Chiau Loves Me ("南侨爱我")
+#### Nan Chiau Loves Me ("南侨爱我")
 
+![](/images/Highlights/Highlight06.jpg)
 
 This year's celebration brigns together four generations of the school community to celebrate our Nan Chiau story.
 
