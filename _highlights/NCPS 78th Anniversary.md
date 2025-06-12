@@ -6,7 +6,7 @@ description: ""
 ---
 #### Nan Chiau Loves Me ("南侨爱我")
 
-![](/images/Highlights/Highlight06.jpg)
+![](/images/Highlights/IMG_4039.jpg)
 
 This year's celebration brigns together four generations of the school community to celebrate our Nan Chiau story.
 
