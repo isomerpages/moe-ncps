@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
-          url: /mother-tongue-appreciation/
+          url: /ncps-78th-anniversary/
         - title: STUDENT'S VOICE
           description: ""
           url: /interview-with-the-alumni/
