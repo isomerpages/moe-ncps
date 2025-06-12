@@ -2,5 +2,5 @@ collections:
   students-voice:
     output: true
     order:
-      - Principal's Challenge.md
       - Interview with the Alumni.md
+      - Principal's Challenge.md
