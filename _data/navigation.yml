@@ -13,5 +13,8 @@ links:
     sublinks:
       - title: Parent Support Group
         url: /partners/permalink/
-  - title: Highligts
-    collection: highlights
+  - title: Test Menu
+    url: /permalink
+    sublinks:
+      - title: new info for parents
+        url: /permalink
