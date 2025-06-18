@@ -51,4 +51,4 @@ Thank you for visiting Nan Chiau Primary School's website. By accessing and usi
 
 ##### GOVERNING LAW
 
-19. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+1. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
