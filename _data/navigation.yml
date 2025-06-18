@@ -13,12 +13,5 @@ links:
     sublinks:
       - title: Parent Support Group
         url: /partners/permalink/
-  - title: Test Menu
-    url: /permalink
-    sublinks:
-      - title: new info for parents
-        url: /information-for-parents/
-      - title: new termly bulletins
-        url: /lp-press/ncps-monthly-bulletin-january-2020/
-      - title: new highlights
-        url: /ncps-78th-anniversary/
+  - title: Highlights
+    url: /ncps-78th-anniversary/
