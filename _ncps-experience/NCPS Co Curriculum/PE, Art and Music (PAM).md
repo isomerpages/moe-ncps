@@ -56,8 +56,6 @@ In the refreshed Art syllabus, we actively harness the power of technology to cr
 
 ##### Music
 
-**Nan Chiau Primary School Music Committee**
-
 At Nan Chiau Primary School, our Music Committee is committed to nurturing a vibrant and holistic music education that grows with our pupils. Guided by a spiral curriculum design, our music programme is thoughtfully structured to build upon pupils' musical understanding and skills progressively from Primary 1 through Primary 6.
 
 In **Primary 1 and 2**, pupils embark on their musical journey through **Music and Movement** activities. These foundational years focus on developing a strong sense of rhythm, pitch, and beat through singing, body percussion, creative movement, and listening activities. Pupils gain confidence in expressing themselves musically and physically, setting the stage for instrumental learning in later years.
