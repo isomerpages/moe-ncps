@@ -2,9 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Information for Students/MOE's Centrally Provisioned Digital Tools.md
-      - Information for Students/Useful Links for Students.md
-      - Information for Students/.keep
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/Termly Bulletins.md
@@ -12,4 +9,7 @@ collections:
       - Information for Parents/Parents Gateway.md
       - Information for Parents/Snacks For Break Time.md
       - Information for Parents/Other Resources.md
+      - Information for Students/.keep
+      - Information for Students/MOE's Centrally Provisioned Digital Tools.md
+      - Information for Students/Useful Links for Students.md
       - Consent for Photography and Videos.md
