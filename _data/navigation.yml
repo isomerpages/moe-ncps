@@ -14,4 +14,9 @@ links:
       - title: Parent Support Group
         url: /partners/permalink/
   - title: Highlights
-    url: /ncps-78th-anniversary/
+    url: /permalink
+    sublinks:
+      - title: Highlights
+        url: /ncps-78th-anniversary/
+      - title: Student's Voice
+        url: /interview-with-the-alumni/
