@@ -69,6 +69,7 @@ Traditional teacher-centric lessons are no longer effective to meet the learning
 ##### 3. Play@Recess
 
 ![](/images/Our%20Curriculum%20Math/math_02.jpg)
+
 Our students learn the best through play. Through these Mathematics games, students are able to better grasp their concepts, have a deeper understanding and apply the concepts learnt in class.
 
 
