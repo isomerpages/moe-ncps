@@ -48,4 +48,4 @@ You can check out our <a target="\_blank" href="/partners/permalink/">PSG websit
 
 **What are the available CCAs?**
 
-Please refer the the following link:&nbsp;<a target="\_blank" href="/co-curricular-activities/">Co-Curricular Activities</a>
+Please refer the the following link:&nbsp;<a target="\_blank" href="/cca-schedule/">Co-Curricular Activities</a>
