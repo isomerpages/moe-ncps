@@ -66,6 +66,8 @@ Another student-led initiative planned and executed by Prefect EXCO team to advo
 •	Bright Hill Evergreen Home (Punggol)<br>
 In support of the Intergenerational Learning Programme (ILP) &amp; Values in Action (VIA), working with Bright Hill Evergreen Home (Punggol) allows us to execute our Primary 6 Adaptive Sports Programme through scheduled interaction sessions for all Primary 6 students to interact with elderly and allow our students to take charge, to teach and guide the elderly on adaptive sports (modified floorball) through active interaction. In collaboration with the PE department, our PE teachers conduct lessons on empathy skills as well as to guide them on how to conduct adaptive sports; modified floorball to the elderlies during PE lessons so that students are confident to lead in facilitating during their visit and interaction. 
 
+![](/images/Signature%20Programmes/llp14.jpg)
+
 •	Active Ageing Center Engagement<br>
 This programme aims to develop empathy and community service values in our student leaders, Primary 5 CCA Leaders. Our latest partnership with Active Ageing Center, Blk 353 (St Luke's Eldercare) collaborates to promote healthy living within our community. Volunteered CCA leaders (Tier 2 leadership) actively participated in this Values in Action (VIA) sessions with the elderly, focusing on interactive activities and adaptive sports to promote active living.
 
