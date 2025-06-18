@@ -7,10 +7,10 @@ variant: markdown
 ---
 #### Empowering Young Minds Through Design Thinking and Innovation
 At Nan Chiau Primary School, our Applied Learning Programme (ALP) nurtures future-ready learners who think critically, inventively, and adaptively. Anchored in the vision of a **Smart Nation** and aligned with **MOE’s 21st Century Competencies**, our ALP empowers students with real-world problem-solving skills using **STEM and Design Thinking**.<br>
-**Future-Ready Learners in the Making**<br><br>
+#### Future-Ready Learners in the Making
 Our ALP builds confidence and creativity in every student. Whether through broad exposure in Tier 1 or deeper dives in Tier 2, students are empowered to be thoughtful problem solvers, innovative thinkers, and contributors to a better tomorrow.
 
-#### Tier 1: STEM for All
+##### Tier 1: STEM for All
 Our Tier 1 programme offers from Primary 3 to 5 students a hands-on experience in STEM through age-appropriate design thinking challenges. Every student can participate in:
 * Designing smart furniture
 * Creating healthy lifestyle tools
@@ -19,7 +19,7 @@ Our Tier 1 programme offers from Primary 3 to 5 students a hands-on experience i
 
 ![](/images/Signature%20Programmes/alp01.jpg)
 
-#### Tier 2: Specialised Thinking and Innovation Programmes For Selected Primary 5 Students
+##### Tier 2: Specialised Thinking and Innovation Programmes For Selected Primary 5 Students
 Our Tier 2 programme offers selected students hands-on experience in STEM through design thinking challenges - collaborating with external agencies like Singapore Hokkien Huay Kuan, Sengkang General Hospital, Health Promotion Board and others.<br>
 ##### Innovation Programme (IvP)
 In the IvP, selected students are exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other industry partners.
