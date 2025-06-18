@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Information for Students
 ---
-<h2>Microsoft Office 365 ProPlus</h2>
 <p>As part of the MOE-Microsoft Student Use Benefits, students can use their
 MIMS (Student iCON) accounts to download Office Applications such as Excel,
 Powerpoint, Word etc.</p>
