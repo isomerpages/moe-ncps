@@ -71,6 +71,8 @@ In support of the Intergenerational Learning Programme (ILP) &amp; Values in Act
 •	Active Ageing Center Engagement<br>
 This programme aims to develop empathy and community service values in our student leaders, Primary 5 CCA Leaders. Our latest partnership with Active Ageing Center, Blk 353 (St Luke's Eldercare) collaborates to promote healthy living within our community. Volunteered CCA leaders (Tier 2 leadership) actively participated in this Values in Action (VIA) sessions with the elderly, focusing on interactive activities and adaptive sports to promote active living.
 
+![](/images/Signature%20Programmes/llp15.jpg)
+
 **(iii)	Others**<br>
 •	Health Promotion Board (HPB)<br>
 Working on promoting active and healthy lifestyle, HPB is onboard with us as one of the external organisations to guide and support our Primary 5 students in Design Thinking during Watch Me Soar (WMS) programme where students work on problem solving after identifying prevailing health problems and issues.
