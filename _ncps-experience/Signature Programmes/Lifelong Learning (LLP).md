@@ -73,13 +73,9 @@ This programme aims to develop empathy and community service values in our stude
 
 ![](/images/Signature%20Programmes/llp15.jpg)
 
-![](/images/Signature%20Programmes/llp17.jpg)
-
 **(iii)	Others**<br>
 •	Health Promotion Board (HPB)<br>
 Working on promoting active and healthy lifestyle, HPB is onboard with us as one of the external organisations to guide and support our Primary 5 students in Design Thinking during Watch Me Soar (WMS) programme where students work on problem solving after identifying prevailing health problems and issues.
-
-![](/images/Signature%20Programmes/llp16.jpg)
 
 •	Hwa Chong Institute (HCI) Project Unwind 5.0<br>
 In collaboration with Hwa Chong Institute to support their service-learning project, Project Unwind 5.0. The overarching aim of HCI service-learning project is to engage our students in fun and meaningful activities, to improve their physical and mental wellbeing by leading a healthy lifestyle through recess and after-school engagements.
