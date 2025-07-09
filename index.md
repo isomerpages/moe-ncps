@@ -18,5 +18,5 @@ sections:
           description: ""
           url: /resources-for-teachers/
       background: /images/Homepage/home_banner_2c_edited.jpg
-      variant: image
+      variant: center
 ---
