@@ -179,7 +179,7 @@ third_nav_title: NCPS Family
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tao Ye Rong</p>
+<p>Mr Tai Ye Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
