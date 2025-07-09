@@ -24,7 +24,7 @@ third_nav_title: NCPS Family
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Madam Tham Lai Yin</p>
+<p>Madam Serene Tham Lai Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
