@@ -2,14 +2,213 @@
 title: School Administration Team
 permalink: /our-team/administration-and-operations/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: NCPS Family
 ---
-#### Administration and Operations Staff
-
-
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 161px; width: 665.188px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;"><b>Name</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><b>Appointment</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Tham Lai Yin</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Administration Manager</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Mr Chan Keng Wee</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Operations Manager</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Mr Lim Choon Keong</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Operations Manager</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Ms Tan See Wei</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Administration Executive</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Toh San San</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Administration Executive</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Nur Arba’ah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Corporate Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Won Lee Choo</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Corporate Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Wan Bee Ten Lena</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Corporate Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Lim Siew Keow Janet</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Operations Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Chen Ngit Jin</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Operations Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Mr Tan Hing Chua</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Operations Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Mr Loh Kok Chow</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Operations Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Toh Ling Ling</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Operations Support Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Tan Swee Moi</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Administration Assistant – Printing</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Cheng Meifeng Sharon</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Librarian</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Lynn Tan Hwee Leng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Science Lab Assistant</td></tr></tbody></table>
-
-#### Technical Staff
-
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 666.55px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;"><b>Name</b></td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><b>Appointment</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 331.263px;">Madam Chan Miew Yen Serena</td><td style="box-sizing: inherit; padding: 5px 10px; width: 334.288px;">ICT Manager</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 331.263px;">Mr Patrick Tan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 334.288px;">ICT Trainer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 331.263px;">Mr Ivan Goh</td><td style="box-sizing: inherit; padding: 5px 10px; width: 334.288px;">ICT Trainer cum Support Staff</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 331.263px;">Mr Mohammed Ghazali Bin Mohammed</td><td style="box-sizing: inherit; padding: 5px 10px; width: 334.288px;">Desktop Engineer</td></tr></tbody></table>
+<h4>Administration and Operations Staff</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Tham Lai Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Keng Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Choon Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan See Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Toh San San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Nur Arba’ah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Won Lee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Wan Bee Ten Lena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Lim Siew Keow Janet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Chen Ngit Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hing Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Kok Chow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Toh Ling Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Tan Swee Moi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Assistant – Printing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Cheng Meifeng Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Lynn Tan Hwee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science Lab Assistant</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Technical Staff</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Chan Miew Yen Serena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tao Ye Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer cum Support Staff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammed Ghazali Bin Mohammed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
