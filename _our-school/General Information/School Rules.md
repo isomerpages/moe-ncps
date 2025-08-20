@@ -19,6 +19,8 @@ variant: markdown
 
 ![](/images/OUR%20SCHOOL/school_rule.jpg)
 
+6. Usage  
+
 **We Respect One Another**
 
 *   Students are to respect one another at all times. There shall be no acts of bullying including verbal, physical and cyber bullying.
