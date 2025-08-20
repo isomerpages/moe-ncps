@@ -7,22 +7,21 @@ variant: markdown
 ---
 #### National Anthem, Pledge and School Song
 
-*   Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
-*   Students must stand at attention throughout the flag raising ceremony.
-*   Students must sing the National Anthem and school song with pride.
+1. Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
+2. Students must stand at attention throughout the flag raising ceremony.
+3. Students must sing the National Anthem and school song with pride.
 
 #### Being Respectful
+<p style="box-sizing: inherit; font-size: 1.5em;">
+We Respect Ourselves</p>
 
-**We Respect Ourselves**
-
-*   Students are to wear their full school uniform on days when there are no PE/PAL lessons in their class timetable.  School PE t-shirts/shorts can only be worn on days when the class has PE/PAL lessons.
-*   School shoes must be completely black and worn with a pair of black socks.
-*   All students must be neatly groomed. All male students must be clean shaven, and no wearing of beards and moustache.
+4. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+5. Students can wear their PE attire on days with CCA or PE/PAL lessons.
 
 **We Respect One Another**
 
 *   Students are to respect one another at all times. There shall be no acts of bullying including verbal, physical and cyber bullying.
-*   Students are to respect the teachers at all times.  Students are expected to greet teachers and follow instructions given.
+*   Students are to respect the teachers at all times.&nbsp; Students are expected to greet teachers and follow instructions given.
 
 **We Respect This Place**
 
