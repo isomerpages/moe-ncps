@@ -12,8 +12,8 @@ variant: markdown
 3. Students must sing the National Anthem and school song with pride.
 
 #### Being Respectful
-<p style="box-sizing: inherit; font-size: 1.5em;">
-We Respect Ourselves</p>
+<b><p style="box-sizing: inherit; font-size: 1.3em;">
+We Respect Ourselves</p></b>
 
 4. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 5. Students can wear their PE attire on days with CCA or PE/PAL lessons.
