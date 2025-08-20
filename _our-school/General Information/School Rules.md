@@ -17,6 +17,8 @@ variant: markdown
 4. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 5. Students can wear their PE attire on days with CCA or PE/PAL lessons.
 
+![](/images/OUR%20SCHOOL/school_rule.jpg)
+
 **We Respect One Another**
 
 *   Students are to respect one another at all times. There shall be no acts of bullying including verbal, physical and cyber bullying.
