@@ -17,7 +17,6 @@ variant: markdown
 4. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 5. Students can wear their PE attire on days with CCA or PE/PAL lessons.
 
-![](/images/OUR%20SCHOOL/school_rule.jpg)
 
 6. Usage  
 
