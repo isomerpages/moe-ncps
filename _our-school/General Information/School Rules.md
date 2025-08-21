@@ -17,7 +17,7 @@ variant: markdown
 4. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 5. Students can wear their PE attire on days with CCA or PE/PAL lessons.
 
-<img src="/images/OUR%20SCHOOL/School_rules.jpg" style="width:80%">
+<img src="/images/OUR%20SCHOOL/School_rules.jpg" style="width:90%">
 
 6. Usage  of sweater of jacket are only during cold weather or in air-conditioned rooms. The jacket or sweater should be plain and without loud motifs.
 
