@@ -37,7 +37,7 @@ variant: markdown
 <ol start="9">
 	<li>Students are to consume food and drinks at the canteen during recess and lunch.</li>
 <li>Students are to return the used utensils to the respective collection point after meals.</li>
-	<li>Students are to care for the school environment and school property.</li>
+	<li>Students are to care for the school environment and school property.</li></ol>
 
 #### Being Responsible
 <ol start="12">	
@@ -50,8 +50,8 @@ variant: markdown
 <li>Students are responsible for their pocket money. They should approach their teacher or General Office for help if they have forgotten to bring.</li>
 <li>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.</li>
 <li>Students are not to use smartphone and/or smartwatches*, during school hours including recess, CCA and after-school programmes.</li>
-<li>Students who bring such devices are to put them in their school bags before school start time. Students should bear responsibility for the safekeeping of these devices.</li>
+<li>Students who bring such devices are to put them in their school bags before school start time. Students should bear responsibility for the safekeeping of these devices.</li></ol>
 
 <p style="box-sizing: inherit; font-size: 0.9em;">
 *Exclude non-telecommunication devices, e.g. POSB Smart Buddy Watch, which allows contactless payment in school.
-</p></ol></ol>
+</p>
