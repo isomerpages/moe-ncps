@@ -23,25 +23,30 @@ variant: markdown
 
 **We Respect One Another**
 
-*   Students are to respect one another at all times. There shall be no acts of bullying including verbal, physical and cyber bullying.
-*   Students are to respect the teachers at all times.&nbsp; Students are expected to greet teachers and follow instructions given.
+7.	Students are to respect one another at all times. There shall be no acts of bullying including verbal, physical and cyber bullying. Disciplinary action will be taken if students misbehave.
+8.	Students are to respect the teachers at all times. Students are expected to greet teachers and follow instructions given.
+
 
 **We Respect This Place**
 
-*   Students are to consume food and drinks at the canteen during recess and lunch.
-*   Students are to return the used utensils to the respective collection point after meals.
-*   Students are to care for the school environment and school property.
+9.	Students are to consume food and drinks at the canteen during recess and lunch.
+10.	Students are to return the used utensils to the respective collection point after meals.
+11.	Students are to care for the school environment and school property.
+
 
 #### Being Responsible
 
-*   All students must assemble at the respective venues for the Flag Raising Ceremony at 7.30 a.m. Students arriving after 7.30 a.m. will be deemed as late.
-*   A student who is absent from school must submit a letter of excuse or Medical Certificate to the Form Teacher upon his/her return.
-*   A student who is absent from CCA or remedial/ supplementary/enrichment lessons must submit a letter of excuse or Medical Certificate to the teacher-in-charge.
-*   All students are expected to attend school during term time. Permission to take leave from school during term time will only be granted by the Principal upon advance notice and for appropriate reasons.
-*   Upon arrival in school, students are not allowed to leave school without permission.
-*   Students attending remedial/ supplementary/enrichment lessons or CCA are not allowed to leave the school without informing the teacher-in-charge.
-*   Students who wish to leave school during school hours must provide a letter of excuse from their parents/guardians.
-*   In case of an emergency when a student has to leave the school, he/she can only do so if he/she is accompanied by a parent/guardian who will sign him/her out at the General Office.
-*   Students who are sick during school hours and have to leave the school can only do so if he/she is accompanied by a parent/guardian who will sign him/her out at the General Office.
-*   Students equipped with mobile learning devices are to use these devices for learning purposes only. Activities such as gaming, watching of YouTube videos for leisure are prohibited.
-*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+12.	Students are to assemble at their respective venues by 7.25am every morning. Students arriving after 7.30am will be considered as late for school.
+13.	Students are expected to attend school on all days during term time. Students who are absent from lessons, CCA or other after-school activities must submit a medical certificate or a letter of excuse to their form teacher or CCA teacher upon their return. Travelling for vacation purposes is not considered a valid reason and the student will be marked as absent without a valid reason.
+14.	Students are not allowed to leave school without permission during curriculum hours, CCA or other after-school activities before they are dismissed.
+15.	If a student needs to leave school during school hours because he/she is unwell or in case of an emergency, he/she has to be accompanied by a parent who will sign him/her out at the General Office.
+16.	Students are responsible for completing and bringing their homework for submission to their teachers. Students should not ask their parents/guardians to bring their homework to school and parents/guardians are to refrain from delivering their homework to school.
+17.	Students are to label all their personal belongings and not leave their belongings unattended.
+18.	Students are responsible for their pocket money. They should approach their teacher or General Office for help if they have forgotten to bring.
+19.	Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.
+20.	Students are not to use smartphone and/or smartwatches*, during school hours including recess, CCA and after-school programmes.
+21.	Students who bring such devices are to put them in their school bags before school start time. Students should bear responsibility for the safekeeping of these devices.
+
+<p style="box-sizing: inherit; font-size: 0.9em;">
+*Exclude non-telecommunication devices, e.g. POSB Smart Buddy Watch, which allows contactless payment in school.
+</p>
