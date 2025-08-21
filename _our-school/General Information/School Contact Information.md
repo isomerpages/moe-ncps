@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: General Information
 ---
-### **Nan Chiau Primary School**
+#### Nan Chiau Primary School
 
 **Address:**&nbsp;50 Anchorvale Link, Singapore 545080
 
