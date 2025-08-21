@@ -11,8 +11,7 @@ talents while developing values and competencies that will prepare them
 for a rapidly changing world. CCA also promotes friendships among students
 from diverse backgrounds as they learn, play and grow together. Participation
 in CCA fosters social integration and deepens students’ sense of belonging,
-commitment and sense of responsibility to school, community and nation. <em>(Quoted from MOE website)</em>
-</p>
+commitment and sense of responsibility to school, community and nation.</p>
 <p>At Nan Chiau Primary School, all P3 to P6 students are strongly encouraged
 to participate in&nbsp;<strong>one CCA</strong>. Our school offers a wide
 range of 20 CCAs in the domains of Aesthetics/Performing Arts, Sports,
