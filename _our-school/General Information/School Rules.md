@@ -19,7 +19,7 @@ variant: markdown
 
 <img src="/images/OUR%20SCHOOL/School_rules.jpg" style="width:90%">
 
-6. Usage  of sweater of jacket are only during cold weather or in air-conditioned rooms. The jacket or sweater should be plain and without loud motifs.
+6a. Usage  of sweater of jacket are only during cold weather or in air-conditioned rooms. The jacket or sweater should be plain and without loud motifs.
 
 **We Respect One Another**
 
