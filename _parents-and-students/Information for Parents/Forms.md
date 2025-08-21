@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### MOE Financial Assistance Scheme (FAS)
 
-* [MOE FAS Application Form](/files/Forms%20for%20Parents/GGAS_Application%20Form%20Nov%202022.pdf)
+* eFAS FormSG Link: [https://go.gov.sg/moe-efas  ](https://go.gov.sg/moe-efas  )
 
 * <a target="\_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 
