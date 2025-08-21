@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### MOE Financial Assistance Scheme (FAS)
 
-* eFAS FormSG Link: <a target="\_blank" href="[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)">[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)</a>
+* eFAS FormSG Link: <a target="\_blank" href="[https://go.gov.sg/moe-efas]">[https://go.gov.sg/moe-efas]</a>
 
 * <a target="\_blank" href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 
