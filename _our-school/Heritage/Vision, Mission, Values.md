@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Heritage
 ---
-<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:70%">
+<img src="/images/Homepage/FINAL___VERSION_1_.png" style="width:50%">
 
 #### School Vision
 
