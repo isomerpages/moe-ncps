@@ -12,7 +12,6 @@ NCPS joined the nation in celebrating Singapore’s 60th birthday with pride and
 The celebrations were a reminder of the resilience and unity that have carried Singapore through the years. As a school community, we are inspired to contribute to the nation’s future and uphold the spirit of “One People, One Nation, One Singapore.”
 
 ### Happy Birthday Singapore!
-<br>
 
 <div style="max-width: 560px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
