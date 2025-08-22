@@ -4,7 +4,9 @@ permalink: /national-day-celebrations/
 variant: markdown
 description: ""
 ---
-Happy 60th Birthday Singapore from all of us in Nan Chiau Primary School.
+NCPS joined the nation in celebrating Singapore’s 60th birthday with pride and joy. Through a series of meaningful activities, our students and staff came together to honour our nation’s journey, reflect on our shared values, and express gratitude for the peace and progress we enjoy today.
+
+The celebrations were a reminder of the resilience and unity that have carried Singapore through the years. As a school community, we are inspired to contribute to the nation’s future and uphold the spirit of “One People, One Nation, One Singapore.”
 
 <div style="max-width: 560px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
