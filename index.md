@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
-          url: /ncps-78th-anniversary/
+          url: /national-day-celebrations/
         - title: STUDENT'S VOICE
           description: ""
           url: /interview-with-the-alumni/
