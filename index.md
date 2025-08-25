@@ -17,6 +17,6 @@ sections:
         - title: RESOURCES
           description: ""
           url: /resources-for-teachers/
-      background: /images/Homepage/Homepage_Banner.gif
+      background: /images/Homepage/Home_Banner_2.gif
       variant: center
 ---
