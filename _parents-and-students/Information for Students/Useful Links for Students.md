@@ -1,0 +1,12 @@
+---
+title: Useful Links for Students
+permalink: /useful-links/
+description: ""
+variant: markdown
+third_nav_title: Information for Students
+---
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 161px; width: 665.188px;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;"><b>Portal Page</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>URLs</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">MIMS</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;"><a target="\_blank" href="https://idp.mims.moe.gov.sg/nidp/app/login">https://idp.mims.moe.gov.sg/nidp/app/login</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Student Learning Space (SLS)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;"><a target="\_blank" href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">eZhishi</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;"><a target="\_blank" href="https://www.ezhishi.com/">https://www.ezhishi.com/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">NCPS OPAC (Online Public Access Catalogue)</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;"><a target="\_blank" href="https://vle.learning.moe.edu.sg/login">https://schoolibrary.moe.edu.sg/nanchiaupri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Koobits</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;"><a target="\_blank" href="https://www.koobits.com/">https://www.koobits.com/</a></td></tr></tbody></table>
+
+
+
+---

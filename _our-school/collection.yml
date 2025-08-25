@@ -2,16 +2,26 @@ collections:
   our-school:
     output: true
     order:
-      - History.md
-      - Vision, Mission, Values.md
-      - School Crest.md
-      - School Song.md
-      - School Information/.keep
-      - School Information/School Uniform.md
-      - School Information/School Hours.md
-      - School Information/School Rules.md
+      - Heritage/.keep
+      - Heritage/History.md
+      - Heritage/Vision, Mission, Values.md
+      - Heritage/School Crest and Song.md
+      - NCPS Family/.keep
+      - NCPS Family/School Management Committee.md
+      - NCPS Family/School Management Team.md
+      - NCPS Family/School Educators.md
+      - NCPS Family/School Administration Team.md
+      - NCPS Family/Parent Support Group (PSG).md
+      - General Information/School Contact Information.md
+      - General Information/.keep
+      - General Information/School Hours.md
+      - General Information/School Rules.md
+      - General Information/School Uniform.md
+      - General Information/Road Safety.md
+      - General Information/Financial & Non Financial Information.md
+      - General Information/Consent for Photography and Videos.md
       - School Service Providers/.keep
       - School Service Providers/School Dental Services.md
-      - School Service Providers/School Vendors.md
-      - School Service Providers/NCPS Student Care Centre.md
-      - Financial & Non Financial Information.md
+      - School Service Providers/School Bus Service.md
+      - School Service Providers/School Bookshop & Uniforms.md
+      - School Service Providers/Student Care Centre.md

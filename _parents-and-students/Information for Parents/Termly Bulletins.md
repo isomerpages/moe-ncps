@@ -5,23 +5,13 @@ description: ""
 third_nav_title: Information for Parents
 variant: markdown
 ---
-**Year 2024**
+#### Year 2025
 
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/lpky/">Term 1 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/kvzq/">Term 2 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">Term 3 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/qoey/">Term 4 e-Bulletin</a>
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 1</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/ulew/">https://online.flipbuilder.com/ncps/ulew/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 2</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/bjtq/">https://online.flipbuilder.com/ncps/bjtq/</a></td></tr></tbody></table>
 
 
-**Year 2023**
+#### Year 2024
 
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/vlsr/">Term 1 e-Bulletin</a>
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 1</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/lpky/">https://online.flipbuilder.com/ncps/lpky/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 2</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/kvzq/">https://online.flipbuilder.com/ncps/kvzq/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 3</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">https://online.flipbuilder.com/ncps/pfre/</a></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">Term 4</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><a target="\_blank" href="https://online.flipbuilder.com/ncps/qoey/">https://online.flipbuilder.com/ncps/qoey/</a></td></tr></tbody></table>
 
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/wtkz/">Term 2 e-Bulletin</a>
 
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/pfre/">Term 3 e-Bulletin</a>
-
-<a target="\_blank" href="https://online.flipbuilder.com/ncps/rnlv/">Term 4 e-Bulletin</a>

@@ -1,0 +1,6 @@
+collections:
+  students-voice:
+    output: true
+    order:
+      - Interview with the Alumni.md
+      - Principal's Challenge.md
