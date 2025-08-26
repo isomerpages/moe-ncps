@@ -22,7 +22,8 @@ sections:
   - infopic:
       title: Ex Students Homecoming
       id: infopic
-      button: Button Text
+      button: Click here to find out more
       image: /images/Homepage/Homecoming.png
       alt: Image alt text
+      url: /parents-and-students/information-for-parents/staff-appreciation-day/
 ---
