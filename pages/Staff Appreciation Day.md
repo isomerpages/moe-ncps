@@ -6,8 +6,7 @@ variant: markdown
 ---
 ## Ex-students Home Coming 2025
 
- 
-This year, the school will be opened to welcome ex-students to visit your teachers on **4 September, Thursday from 11.30 a.m. to 1 p.m**.
+The school will be opened to welcome ex-students to visit your teachers on **4 September, Thursday from 11.30 a.m. to 1 p.m**.
 
 For students in secondary school, you are to be in your school uniform.
 
