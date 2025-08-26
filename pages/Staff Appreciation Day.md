@@ -6,11 +6,10 @@ variant: markdown
 ---
 ## Ex-students Home Coming 2025
 
-The school will be opened to welcome ex-students to visit your teachers on **4 September, Thursday from 11.30 a.m. to 1 p.m**.
+The school will be open to welcome ex-students on** Thursday, 4 September, from 11:30 a.m. to 1:00 p.m**. at the canteen or foyer area.
 
-For students in secondary school, you are to be in your school uniform.
-
-For others, please contact your teachers in advance before coming to school.
+* Ex-students currently in secondary school are to be in full school uniform.
+* All other visitors are kindly requested to contact their teachers in advance before visiting.
 
 Do make an appointment by filling the [form](https://go.gov.sg/ncps-2025-home-coming) by **2 September, Tuesday**.
 
