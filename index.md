@@ -20,10 +20,8 @@ sections:
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Ex Students Homecoming
       id: infopic
-      description: Infopic description
       button: Button Text
       image: /images/Homepage/Homecoming.png
       alt: Image alt text
