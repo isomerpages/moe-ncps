@@ -23,4 +23,4 @@ Madam Han Peck Jong<br>
 
 ##### Operating Hours (During School Term)
 Monday to Friday: 8:00am to 5:00pm
-Lunch: 1.00pm t 2.00pm
+Lunch: 1.00pm to 2.00pm
