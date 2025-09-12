@@ -19,11 +19,4 @@ sections:
           url: /resources-for-teachers/
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
-  - infopic:
-      title: Ex Students Homecoming
-      id: infopic
-      button: Click here to find out more
-      image: /images/Homepage/Homecoming.png
-      alt: Image alt text
-      url: /parents-and-students/information-for-parents/staff-appreciation-day/
 ---
