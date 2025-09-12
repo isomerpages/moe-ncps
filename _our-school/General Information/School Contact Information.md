@@ -11,11 +11,11 @@ third_nav_title: General Information
 
 ##### Get In Touch
 
-Contach Number: 64897905 | 64897907<br>
-Fax Number: 64897906<br>
-Email: [ncps@moe.edu.sg](mailto:ncps@moe.edu.sg)
+**Contach Number:** 64897905 | 64897907<br>
+**Fax Number**: 64897906<br>
+**Email:** [ncps@moe.edu.sg](mailto:ncps@moe.edu.sg)
 
-Direction
+##### Direction
 **Nearest MRT :**&nbsp;Sengkang<br>
 **Buses Nearby:**&nbsp;102, 372, 50, 85
 
