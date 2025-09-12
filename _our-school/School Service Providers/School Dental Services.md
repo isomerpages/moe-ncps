@@ -9,7 +9,7 @@ variant: markdown
 
 The Dental Clinic will operate on alternate weeks. During weeks when the clinic is closed, students requiring emergency dental treatment may visit the School Dental Centre (SDC) at the Health Promotion Board (HPB). Please note that consultation at the SDC may incur a fee.
 
-School Dental Centre (SDC)
+##### School Dental Centre (SDC)
 Health Promotion Board <br>
 3 Second Hospital Ave, Singapore 168937 <br>
 Email Address: <a href="mailto:contact_yps@hbp.gov.sg">contact_yps@hbp.gov.sg</a> 
