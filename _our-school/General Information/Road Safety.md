@@ -10,7 +10,6 @@ Road safety is a shared responsibility.&nbsp; Parents play an important role in 
 
 ![](/images/OUR%20SCHOOL/Schoolmap03.jpg)
 
-
 #### Driving
 
 **Driving within the school compound**<br>
