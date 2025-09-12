@@ -15,9 +15,9 @@ Health Promotion Board <br>
 Email Address: <a href="mailto:contact_yps@hbp.gov.sg">contact_yps@hbp.gov.sg</a> 
 
 ##### Dental Clinic in Nan Chiau Primary
-**Dentist Therapist:**
+**Dentist Therapist:**<br>
 Madam Han Peck Jong<br>
-**Contact Number:**
+**Contact Number:**<br>
 85334638
 
 ##### Operating Hours (During School Term)
