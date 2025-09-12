@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: General Information
 ---
 **Name of Organisation:**<br>Nan Chiau Primary School<br>
-**Address:**<br>50 Anchorvale Link, Singapore 545080
+50 Anchorvale Link, Singapore 545080
 
 #### Contact Information
 **Contact Person:** <br>Mr Winston Tan Wee Sing<br><br>
