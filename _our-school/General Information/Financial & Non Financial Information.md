@@ -6,14 +6,14 @@ variant: markdown
 third_nav_title: General Information
 ---
 **Name of Organisation:**<br>Nan Chiau Primary School<br>
-**Address:**<br>50 Anchorvale Link, Singapore 545080
+50 Anchorvale Link, Singapore 545080
 
 #### Contact Information
 **Contact Person:** <br>Mr Winston Tan Wee Sing<br><br>
-**Telephone No:** <br>6489 7905<br><br>
-**Fax No:** <br>6489 7906 <br><br>
-**Email Address:** <br>[ncps@moe.edu.sg](mailto:ncps@moe.edu.sg)  <br><br>
-**Website Address:**<br>[ncps.moe.edu.sg](http://ncps.moe.edu.sg/)
+<table border="0" style="font-size: 18px;box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 100%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255);"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 50%;"><b>Contact Number</b></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 70%;"><b>Fax Number</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 30%;">6489 7905</td><td style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 70%;">6489 7906</td></tr></tbody></table> 
+
+<table border="0" style="font-size: 18px;box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 100%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255);"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 50%;"><b>Email Address</b></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 70%;"><b>Website Address</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 30%;"><a href="mailto:ncps@moe.edu.sg" target="\_blank">ncps@moe.edu.sg</a></td><td style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 70%;"> <a href="http://ncps.moe.edu.sg/" target="\_blank">ncps.moe.edu.sg</a></td></tr></tbody></table> 
+
 
 #### Charity Status
 Nan Chiau Primary School is an Exempt Charity
