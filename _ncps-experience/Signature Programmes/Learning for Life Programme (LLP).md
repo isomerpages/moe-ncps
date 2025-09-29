@@ -1,5 +1,5 @@
 ---
-title: Lifelong Learning (LLP)
+title: Learning for Life Programme (LLP)
 permalink: /lifelong-learning-llp/
 variant: markdown
 description: ""
