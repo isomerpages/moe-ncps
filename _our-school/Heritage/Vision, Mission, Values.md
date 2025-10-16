@@ -33,7 +33,7 @@ Respect, Responsibility, Sincerity,&nbsp;Perseverance
 
 尊敬, 责任感, 诚意，毅力
 
-#### Our Three Goldern Rules
+#### Our Three Golden Rules
 We Respect Ourselves<br>
 We Respect One Another <br>
 We Respect This Place
