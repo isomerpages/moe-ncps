@@ -41,5 +41,3 @@ Through these initiatives, our students developed leadership skills, civic respo
 Start incorporating Reduce, Reuse, and Recycle into your daily routine. Together, we can create a greener, more sustainable future for our community.
 
 <img src="/images/CoCurricularActivities/Environmental%20Club/CCE12.jpg" style="width:80%">
-
-
