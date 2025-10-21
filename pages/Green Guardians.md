@@ -23,3 +23,9 @@ Our Environmental Club promotes the 3Rs — Reduce, Reuse, and Recycle — to bu
 ![](/images/CoCurricularActivities/Environmental%20Club/CCE05.jpg)
 
 **Interactive Learning (31 July):** Students set up a booth at Sengkang Community Club featuring hands-on activities including origami paper boxes made from recycled materials and recycling sorting challenges for all ages.
+
+![](/images/CoCurricularActivities/Environmental%20Club/CCE07.jpg)
+
+![](/images/CoCurricularActivities/Environmental%20Club/CCE06.jpg)
+
+**Education (7 August):** Environmental Club students shared their project with peers from other CCAs and the student care centre, inspiring fellow students to adopt sustainable practices at school and home.
