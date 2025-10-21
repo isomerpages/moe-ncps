@@ -15,3 +15,5 @@ In response to rising dengue cases in Singapore, our Environmental Club launched
 **Community Outreach:** Our students partnered with Lions Befrienders on 17 May, visiting Block 47 Owen Road to share dengue prevention tips with seniors whilst delivering food items as part of their Values-In-Action programme. 
 
 **Creative Engagement**: Students performed an entertaining educational skit using the BLOCK and SAW method, with one member creatively portraying a mosquito to deliver memorable prevention messages to the school community.
+
+![](/images/CoCurricularActivities/Environmental%20Club/CCE06.jpg)
