@@ -24,3 +24,11 @@ In response to rising dengue cases in Singapore, our Environmental Club launched
 
 
 **Peer Learning:** On 7 August, Environmental Club students shared their project with peers from other CCAs and the student care centre. This session educated fellow students about dengue dangers, the mosquito life cycle, and practical preventive measures for school and home, inspiring many to take active roles in keeping their surroundings mosquito-free.
+
+#### Making an Impact
+Through these initiatives, our students demonstrated how young people can address public health challenges whilst strengthening school-community connections and inspiring positive action.
+
+#### Join the Fight Against Dengue!
+Visit the NEA's **Mozzie Wipeout** campaign at [mozzie.gov.sg](https://www.nea.gov.sg/corporate-functions/resources/research/wolbachia-aedes-mosquito-suppression-strategy/mozzie-wipeout-campaign) to learn more about dengue prevention and how you can protect your family and community from mosquito breeding.
+
+
