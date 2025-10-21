@@ -18,5 +18,8 @@ Our Environmental Club promotes the 3Rs — Reduce, Reuse, and Recycle — to bu
 
 #### Community Outreach
 
-**Senior Engagement (12 July)**: Students partnered with Lions Befrienders, visiting Block 47 Owen Road to share 3Rs tips with residents whilst delivering food items as part of our Values-In-Action programme.
+**Senior Engagement (12 July):** Students partnered with Lions Befrienders, visiting Block 47 Owen Road to share 3Rs tips with residents whilst delivering food items as part of our Values-In-Action programme.
 
+![](/images/CoCurricularActivities/Environmental%20Club/CCE05.jpg)
+
+**Interactive Learning (31 July):** Students set up a booth at Sengkang Community Club featuring hands-on activities including origami paper boxes made from recycled materials and recycling sorting challenges for all ages.
