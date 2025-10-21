@@ -31,4 +31,4 @@ Through these initiatives, our students demonstrated how young people can addres
 #### Join the Fight Against Dengue!
 Visit the NEA's **Mozzie Wipeout** campaign at [mozzie.gov.sg](https://www.nea.gov.sg/corporate-functions/resources/research/wolbachia-aedes-mosquito-suppression-strategy/mozzie-wipeout-campaign) to learn more about dengue prevention and how you can protect your family and community from mosquito breeding.
 
-![](/images/CoCurricularActivities/Environmental%20Club/CCE09.jpg)
+<img src="/images/CoCurricularActivities/Environmental%20Club/CCE09.jpg" style="width:60%">
