@@ -34,6 +34,8 @@ Our Environmental Club promotes the 3Rs — Reduce, Reuse, and Recycle — to bu
 
 ![](/images/CoCurricularActivities/Environmental%20Club/CCE11.jpg)
 
+![](/images/CoCurricularActivities/Environmental%20Club/CCE13.jpg)
+
 #### Making an Impact
 Through these initiatives, our students developed leadership skills, civic responsibility, and became confident advocates for environmental sustainability whilst strengthening community connections.
 
