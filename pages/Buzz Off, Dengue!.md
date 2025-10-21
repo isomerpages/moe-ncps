@@ -16,4 +16,4 @@ In response to rising dengue cases in Singapore, our Environmental Club launched
 
 **Creative Engagement**: Students performed an entertaining educational skit using the BLOCK and SAW method, with one member creatively portraying a mosquito to deliver memorable prevention messages to the school community.
 
-![](/images/CoCurricularActivities/Environmental%20Club/CCE06.jpg)
+![](/images/CoCurricularActivities/Environmental%20Club/CCE08.jpg)
