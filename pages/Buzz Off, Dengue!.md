@@ -10,10 +10,17 @@ In response to rising dengue cases in Singapore, our Environmental Club launched
 
 #### Our Action
 
-**Research & Learning:** Students researched dengue transmission, breeding habitats, and prevention methods using National Environment Agency (NEA) resources and educational materials.
+**Research &amp; Learning:** Students researched dengue transmission, breeding habitats, and prevention methods using National Environment Agency (NEA) resources and educational materials.
 
 **Community Outreach:** Our students partnered with Lions Befrienders on 17 May, visiting Block 47 Owen Road to share dengue prevention tips with seniors whilst delivering food items as part of their Values-In-Action programme. 
 
 **Creative Engagement**: Students performed an entertaining educational skit using the BLOCK and SAW method, with one member creatively portraying a mosquito to deliver memorable prevention messages to the school community.
 
 ![](/images/CoCurricularActivities/Environmental%20Club/CCE08.jpg)
+
+**Public Education:** On 31 July, students set up an interactive booth outside Sengkang Community Club, engaging residents of all ages with hands-on activities and educational materials about dengue prevention and good hygiene practices.
+
+<img src="/images/CoCurricularActivities/Environmental%20Club/CCE07_jpg.png" style="width:60%">
+
+
+**Peer Learning:** On 7 August, Environmental Club students shared their project with peers from other CCAs and the student care centre. This session educated fellow students about dengue dangers, the mosquito life cycle, and practical preventive measures for school and home, inspiring many to take active roles in keeping their surroundings mosquito-free.
