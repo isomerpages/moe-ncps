@@ -3,7 +3,7 @@ title: Sports Club
 permalink: /sports-club/
 variant: markdown
 description: ""
-third_nav_title: Club and Societies
+third_nav_title: Physical Sports
 ---
 ![](/images/CoCurricularActivities/Sports%20Club/CCA_Sprotsclub01.jpg)<br>
 
