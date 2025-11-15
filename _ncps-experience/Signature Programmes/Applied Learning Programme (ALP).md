@@ -42,3 +42,8 @@ The students will:
 ![](/images/Signature%20Programmes/ALP02.jpg)
 
 ![](/images/Signature%20Programmes/ALP03.jpg)
+
+##### Robotics and Artificial Intelligence (AI) Programme
+In our school, the Robotics and Artificial Intelligence (AI) Programme uses the TEMI service robot to give students an authentic and engaging platform to apply STEM learning in real-world contexts. Through hands-on activities, students develop critical thinking, problem-solving, programming, creativity, and teamwork skills while exploring how AI and automation can improve daily life in school. TEMI also supports Design Thinking, enabling students to identify user needs and design purposeful solutions. With opportunities for senior students to mentor their juniors, the programme nurtures leadership, digital confidence, and collaboration. Ultimately, it prepares our learners to thrive in a future shaped by smart technologies and innovation.
+
+![](/images/TEMI01.jpg)

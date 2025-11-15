@@ -11,7 +11,7 @@ third_nav_title: General Information
 
 ##### Get In Touch
 
-**Contach Number:** 64897905 | 64897907<br>
+**Contact Number:** 64897905 | 64897907<br>
 **Fax Number**: 64897906<br>
 **Email Address:** [ncps@moe.edu.sg](mailto:ncps@moe.edu.sg)
 
