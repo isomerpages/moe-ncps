@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Nominate Your Teachers for PAT, OYEA and CTA 2026</strong></h1>
-<p><strong> </strong>
-</p>
+<p></p>
 <p>Take a moment to celebrate the educators who inspire, care and guide with
 a passionate heart and an unwavering dedication! If there is a teacher
 who has sparked your child's love for learning, shown unwavering care,
