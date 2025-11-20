@@ -35,6 +35,7 @@ who contribute meaningfully to our nation.</p>
 the critical role that teachers play in moulding the future of our nation.
 It pays tribute to excellent teachers who, through words and deeds, inspire
 both their students and peers.&nbsp;</p>
+<p>Nomination closing date: 9 January 2026, Friday, at 12pm.</p>
 <p>Nominate now: <a href="https://go.gov.sg/pat2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2026</a>
 </p>
 <div class="isomer-image-wrapper">
@@ -48,6 +49,7 @@ educators motivate, challenge and inspire their students to realise their
 full potential. They personify deep passion for teaching, youthful idealism,
 energy and enthusiasm, and play a critical role in moulding the future
 of the nation.&nbsp;</p>
+<p>Nomination closing date: 9 January 2026, Friday, at 12pm.</p>
 <p>Nominate now: <a href="https://go.gov.sg/oyea2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
 </p>
 <div class="isomer-image-wrapper">
