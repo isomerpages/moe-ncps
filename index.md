@@ -23,8 +23,9 @@ sections:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Nominate your teacher for
+      button: Nominate A Teacher
       image: /images/CTA2026.jpg
       alt: Image alt text
+      url: https://www.ncps.moe.edu.sg/teachers-award-nominations/
 ---
