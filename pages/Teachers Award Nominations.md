@@ -22,8 +22,7 @@ your appreciation for the difference they make every day!</p>
 the critical role that teachers play in moulding the future of our nation.
 It pays tribute to excellent teachers who, through words and deeds, inspire
 both their students and peers.&nbsp;</p>
-<p>
-<br>Nominate now: <a href="https://go.gov.sg/pat2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2026</a>
+<p>Nominate now: <a href="https://go.gov.sg/pat2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/pat2026</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PAT2025.jpg">
@@ -36,10 +35,23 @@ educators motivate, challenge and inspire their students to realise their
 full potential. They personify deep passion for teaching, youthful idealism,
 energy and enthusiasm, and play a critical role in moulding the future
 of the nation.&nbsp;</p>
+<p>Nominate now: <a href="https://go.gov.sg/oyea2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA2025.jpg">
 </div>
 <hr>
-<h2>Carin</h2>
+<h2>Caring Teacher Awards (CTA) 2026</h2>
+<p>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
+and compassion in their teaching, going beyond the call of duty to nurture
+the holistic development of their students. These dedicated teachers play
+a vital role in shaping confident, independent, and resilient learners
+who contribute meaningfully to our nation.</p>
+<p>Nomination closing date: 31 December 2025</p>
+<p>Nominate now: <a href="https://www.cta.nie.edu.sg/nominate" rel="noopener nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA2026.jpg">
+</div>
 <p></p>
