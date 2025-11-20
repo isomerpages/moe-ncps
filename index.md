@@ -20,12 +20,12 @@ sections:
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Nominate A Teacher
+      subtitle: Nominate A Teacher
       id: infopic
-      description: Nominate your teacher for
+      description: Nominate your teacher for PAT, OYEA and CTA 2026.
       button: Nominate A Teacher
       image: /images/CTA2026.jpg
-      alt: Image alt text
+      alt: Nominate A Teacher
       url: https://www.ncps.moe.edu.sg/teachers-award-nominations/
 ---
