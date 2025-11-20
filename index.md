@@ -27,5 +27,5 @@ sections:
       button: Nominate A Teacher
       image: /images/CTA2026.jpg
       alt: Nominate A Teacher
-      url: https://www.ncps.moe.edu.sg/teachers-award-nominations/
+      url: /teachers-award-nominations/
 ---
