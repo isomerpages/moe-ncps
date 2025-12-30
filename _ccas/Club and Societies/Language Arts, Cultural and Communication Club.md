@@ -1,5 +1,5 @@
 ---
-title: Language Cultural Arts and Communication Club
+title: Language Arts, Cultural and Communication Club
 permalink: /language-cultural-arts-and-communication-club/
 variant: markdown
 description: ""
