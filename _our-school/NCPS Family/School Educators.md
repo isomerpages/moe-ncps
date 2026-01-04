@@ -2,38 +2,609 @@
 title: School Educators
 permalink: /our-team/educators/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: NCPS Family
 ---
-#### Form Teachers for Primary 1
-
-
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class </b></td><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Compassion</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Madam Maslinda Binte Samuri<br>Mrs Navelen</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Courage</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Mrs Aziz–Nor Aziz Binte Jumali<br>Mr Lim Kiat Siong</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Diligence</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Mr Lim Kiang Shiang<br>Mrs Alica Wong</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Gratitude</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Regina Soh<br>Mr Adam Bin Mohamed Ali</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Integrity</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Mrs Tan Su Zhen Jasmine<br>Madam Kiu Kwee Fern</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Kindness</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Madam Muliyati Binte Kamis<br>Ms Lee Yan Ting Cheryl</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Perseverance</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Mrs Cheng Bee Leng<br>Madam Tang Zhumin</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;">1 Responsibility</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Madam Ho Ju Lee<br>Madam Chen Yan</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Respect</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Chan Wei Hao<br>Madam Nur Ain Binti Mohd Jamil</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Sincerity</td><td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Nurnazlin Binte Zainuden<br>Ms Liu Lanying</td></tr></tbody></table>
-
-
-#### Form Teachers for Primary 2
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Compassion</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Sun Fu Pei<br>Mr Ryan Williams Fernandez</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Courage</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mrs Amelia Khoo<br>Mrs Doris Tan</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Diligence</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Hu Rong<br>Mrs Song-Tan Ai Koon</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">2 Gratitude</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Joyce Chng<br>Mr Chee Sze Yeow</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Integrity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Miss Manisha Suruchand <br>Madam Chuan Ai Ling</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Kindness</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Miss Loh Cheng Ngee<br>Mrs Chua Puay Hwa</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Perseverance</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Joslyn Huang Jinling<br>Mrs Annie Ng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">2 Responsibility</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Nur Syairah Binte Mohamed Hassan<br>Ms Nur Fadzilah Binte Noor Mohd</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">2 Respect</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Miss Quah Hwee Loo<br>Madam Stella Chia Yoke Yeng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">2 Sincerity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Angela Chew<br>Miss Tang Souw Ying</td></tr></tbody></table>
-
-
-#### Form Teachers for Primary 3
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">3 Diligence</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mrs Lee-Ng Yick Kit<br>Madam Nurul Asyiqin Binte Mohamed Fadzil<br>Madam Nooraina Binte Mohammad Nasir</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">3 Gratitude</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mr Wong Soon Teck<br>Mrs Nur Khadijah Binte Zainal Ariffin</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">3 Integrity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Yap Lee Shan <br>Mr Erwin Rohman</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">3 Kindness</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mrs Fares<br>Ms Lim Yen Mei Amanda</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">3 Perseverance</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Felicia Ho Mee Li<br>Ms Ning Ning</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">3 Responsibility</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Priya D/O Jairam<br>Miss Qian Meng Meng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">3 Respect</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Tang Li Kuon<br>Madam Siti Nur Aisyah Binte Azmi</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">3 Sincerity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Ho Wah May<br>Mr Chuan Pek Chew</td></tr></tbody></table>
-
-
-#### Form Teachers for Primary 4
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">4 Diligence</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Noorkhairuniza Binte Abdul Khaliff<br>Mrs Elizabeth Wang</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">4 Gratitude</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Devi Manimaran<br>Miss Nurul Huda Binte Muhamad Jailani</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">4 Integrity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Tan Hui Mien <br>Mr Heng Liak Kia</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">4 Kindness</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Haryani Binte Idris<br>Mrs Wendy Low</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">4 Perseverance</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mrs Jessy Low<br>Miss Putri Azyan Binte Aminuddin</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">4 Responsibility</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Phua Si Lin<br>Mr Tan Swee Meng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">4 Respect</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Ms Yeo Kah Gek<br>Ms Yang Shihui Rachel</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">4 Sincerity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Ildasolha Binte Jamari<br>Mr Seah Zhijia Desmond</td></tr></tbody></table>
-
-
-#### Form Teachers for Primary 5
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">5 Diligence</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 3px;">Ms Tay Ya Mei Jasmine<br>Mr Ng Boon Yang</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">5 Gratitude</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Shirlyn Wong<br>Madam Siti Hajar Binte Abdul Jalil</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">5 Integrity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mr Jimmy Kong <br>Ms Tan Siew Ling</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">5 Kindness</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mr Belden Koh Yong Wei<br>Mrs Ang-Ng Hwee Ming Victoria</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">5 Perseverance</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Ms Sharon Tan Ken Min<br>Madam Margie Tang Tze Wei</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">5 Responsibility</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Kin–Lim Lay Choon<br>Madam Norliza Binte Ahmad</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">5 Respect</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Tan Bee Khuan Sally<br>Ms Jennifer Pang Swee May<br>Mrs Song-Chong Wei Ni</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">5 Sincerity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Tan Si Yu Elista<br>Madam Tay Loo Theng Joanne</td></tr></tbody></table>
-
-
-#### Form Teachers for Primary 6
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Class</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Form Teacher</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">6 Diligence</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 3px;">Madam Latifah Binte Abdul Aziz<br>Mrs Ng–Chua Ming Ching</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">6 Gratitude</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mr Su Weilun<br>Mr Lim Sean Yang</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">6 Integrity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Ms Pooja Rai <br>Ms Toh Zhi Bei Nelly</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">6 Kindness</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Ang Shu Hui<br>Ms Wong Sook Young Jane</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">6 Perseverance</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mrs Ong Yi Wen Yvonne<br>Madam Gan Ann Teng</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">6 Responsibility</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Ms Ong Li Woon June<br>Miss Lim Pek Wee</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">6 Respect</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Lim Seow Hwee<br>Miss Lim Khin Fung</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">6 Sincerity</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mrs Cindy Wong<br>Ms Chia Pei Yong Wendy</td></tr></tbody></table>
-
-#### Non Form Teachers
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;">Miss Lee Siok Cheng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 3px;">Madam Yeo Li Choo Lorna</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Mrs Jesslyn Chew</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Madam Tay Chor Lin</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Charmaine Chong</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Miss Pang Sheau Wei</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Mrs Tricia Ho</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Sivakamy</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Ms Sharon Chia Xiao Xuan</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Ms Tok Wei Sze Audrey </td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Nah Siew Hong Veronica</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Mr Lee Kok Hian Mark</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Ms Ng Chay Luan </td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Madam Chua Siew Lay Candy </td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Madam Sylvia Kho Shu Pei</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Mr Robin Lim Heng Hock</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Mr Mark Chang Qi Long</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Ms Chua Siew Noi </td></tr></tbody></table>
-
-
-
-#### Allied Educators
-<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Name</b></td><td border="0" style="box-sizing: inherit; padding: 5px 10px; width: 200px; height: 23px;"><b>Appointment</b></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Mrs Esther Say</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 3px;">Senior School Counsellor</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Mr Chin Yong Ann Michael</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">School Counsellor</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Ms Kathleen Sim Kah Yih</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Senior Special Educational Needs Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Miss Tan Ler Theng</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Senior Special Educational Needs Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px; height: 23px;">Ms Hamizah Binte Hamzah</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px; height: 23px;">Special Educational Needs Officer</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 326.35px;">Madam Nurdaliana Binte Mohammad Dali</td><td style="box-sizing: inherit; padding: 5px 10px; width: 337.837px;">Special Educational Needs Officer</td></tr></tbody></table>
+<h4>Form Teachers for Primary 1</h4>
+<p>Primary 1 class teachers for 2026 will be announced on 12 January 2026.</p>
+<h4>Form Teachers for Primary 2</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Compassion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Maslinda Binte Samuri
+<br>Miss Lim Pek Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Courage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kiat Siong
+<br>Mrs Song-Tan Ai Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Chng
+<br>Madam Noorkhairuniza Binte Abdul Khaliff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Regina Soh
+<br>Mr Adam Bin Mohamed Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Su Zhen Jasmine
+<br>Madam Kiu Kwee Fern</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Muliyati Binte Kamis
+<br>Ms Lee Yan Ting Cheryl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Angela Chew
+<br>Madam Tang Zhumin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Ho Ju Lee
+<br>Madam Chen Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Wei Hao
+<br>Madam Nur Ain Binti Mohd Jamil</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Nurnazlin Binte Zainuden
+<br>Ms Liu Lanying</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Form Teachers for Primary 3</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Tan Hui Mien
+<br>Madam Nurul Asyiqin Binte Mohamed Fadzil
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nurul Huda Binte Muhamad Jailani
+<br>Mr Chee Sze Yeow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Ildasolha Binte Jamari
+<br>Ms Yeo Kah Gek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Lim Seow Hwee
+<br>Mr Hong Siang Huat Jason</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Tan Hwee Tiang Rosalind
+<br>Madam Haryani Binte Idris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Manisha Suruchand
+<br>Madam Ang Shu Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Devi Manimaran
+<br>Ms Tan Siew Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Malvina Lie
+<br>Mr Chuan Pek Chew</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Form Teachers for Primary 4</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee-Ng Yick Kit
+<br>Miss Putri Azyan Binte Aminuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Soon Teck
+<br>Mrs Nur Khadijah Binte Zainal Ariffin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Zhijia Desmond
+<br>Mr Erwin Rohman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Fares
+<br>Madam Gan Ann Teng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Le Minming Ally
+<br>Madam Latifah Binte Abdul Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Priya D/O Jairam
+<br>Miss Qian Meng Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Tang Li Kuon
+<br>Madam Siti Nur Aisyah Binte Azmi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Ho Wah May
+<br>Madam Nooraina Binte Mohammad Nasir</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Form Teachers for Primary 5</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ng–Chua Ming Ching
+<br>Mdm Anna Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Sean Yang
+<br>Ms Pooja Rai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jessy Low
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Chew Jia Ying
+<br>Ms Yang Shihui Rachel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Zhi Bei Nelly
+<br>Madam Phua Si Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Hui Min Felicia
+<br>Ms Chia Pei Yong Wendy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rohman Nor Bin Suib
+<br>Ms Ong Li Woon June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ning Ning
+<br>Mrs Elizabeth Wang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Form Teachers for Primary 6</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teacher</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Ya Mei Jasmine
+<br>Mr Ng Boon Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Shirlyn Wong
+<br>Miss Loh Cheng Ngee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jimmy Kong
+<br>Madam Nor Azlin Binte Jumali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Belden Koh Yong Wei
+<br>Mr Heng Liak Kia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Perseverance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Tan Ken Min
+<br>Madam Margie Tang Tze Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Kin–Lim Lay Choon
+<br>Madam Norliza Binte Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Tan Bee Khuan Sally
+<br>Mrs Song-Chong Wei Ni</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Sincerity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Cindy Wong
+<br>Miss Lim Khin Fung</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Non Form Teachers</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tricia Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Tay Chor Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jesslyn Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madam Doris Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Charmaine Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tang Souw Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Robin Lim Heng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Song Gek Kin Lilian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Sivakamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Siok Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Yeo Li Choo Lorna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Allied Educators</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Appointment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Esther Say</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Yong Ann Michael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kathleen Sim Kah Yih</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Ler Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hamizah Binte Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Madam Nurdaliana Binte Mohammad Dali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
