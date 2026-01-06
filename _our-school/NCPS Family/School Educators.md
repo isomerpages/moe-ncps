@@ -138,8 +138,8 @@ third_nav_title: NCPS Family
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Madam Tan Hui Mien
-<br>Madam Nurul Asyiqin Binte Mohamed Fadzil
+<p>Mrs Lee-Ng Yick Kit
+<br>Ms Yeo Kah Gek
 <br>
 </p>
 </td>
@@ -159,7 +159,7 @@ third_nav_title: NCPS Family
 </td>
 <td rowspan="1" colspan="1">
 <p>Madam Ildasolha Binte Jamari
-<br>Ms Yeo Kah Gek</p>
+<br>Madam Nurul Asyiqin Binte Mohamed Fadzil</p>
 </td>
 </tr>
 <tr>
