@@ -226,4 +226,68 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 	</tbody>	
 	</table>
 	
+#### Non Form Teachers
+
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
+	<tbody style="box-sizing: inherit;">
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Mrs Tricia Ho</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Tay Chor Lin</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Mrs Jesslyn Chew</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Doris Chew</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Charmaine Chong</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Tang Souw Ying</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Mr Robin Lim Heng Hock</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Song Gek Kin Lilian</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Sivakamy</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Lee Siok Cheng</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Yeo Li Choo Lorna</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;"></td>
+		</tr>
+	</tbody>	
+	</table>
 	
+#### Allied Educators
+
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
+	<tbody style="box-sizing: inherit;">
+		<tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
+			<td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;"><b>Name</b></td>
+			<td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Appointment</b></td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Mrs Esther Say</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Senior School Counsellor</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Mr Chin Yong Ann Michael</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">School Counsellor</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Ms Kathleen Sim Kah Yih</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Senior Special Educational Needs Officer</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Miss Tan Ler Theng</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Senior Special Educational Needs Officer</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Ms Hamizah Binte Hamzah</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Special Educational Needs Officer</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Nurdaliana Binte Mohammad Dali</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Special Educational Needs Officer</td>
+		</tr>
+	</tbody>	
+	</table>
