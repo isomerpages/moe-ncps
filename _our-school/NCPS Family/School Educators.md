@@ -16,19 +16,11 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Compassion</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Maslinda Binte Samuri</td>
-		</tr>
-		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;"></td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Lim Pek Wee</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Maslinda Binte Samuri<br>Miss Lim Pek Wee</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Courage</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Lim Kiat Siong</td>
-		</tr>
-		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;"></td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Song-Tan Ai Koon</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Lim Kiat Siong<br>Mrs Song-Tan Ai Koon</td>
 		</tr>
 	</tbody>	
 	</table>
