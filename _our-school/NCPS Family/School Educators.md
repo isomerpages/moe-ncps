@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: NCPS Family
 ---
 <h2 id="top"></h2>
-Primary 1 / Primary 2 / Primary 3 / <a href="#PRI4">Primary 4</a> / <a href="#PRI5">Primary 5</a> / <a href="#PRI6">Primary 6</a> <br><a href="#NON">Non Form Teachers</a> / <a href="#AED">Allied Educators</a> 
+Primary 1 / Primary 2 / <a href="#PRI4">Primary 3</a> / <a href="#PRI4">Primary 4</a> / <a href="#PRI5">Primary 5</a> / <a href="#PRI6">Primary 6</a> <br><a href="#NON">Non Form Teachers</a> / <a href="#AED">Allied Educators</a> 
 
 #### Form Teachers for Primary 1
 Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
@@ -59,6 +59,8 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+	<a href="#top">back to top</a>
+	<h2 id="PRI3"></h2>
 	
 #### Form Teachers for Primary 3
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
