@@ -151,35 +151,35 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Diligence</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Lee-Ng Yick Kit<br>Miss Putri Azyan Binte Aminuddin</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Ng–Chua Ming Ching<br>Mdm Anna Lim</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Gratitude</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Wong Soon Teck<br>Mrs Nur Khadijah Binte Zainal Ariffin</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Lim Sean Yang<br>Ms Pooja Rai</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Integrity</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Seah Zhijia Desmond<br>Mr Erwin Rohman</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Jessy Low</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Kindness</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Fares<br>Madam Gan Ann Teng</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Chew Jia Ying<br>Ms Yang Shihui Rachel</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Perseverance</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Le Minming Ally<br>Madam Latifah Binte Abdul Aziz</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Toh Zhi Bei Nelly<br>Madam Phua Si Lin</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Responsibility</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Priya D/O Jairam<br>Miss Qian Meng Meng</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Ong Hui Min Felicia<br>Ms Chia Pei Yong Wendy</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Respect</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Tang Li Kuon<br>Madam Siti Nur Aisyah Binte Azmi</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Rohman Nor Bin Suib<br>Ms Ong Li Woon June</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Sincerity</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ho Wah May<br>Madam Nooraina Binte Mohammad Nasir</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Ning Ning<br>Mrs Elizabeth Wang</td>
 		</tr>
 	</tbody>	
 	</table>
