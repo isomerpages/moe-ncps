@@ -66,7 +66,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Diligence</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Tan Hui Mien<br>Madam Nurul Asyiqin Binte Mohamed Fadzil</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Lee-Ng Yick Kit<br>Ms Yeo Kah Gek</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Gratitude</td>
@@ -74,7 +74,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Integrity</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ildasolha Binte Jamari<br>Ms Yeo Kah Gek</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ildasolha Binte Jamari<br>Madam Nurul Asyiqin Binte Mohamed Fadzil</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Kindness</td>
@@ -252,7 +252,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Yeo Li Choo Lorna</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;"></td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Ho Sue-Lynn Larissa</td>
 		</tr>
 	</tbody>	
 	</table>
