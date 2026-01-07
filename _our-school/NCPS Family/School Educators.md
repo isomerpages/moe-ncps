@@ -5,13 +5,11 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
-<h2 id="top"></h2>
-<a href="#top">Primary 1</a> / <a href="#PRI2">Primary 2</a> / <a href="#PRI3">Primary 3</a> / <a href="#PRI4">Primary 4</a> / <a href="#PRI5">Primary 5</a> / <a href="#PRI6">Primary 6</a> <br><a href="#NON">Non Form Teachers</a> / <a href="#AED">Allied Educators</a>
+
 
 #### Form Teachers for Primary 1
 Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
-<a href="#top">back to top</a>
-	<h2 id="PRI2"></h2>
+
 #### Form Teachers for Primary 2
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
 	<tbody style="box-sizing: inherit;">
@@ -61,8 +59,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="PRI3"></h2>
+
 	
 #### Form Teachers for Primary 3
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -105,8 +102,6 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="PRI4"></h2>
 
 #### Form Teachers for Primary 4
 
@@ -150,8 +145,6 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="PRI5"></h2>
 	
 #### Form Teachers for Primary 5
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -194,8 +187,6 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="PRI6"></h2>
 	
 #### Form Teachers for Primary 6
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -238,8 +229,6 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="NON"></h2>
 	
 #### Non Form Teachers
 
@@ -279,8 +268,6 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a>
-	<h2 id="AED"></h2>
 
 #### Allied Educators
 
@@ -316,4 +303,3 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">back to top</a><h2 id="AED"></h2>
