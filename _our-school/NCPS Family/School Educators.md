@@ -22,5 +22,33 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Courage</td>
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Lim Kiat Siong<br>Mrs Song-Tan Ai Koon</td>
 		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Diligence</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Joyce Chng<br>Madam Noorkhairuniza Binte Abdul Khaliff</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Gratitude</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Regina Soh<br>Mr Adam Bin Mohamed Ali</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Integrity</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Tan Su Zhen Jasmine<br>Madam Kiu Kwee Fern</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Kindness</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Muliyati Binte Kamis<br>Ms Lee Yan Ting Cheryl</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Perseverance</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Angela Chew<br>Madam Tang Zhumin</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Responsibility</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ho Ju Lee<br>Madam Chen Yan</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">2 Responsibility</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ho Ju Lee<br>Madam Chen Yan</td>
+		</tr>
 	</tbody>	
 	</table>
