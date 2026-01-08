@@ -5,8 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
+<a href="#AED">Allied Educators</a>
 #### Form Teachers for Primary 1
 Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
+
 
 #### Form Teachers for Primary 2
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -266,6 +268,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+	<h2 id="AED">
 
 #### Allied Educators
 
@@ -300,4 +303,4 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Special Educational Needs Officer</td>
 		</tr>
 	</tbody>	
-	</table>
+	</table></h2>
