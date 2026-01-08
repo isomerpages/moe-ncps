@@ -271,7 +271,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.
 		</tr>
 	</tbody>	
 	</table>
-	<h2 id="AED"></h2>
+	<h2 id="aed"></h2>
 
 #### Allied Educators
 
