@@ -150,7 +150,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">Go to Top</a>
+<a href="#top">Go to Top</a>
 	
 #### Form Teachers for Primary 5
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -193,7 +193,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">Go to Top</a>
+<a href="#top">Go to Top</a>
 	
 #### Form Teachers for Primary 6
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -236,7 +236,8 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">Go to Top</a>
+
+<a href="#top">Go to Top</a>
 	
 #### Non Form Teachers
 
@@ -276,7 +277,8 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">Go to Top</a>
+
+<a href="#top">Go to Top</a>
 
 #### Allied Educators
 
