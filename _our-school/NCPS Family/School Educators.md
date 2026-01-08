@@ -106,7 +106,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 		</tr>
 	</tbody>	
 	</table>
-	<a href="#top">Go to Top</a>
+<a href="#top">Go to Top</a>
 
 #### Form Teachers for Primary 4
 
