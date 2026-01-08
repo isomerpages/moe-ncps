@@ -268,7 +268,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-	<h2 id="AED">
+	<h2 id="AED"></h2>
 
 #### Allied Educators
 
@@ -303,4 +303,4 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Special Educational Needs Officer</td>
 		</tr>
 	</tbody>	
-	</table></h2>
+	</table>
