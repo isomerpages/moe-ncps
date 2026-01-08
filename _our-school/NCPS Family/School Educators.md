@@ -7,7 +7,8 @@ third_nav_title: NCPS Family
 ---
 <h2 id="top"></h2>
 
-[Allied Educators](#form-teachers-for-primary-5) 
+[Primary 1](#form-teachers-for-primary-1) /  [Primary 2](#form-teachers-for-primary-2) / [Primary 3](#form-teachers-for-primary-3) / [Primary 4](#form-teachers-for-primary-4) / [Primary 5](#form-teachers-for-primary-5) / [Primary 6](#form-teachers-for-primary-6) <br>
+[Non Form Teachers](#non-form-teachers) / [Allied Educators](#allied-educators) 
 
 #### Form Teachers for Primary 1
 Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
