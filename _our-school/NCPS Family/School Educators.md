@@ -6,9 +6,9 @@ variant: markdown
 third_nav_title: NCPS Family
 ---
 <h2 id="top"></h2>
-<a href="aed">Allied Educators</a>
+<a href="#aed">Allied Educators</a>
 
-[Allied Educators](aed) 2
+[Allied Educators](#aed) 2
 
 #### Form Teachers for Primary 1
 Primary 1 class teachers for 2026 will be announced on 12 January 2026.
