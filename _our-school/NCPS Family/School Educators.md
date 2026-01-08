@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
-<h2 id="top"></h2>
 <a href="#aed">Allied Educators</a>
 
 [Allied Educators](#aed) 2
