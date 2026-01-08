@@ -59,8 +59,6 @@ third_nav_title: NCPS Family
 		</tr>
 	</tbody>	
 	</table>
-
-Primary 1 class teachers for 2026 will be announced on 12 January 2026.<br>
 <a href="#top">Go to Top</a>
 
 #### Form Teachers for Primary 2
