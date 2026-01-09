@@ -5,8 +5,61 @@ description: ""
 variant: markdown
 third_nav_title: NCPS Family
 ---
+<h2 id="top"></h2>
+
+[Primary 1](#form-teachers-for-primary-1) /  [Primary 2](#form-teachers-for-primary-2) / [Primary 3](#form-teachers-for-primary-3) / [Primary 4](#form-teachers-for-primary-4) / [Primary 5](#form-teachers-for-primary-5) / [Primary 6](#form-teachers-for-primary-6) <br>
+[Non Form Teachers](#non-form-teachers) / [Allied Educators](#allied-educators) 
+
 #### Form Teachers for Primary 1
-Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
+	<tbody style="box-sizing: inherit;">
+		<tr border="1" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
+			<td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%; height: 23px;"><b>Class</b></td>
+			<td border="0" style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%; height: 23px;"><b>Form Teacher</b></td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Compassion</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Felicia Ho Mee Li<br>Madam Sun Fu Pei</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Courage</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Nur Syairah Bte Mohamed Hassan<br>Madam Yap Lee Shan</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Diligence</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Amelia Chua Nyap Jee<br>Mrs Navelen</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Gratitude</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Wendy Low<br>Mrs Chua Puay Hwa</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Integrity</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Chuan Ai Ling<br>Ms Lim Yen Mei Amanda</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Kindness</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Quah Hwee Loo<br>Mr Ryan Williams Fernandez&gt;</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Perseverance</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Hu Rong<br>Mrs Cheng Bee Leng</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Responsibility</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Alica Wong<br>Madam Joslyn Huang Jinling</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Respect</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Ong Yi Wen Yvonne<br>Madam Chai Yoke Yeng</td>
+		</tr>
+		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Sincerity</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Annie Ng<br>Ms Wong Sook Young Jane</td>
+		</tr>
+	</tbody>	
+	</table>
+<a href="#top">Go to Top</a>
 
 #### Form Teachers for Primary 2
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -57,7 +110,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
-
+<a href="#top">Go to Top</a>
 	
 #### Form Teachers for Primary 3
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -68,7 +121,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Diligence</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Lee-Ng Yick Kit<br>Ms Yeo Kah Gek</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Tan Hui Mien<br>Ms Yeo Kah Gek</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Gratitude</td>
@@ -100,6 +153,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
 
 #### Form Teachers for Primary 4
 
@@ -143,6 +197,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
 	
 #### Form Teachers for Primary 5
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -185,6 +240,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
 	
 #### Form Teachers for Primary 6
 <table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;">
@@ -227,6 +283,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
 	
 #### Non Form Teachers
 
@@ -266,6 +323,7 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
 
 #### Allied Educators
 
@@ -301,3 +359,4 @@ Primary 1 class teachers for 2026 will be announced on 12 January 2026. <br>
 		</tr>
 	</tbody>	
 	</table>
+<a href="#top">Go to Top</a>
