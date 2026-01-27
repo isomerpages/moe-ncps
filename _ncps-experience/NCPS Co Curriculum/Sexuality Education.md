@@ -41,5 +41,5 @@ variant: markdown
 
 #### INFORMATION FOR PARENTS ####
 8.  Parents may opt their children out of Sexuality Education lessons.
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](/files/2026_Sed_Opt_Out_Form) The completed opt-out form is to be submitted by <strong><u>6/02/2026</u></strong>.
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](/files/2026_Sed_Opt_Out_Form.pdf) The completed opt-out form is to be submitted by <strong><u>6/02/2026</u></strong>.
 10.  Parents can contact the school at lim_pek_wee@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
