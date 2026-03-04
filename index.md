@@ -19,4 +19,12 @@ sections:
           url: /resources-for-teachers/
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
+  - textcards:
+      title: Announcements
+      id: textcards
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
