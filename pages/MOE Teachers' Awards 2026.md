@@ -15,5 +15,5 @@ description: ""
 ##### 3) Arif Budiman Malay Language Teacher Award 2026 (by 13 Mar):
 [Arif Budiman Malay Language Teacher Award](https://go.gov.sg/agab-2026)
 
-##### 4) Most Inspiring Tamil Teacher 2026 (by 13 Mar): 
+##### 4) Most Inspiring Tamil Teacher Award 2026 (by 13 Mar): 
 [Most Inspiring Tamil Teacher Award](https://go.gov.sg/mitt2026nominations)
