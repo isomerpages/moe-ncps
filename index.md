@@ -26,5 +26,5 @@ sections:
         - title: Card
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /moe-teachers-awards-2026/
 ---
