@@ -19,12 +19,13 @@ sections:
           url: /resources-for-teachers/
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
-  - textcards:
-      title: Announcements
-      id: textcards
-      cards:
-        - title: MOE Teachers' Awards 2026
-          description: ""
-          linktext: Learn more
-          url: https://www.ncps.moe.edu.sg/moe-teachers-awards-2026/
+  - infopic:
+      title: MOE Teachers' Awards
+      id: infopic
+      description: Nominate an Inspiring Teacher that has brought about joy and
+        improvement in your learning.
+      button: Nominate A Teacher
+      url: /moe-teachers-awards-2026/
+      image: /images/teacher.jpg
+      alt: Image alt text
 ---
