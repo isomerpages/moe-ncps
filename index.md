@@ -26,6 +26,6 @@ sections:
         improvement in your learning.
       button: Nominate A Teacher
       url: /moe-teachers-awards-2026/
-      image: /images/teacher.jpg
+      image: /images/Teacher.jpg
       alt: Image alt text
 ---
