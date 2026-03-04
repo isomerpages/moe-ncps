@@ -23,8 +23,8 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: Card
-          description: Card description
+        - title: MOE Teachers' Awards 2026
+          description: ""
           linktext: Learn more
           url: /moe-teachers-awards-2026/
 ---
