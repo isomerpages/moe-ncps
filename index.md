@@ -26,5 +26,5 @@ sections:
         - title: MOE Teachers' Awards 2026
           description: ""
           linktext: Learn more
-          url: /moe-teachers-awards-2026/
+          url: https://www.ncps.moe.edu.sg/moe-teachers-awards-2026/
 ---
