@@ -19,4 +19,13 @@ sections:
           url: /resources-for-teachers/
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
+  - infopic:
+      title: MOE Teachers' Awards
+      id: infopic
+      description: Nominate an Inspiring Teacher that has brought about joy and
+        improvement in your learning.
+      button: Nominate A Teacher
+      url: /moe-teachers-awards-2026/
+      image: /images/Teacher.jpg
+      alt: Image alt text
 ---
