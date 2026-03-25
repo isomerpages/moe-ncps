@@ -39,7 +39,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Kindness</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Quah Hwee Loo<br>Ms Goh Yan Si</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Quah Hwee Loo<br>Ms Goh Yan Si<br>Miss Manisha Suruchand</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Perseverance</td>
@@ -47,7 +47,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Responsibility</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Alica Wong<br>Madam Joslyn Huang Jinling</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Alica Wong<br>Madam Joslyn Huang Jinling<br>Madam Tan Si Yu Amelia</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">1 Respect</td>
@@ -141,7 +141,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Responsibility</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Miss Manisha Suruchand<br>Madam Ang Shu Hui</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Ang Shu Hui</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">3 Respect</td>
@@ -181,7 +181,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">4 Perseverance</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Le Minming Ally<br>Madam Latifah Binte Abdul Aziz</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Madam Nurrulhuda Binte Shaik Aminuddin<br>Madam Latifah Binte Abdul Aziz</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">4 Responsibility</td>
@@ -216,7 +216,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Integrity</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Jessy Low</td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mrs Jessy Low<br>Madam Yu Qi</td>
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">5 Kindness</td>
@@ -315,11 +315,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Nah Siew Hong (Veronica)</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Mark Chang Qi Long</td>
-		</tr>
-		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Ms Jenny Ong</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;"></td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Jenny Ong</td>
 		</tr>
 	</tbody>	
 	</table>
