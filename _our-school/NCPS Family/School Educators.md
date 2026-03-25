@@ -315,11 +315,7 @@ third_nav_title: NCPS Family
 		</tr>
 		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
 			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Madam Nah Siew Hong (Veronica)</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Mr Mark Chang Qi Long</td>
-		</tr>
-		<tr style="box-sizing: inherit; background: rgb(255, 255, 255);">
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 40%;">Ms Jenny Ong</td>
-			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;"></td>
+			<td style="border: 1px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 60%;">Ms Jenny Ong</td>
 		</tr>
 	</tbody>	
 	</table>
