@@ -10,7 +10,7 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 <br>
 <b>Nan Chiau Alumni Choir</b><br>
 1. Madam Chua Siew Lian (Graduated from Nan Chiau Girls' High School in 1996)<br>
-2. Madam Goh Soh Lian (Granduated from Nan Chiau Girls' High School in 1973)<br><br>
+2. Madam Goh Soh Lian (Graduated from Nan Chiau Girls' High School in 1973)<br><br>
 
 <div style="max-width: 560px;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
