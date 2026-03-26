@@ -25,10 +25,10 @@ Our students from Language Cultural Arts &amp; Communication Club (LCACC) were h
 
 
 <b>Nan Chiau Alumni Wushu</b><br>
-1. Low Seng Hng Ethan (Granduated from Nan Chiau Primary School in 2017)<br>
-2. Low Cheng Teng Eason (Granduated from Nan Chiau Primary School in 2019)<br>
-3. Low Yee Theng Ellie (Granduated from Nan Chiau Primary School in 2022)<br>
-4. Low Thee Then Ellyn ((Granduated from Nan Chiau Primary School in 2022)<br><br>
+1. Low Seng Hng Ethan (Graduated from Nan Chiau Primary School in 2017)<br>
+2. Low Cheng Teng Eason (Graduated from Nan Chiau Primary School in 2019)<br>
+3. Low Yee Theng Ellie (Graduated from Nan Chiau Primary School in 2022)<br>
+4. Low Thee Then Ellyn ((Graduated from Nan Chiau Primary School in 2022)<br><br>
 
 
 <div style="max-width: 560px;">
