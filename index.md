@@ -34,4 +34,11 @@ sections:
         and 2nd Runner-Up (Girls) at the 2026 National School Games.
       button: Read more
       url: /nsg-2026-wushu/
+  - infobar:
+      title: SYF 2026 Choir
+      id: infobar
+      description: Nan Chiau celebrates the Choir CCA for securing the Certificate of
+        Distinction at the 2026 Singapore Youth Festival Arts Presentation.
+      button: read more
+      url: /syf-2026-choir/
 ---
