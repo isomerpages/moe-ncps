@@ -2,5 +2,6 @@ collections:
   students-voice:
     output: true
     order:
+      - Primary 3 Learning Journey.md
       - Interview with the Alumni.md
       - P1 Orientation.md
