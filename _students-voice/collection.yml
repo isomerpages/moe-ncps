@@ -2,5 +2,5 @@ collections:
   students-voice:
     output: true
     order:
-      - P1 Orientation.md
       - Interview with the Alumni.md
+      - P1 Orientation.md
