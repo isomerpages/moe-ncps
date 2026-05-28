@@ -5,4 +5,5 @@ variant: markdown
 description: ""
 ---
 <h4>Asian Civilisation Museum</h4>
-
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 80%; height: 23px;"><img src="/images/P6ACM_2026__websize__4.jpg" style="width:100%"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td></tr></tbody></table>
+Four classes of our Primary 6 students went for to the Asian Civilisation Museum as part of their experiential learning for their cohort learning journey. The focus of this learning experience is for our students to understand the cultural and historical ties that have influence on the countries in Southeast Asia through the study of artifacts. It gives them an opportunity to explore how our cultural heritage has evolved over time, influenced by the diverse mix of cultures.
