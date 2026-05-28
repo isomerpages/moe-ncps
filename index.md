@@ -21,11 +21,16 @@ sections:
       variant: center
   - infobar:
       title: NC79 “我爱南侨”
-      subtitle: Add informational text
       id: infobar
       description: Four generations of the Nan Chiau community celebrated its
         anniversary with a homecoming lunch and an alumni gift ceremony of
         historical campus chairs.
       button: Read More
       url: /nc79/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
