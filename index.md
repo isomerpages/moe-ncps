@@ -28,9 +28,10 @@ sections:
       button: Read More
       url: /nc79/
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: NSG 2026 Wushu
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Nan Chiau celebrates the Wushu teams placing 1st Runner-Up (Boys)
+        and 2nd Runner-Up (Girls) at the 2026 National School Games.
+      button: Read more
+      url: /nsg-2026-wushu/
 ---
