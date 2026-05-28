@@ -15,5 +15,7 @@ Our teams showcased incredible skill, discipline, and grit on the mats this year
 * **Senior Girls:**&nbsp;2nd Runner-Up
 
 These victories are the result of countless hours of intense training, sweat, and unwavering dedication. The students pushed their boundaries, demonstrated true sportsmanship, and executed their routines with immense pride and precision.
+
 Thank you to the dedicated coaches, teachers, and parents for providing unwavering support and guidance throughout this journey.
+
 May the students continue to train hard, stay humble, and aim for greater heights. The entire school celebrates this magnificent success!
