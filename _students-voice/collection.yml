@@ -2,4 +2,5 @@ collections:
   students-voice:
     output: true
     order:
+      - Chinese New Year.md
       - Interview with the Alumni.md
