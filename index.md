@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
-          url: /national-day-celebrations/
+          url: /nc79/
         - title: STUDENT'S VOICE
           description: ""
           url: /interview-with-the-alumni/
