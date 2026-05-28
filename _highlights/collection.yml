@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Music Appreciation.md
       - Year of the Horse.md
