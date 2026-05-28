@@ -2,6 +2,7 @@ collections:
   students-voice:
     output: true
     order:
+      - NSG 2026 Wushu.md
       - Interview with the Alumni.md
       - Primary One Orientation.md
       - Primary Three Learning Journey.md
