@@ -8,7 +8,12 @@ description: ""
 
 Congratulations to the incredible Choir members on their outstanding performance at the 2026 Singapore Youth Festival (SYF) Arts Presentation!
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bGt0fDa66Bw?si=cABmc2K0WWCU2vYp&amp;controls=0" height="315" width="560"></iframe>
+<div style="max-width: 560px;">
+  <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+    <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bGt0fDa66Bw?">
+    </iframe>
+  </div>
+</div>
 
 The choir showcased exceptional vocal technique, harmony, and artistry on stage this year. The school is immensely proud to announce this achievement:
 
