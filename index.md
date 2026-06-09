@@ -28,10 +28,11 @@ sections:
             alumni gift.
           linktext: Learn more
           url: /nc79/
-        - title: Primary Three Learning Journey
-          description: Our P3s had a wild time exploring animal groups at the Zoo!
+        - title: Inventive Minds at Work
+          description: NCPS hosted educators to share its student-centric Innovation
+            Programme.
           linktext: Learn more
-          url: /primary-3-learning-journey/
+          url: /inventive-minds-at-work/
         - title: Total Defence Day
           description: Our students marked Total Defence Day with Navy booths and a
             blackout drill!
