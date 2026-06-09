@@ -1,0 +1,23 @@
+---
+title: Inventive Minds at Work
+permalink: /inventive-minds-at-work/
+variant: markdown
+description: ""
+---
+<h4>Teachers thrive, Students Shine</h4>
+Nan Chiau Primary School (NCPS) recently welcomed educators to an engaging post Gifted Education Conference learning journey, centred on the school’s Innovation Programme (IvP), which adopts a user-first approach to nurture every child’s unique strength and interest.<br><br>
+
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 80%; height: 23px;"><img src="/images/IVP_Sharing_2026__Web_Size__1.jpg" style="width:100%"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td></tr></tbody></table><br>
+Designed by teachers for teachers, the session offered participants a rare opportunity to observe an authentic and unscripted IvP lesson in action. Beyond structured lesson plans, educators witnessed meaningful learning moments unfold organically, from messy tables filled with purposeful work to students collaborating, persevering through challenges, and supporting one another in the process of discovery.<br><br>
+The learning journey began with a pre-lesson briefing and classroom observation, where participants gained insights into how NCPS creates learning experiences that cultivate creative confidence in students. This was followed by an introduction to the school’s Applied Learning Programme (ALP) and its focus on developing Critical, Adaptive and Inventive Thinking (CAIT).<br><br>
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 80%; height: 23px;"><img src="/images/IVP_Sharing_2026__Web_Size__2.jpg" style="width:100%"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td></tr></tbody></table><br>
+Through hands-on activities, participants experienced firsthand how NCPS teachers guide students to overcome hesitation, embrace uncertainty, and push beyond their comfort zones to generate new ideas. The activities highlighted the importance of creating safe and supportive environments where students are encouraged to take creative risks and innovate.<br><br>
+The learning journey concluded with a reflective debrief, during which educators discussed the challenges of building creative confidence in students and explored how a user-first approach can empower learners to become more curious, resilient, and inventive.
+<br><br>
+The session served as a meaningful platform for professional sharing and collaboration, reaffirming NCPS’s commitment to fostering innovation and preparing students to thrive in an ever-changing world.<br>
+<table border="0" style="font-size: 18px; box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 90%;"><tbody style="box-sizing: inherit;"><tr border="0" style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 80%; height: 23px;"><img src="/images/IVP_Sharing_2026__Web_Size__3.jpg" style="width:100%"></td><td border="0" style="border: 0px solid #eee;border-left:0px;border-right:0px;box-sizing: inherit; padding: 5px 10px; width: 10%; height: 23px;"></td></tr></tbody></table>
+<b>Teachers:</b><br>
+1. Ms Chia Pei Yong Wendy<br>
+2. Mr Jimmy Kong <br>
+3. Mr Belden Koh Yong Wei <br>
+4. Ms Ning Ning

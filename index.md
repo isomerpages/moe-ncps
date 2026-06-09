@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: HIGHLIGHTS
           description: ""
-          url: /national-day-celebrations/
+          url: /nc79/
         - title: STUDENT'S VOICE
           description: ""
           url: /interview-with-the-alumni/
@@ -19,13 +19,23 @@ sections:
           url: /resources-for-teachers/
       background: /images/Homepage/Home_Banner_2.gif
       variant: center
-  - infopic:
-      title: MOE Teachers' Awards
-      id: infopic
-      description: Nominate an Inspiring Teacher that has brought about joy and
-        improvement in your learning.
-      button: Nominate A Teacher
-      url: /moe-teachers-awards-2026/
-      image: /images/Teacher.jpg
-      alt: Image alt text
+  - textcards:
+      title: What's New
+      id: textcards
+      cards:
+        - title: NC79 “我爱南侨”
+          description: Nan Chiau’s anniversary united four generations with a historic
+            alumni gift.
+          linktext: Learn more
+          url: /nc79/
+        - title: Inventive Minds at Work
+          description: NCPS hosted educators to share its student-centric Innovation
+            Programme.
+          linktext: Learn more
+          url: /inventive-minds-at-work/
+        - title: No School Bag Day
+          description: Minister and Mayor joined students for creative learning at NSBD
+            2026.
+          linktext: Learn more
+          url: /no-school-bag-day-nsbd/
 ---
