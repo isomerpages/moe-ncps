@@ -28,13 +28,13 @@ sections:
             alumni gift.
           linktext: Learn more
           url: /nc79/
-        - title: NSG 2026 Wushu
-          description: Nan Chiau Wushu placed 1st Runner-Up(Boys) and 2nd Runner-Up(Girls).
+        - title: Primary Three Learning Journey
+          description: Our P3s had a wild time exploring animal groups at the Zoo!
           linktext: Learn more
           url: /primary-3-learning-journey/
-        - title: SYF 2026 Choir
-          description: Nan Chiau Choir secured the Certificate of Distinction at the SYF
-            2026.
+        - title: Total Defence Day
+          description: Our students marked Total Defence Day with Navy booths and a
+            blackout drill!
           linktext: Learn more
-          url: /syf-2026-choir/
+          url: /total-defence-day/
 ---
