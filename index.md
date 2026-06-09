@@ -33,9 +33,9 @@ sections:
             Programme.
           linktext: Learn more
           url: /inventive-minds-at-work/
-        - title: Total Defence Day
-          description: Our students marked Total Defence Day with Navy booths and a
-            blackout drill!
+        - title: No School Bag Day
+          description: Minister and Mayor joined students for creative learning at NSBD
+            2026.
           linktext: Learn more
-          url: /total-defence-day/
+          url: /no-school-bag-day-nsbd/
 ---
