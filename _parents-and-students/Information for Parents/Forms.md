@@ -14,7 +14,7 @@ variant: markdown
 
 #### Application for Wait List
 
-* [Application Form for Seeking Transfer/Admission](/files/Application_Form_for_Transfer_2026.pdf)
+*  <a target="\_blank" href="https://go.gov.sg/waitlistform-ncps-v2">Application Form for Seeking Transfer/Admission</a>
 
 #### Application for Leave of Absence (LOA)
 
